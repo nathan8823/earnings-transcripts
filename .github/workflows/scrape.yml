@@ -1,4 +1,4 @@
-name: Fetch Earnings Transcripts
+name: Scrape Earnings Transcripts
 
 on:
   # Run daily at 6 AM UTC (after market close for US markets)
@@ -8,21 +8,17 @@ on:
   # Allow manual trigger
   workflow_dispatch:
     inputs:
+      transcript_limit:
+        description: 'Maximum number of transcripts to scrape'
+        required: false
+        default: '10'
       tickers:
-        description: 'Comma-separated list of tickers (leave empty for all S&P 100)'
+        description: 'Comma-separated list of tickers to filter (leave empty for all)'
         required: false
         default: ''
-      latest_only:
-        description: 'Fetch only latest transcript per ticker'
-        required: false
-        default: 'true'
-        type: choice
-        options:
-          - 'true'
-          - 'false'
 
 jobs:
-  fetch:
+  scrape:
     runs-on: ubuntu-latest
 
     permissions:
@@ -45,11 +41,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Fetch transcripts
+      - name: Scrape transcripts
         env:
-          API_NINJAS_KEY: ${{ secrets.API_NINJAS_KEY }}
+          TRANSCRIPT_LIMIT: ${{ github.event.inputs.transcript_limit || '10' }}
           TICKERS: ${{ github.event.inputs.tickers }}
-          LATEST_ONLY: ${{ github.event.inputs.latest_only || 'true' }}
         run: |
           python scrape_transcripts.py
 
@@ -75,8 +70,9 @@ jobs:
 
       - name: Summary
         run: |
-          echo "## Fetch Summary" >> $GITHUB_STEP_SUMMARY
+          echo "## Scrape Summary" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "- **Date**: $(date -u +%Y-%m-%d)" >> $GITHUB_STEP_SUMMARY
+          echo "- **Source**: The Motley Fool" >> $GITHUB_STEP_SUMMARY
           echo "- **Transcripts in repo**: $(ls -1 transcripts/*.json 2>/dev/null | wc -l)" >> $GITHUB_STEP_SUMMARY
           echo "- **Changes committed**: ${{ steps.check_changes.outputs.changes }}" >> $GITHUB_STEP_SUMMARY
