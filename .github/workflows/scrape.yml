@@ -23,6 +23,7 @@ jobs:
 
     permissions:
       contents: write
+      issues: write
 
     steps:
       - name: Checkout repository
@@ -51,9 +52,16 @@ jobs:
       - name: Check for changes
         id: check_changes
         run: |
-          if [[ -n $(git status --porcelain transcripts/) ]]; then
+          NEW_FILES=$(git status --porcelain transcripts/ | grep "^??" | sed 's/^?? //' || true)
+          if [[ -n "$NEW_FILES" ]]; then
             echo "changes=true" >> $GITHUB_OUTPUT
-            echo "New transcripts found"
+            echo "New transcripts found:"
+            echo "$NEW_FILES"
+            # Save list for notification
+            echo "$NEW_FILES" > /tmp/new_transcripts.txt
+            # Extract tickers for title
+            TICKERS=$(echo "$NEW_FILES" | sed 's|transcripts/||g' | sed 's/_.*//g' | sort -u | tr '\n' ', ' | sed 's/,$//')
+            echo "tickers=$TICKERS" >> $GITHUB_OUTPUT
           else
             echo "changes=false" >> $GITHUB_OUTPUT
             echo "No new transcripts"
@@ -67,6 +75,45 @@ jobs:
           git add transcripts/
           git commit -m "Add new earnings transcripts - $(date -u +%Y-%m-%d)"
           git push
+
+      - name: Create notification issue
+        if: steps.check_changes.outputs.changes == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const newFiles = fs.readFileSync('/tmp/new_transcripts.txt', 'utf8').trim().split('\n');
+
+            // Format the transcript list
+            const transcriptList = newFiles.map(f => {
+              const name = f.replace('transcripts/', '').replace('.json', '');
+              const parts = name.split('_');
+              const ticker = parts[0];
+              const year = parts[1];
+              const quarter = parts[2];
+              return `- **${ticker}** ${quarter} ${year}`;
+            }).join('\n');
+
+            const body = `## New Earnings Transcripts Added
+
+            The following transcripts were scraped on ${new Date().toISOString().split('T')[0]}:
+
+            ${transcriptList}
+
+            **Source:** The Motley Fool
+
+            [View transcripts folder](https://github.com/${context.repo.owner}/${context.repo.repo}/tree/main/transcripts)
+
+            ---
+            *This issue was automatically created by the scraper workflow.*`;
+
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `📊 New transcripts: ${{ steps.check_changes.outputs.tickers }}`,
+              body: body,
+              labels: ['transcripts', 'automated']
+            });
 
       - name: Summary
         run: |
