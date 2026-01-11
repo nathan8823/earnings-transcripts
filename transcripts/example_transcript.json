@@ -1,0 +1,32 @@
+{
+  "ticker": "EXAMPLE",
+  "company": "Example Corporation",
+  "date": "2024-01-15",
+  "quarter": "Q4 2023",
+  "title": "Example Corporation (EXAMPLE) Q4 2023 Earnings Call Transcript",
+  "url": "https://example.com/earnings/example-q4-2023",
+  "participants": {
+    "executives": [
+      "Jane Smith - Chief Executive Officer",
+      "John Doe - Chief Financial Officer",
+      "Sarah Johnson - Head of Investor Relations"
+    ],
+    "analysts": [
+      "Michael Brown - Goldman Sachs",
+      "Emily Davis - Morgan Stanley",
+      "Robert Wilson - JP Morgan"
+    ]
+  },
+  "content": {
+    "prepared_remarks": "This is a placeholder for the prepared remarks section of the earnings call. In a real transcript, this would contain the opening statements from company executives discussing quarterly performance, revenue figures, strategic initiatives, and forward guidance.",
+    "qa_section": "This is a placeholder for the Q&A section. In a real transcript, this would contain the back-and-forth between analysts and company management, including questions about specific metrics, competitive positioning, and future outlook."
+  },
+  "metadata": {
+    "call_duration_minutes": 60,
+    "fiscal_year": 2023,
+    "fiscal_quarter": 4
+  },
+  "scraped_at": "2024-01-16T06:00:00Z",
+  "filename": "EXAMPLE_2024-01-15_abc12345.json",
+  "_note": "This is an example file showing the expected transcript structure. Delete this file or replace it with real data."
+}
