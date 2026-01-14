@@ -15,7 +15,7 @@ on:
       tickers:
         description: 'Comma-separated list of tickers to filter (leave empty for all)'
         required: false
-        default: ''
+        default: 'AAPL,MSFT,NVDA,TSLA,AMZN,GOOGL,META,JPM,AMD,NFLX,GME,AMC,PLTR,SOFI,RIVN,YETI,COIN,HOOD,RKLB,MSTR'
 
 jobs:
   scrape:
@@ -44,8 +44,8 @@ jobs:
 
       - name: Scrape transcripts
         env:
-          TRANSCRIPT_LIMIT: ${{ github.event.inputs.transcript_limit || '10' }}
-          TICKERS: ${{ github.event.inputs.tickers }}
+          TRANSCRIPT_LIMIT: ${{ github.event.inputs.transcript_limit || '20' }}
+          TICKERS: ${{ github.event.inputs.tickers || 'AAPL,MSFT,NVDA,TSLA,AMZN,GOOGL,META,JPM,AMD,NFLX,GME,AMC,PLTR,SOFI,RIVN,YETI,COIN,HOOD,RKLB,MSTR' }}
         run: |
           python scrape_transcripts.py
 
