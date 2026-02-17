@@ -118,7 +118,7 @@ class EarningsCalendarUpdater:
                     ed = cal.get("Earnings Date")
                     if isinstance(ed, list) and ed:
                         earnings_date = ed[0]
-                    elif ed is not None:
+                    elif ed is not None and not isinstance(ed, list):
                         earnings_date = ed
                     eps_estimate = cal.get("Earnings Average") or cal.get("EPS Estimate")
                     revenue_estimate = cal.get("Revenue Average") or cal.get("Revenue Estimate")
