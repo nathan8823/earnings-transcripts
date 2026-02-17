@@ -1,0 +1,81 @@
+name: Update Earnings Calendar
+
+on:
+  # Run daily at 8 AM UTC (after market close + data propagation)
+  schedule:
+    - cron: '0 8 * * *'
+
+  # Allow manual trigger
+  workflow_dispatch:
+    inputs:
+      update_tickers:
+        description: 'Refresh S&P 500 list from Wikipedia'
+        required: false
+        type: boolean
+        default: false
+      limit:
+        description: 'Limit to N tickers (for testing, leave empty for all)'
+        required: false
+        default: ''
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Update earnings calendar
+        run: |
+          ARGS=""
+          if [[ "${{ inputs.update_tickers }}" == "true" ]] || [[ ! -f calendar/sp500_tickers.json ]]; then
+            ARGS="$ARGS --update-tickers"
+          fi
+          if [[ -n "${{ inputs.limit }}" ]]; then
+            ARGS="$ARGS --limit ${{ inputs.limit }}"
+          fi
+          python scripts/update_earnings_calendar.py $ARGS
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if [[ -n "$(git status --porcelain calendar/)" ]]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add calendar/
+          git commit -m "Update earnings calendar - $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Summary
+        run: |
+          echo "## Earnings Calendar Update" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Date**: $(date -u +%Y-%m-%d)" >> $GITHUB_STEP_SUMMARY
+          echo "- **Changes committed**: ${{ steps.check_changes.outputs.changes }}" >> $GITHUB_STEP_SUMMARY
+          if [[ -f calendar/earnings_calendar.json ]]; then
+            TOTAL=$(python -c "import json; print(json.load(open('calendar/earnings_calendar.json'))['total_companies'])")
+            echo "- **Companies with earnings dates**: $TOTAL" >> $GITHUB_STEP_SUMMARY
+          fi

@@ -85,17 +85,25 @@ Files are saved as `{TICKER}_{YEAR}_Q{QUARTER}.json`:
 }
 ```
 
-## S&P 100 Coverage
+## S&P 500 Earnings Calendar
 
-The free tier includes these companies (and more):
+A daily-updated calendar of upcoming S&P 500 earnings calls.
 
-| Sector | Examples |
-|--------|----------|
-| Tech | AAPL, MSFT, GOOGL, META, NVDA, AMZN |
-| Finance | JPM, V, MA, GS, BLK |
-| Healthcare | UNH, JNJ, PFE, ABBV, MRK |
-| Energy | XOM, CVX, COP |
-| Consumer | WMT, PG, KO, MCD, NKE |
+- **[View the Calendar](calendar/EARNINGS_CALENDAR.md)** — human-readable Markdown
+- **[JSON Data](calendar/earnings_calendar.json)** — machine-readable structured data
+
+**Data source:** Yahoo Finance via [yfinance](https://pypi.org/project/yfinance/). Updated daily at 8 AM UTC by GitHub Actions.
+
+```bash
+# Run locally
+python scripts/update_earnings_calendar.py
+
+# Test with a few tickers
+python scripts/update_earnings_calendar.py --limit 10
+
+# Refresh S&P 500 list from Wikipedia
+python scripts/update_earnings_calendar.py --update-tickers
+```
 
 ## License
 

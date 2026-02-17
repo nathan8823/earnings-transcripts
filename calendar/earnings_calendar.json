@@ -1,0 +1,54 @@
+{
+  "updated_at": "2026-02-16T15:23:08.371528Z",
+  "source": "Yahoo Finance via yfinance",
+  "total_companies": 5,
+  "earnings": [
+    {
+      "ticker": "AOS",
+      "company": "A. O. Smith",
+      "sector": "Industrials",
+      "date": "2026-01-29",
+      "time": "BMO",
+      "eps_estimate": 0.96,
+      "revenue_estimate": 981772310
+    },
+    {
+      "ticker": "ACN",
+      "company": "Accenture",
+      "sector": "Information Technology",
+      "date": "2026-03-19",
+      "time": "BMO",
+      "eps_estimate": 2.85,
+      "revenue_estimate": 17799942850
+    },
+    {
+      "ticker": "ABT",
+      "company": "Abbott Laboratories",
+      "sector": "Health Care",
+      "date": "2026-04-15",
+      "time": "BMO",
+      "eps_estimate": 1.15,
+      "revenue_estimate": 10993947670
+    },
+    {
+      "ticker": "MMM",
+      "company": "3M",
+      "sector": "Industrials",
+      "date": "2026-04-21",
+      "time": "BMO",
+      "eps_estimate": 1.99,
+      "revenue_estimate": 6045681940
+    },
+    {
+      "ticker": "ABBV",
+      "company": "AbbVie",
+      "sector": "Health Care",
+      "date": "2026-05-01",
+      "time": "BMO",
+      "eps_estimate": 3.02,
+      "revenue_estimate": 14730231730
+    }
+  ],
+  "this_week": [],
+  "next_week": []
+}
