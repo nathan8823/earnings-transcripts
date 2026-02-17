@@ -22,6 +22,18 @@ TICKERS="AAPL,MSFT" python scrape_transcripts.py
 
 # Change transcript limit
 TRANSCRIPT_LIMIT=20 python scrape_transcripts.py
+
+# Update earnings calendar (all S&P 500)
+python scripts/update_earnings_calendar.py
+
+# Calendar with limited tickers (for testing)
+python scripts/update_earnings_calendar.py --limit 10
+
+# Refresh S&P 500 list from Wikipedia
+python scripts/update_earnings_calendar.py --update-tickers
+
+# Dry run (no file writes)
+python scripts/update_earnings_calendar.py --dry-run
 ```
 
 ## Architecture
@@ -58,6 +70,29 @@ TRANSCRIPT_LIMIT=20 python scrape_transcripts.py
 }
 ```
 
+## Earnings Calendar
+
+**Script**: `scripts/update_earnings_calendar.py` — fetches upcoming earnings dates for all S&P 500 companies.
+
+**EarningsCalendarUpdater class**:
+- `fetch_sp500_list()` — scrapes Wikipedia, saves `calendar/sp500_tickers.json`
+- `fetch_earnings_dates()` — queries yfinance for each ticker's next earnings date
+- `generate_json()` — writes `calendar/earnings_calendar.json` (sorted by date, with weekly buckets)
+- `generate_markdown()` — writes `calendar/EARNINGS_CALENDAR.md` (week-by-week tables)
+
+**Data source**: Yahoo Finance via yfinance (no API key needed).
+
+**Rate limiting**: 0.5s between tickers. Full run (~500 tickers) takes ~5 minutes.
+
+**Output files**:
+- `calendar/sp500_tickers.json` — S&P 500 constituent list (refresh with `--update-tickers`)
+- `calendar/earnings_calendar.json` — structured earnings data (consumed by betafinch.com)
+- `calendar/EARNINGS_CALENDAR.md` — human-readable calendar viewable on GitHub
+
+**Consumer**: The earnings-podcasts website fetches `earnings_calendar.json` from this repo's raw GitHub URL to display "Next Episode" dates on individual podcast pages (`website/src/data/earningsCalendar.ts`).
+
 ## GitHub Actions
 
-Workflow runs daily at 6 AM UTC. Manual triggers accept `transcript_limit` and `tickers` parameters.
+**scrape.yml**: Transcript scraper, daily at 6 AM UTC. Manual triggers accept `transcript_limit` and `tickers` parameters.
+
+**calendar.yml**: Earnings calendar updater, daily at 8 AM UTC. Manual trigger accepts `update_tickers` (bool) and `limit` (number) inputs.
