@@ -41,16 +41,20 @@ python scripts/update_earnings_calendar.py --dry-run
 **Single-file scraper**: `scrape_transcripts.py` contains the complete scraping logic.
 
 **MotleyFoolScraper class**:
-- `get_recent_transcripts()` - Fetches transcript URLs from the main listings page
+- `get_transcripts_from_sitemap()` - Discovers transcript URLs via `fool.com/sitemap/YYYY/MM` (checks current + previous month)
+- `_extract_ticker_from_slug()` - Extracts ticker from URL slug (e.g., `walmart-wmt-q4-2026-...` → `WMT`). Special-cases `BRK-B`.
 - `scrape_transcript()` - Parses individual transcript pages using BeautifulSoup
 - `transcript_exists()` - Deduplication via URL hash matching against existing files
 - `save_transcript()` - Stores as JSON with metadata
 
 **Data flow**:
-1. Scrape listing page at `fool.com/earnings-call-transcripts/`
-2. Extract ticker, quarter, year from title (regex pattern: `Company (TICKER) Q# YYYY`)
-3. Fetch full transcript content, separating prepared remarks from Q&A
-4. Save as `{TICKER}_{YEAR}_Q{QUARTER}_{url_hash}.json`
+1. Fetch monthly sitemaps at `fool.com/sitemap/YYYY/MM` (current + previous month)
+2. Filter URLs matching `/earnings/call-transcripts/` and extract tickers from URL slugs
+3. Filter by target ticker list (from `TICKERS` env var)
+4. Fetch full transcript content, separating prepared remarks from Q&A
+5. Save as `{TICKER}_{YEAR}_Q{QUARTER}_{url_hash}.json`
+
+**Why sitemap instead of listing page?** The listing page at `fool.com/earnings-call-transcripts/` only shows today's transcripts (~20). Transcripts from previous days are not accessible. The sitemap has ALL transcripts for the entire month.
 
 **Rate limiting**: 2-second delay between requests (`RATE_LIMIT_SECONDS`)
 

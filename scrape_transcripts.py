@@ -5,6 +5,9 @@ Earnings Call Transcript Scraper
 Scrapes earnings call transcripts from The Motley Fool and stores them as JSON files.
 Designed to run via GitHub Actions on a schedule.
 
+Uses the Motley Fool sitemap to discover transcript URLs (more reliable than
+the listing page which only shows today's transcripts).
+
 Source: https://www.fool.com/earnings-call-transcripts/
 """
 from __future__ import annotations
@@ -14,7 +17,7 @@ import os
 import re
 import time
 import hashlib
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from urllib.parse import urljoin
 
@@ -25,8 +28,12 @@ from bs4 import BeautifulSoup
 TRANSCRIPTS_DIR = Path("transcripts")
 RATE_LIMIT_SECONDS = 2  # Be respectful to the server
 BASE_URL = "https://www.fool.com"
-TRANSCRIPTS_URL = f"{BASE_URL}/earnings-call-transcripts/"
+SITEMAP_URL = f"{BASE_URL}/sitemap"
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+# Regex to extract ticker from URL slug like "walmart-wmt-q4-2026-earnings-call-transcript"
+# Matches patterns like: company-TICKER-q1-2026 or company-TICKER-earnings
+SLUG_TICKER_RE = re.compile(r'-([a-z]{1,5})-(?:q\d|earnings)', re.IGNORECASE)
 
 
 class MotleyFoolScraper:
@@ -41,78 +48,101 @@ class MotleyFoolScraper:
         })
         TRANSCRIPTS_DIR.mkdir(exist_ok=True)
 
-    def get_recent_transcripts(self, limit: int = 10) -> list[dict]:
+    def get_transcripts_from_sitemap(self, tickers: list[str] | None = None) -> list[dict]:
         """
-        Fetch list of recent transcript URLs from the main page.
+        Fetch transcript URLs from the Motley Fool sitemap.
+
+        Checks the current month's sitemap plus the previous month's sitemap
+        to catch transcripts published near month boundaries.
 
         Args:
-            limit: Maximum number of transcripts to fetch
+            tickers: Optional list of tickers to filter
 
         Returns:
-            List of dicts with 'url', 'title', 'ticker', 'date' keys
+            List of dicts with 'url', 'ticker', 'date' keys
         """
+        tickers_upper = set(t.upper() for t in tickers) if tickers else None
         transcripts = []
+        seen_urls = set()
 
-        try:
-            print(f"Fetching transcript list from {TRANSCRIPTS_URL}")
-            response = self.session.get(TRANSCRIPTS_URL)
-            response.raise_for_status()
+        now = datetime.now()
+        # Check current month and previous month
+        months_to_check = [now]
+        if now.day <= 7:
+            # Early in the month, also check previous month more thoroughly
+            prev = now.replace(day=1) - timedelta(days=1)
+            months_to_check.append(prev)
+        else:
+            prev = now.replace(day=1) - timedelta(days=1)
+            months_to_check.append(prev)
 
-            soup = BeautifulSoup(response.text, 'lxml')
+        for month_date in months_to_check:
+            sitemap_url = f"{SITEMAP_URL}/{month_date.year}/{month_date.month:02d}"
+            print(f"Fetching sitemap: {sitemap_url}")
 
-            # Find transcript links - they're in article cards
-            # The structure is typically: <a href="/earnings/call-transcripts/...">
-            all_links = soup.find_all('a', href=True)
-            links = [l for l in all_links if '/earnings/call-transcript' in l.get('href', '')]
+            try:
+                time.sleep(1)
+                response = self.session.get(sitemap_url)
+                response.raise_for_status()
 
-            # Group links by URL and prefer ones with titles
-            url_to_link = {}
-            for link in links:
-                href = link.get('href', '')
-                if not href:
-                    continue
-                title = link.get_text(strip=True)
-                # Prefer links with titles
-                if href not in url_to_link or (title and not url_to_link[href].get_text(strip=True)):
-                    url_to_link[href] = link
+                soup = BeautifulSoup(response.text, 'lxml')
 
-            for href, link in url_to_link.items():
-                if len(transcripts) >= limit:
-                    break
+                # Find all links matching transcript URL pattern
+                all_links = soup.find_all('a', href=True)
+                for link in all_links:
+                    href = link.get('href', '')
+                    if '/earnings/call-transcripts/' not in href:
+                        continue
+                    if href in seen_urls:
+                        continue
+                    seen_urls.add(href)
 
-                full_url = urljoin(BASE_URL, href)
-                title = link.get_text(strip=True)
+                    full_url = urljoin(BASE_URL, href)
 
-                # If no title, extract from URL
-                if not title:
-                    # URL like: unifirst-unf-q1-2026-earnings-call-transcript
+                    # Extract ticker from URL slug
                     slug = href.rstrip('/').split('/')[-1]
-                    title = slug.replace('-', ' ').title()
+                    ticker = self._extract_ticker_from_slug(slug)
 
-                # Try to extract ticker from title like "Apple (AAPL) Q4 2024..."
-                ticker_match = re.search(r'\(([A-Z]{1,5})\)', title)
-                ticker = ticker_match.group(1) if ticker_match else "UNKNOWN"
+                    # Filter by ticker list if provided
+                    if tickers_upper and ticker not in tickers_upper:
+                        continue
 
-                # Extract date from URL like /2024/10/31/
-                date_match = re.search(r'/(\d{4})/(\d{2})/(\d{2})/', href)
-                if date_match:
-                    date = f"{date_match.group(1)}-{date_match.group(2)}-{date_match.group(3)}"
-                else:
-                    date = datetime.now().strftime("%Y-%m-%d")
+                    # Extract date from URL
+                    date_match = re.search(r'/(\d{4})/(\d{2})/(\d{2})/', href)
+                    date = f"{date_match.group(1)}-{date_match.group(2)}-{date_match.group(3)}" if date_match else ""
 
-                transcripts.append({
-                    "url": full_url,
-                    "title": title,
-                    "ticker": ticker,
-                    "date": date
-                })
+                    transcripts.append({
+                        "url": full_url,
+                        "ticker": ticker,
+                        "date": date,
+                        "title": slug.replace('-', ' ').title(),
+                    })
 
-            print(f"Found {len(transcripts)} transcript URLs")
-            return transcripts
+                print(f"  Found {len([t for t in transcripts if t['date'].startswith(f'{month_date.year}-{month_date.month:02d}')])} transcript URLs for {month_date.strftime('%Y-%m')}")
 
-        except requests.RequestException as e:
-            print(f"Error fetching transcript list: {e}")
-            return []
+            except requests.RequestException as e:
+                print(f"  Error fetching sitemap {sitemap_url}: {e}")
+
+        print(f"Total transcript URLs found: {len(transcripts)}")
+        return transcripts
+
+    def _extract_ticker_from_slug(self, slug: str) -> str:
+        """
+        Extract ticker symbol from a URL slug.
+
+        Examples:
+            walmart-wmt-q4-2026-earnings-call-transcript -> WMT
+            analog-devices-adi-q1-2026-earnings-transcript -> ADI
+            booking-holdings-bkng-earnings-transcript -> BKNG
+            berkshire-hathaway-brk-b-q4-2025-earnings -> BRK-B
+        """
+        # Special case: BRK-B has a hyphen in the ticker
+        if 'brk-b-' in slug:
+            return "BRK-B"
+        match = SLUG_TICKER_RE.search(slug)
+        if match:
+            return match.group(1).upper()
+        return "UNKNOWN"
 
     def scrape_transcript(self, url: str) -> dict | None:
         """
@@ -151,7 +181,6 @@ class MotleyFoolScraper:
             year = int(quarter_match.group(2)) if quarter_match else None
 
             # Find the main content area
-            # Motley Fool uses <main> element containing the transcript
             content_area = soup.find('main')
             if not content_area:
                 content_area = soup.find('article')
@@ -262,31 +291,36 @@ class MotleyFoolScraper:
         print(f"Starting Motley Fool scraper at {datetime.now().isoformat()}")
         saved_files = []
 
-        # Get list of recent transcripts
-        transcript_list = self.get_recent_transcripts(limit=limit * 2)  # Get extra in case we filter
+        # Get transcript URLs from sitemap (filtered by tickers if provided)
+        transcript_list = self.get_transcripts_from_sitemap(tickers=tickers)
+
+        # Sort by date descending (newest first)
+        transcript_list.sort(key=lambda t: t.get("date", ""), reverse=True)
 
         if tickers:
-            tickers_upper = [t.upper() for t in tickers]
-            transcript_list = [t for t in transcript_list if t.get("ticker") in tickers_upper]
-            print(f"Filtered to {len(transcript_list)} transcripts for tickers: {tickers_upper}")
+            print(f"Found {len(transcript_list)} transcripts matching {len(tickers)} target tickers")
 
-        for i, item in enumerate(transcript_list[:limit]):
+        scraped = 0
+        for i, item in enumerate(transcript_list):
+            if scraped >= limit:
+                break
+
             url = item.get("url")
             if not url:
                 continue
 
-            print(f"\n[{i+1}/{min(len(transcript_list), limit)}] {item.get('title', url)[:60]}...")
-
             # Skip if already scraped
             if self.transcript_exists(url):
-                print(f"  Skipping (already exists)")
                 continue
+
+            print(f"\n[{scraped+1}/{limit}] {item.get('ticker', '???')} - {item.get('date', '???')}")
 
             # Scrape and save
             transcript = self.scrape_transcript(url)
             if transcript:
                 filepath = self.save_transcript(transcript)
                 saved_files.append(filepath)
+            scraped += 1
 
         print(f"\nScraping complete. Saved {len(saved_files)} new transcripts.")
         return saved_files
