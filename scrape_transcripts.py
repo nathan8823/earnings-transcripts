@@ -21,8 +21,12 @@ from datetime import datetime, timedelta
 from pathlib import Path
 from urllib.parse import urljoin
 
+import warnings
+
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, XMLParsedAsHTMLWarning
+
+warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
 
 # Configuration
 TRANSCRIPTS_DIR = Path("transcripts")
@@ -85,19 +89,19 @@ class MotleyFoolScraper:
                 response = self.session.get(sitemap_url)
                 response.raise_for_status()
 
-                soup = BeautifulSoup(response.text, 'lxml')
+                # Sitemap is XML with <url><loc>...</loc></url> format
+                soup = BeautifulSoup(response.text, 'lxml-xml')
 
-                # Find all links matching transcript URL pattern
-                all_links = soup.find_all('a', href=True)
-                for link in all_links:
-                    href = link.get('href', '')
+                # Find all <loc> tags containing transcript URLs
+                for loc in soup.find_all('loc'):
+                    href = loc.get_text(strip=True)
                     if '/earnings/call-transcripts/' not in href:
                         continue
                     if href in seen_urls:
                         continue
                     seen_urls.add(href)
 
-                    full_url = urljoin(BASE_URL, href)
+                    full_url = href  # Already absolute URLs in sitemap
 
                     # Extract ticker from URL slug
                     slug = href.rstrip('/').split('/')[-1]
