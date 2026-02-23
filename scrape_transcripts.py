@@ -243,12 +243,22 @@ class MotleyFoolScraper:
             title_elem = soup.find('h1')
             title = title_elem.get_text(strip=True) if title_elem else ""
 
-            # Extract ticker from title
+            # Extract ticker from title — try "(TICKER)" first, then "Company TICKER Q1"
             ticker_match = re.search(r'\(([A-Z]{1,5})\)', title)
-            ticker = ticker_match.group(1) if ticker_match else "UNKNOWN"
+            if ticker_match:
+                ticker = ticker_match.group(1)
+            else:
+                # Fallback: "Wells Fargo WFC Q4 2025 ..." or URL slug
+                bare_match = re.search(r'\b([A-Z]{2,5})\b(?:\s+Q\d|\s+Earnings)', title)
+                if bare_match:
+                    ticker = bare_match.group(1)
+                else:
+                    # Try extracting from URL: .../wells-fargo-wfc-q4-2025-...
+                    url_ticker = re.search(r'-([a-z]{1,5})-(?:q[1-4]|earnings)', url)
+                    ticker = url_ticker.group(1).upper() if url_ticker else "UNKNOWN"
 
             # Extract company name (before the ticker)
-            company_match = re.search(r'^(.+?)\s*\([A-Z]{1,5}\)', title)
+            company_match = re.search(r'^(.+?)\s*\(?[A-Z]{1,5}\)?', title)
             company = company_match.group(1).strip() if company_match else ""
 
             # Quarter/year extracted after transcript parsing (needs body for fallback)
