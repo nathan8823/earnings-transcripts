@@ -148,6 +148,78 @@ class MotleyFoolScraper:
             return match.group(1).upper()
         return "UNKNOWN"
 
+    @staticmethod
+    def _extract_quarter_year(title: str, url: str, transcript_body: str = "") -> tuple:
+        """
+        Extract fiscal quarter and year from title, transcript body, or URL date.
+
+        Strategy:
+          1. Title regex: "Q1 2026" format
+          2. Body regex: "Q1 2026" or "Q1 FY2026" in transcript text
+          3. Body ordinal: "fourth quarter" + year from context or URL
+          4. URL date heuristic: infer quarter from publication month
+
+        Returns:
+            (quarter: int|None, year: int|None)
+        """
+        ORDINAL_TO_NUM = {
+            'first': 1, 'second': 2, 'third': 3, 'fourth': 4,
+            '1st': 1, '2nd': 2, '3rd': 3, '4th': 4,
+        }
+
+        # 1. Title: "Q1 2026"
+        m = re.search(r'Q(\d)\s+(?:FY)?(\d{4})', title)
+        if m:
+            return int(m.group(1)), int(m.group(2))
+
+        # 2. Body: "Q1 2026" or "Q1 FY2026"
+        if transcript_body:
+            m = re.search(r'Q([1-4])\s+(?:FY)?(\d{4})', transcript_body[:10000])
+            if m:
+                return int(m.group(1)), int(m.group(2))
+
+        # 3. Body ordinal: "fourth quarter of 2025", "fourth-quarter 2025"
+        if transcript_body:
+            pattern = r'(?:' + '|'.join(ORDINAL_TO_NUM.keys()) + r')[\s-]+quarter\s+(?:of\s+)?(?:fiscal\s+(?:year\s+)?)?(\d{4})'
+            m = re.search(pattern, transcript_body[:10000], re.I)
+            if m:
+                ordinal = re.search(r'(' + '|'.join(ORDINAL_TO_NUM.keys()) + r')', m.group(0), re.I)
+                return ORDINAL_TO_NUM[ordinal.group(1).lower()], int(m.group(1))
+
+            # Ordinal without year — infer year from URL date
+            m_ord = re.search(r'(' + '|'.join(ORDINAL_TO_NUM.keys()) + r')[\s-]+quarter', transcript_body[:10000], re.I)
+            if m_ord:
+                q = ORDINAL_TO_NUM[m_ord.group(1).lower()]
+                # Extract publication date from URL: .../2026/02/18/...
+                url_date = re.search(r'/(\d{4})/(\d{2})/(\d{2})/', url)
+                if url_date:
+                    pub_year = int(url_date.group(1))
+                    pub_month = int(url_date.group(2))
+                    # Earnings for Q4 are typically reported in Jan-Feb of next year
+                    # Q1 in Apr-May, Q2 in Jul-Aug, Q3 in Oct-Nov
+                    if q == 4:
+                        year = pub_year - 1
+                    else:
+                        year = pub_year
+                    return q, year
+
+        # 4. URL date heuristic: infer quarter from publication month
+        url_date = re.search(r'/(\d{4})/(\d{2})/(\d{2})/', url)
+        if url_date:
+            pub_year = int(url_date.group(1))
+            pub_month = int(url_date.group(2))
+            # Most common fiscal calendar: Q4 reported Jan-Feb, Q1 Apr-May, Q2 Jul-Aug, Q3 Oct-Nov
+            if pub_month in (1, 2, 3):
+                return 4, pub_year - 1
+            elif pub_month in (4, 5, 6):
+                return 1, pub_year
+            elif pub_month in (7, 8, 9):
+                return 2, pub_year
+            else:
+                return 3, pub_year
+
+        return None, None
+
     def scrape_transcript(self, url: str) -> dict | None:
         """
         Scrape a single transcript from the given URL.
@@ -179,10 +251,7 @@ class MotleyFoolScraper:
             company_match = re.search(r'^(.+?)\s*\([A-Z]{1,5}\)', title)
             company = company_match.group(1).strip() if company_match else ""
 
-            # Extract quarter info
-            quarter_match = re.search(r'Q(\d)\s+(\d{4})', title)
-            quarter = int(quarter_match.group(1)) if quarter_match else None
-            year = int(quarter_match.group(2)) if quarter_match else None
+            # Quarter/year extracted after transcript parsing (needs body for fallback)
 
             # Find the main content area
             content_area = soup.find('main')
@@ -228,6 +297,9 @@ class MotleyFoolScraper:
             if not full_transcript or len(full_transcript) < 500:
                 print(f"  Warning: Transcript too short for {url}")
                 return None
+
+            # Extract quarter info — try title first, then body, then URL date
+            quarter, year = self._extract_quarter_year(title, url, full_transcript)
 
             return {
                 "ticker": ticker,
