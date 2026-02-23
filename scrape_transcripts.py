@@ -415,7 +415,7 @@ class MotleyFoolScraper:
 def main():
     """Entry point for the scraper."""
     # Get configuration from environment
-    limit = int(os.environ.get("TRANSCRIPT_LIMIT", 10))
+    limit = int(os.environ.get("TRANSCRIPT_LIMIT", 50))
 
     # Optional: filter to specific tickers (comma-separated)
     tickers_env = os.environ.get("TICKERS")
