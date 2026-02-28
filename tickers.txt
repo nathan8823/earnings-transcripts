@@ -5,22 +5,12 @@ MSFT
 NVDA
 TSLA
 AMZN
-GOOGL
 META
 JPM
 AMD
 NFLX
 
-# Meme Stocks
-GME
-AMC
-PLTR
-SOFI
-RIVN
-
 # Retail Favorites
 YETI
 COIN
 HOOD
-RKLB
-MSTR
