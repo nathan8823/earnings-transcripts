@@ -97,6 +97,6 @@ python scripts/update_earnings_calendar.py --dry-run
 
 ## GitHub Actions
 
-**scrape.yml**: Transcript scraper, daily at 6 AM UTC. Uses Motley Fool sitemap (`fool.com/sitemap/YYYY/MM`) to discover all transcripts for the current and previous month, filtered by target ticker list (116 tickers). On success, triggers podcast generation in `earnings-podcasts` repo via `repository_dispatch`. Manual triggers accept `transcript_limit` and `tickers` parameters.
+**scrape.yml**: Transcript scraper, runs twice daily at 6 AM UTC (catches AMC transcripts from prior evening) and 8 PM UTC (catches same-day BMO transcripts — ~63% of calls). Uses Motley Fool sitemap (`fool.com/sitemap/YYYY/MM`) to discover all transcripts for the current and previous month, filtered by target ticker list (~98 SP100 tickers + YETI). Concurrency group prevents overlapping runs. On success, triggers podcast generation in `earnings-podcasts` repo via `repository_dispatch`. Manual triggers accept `transcript_limit` and `tickers` parameters.
 
 **calendar.yml**: Earnings calendar updater, daily at 8 AM UTC. Manual trigger accepts `update_tickers` (bool) and `limit` (number) inputs.
