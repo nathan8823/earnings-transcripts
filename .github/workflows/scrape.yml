@@ -81,12 +81,35 @@ jobs:
 
       - name: Trigger podcast generation
         if: steps.check_changes.outputs.changes == 'true'
+        env:
+          PODCAST_REPO_TOKEN: ${{ secrets.PODCAST_REPO_TOKEN }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: |
-          curl -s -X POST \
-            -H "Authorization: token ${{ secrets.PODCAST_REPO_TOKEN }}" \
+          # NOTE: Check HTTP status to detect expired/revoked PAT immediately.
+          # Without this, dispatch failures are silent — the podcast pipeline
+          # simply never runs and nobody notices (caused a 5-day outage Feb 26).
+          HTTP_STATUS=$(curl -s -o /tmp/dispatch_response.txt -w "%{http_code}" \
+            -X POST \
+            -H "Authorization: token $PODCAST_REPO_TOKEN" \
             -H "Accept: application/vnd.github.v3+json" \
             https://api.github.com/repos/nathan8823/earnings-podcasts/dispatches \
-            -d "{\"event_type\": \"new-transcripts\", \"client_payload\": {\"tickers\": \"${{ steps.check_changes.outputs.tickers }}\"}}"
+            -d "{\"event_type\": \"new-transcripts\", \"client_payload\": {\"tickers\": \"${{ steps.check_changes.outputs.tickers }}\"}}")
+          if [ "$HTTP_STATUS" = "204" ]; then
+            echo "Dispatch successful (HTTP 204)"
+          else
+            echo "::error::Dispatch failed with HTTP $HTTP_STATUS"
+            cat /tmp/dispatch_response.txt
+            if [ -n "$NTFY_TOPIC" ]; then
+              curl -s \
+                -H "Title: Beta Finch: Dispatch Failed" \
+                -H "Priority: 5" \
+                -H "Tags: rotating_light,key" \
+                -H "Click: https://github.com/settings/personal-access-tokens" \
+                -d "Cross-repo dispatch failed with HTTP $HTTP_STATUS. PODCAST_REPO_TOKEN may be expired. Tickers: ${{ steps.check_changes.outputs.tickers }}" \
+                "https://ntfy.sh/$NTFY_TOPIC"
+            fi
+            exit 1
+          fi
 
       - name: Create notification issue
         if: steps.check_changes.outputs.changes == 'true'
