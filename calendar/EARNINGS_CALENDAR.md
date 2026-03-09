@@ -1,13 +1,7 @@
 # S&P 500 Earnings Calendar
-> Last updated: Mar 08, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Mar 09, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
-## This Week (Mar 02–Mar 08)
-| Date | Time | Ticker | Company | Est. EPS |
-|------|------|--------|---------|----------|
-| Mar 03 | AMC | CRWD | CrowdStrike | $1.07 |
-| Mar 05 | BMO | KR | Kroger | $1.58 |
-
-## Next Week (Mar 09–Mar 15)
+## This Week (Mar 09–Mar 15)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Mar 09 | AMC | HPE | Hewlett Packard Enterprise | $0.59 |
@@ -18,7 +12,7 @@
 | Mar 12 | AMC | LEN | Lennar | $0.95 |
 | Mar 12 | AMC | ULTA | Ulta Beauty | $7.98 |
 
-## Later (Mar 16+)
+## Next Week (Mar 16–Mar 22)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Mar 16 | BMO | DLTR | Dollar Tree | $2.53 |
@@ -27,10 +21,14 @@
 | Mar 18 | BMO | JBL | Jabil | $2.49 |
 | Mar 18 | AMC | MU | Micron Technology | $8.58 |
 | Mar 18 | BMO | WSM | Williams-Sonoma, Inc. | $2.90 |
-| Mar 19 | BMO | ACN | Accenture | $2.86 |
+| Mar 19 | BMO | ACN | Accenture | $2.85 |
 | Mar 19 | BMO | CCL | Carnival | $0.18 |
 | Mar 19 | BMO | DRI | Darden Restaurants | $2.95 |
 | Mar 19 | AMC | FDX | FedEx | $4.08 |
+
+## Later (Mar 23+)
+| Date | Time | Ticker | Company | Est. EPS |
+|------|------|--------|---------|----------|
 | Mar 25 | BMO | CTAS | Cintas | $1.23 |
 | Mar 26 | BMO | PAYX | Paychex | $1.67 |
 | Mar 31 | BMO | FDS | FactSet | $4.37 |
@@ -261,7 +259,7 @@
 | Apr 29 | AMC | MAA | Mid-America Apartment Communities | — |
 | Apr 29 | AMC | MET | MetLife | $2.20 |
 | Apr 29 | AMC | META | Meta Platforms | $6.73 |
-| Apr 29 | AMC | MGM | MGM Resorts | $0.60 |
+| Apr 29 | AMC | MGM | MGM Resorts | $0.59 |
 | Apr 29 | BMO | MLM | Martin Marietta Materials | $1.97 |
 | Apr 29 | AMC | MSFT | Microsoft | $4.06 |
 | Apr 29 | AMC | PRU | Prudential Financial | $3.36 |
@@ -405,7 +403,7 @@
 | May 05 | BMO | XYL | Xylem Inc. | $1.08 |
 | May 05 | BMO | ZTS | Zoetis | $1.62 |
 | May 06 | BMO | AEP | American Electric Power | $1.57 |
-| May 06 | AMC | APA | APA Corporation | $0.54 |
+| May 06 | AMC | APA | APA Corporation | $0.55 |
 | May 06 | AMC | APP | AppLovin | $3.64 |
 | May 06 | AMC | ATO | Atmos Energy | $3.34 |
 | May 06 | AMC | AXON | Axon Enterprise | $1.60 |
@@ -492,7 +490,7 @@
 | May 20 | BMO | TJX | TJX Companies | $1.01 |
 | May 21 | BMO | ADI | Analog Devices | $2.90 |
 | May 21 | AMC | ADSK | Autodesk | $2.84 |
-| May 21 | AMC | CPRT | Copart | $0.41 |
+| May 21 | TBD | CPRT | Copart | $0.41 |
 | May 21 | BMO | DE | Deere & Company | $5.80 |
 | May 21 | AMC | DECK | Deckers Brands | $0.82 |
 | May 21 | AMC | INTU | Intuit | $12.55 |
