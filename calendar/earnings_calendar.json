@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-12T09:02:36.729618Z",
+  "updated_at": "2026-03-13T08:59:36.597423Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 503,
   "earnings": [
@@ -22,15 +22,6 @@
       "revenue_estimate": 45295178580
     },
     {
-      "ticker": "CPB",
-      "company": "Campbell's Company (The)",
-      "sector": "Consumer Staples",
-      "date": "2026-03-11",
-      "time": "BMO",
-      "eps_estimate": 0.55,
-      "revenue_estimate": 2399832000
-    },
-    {
       "ticker": "ADBE",
       "company": "Adobe Inc.",
       "sector": "Information Technology",
@@ -45,8 +36,8 @@
       "sector": "Consumer Staples",
       "date": "2026-03-12",
       "time": "BMO",
-      "eps_estimate": 1.64,
-      "revenue_estimate": 10824425120
+      "eps_estimate": 1.98,
+      "revenue_estimate": 10897549150
     },
     {
       "ticker": "LEN",
@@ -108,8 +99,8 @@
       "sector": "Information Technology",
       "date": "2026-03-18",
       "time": "AMC",
-      "eps_estimate": 8.59,
-      "revenue_estimate": 19100608630
+      "eps_estimate": 8.6,
+      "revenue_estimate": 19114361960
     },
     {
       "ticker": "WSM",
@@ -886,6 +877,15 @@
       "revenue_estimate": 12650968360
     },
     {
+      "ticker": "GEV",
+      "company": "GE Vernova",
+      "sector": "Industrials",
+      "date": "2026-04-22",
+      "time": "BMO",
+      "eps_estimate": 1.66,
+      "revenue_estimate": 9235868520
+    },
+    {
       "ticker": "IBM",
       "company": "IBM",
       "sector": "Information Technology",
@@ -1301,7 +1301,7 @@
       "company": "PepsiCo",
       "sector": "Consumer Staples",
       "date": "2026-04-23",
-      "time": "BMO",
+      "time": "TBD",
       "eps_estimate": 1.54,
       "revenue_estimate": 18891908640
     },
@@ -1851,7 +1851,7 @@
       "date": "2026-04-28",
       "time": "BMO",
       "eps_estimate": 0.41,
-      "revenue_estimate": 9086524370
+      "revenue_estimate": 9087773430
     },
     {
       "ticker": "SHW",
@@ -2034,15 +2034,6 @@
       "revenue_estimate": 5410699030
     },
     {
-      "ticker": "CVS",
-      "company": "CVS Health",
-      "sector": "Health Care",
-      "date": "2026-04-29",
-      "time": "BMO",
-      "eps_estimate": 2.23,
-      "revenue_estimate": 95662062380
-    },
-    {
       "ticker": "EBAY",
       "company": "eBay Inc.",
       "sector": "Consumer Discretionary",
@@ -2106,15 +2097,6 @@
       "revenue_estimate": 5026106380
     },
     {
-      "ticker": "GEV",
-      "company": "GE Vernova",
-      "sector": "Industrials",
-      "date": "2026-04-29",
-      "time": "BMO",
-      "eps_estimate": 1.66,
-      "revenue_estimate": 9235868520
-    },
-    {
       "ticker": "GL",
       "company": "Globe Life",
       "sector": "Financials",
@@ -2175,7 +2157,7 @@
       "date": "2026-04-29",
       "time": "AMC",
       "eps_estimate": 0.15,
-      "revenue_estimate": 687580710
+      "revenue_estimate": 687508120
     },
     {
       "ticker": "ITW",
@@ -3081,8 +3063,8 @@
       "sector": "Energy",
       "date": "2026-05-01",
       "time": "BMO",
-      "eps_estimate": 0.61,
-      "revenue_estimate": 8884767420
+      "eps_estimate": 0.59,
+      "revenue_estimate": 8825261480
     },
     {
       "ticker": "TROW",
@@ -3603,6 +3585,15 @@
       "time": "AMC",
       "eps_estimate": 1.53,
       "revenue_estimate": 6023293820
+    },
+    {
+      "ticker": "CVS",
+      "company": "CVS Health",
+      "sector": "Health Care",
+      "date": "2026-05-06",
+      "time": "BMO",
+      "eps_estimate": 2.23,
+      "revenue_estimate": 95662062380
     },
     {
       "ticker": "DIS",
@@ -4187,15 +4178,6 @@
       "revenue_estimate": 1557539750
     },
     {
-      "ticker": "WMT",
-      "company": "Walmart",
-      "sector": "Consumer Staples",
-      "date": "2026-05-14",
-      "time": "BMO",
-      "eps_estimate": 0.66,
-      "revenue_estimate": 172219029380
-    },
-    {
       "ticker": "Q",
       "company": "Qnity Electronics",
       "sector": "Information Technology",
@@ -4247,7 +4229,7 @@
       "date": "2026-05-20",
       "time": "AMC",
       "eps_estimate": 1.77,
-      "revenue_estimate": 78549228670
+      "revenue_estimate": 78723297950
     },
     {
       "ticker": "PANW",
@@ -4358,6 +4340,15 @@
       "revenue_estimate": 2516010530
     },
     {
+      "ticker": "WMT",
+      "company": "Walmart",
+      "sector": "Consumer Staples",
+      "date": "2026-05-21",
+      "time": "BMO",
+      "eps_estimate": 0.66,
+      "revenue_estimate": 172219029380
+    },
+    {
       "ticker": "AZO",
       "company": "AutoZone",
       "sector": "Consumer Discretionary",
@@ -4425,7 +4416,7 @@
       "company": "Cooper Companies (The)",
       "sector": "Health Care",
       "date": "2026-05-28",
-      "time": "AMC",
+      "time": "TBD",
       "eps_estimate": 1.1,
       "revenue_estimate": 1053681320
     },
@@ -4502,6 +4493,15 @@
       "revenue_estimate": 1502842680
     },
     {
+      "ticker": "CPB",
+      "company": "Campbell's Company (The)",
+      "sector": "Consumer Staples",
+      "date": "2026-06-08",
+      "time": "BMO",
+      "eps_estimate": 0.55,
+      "revenue_estimate": 2399832000
+    },
+    {
       "ticker": "CRWD",
       "company": "CrowdStrike",
       "sector": "Information Technology",
@@ -4522,15 +4522,6 @@
   ],
   "this_week": [
     {
-      "ticker": "CPB",
-      "company": "Campbell's Company (The)",
-      "sector": "Consumer Staples",
-      "date": "2026-03-11",
-      "time": "BMO",
-      "eps_estimate": 0.55,
-      "revenue_estimate": 2399832000
-    },
-    {
       "ticker": "ADBE",
       "company": "Adobe Inc.",
       "sector": "Information Technology",
@@ -4545,8 +4536,8 @@
       "sector": "Consumer Staples",
       "date": "2026-03-12",
       "time": "BMO",
-      "eps_estimate": 1.64,
-      "revenue_estimate": 10824425120
+      "eps_estimate": 1.98,
+      "revenue_estimate": 10897549150
     },
     {
       "ticker": "LEN",
@@ -4610,8 +4601,8 @@
       "sector": "Information Technology",
       "date": "2026-03-18",
       "time": "AMC",
-      "eps_estimate": 8.59,
-      "revenue_estimate": 19100608630
+      "eps_estimate": 8.6,
+      "revenue_estimate": 19114361960
     },
     {
       "ticker": "WSM",
