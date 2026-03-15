@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: Mar 14, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Mar 15, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Mar 09–Mar 15)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -302,7 +302,7 @@
 | Apr 30 | BMO | HII | Huntington Ingalls Industries | $3.78 |
 | Apr 30 | AMC | HOLX | Hologic | $1.05 |
 | Apr 30 | BMO | HSY | Hershey Company (The) | $2.04 |
-| Apr 30 | BMO | HUBB | Hubbell Incorporated | $3.88 |
+| Apr 30 | BMO | HUBB | Hubbell Incorporated | $3.86 |
 | Apr 30 | BMO | HWM | Howmet Aerospace | $1.11 |
 | Apr 30 | BMO | ICE | Intercontinental Exchange | $1.95 |
 | Apr 30 | BMO | IDXX | Idexx Laboratories | $3.43 |
@@ -351,7 +351,7 @@
 | May 01 | BMO | TROW | T. Rowe Price | $2.43 |
 | May 01 | BMO | XOM | ExxonMobil | $1.64 |
 | May 02 | AMC | BRK-B | Berkshire Hathaway | $5.13 |
-| May 04 | TBD | CMI | Cummins | $5.68 |
+| May 04 | BMO | CMI | Cummins | $5.68 |
 | May 04 | AMC | CTRA | Coterra | $0.74 |
 | May 04 | AMC | DVA | DaVita | $2.32 |
 | May 04 | AMC | FANG | Diamondback Energy | $2.55 |

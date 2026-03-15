@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-14T08:52:09.386806Z",
+  "updated_at": "2026-03-15T08:53:31.618425Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 503,
   "earnings": [
@@ -2443,7 +2443,7 @@
       "date": "2026-04-30",
       "time": "BMO",
       "eps_estimate": 1.64,
-      "revenue_estimate": 5044901710
+      "revenue_estimate": 5046166710
     },
     {
       "ticker": "BAX",
@@ -2631,8 +2631,8 @@
       "sector": "Industrials",
       "date": "2026-04-30",
       "time": "BMO",
-      "eps_estimate": 3.88,
-      "revenue_estimate": 1498629120
+      "eps_estimate": 3.86,
+      "revenue_estimate": 1498810940
     },
     {
       "ticker": "HWM",
@@ -3071,7 +3071,7 @@
       "company": "Cummins",
       "sector": "Industrials",
       "date": "2026-05-04",
-      "time": "TBD",
+      "time": "BMO",
       "eps_estimate": 5.68,
       "revenue_estimate": 8333460520
     },
@@ -3988,7 +3988,7 @@
       "date": "2026-05-07",
       "time": "AMC",
       "eps_estimate": 0.58,
-      "revenue_estimate": 1620994910
+      "revenue_estimate": 1618423850
     },
     {
       "ticker": "TPR",
