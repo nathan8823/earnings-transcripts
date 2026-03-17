@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: Mar 16, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Mar 17, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Mar 16–Mar 22)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -8,7 +8,7 @@
 | Mar 17 | AMC | LULU | Lululemon Athletica | $4.77 |
 | Mar 18 | BMO | GIS | General Mills | $0.73 |
 | Mar 18 | BMO | JBL | Jabil | $2.51 |
-| Mar 18 | AMC | MU | Micron Technology | $8.66 |
+| Mar 18 | AMC | MU | Micron Technology | $8.65 |
 | Mar 18 | BMO | WSM | Williams-Sonoma, Inc. | $2.90 |
 | Mar 19 | BMO | ACN | Accenture | $2.84 |
 | Mar 19 | BMO | CCL | Carnival | $0.18 |
@@ -39,7 +39,6 @@
 | Apr 14 | AMC | JBHT | J.B. Hunt | $1.45 |
 | Apr 14 | BMO | JNJ | Johnson & Johnson | $2.69 |
 | Apr 14 | BMO | JPM | JPMorgan Chase | $5.50 |
-| Apr 14 | AMC | UAL | United Airlines Holdings | $1.15 |
 | Apr 14 | BMO | WFC | Wells Fargo | $1.58 |
 | Apr 15 | BMO | ABT | Abbott Laboratories | $1.15 |
 | Apr 15 | BMO | BAC | Bank of America | $1.00 |
@@ -88,11 +87,11 @@
 | Apr 21 | BMO | NTRS | Northern Trust | $2.25 |
 | Apr 21 | BMO | NVR | NVR, Inc. | $78.59 |
 | Apr 21 | AMC | OMC | Omnicom Group | $1.87 |
-| Apr 21 | AMC | PKG | Packaging Corporation of America | $2.17 |
 | Apr 21 | BMO | PNR | Pentair | $1.17 |
 | Apr 21 | BMO | RTX | RTX Corporation | $1.51 |
 | Apr 21 | BMO | SYF | Synchrony Financial | $2.04 |
 | Apr 21 | AMC | TSLA | Tesla, Inc. | $0.40 |
+| Apr 21 | AMC | UAL | United Airlines Holdings | $1.15 |
 | Apr 22 | BMO | AVY | Avery Dennison | $2.42 |
 | Apr 22 | BMO | BA | Boeing | $-0.38 |
 | Apr 22 | BMO | BSX | Boston Scientific | $0.79 |
@@ -110,11 +109,12 @@
 | Apr 22 | AMC | LVS | Las Vegas Sands | $0.76 |
 | Apr 22 | AMC | MOH | Molina Healthcare | $2.42 |
 | Apr 22 | BMO | NEE | NextEra Energy | $0.94 |
-| Apr 22 | AMC | NEM | Newmont | $2.07 |
+| Apr 22 | AMC | NEM | Newmont | $2.17 |
 | Apr 22 | AMC | NOW | ServiceNow | $0.97 |
 | Apr 22 | BMO | ODFL | Old Dominion | $1.03 |
 | Apr 22 | AMC | ORLY | O’Reilly Automotive | $0.70 |
 | Apr 22 | BMO | OTIS | Otis Worldwide | $0.95 |
+| Apr 22 | AMC | PKG | Packaging Corporation of America | $2.17 |
 | Apr 22 | BMO | PM | Philip Morris International | $1.84 |
 | Apr 22 | AMC | RJF | Raymond James Financial | $2.89 |
 | Apr 22 | BMO | STLD | Steel Dynamics | $3.24 |

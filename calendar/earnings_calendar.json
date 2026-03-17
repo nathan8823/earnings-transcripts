@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-16T09:13:25.331545Z",
+  "updated_at": "2026-03-17T09:09:08.407931Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 503,
   "earnings": [
@@ -72,8 +72,8 @@
       "sector": "Information Technology",
       "date": "2026-03-18",
       "time": "AMC",
-      "eps_estimate": 8.66,
-      "revenue_estimate": 19181608930
+      "eps_estimate": 8.65,
+      "revenue_estimate": 19198809250
     },
     {
       "ticker": "WSM",
@@ -272,15 +272,6 @@
       "time": "BMO",
       "eps_estimate": 5.5,
       "revenue_estimate": 48483577190
-    },
-    {
-      "ticker": "UAL",
-      "company": "United Airlines Holdings",
-      "sector": "Industrials",
-      "date": "2026-04-14",
-      "time": "AMC",
-      "eps_estimate": 1.15,
-      "revenue_estimate": 14146628510
     },
     {
       "ticker": "WFC",
@@ -715,15 +706,6 @@
       "revenue_estimate": 5454685320
     },
     {
-      "ticker": "PKG",
-      "company": "Packaging Corporation of America",
-      "sector": "Materials",
-      "date": "2026-04-21",
-      "time": "AMC",
-      "eps_estimate": 2.17,
-      "revenue_estimate": 2397173550
-    },
-    {
       "ticker": "PNR",
       "company": "Pentair",
       "sector": "Industrials",
@@ -758,6 +740,15 @@
       "time": "AMC",
       "eps_estimate": 0.4,
       "revenue_estimate": 23101206140
+    },
+    {
+      "ticker": "UAL",
+      "company": "United Airlines Holdings",
+      "sector": "Industrials",
+      "date": "2026-04-21",
+      "time": "AMC",
+      "eps_estimate": 1.15,
+      "revenue_estimate": 14146628510
     },
     {
       "ticker": "AVY",
@@ -918,7 +909,7 @@
       "sector": "Materials",
       "date": "2026-04-22",
       "time": "AMC",
-      "eps_estimate": 2.07,
+      "eps_estimate": 2.17,
       "revenue_estimate": 6800329270
     },
     {
@@ -956,6 +947,15 @@
       "time": "BMO",
       "eps_estimate": 0.95,
       "revenue_estimate": 3546692100
+    },
+    {
+      "ticker": "PKG",
+      "company": "Packaging Corporation of America",
+      "sector": "Materials",
+      "date": "2026-04-22",
+      "time": "AMC",
+      "eps_estimate": 2.17,
+      "revenue_estimate": 2397173550
     },
     {
       "ticker": "PM",
@@ -1063,7 +1063,7 @@
       "date": "2026-04-23",
       "time": "BMO",
       "eps_estimate": 3.96,
-      "revenue_estimate": 18591210810
+      "revenue_estimate": 18591240180
     },
     {
       "ticker": "CBRE",
@@ -1644,7 +1644,7 @@
       "date": "2026-04-28",
       "time": "AMC",
       "eps_estimate": 3.47,
-      "revenue_estimate": 2861392550
+      "revenue_estimate": 2845983410
     },
     {
       "ticker": "EXR",
@@ -3037,7 +3037,7 @@
       "date": "2026-05-01",
       "time": "BMO",
       "eps_estimate": 0.58,
-      "revenue_estimate": 8790169740
+      "revenue_estimate": 8777011850
     },
     {
       "ticker": "TROW",
@@ -4563,8 +4563,8 @@
       "sector": "Information Technology",
       "date": "2026-03-18",
       "time": "AMC",
-      "eps_estimate": 8.66,
-      "revenue_estimate": 19181608930
+      "eps_estimate": 8.65,
+      "revenue_estimate": 19198809250
     },
     {
       "ticker": "WSM",
