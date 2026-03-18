@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-17T09:09:08.407931Z",
+  "updated_at": "2026-03-18T09:08:29.245692Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 503,
   "earnings": [
@@ -31,22 +31,13 @@
       "revenue_estimate": 8105968300
     },
     {
-      "ticker": "DLTR",
-      "company": "Dollar Tree",
-      "sector": "Consumer Staples",
-      "date": "2026-03-16",
-      "time": "BMO",
-      "eps_estimate": 2.53,
-      "revenue_estimate": 5464813170
-    },
-    {
       "ticker": "LULU",
       "company": "Lululemon Athletica",
       "sector": "Consumer Discretionary",
       "date": "2026-03-17",
       "time": "AMC",
-      "eps_estimate": 4.77,
-      "revenue_estimate": 3577050550
+      "eps_estimate": 2.07,
+      "revenue_estimate": 2477667080
     },
     {
       "ticker": "GIS",
@@ -94,15 +85,6 @@
       "revenue_estimate": 17830754090
     },
     {
-      "ticker": "CCL",
-      "company": "Carnival",
-      "sector": "Consumer Discretionary",
-      "date": "2026-03-19",
-      "time": "BMO",
-      "eps_estimate": 0.18,
-      "revenue_estimate": 6133183940
-    },
-    {
       "ticker": "DRI",
       "company": "Darden Restaurants",
       "sector": "Consumer Discretionary",
@@ -137,6 +119,15 @@
       "time": "BMO",
       "eps_estimate": 1.67,
       "revenue_estimate": 1779753590
+    },
+    {
+      "ticker": "CCL",
+      "company": "Carnival",
+      "sector": "Consumer Discretionary",
+      "date": "2026-03-27",
+      "time": "BMO",
+      "eps_estimate": 0.18,
+      "revenue_estimate": 6133183940
     },
     {
       "ticker": "FDS",
@@ -409,6 +400,15 @@
       "revenue_estimate": 12163871010
     },
     {
+      "ticker": "PEP",
+      "company": "PepsiCo",
+      "sector": "Consumer Staples",
+      "date": "2026-04-16",
+      "time": "BMO",
+      "eps_estimate": 1.54,
+      "revenue_estimate": 18891908640
+    },
+    {
       "ticker": "PLD",
       "company": "Prologis",
       "sector": "Real Estate",
@@ -454,15 +454,6 @@
       "revenue_estimate": 11107666670
     },
     {
-      "ticker": "UNH",
-      "company": "UnitedHealth Group",
-      "sector": "Health Care",
-      "date": "2026-04-16",
-      "time": "BMO",
-      "eps_estimate": 6.84,
-      "revenue_estimate": 109839368640
-    },
-    {
       "ticker": "USB",
       "company": "U.S. Bancorp",
       "sector": "Financials",
@@ -497,6 +488,15 @@
       "time": "BMO",
       "eps_estimate": 1.0,
       "revenue_estimate": 5178072050
+    },
+    {
+      "ticker": "STLD",
+      "company": "Steel Dynamics",
+      "sector": "Materials",
+      "date": "2026-04-20",
+      "time": "AMC",
+      "eps_estimate": 3.24,
+      "revenue_estimate": 5108906300
     },
     {
       "ticker": "WRB",
@@ -751,6 +751,15 @@
       "revenue_estimate": 14146628510
     },
     {
+      "ticker": "UNH",
+      "company": "UnitedHealth Group",
+      "sector": "Health Care",
+      "date": "2026-04-21",
+      "time": "BMO",
+      "eps_estimate": 6.84,
+      "revenue_estimate": 109839368640
+    },
+    {
       "ticker": "AVY",
       "company": "Avery Dennison",
       "sector": "Materials",
@@ -794,15 +803,6 @@
       "time": "BMO",
       "eps_estimate": 3.06,
       "revenue_estimate": 1734500940
-    },
-    {
-      "ticker": "CMG",
-      "company": "Chipotle Mexican Grill",
-      "sector": "Consumer Discretionary",
-      "date": "2026-04-22",
-      "time": "AMC",
-      "eps_estimate": 0.23,
-      "revenue_estimate": 3058456990
     },
     {
       "ticker": "EW",
@@ -974,15 +974,6 @@
       "time": "AMC",
       "eps_estimate": 2.89,
       "revenue_estimate": 3831086970
-    },
-    {
-      "ticker": "STLD",
-      "company": "Steel Dynamics",
-      "sector": "Materials",
-      "date": "2026-04-22",
-      "time": "BMO",
-      "eps_estimate": 3.24,
-      "revenue_estimate": 5108906300
     },
     {
       "ticker": "T",
@@ -1261,15 +1252,6 @@
       "revenue_estimate": 2993673440
     },
     {
-      "ticker": "PEP",
-      "company": "PepsiCo",
-      "sector": "Consumer Staples",
-      "date": "2026-04-23",
-      "time": "BMO",
-      "eps_estimate": 1.54,
-      "revenue_estimate": 18891908640
-    },
-    {
       "ticker": "PFG",
       "company": "Principal Financial Group",
       "sector": "Financials",
@@ -1546,6 +1528,15 @@
       "time": "AMC",
       "eps_estimate": 1.75,
       "revenue_estimate": 6294381240
+    },
+    {
+      "ticker": "ACGL",
+      "company": "Arch Capital Group",
+      "sector": "Financials",
+      "date": "2026-04-28",
+      "time": "AMC",
+      "eps_estimate": 2.47,
+      "revenue_estimate": 4554927400
     },
     {
       "ticker": "AMT",
@@ -1899,15 +1890,6 @@
       "revenue_estimate": 1400182040
     },
     {
-      "ticker": "ACGL",
-      "company": "Arch Capital Group",
-      "sector": "Financials",
-      "date": "2026-04-29",
-      "time": "AMC",
-      "eps_estimate": 2.47,
-      "revenue_estimate": 4554927400
-    },
-    {
       "ticker": "ADP",
       "company": "Automatic Data Processing",
       "sector": "Industrials",
@@ -1987,6 +1969,15 @@
       "time": "AMC",
       "eps_estimate": 1.26,
       "revenue_estimate": 4002677860
+    },
+    {
+      "ticker": "CMG",
+      "company": "Chipotle Mexican Grill",
+      "sector": "Consumer Discretionary",
+      "date": "2026-04-29",
+      "time": "AMC",
+      "eps_estimate": 0.23,
+      "revenue_estimate": 3058456990
     },
     {
       "ticker": "CRH",
@@ -4466,6 +4457,15 @@
       "revenue_estimate": 22049382270
     },
     {
+      "ticker": "DLTR",
+      "company": "Dollar Tree",
+      "sector": "Consumer Staples",
+      "date": "2026-06-03",
+      "time": "BMO",
+      "eps_estimate": 2.53,
+      "revenue_estimate": 5464813170
+    },
+    {
       "ticker": "BF-B",
       "company": "Brown–Forman",
       "sector": "Consumer Staples",
@@ -4522,22 +4522,13 @@
   ],
   "this_week": [
     {
-      "ticker": "DLTR",
-      "company": "Dollar Tree",
-      "sector": "Consumer Staples",
-      "date": "2026-03-16",
-      "time": "BMO",
-      "eps_estimate": 2.53,
-      "revenue_estimate": 5464813170
-    },
-    {
       "ticker": "LULU",
       "company": "Lululemon Athletica",
       "sector": "Consumer Discretionary",
       "date": "2026-03-17",
       "time": "AMC",
-      "eps_estimate": 4.77,
-      "revenue_estimate": 3577050550
+      "eps_estimate": 2.07,
+      "revenue_estimate": 2477667080
     },
     {
       "ticker": "GIS",
@@ -4585,15 +4576,6 @@
       "revenue_estimate": 17830754090
     },
     {
-      "ticker": "CCL",
-      "company": "Carnival",
-      "sector": "Consumer Discretionary",
-      "date": "2026-03-19",
-      "time": "BMO",
-      "eps_estimate": 0.18,
-      "revenue_estimate": 6133183940
-    },
-    {
       "ticker": "DRI",
       "company": "Darden Restaurants",
       "sector": "Consumer Discretionary",
@@ -4630,6 +4612,15 @@
       "time": "BMO",
       "eps_estimate": 1.67,
       "revenue_estimate": 1779753590
+    },
+    {
+      "ticker": "CCL",
+      "company": "Carnival",
+      "sector": "Consumer Discretionary",
+      "date": "2026-03-27",
+      "time": "BMO",
+      "eps_estimate": 0.18,
+      "revenue_estimate": 6133183940
     }
   ]
 }
