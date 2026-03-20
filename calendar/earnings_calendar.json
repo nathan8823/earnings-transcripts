@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-19T09:01:47.761403Z",
+  "updated_at": "2026-03-20T09:00:28.607449Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 503,
   "earnings": [
@@ -40,15 +40,6 @@
       "revenue_estimate": 4593963270
     },
     {
-      "ticker": "JBL",
-      "company": "Jabil",
-      "sector": "Information Technology",
-      "date": "2026-03-18",
-      "time": "BMO",
-      "eps_estimate": 2.92,
-      "revenue_estimate": 8076102800
-    },
-    {
       "ticker": "MU",
       "company": "Micron Technology",
       "sector": "Information Technology",
@@ -58,22 +49,13 @@
       "revenue_estimate": 19512259250
     },
     {
-      "ticker": "WSM",
-      "company": "Williams-Sonoma, Inc.",
-      "sector": "Consumer Discretionary",
-      "date": "2026-03-18",
-      "time": "BMO",
-      "eps_estimate": 1.86,
-      "revenue_estimate": 1790039720
-    },
-    {
       "ticker": "ACN",
       "company": "Accenture",
       "sector": "Information Technology",
       "date": "2026-03-19",
       "time": "BMO",
-      "eps_estimate": 2.84,
-      "revenue_estimate": 17844218180
+      "eps_estimate": 3.75,
+      "revenue_estimate": 18733749450
     },
     {
       "ticker": "DRI",
@@ -90,8 +72,8 @@
       "sector": "Industrials",
       "date": "2026-03-19",
       "time": "AMC",
-      "eps_estimate": 4.13,
-      "revenue_estimate": 23484288160
+      "eps_estimate": 5.88,
+      "revenue_estimate": 23582607280
     },
     {
       "ticker": "CTAS",
@@ -178,7 +160,7 @@
       "ticker": "STZ",
       "company": "Constellation Brands",
       "sector": "Consumer Staples",
-      "date": "2026-04-09",
+      "date": "2026-04-08",
       "time": "AMC",
       "eps_estimate": 1.69,
       "revenue_estimate": 1847866240
@@ -890,7 +872,7 @@
       "company": "NextEra Energy",
       "sector": "Utilities",
       "date": "2026-04-22",
-      "time": "TBD",
+      "time": "BMO",
       "eps_estimate": 0.94,
       "revenue_estimate": 7273705810
     },
@@ -2293,15 +2275,6 @@
       "revenue_estimate": 426086010
     },
     {
-      "ticker": "VICI",
-      "company": "Vici Properties",
-      "sector": "Real Estate",
-      "date": "2026-04-29",
-      "time": "AMC",
-      "eps_estimate": 0.71,
-      "revenue_estimate": 1016443280
-    },
-    {
       "ticker": "VTR",
       "company": "Ventas",
       "sector": "Real Estate",
@@ -2498,6 +2471,15 @@
       "time": "BMO",
       "eps_estimate": 7.62,
       "revenue_estimate": 66297530740
+    },
+    {
+      "ticker": "COP",
+      "company": "ConocoPhillips",
+      "sector": "Energy",
+      "date": "2026-04-30",
+      "time": "BMO",
+      "eps_estimate": 1.39,
+      "revenue_estimate": 14636086870
     },
     {
       "ticker": "CPT",
@@ -2903,6 +2885,15 @@
       "time": "BMO",
       "eps_estimate": 2.48,
       "revenue_estimate": 5120689670
+    },
+    {
+      "ticker": "VICI",
+      "company": "Vici Properties",
+      "sector": "Real Estate",
+      "date": "2026-04-30",
+      "time": "AMC",
+      "eps_estimate": 0.71,
+      "revenue_estimate": 1016443280
     },
     {
       "ticker": "VLO",
@@ -3766,15 +3757,6 @@
       "revenue_estimate": 1582536230
     },
     {
-      "ticker": "COP",
-      "company": "ConocoPhillips",
-      "sector": "Energy",
-      "date": "2026-05-07",
-      "time": "BMO",
-      "eps_estimate": 1.39,
-      "revenue_estimate": 14636086870
-    },
-    {
       "ticker": "EPAM",
       "company": "EPAM Systems",
       "sector": "Information Technology",
@@ -4214,6 +4196,15 @@
       "revenue_estimate": 13962664500
     },
     {
+      "ticker": "WSM",
+      "company": "Williams-Sonoma, Inc.",
+      "sector": "Consumer Discretionary",
+      "date": "2026-05-20",
+      "time": "BMO",
+      "eps_estimate": 1.86,
+      "revenue_estimate": 1790039720
+    },
+    {
       "ticker": "ADI",
       "company": "Analog Devices",
       "sector": "Information Technology",
@@ -4518,6 +4509,15 @@
       "time": "AMC",
       "eps_estimate": 5.83,
       "revenue_estimate": 6456378710
+    },
+    {
+      "ticker": "JBL",
+      "company": "Jabil",
+      "sector": "Information Technology",
+      "date": "2026-06-16",
+      "time": "BMO",
+      "eps_estimate": 2.92,
+      "revenue_estimate": 8076102800
     }
   ],
   "this_week": [
@@ -4531,15 +4531,6 @@
       "revenue_estimate": 4593963270
     },
     {
-      "ticker": "JBL",
-      "company": "Jabil",
-      "sector": "Information Technology",
-      "date": "2026-03-18",
-      "time": "BMO",
-      "eps_estimate": 2.92,
-      "revenue_estimate": 8076102800
-    },
-    {
       "ticker": "MU",
       "company": "Micron Technology",
       "sector": "Information Technology",
@@ -4549,22 +4540,13 @@
       "revenue_estimate": 19512259250
     },
     {
-      "ticker": "WSM",
-      "company": "Williams-Sonoma, Inc.",
-      "sector": "Consumer Discretionary",
-      "date": "2026-03-18",
-      "time": "BMO",
-      "eps_estimate": 1.86,
-      "revenue_estimate": 1790039720
-    },
-    {
       "ticker": "ACN",
       "company": "Accenture",
       "sector": "Information Technology",
       "date": "2026-03-19",
       "time": "BMO",
-      "eps_estimate": 2.84,
-      "revenue_estimate": 17844218180
+      "eps_estimate": 3.75,
+      "revenue_estimate": 18733749450
     },
     {
       "ticker": "DRI",
@@ -4581,8 +4563,8 @@
       "sector": "Industrials",
       "date": "2026-03-19",
       "time": "AMC",
-      "eps_estimate": 4.13,
-      "revenue_estimate": 23484288160
+      "eps_estimate": 5.88,
+      "revenue_estimate": 23582607280
     }
   ],
   "next_week": [
