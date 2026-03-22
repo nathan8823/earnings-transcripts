@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: Mar 21, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Mar 22, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Mar 16–Mar 22)
 | Date | Time | Ticker | Company | Est. EPS |
