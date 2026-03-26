@@ -1,11 +1,11 @@
 # S&P 500 Earnings Calendar
-> Last updated: Mar 25, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Mar 26, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Mar 23–Mar 29)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
-| Mar 25 | BMO | CTAS | Cintas | $1.24 |
-| Mar 25 | BMO | PAYX | Paychex | $1.67 |
+| Mar 25 | TBD | CTAS | Cintas | $1.24 |
+| Mar 25 | TBD | PAYX | Paychex | $1.67 |
 | Mar 27 | BMO | CCL | Carnival | $0.18 |
 
 ## Next Week (Mar 30–Apr 05)
@@ -417,7 +417,7 @@
 | May 06 | BMO | UBER | Uber | $0.69 |
 | May 06 | BMO | VRSK | Verisk Analytics | $1.74 |
 | May 06 | BMO | VST | Vistra Corp. | $0.40 |
-| May 06 | AMC | WDC | Western Digital | $2.35 |
+| May 06 | TBD | WDC | Western Digital | $2.35 |
 | May 06 | AMC | WYNN | Wynn Resorts | $1.27 |
 | May 07 | AMC | AKAM | Akamai Technologies | $1.60 |
 | May 07 | BMO | BDX | Becton Dickinson | $2.78 |
@@ -437,7 +437,7 @@
 | May 07 | AMC | MCK | McKesson Corporation | $11.58 |
 | May 07 | AMC | MNST | Monster Beverage | $0.52 |
 | May 07 | AMC | NWS | News Corp(Class B) | $0.20 |
-| May 07 | TBD | NWSA | News Corp(Class A) | $0.20 |
+| May 07 | AMC | NWSA | News Corp(Class A) | $0.20 |
 | May 07 | BMO | PODD | Insulet Corporation | $1.20 |
 | May 07 | AMC | PSKY | Paramount Skydance Corporation | $0.16 |
 | May 07 | AMC | SOLV | Solventum | $1.35 |
