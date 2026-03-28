@@ -1,11 +1,11 @@
 # S&P 500 Earnings Calendar
-> Last updated: Mar 27, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Mar 28, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Mar 23–Mar 29)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Mar 25 | BMO | CTAS | Cintas | $1.24 |
-| Mar 27 | BMO | CCL | Carnival | $0.18 |
+| Mar 27 | BMO | CCL | Carnival | $0.39 |
 
 ## Next Week (Mar 30–Apr 05)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -15,6 +15,7 @@
 | Mar 31 | AMC | NKE | Nike, Inc. | $0.28 |
 | Apr 01 | BMO | CAG | Conagra Brands | $0.40 |
 | Apr 01 | BMO | LW | Lamb Weston | $0.61 |
+| Apr 03 | AMC | JBHT | J.B. Hunt | $1.44 |
 
 ## Later (Apr 06+)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -26,7 +27,6 @@
 | Apr 13 | BMO | GS | Goldman Sachs | $15.62 |
 | Apr 14 | BMO | C | Citigroup | $2.61 |
 | Apr 14 | AMC | IBKR | Interactive Brokers | $0.59 |
-| Apr 14 | AMC | JBHT | J.B. Hunt | $1.44 |
 | Apr 14 | BMO | JNJ | Johnson & Johnson | $2.68 |
 | Apr 14 | BMO | JPM | JPMorgan Chase | $5.49 |
 | Apr 14 | BMO | WFC | Wells Fargo | $1.58 |
@@ -65,7 +65,6 @@
 | Apr 21 | BMO | HAL | Halliburton | $0.51 |
 | Apr 21 | AMC | ISRG | Intuitive Surgical | $2.13 |
 | Apr 21 | BMO | IVZ | Invesco | $0.59 |
-| Apr 21 | BMO | KMB | Kimberly-Clark | $1.93 |
 | Apr 21 | BMO | LMT | Lockheed Martin | $6.80 |
 | Apr 21 | BMO | MCO | Moody's Corporation | $4.36 |
 | Apr 21 | BMO | MMM | 3M | $1.99 |
@@ -130,7 +129,7 @@
 | Apr 23 | BMO | FCX | Freeport-McMoRan | $0.50 |
 | Apr 23 | BMO | FISV | Fiserv | $1.59 |
 | Apr 23 | AMC | FIX | Comfort Systems USA | $6.81 |
-| Apr 23 | TBD | GILD | Gilead Sciences | $1.91 |
+| Apr 23 | AMC | GILD | Gilead Sciences | $1.91 |
 | Apr 23 | AMC | GOOG | Alphabet Inc.(Class C) | $2.62 |
 | Apr 23 | AMC | GOOGL | Alphabet Inc.(Class A) | $2.62 |
 | Apr 23 | BMO | HAS | Hasbro | $0.99 |
@@ -189,6 +188,7 @@
 | Apr 28 | BMO | GM | General Motors | $2.58 |
 | Apr 28 | BMO | INCY | Incyte | $1.38 |
 | Apr 28 | BMO | KHC | Kraft Heinz | $0.50 |
+| Apr 28 | BMO | KMB | Kimberly-Clark | $1.93 |
 | Apr 28 | BMO | KO | Coca-Cola Company (The) | $0.81 |
 | Apr 28 | BMO | LDOS | Leidos | $2.91 |
 | Apr 28 | BMO | LH | Labcorp | $4.14 |
@@ -353,6 +353,7 @@
 | May 04 | BMO | WMB | Williams Companies | $0.61 |
 | May 04 | BMO | ZBH | Zimmer Biomet | $1.86 |
 | May 05 | BMO | ADM | Archer Daniels Midland | $0.67 |
+| May 05 | BMO | AEP | American Electric Power | $1.58 |
 | May 05 | AMC | AIZ | Assurant | $5.35 |
 | May 05 | AMC | AMD | Advanced Micro Devices | $1.27 |
 | May 05 | AMC | ANET | Arista Networks | $0.81 |
@@ -385,7 +386,6 @@
 | May 05 | BMO | WEC | WEC Energy Group | $2.26 |
 | May 05 | BMO | XYL | Xylem Inc. | $1.08 |
 | May 05 | BMO | ZTS | Zoetis | $1.62 |
-| May 06 | BMO | AEP | American Electric Power | $1.58 |
 | May 06 | AMC | APA | APA Corporation | $0.82 |
 | May 06 | AMC | APP | AppLovin | $3.64 |
 | May 06 | AMC | ATO | Atmos Energy | $3.34 |

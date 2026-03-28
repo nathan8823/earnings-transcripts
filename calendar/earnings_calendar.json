@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T09:10:18.967004Z",
+  "updated_at": "2026-03-28T08:58:05.921262Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 503,
   "earnings": [
@@ -63,8 +63,8 @@
       "sector": "Consumer Discretionary",
       "date": "2026-03-27",
       "time": "BMO",
-      "eps_estimate": 0.18,
-      "revenue_estimate": 6138542680
+      "eps_estimate": 0.39,
+      "revenue_estimate": 6678405600
     },
     {
       "ticker": "FDS",
@@ -110,6 +110,15 @@
       "time": "BMO",
       "eps_estimate": 0.61,
       "revenue_estimate": 1486187790
+    },
+    {
+      "ticker": "JBHT",
+      "company": "J.B. Hunt",
+      "sector": "Industrials",
+      "date": "2026-04-03",
+      "time": "AMC",
+      "eps_estimate": 1.44,
+      "revenue_estimate": 2933089160
     },
     {
       "ticker": "DAL",
@@ -173,15 +182,6 @@
       "time": "AMC",
       "eps_estimate": 0.59,
       "revenue_estimate": 1685122750
-    },
-    {
-      "ticker": "JBHT",
-      "company": "J.B. Hunt",
-      "sector": "Industrials",
-      "date": "2026-04-14",
-      "time": "AMC",
-      "eps_estimate": 1.44,
-      "revenue_estimate": 2933089160
     },
     {
       "ticker": "JNJ",
@@ -524,15 +524,6 @@
       "time": "BMO",
       "eps_estimate": 0.59,
       "revenue_estimate": 1274496720
-    },
-    {
-      "ticker": "KMB",
-      "company": "Kimberly-Clark",
-      "sector": "Consumer Staples",
-      "date": "2026-04-21",
-      "time": "BMO",
-      "eps_estimate": 1.93,
-      "revenue_estimate": 4099198000
     },
     {
       "ticker": "LMT",
@@ -1112,7 +1103,7 @@
       "company": "Gilead Sciences",
       "sector": "Health Care",
       "date": "2026-04-23",
-      "time": "TBD",
+      "time": "AMC",
       "eps_estimate": 1.91,
       "revenue_estimate": 6923071500
     },
@@ -1636,6 +1627,15 @@
       "time": "BMO",
       "eps_estimate": 0.5,
       "revenue_estimate": 5868974820
+    },
+    {
+      "ticker": "KMB",
+      "company": "Kimberly-Clark",
+      "sector": "Consumer Staples",
+      "date": "2026-04-28",
+      "time": "BMO",
+      "eps_estimate": 1.93,
+      "revenue_estimate": 4099198000
     },
     {
       "ticker": "KO",
@@ -3111,6 +3111,15 @@
       "revenue_estimate": 21287143350
     },
     {
+      "ticker": "AEP",
+      "company": "American Electric Power",
+      "sector": "Utilities",
+      "date": "2026-05-05",
+      "time": "BMO",
+      "eps_estimate": 1.58,
+      "revenue_estimate": 5482705580
+    },
+    {
       "ticker": "AIZ",
       "company": "Assurant",
       "sector": "Financials",
@@ -3397,15 +3406,6 @@
       "time": "BMO",
       "eps_estimate": 1.62,
       "revenue_estimate": 2314125150
-    },
-    {
-      "ticker": "AEP",
-      "company": "American Electric Power",
-      "sector": "Utilities",
-      "date": "2026-05-06",
-      "time": "BMO",
-      "eps_estimate": 1.58,
-      "revenue_estimate": 5482705580
     },
     {
       "ticker": "APA",
@@ -4537,8 +4537,8 @@
       "sector": "Consumer Discretionary",
       "date": "2026-03-27",
       "time": "BMO",
-      "eps_estimate": 0.18,
-      "revenue_estimate": 6138542680
+      "eps_estimate": 0.39,
+      "revenue_estimate": 6678405600
     }
   ],
   "next_week": [
@@ -4586,6 +4586,15 @@
       "time": "BMO",
       "eps_estimate": 0.61,
       "revenue_estimate": 1486187790
+    },
+    {
+      "ticker": "JBHT",
+      "company": "J.B. Hunt",
+      "sector": "Industrials",
+      "date": "2026-04-03",
+      "time": "AMC",
+      "eps_estimate": 1.44,
+      "revenue_estimate": 2933089160
     }
   ]
 }
