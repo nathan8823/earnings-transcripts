@@ -1,12 +1,7 @@
 # S&P 500 Earnings Calendar
-> Last updated: Mar 29, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Mar 30, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
-## This Week (Mar 23–Mar 29)
-| Date | Time | Ticker | Company | Est. EPS |
-|------|------|--------|---------|----------|
-| Mar 25 | TBD | CTAS | Cintas | $1.24 |
-
-## Next Week (Mar 30–Apr 05)
+## This Week (Mar 30–Apr 05)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Mar 31 | BMO | FDS | FactSet | $4.38 |
@@ -16,12 +11,16 @@
 | Apr 01 | BMO | LW | Lamb Weston | $0.61 |
 | Apr 03 | AMC | JBHT | J.B. Hunt | $1.44 |
 
-## Later (Apr 06+)
+## Next Week (Apr 06–Apr 12)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Apr 08 | BMO | DAL | Delta Air Lines | $0.63 |
 | Apr 08 | AMC | STZ | Constellation Brands | $1.70 |
 | Apr 10 | BMO | BLK | BlackRock | $12.39 |
+
+## Later (Apr 13+)
+| Date | Time | Ticker | Company | Est. EPS |
+|------|------|--------|---------|----------|
 | Apr 13 | BMO | FAST | Fastenal | $0.30 |
 | Apr 13 | BMO | GS | Goldman Sachs | $15.77 |
 | Apr 14 | BMO | C | Citigroup | $2.58 |
