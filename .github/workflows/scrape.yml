@@ -1,11 +1,13 @@
 name: Scrape Earnings Transcripts
 
 on:
-  # Two daily scrapes to minimize call-to-episode delay:
-  # - 6 AM UTC (1 AM ET): catches AMC (after market close) transcripts from prior evening
+  # Three daily scrapes to minimize call-to-episode delay:
+  # - 6 AM UTC (1 AM ET): catches very early AMC transcripts (rare, some appear before midnight)
+  # - 1 PM UTC (9 AM ET): catches AMC transcripts that landed overnight/morning (most common case)
   # - 8 PM UTC (3 PM ET): catches same-day BMO (before market open) transcripts (~63% of calls)
   schedule:
     - cron: '0 6 * * *'
+    - cron: '0 13 * * *'
     - cron: '0 20 * * *'
 
   # Allow manual trigger
