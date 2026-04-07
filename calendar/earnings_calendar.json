@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-06T09:24:29.241256Z",
+  "updated_at": "2026-04-07T09:23:02.707362Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 503,
   "earnings": [
@@ -1234,15 +1234,6 @@
       "revenue_estimate": 19086078450
     },
     {
-      "ticker": "LYB",
-      "company": "LyondellBasell",
-      "sector": "Materials",
-      "date": "2026-04-24",
-      "time": "BMO",
-      "eps_estimate": 0.22,
-      "revenue_estimate": 7278086260
-    },
-    {
       "ticker": "NSC",
       "company": "Norfolk Southern",
       "sector": "Industrials",
@@ -1276,6 +1267,15 @@
       "date": "2026-04-27",
       "time": "AMC",
       "revenue_estimate": 678558620
+    },
+    {
+      "ticker": "AVB",
+      "company": "AvalonBay Communities",
+      "sector": "Real Estate",
+      "date": "2026-04-27",
+      "time": "AMC",
+      "eps_estimate": 1.18,
+      "revenue_estimate": 768294990
     },
     {
       "ticker": "BRO",
@@ -1357,6 +1357,15 @@
       "time": "AMC",
       "eps_estimate": 1.74,
       "revenue_estimate": 696435160
+    },
+    {
+      "ticker": "UHS",
+      "company": "Universal Health Services",
+      "sector": "Health Care",
+      "date": "2026-04-27",
+      "time": "AMC",
+      "eps_estimate": 5.46,
+      "revenue_estimate": 4392975040
     },
     {
       "ticker": "VTR",
@@ -1507,7 +1516,7 @@
       "company": "Extra Space Storage",
       "sector": "Real Estate",
       "date": "2026-04-28",
-      "time": "TBD",
+      "time": "AMC",
       "eps_estimate": 1.09,
       "revenue_estimate": 727134670
     },
@@ -1620,15 +1629,6 @@
       "revenue_estimate": 12268385270
     },
     {
-      "ticker": "LDOS",
-      "company": "Leidos",
-      "sector": "Industrials",
-      "date": "2026-04-28",
-      "time": "BMO",
-      "eps_estimate": 2.92,
-      "revenue_estimate": 4287402380
-    },
-    {
       "ticker": "MDLZ",
       "company": "Mondelez International",
       "sector": "Consumer Staples",
@@ -1728,15 +1728,6 @@
       "revenue_estimate": 22994420000
     },
     {
-      "ticker": "UHS",
-      "company": "Universal Health Services",
-      "sector": "Health Care",
-      "date": "2026-04-28",
-      "time": "AMC",
-      "eps_estimate": 5.46,
-      "revenue_estimate": 4392975040
-    },
-    {
       "ticker": "UPS",
       "company": "United Parcel Service",
       "sector": "Industrials",
@@ -1809,15 +1800,6 @@
       "revenue_estimate": 4315000000
     },
     {
-      "ticker": "ALB",
-      "company": "Albemarle Corporation",
-      "sector": "Materials",
-      "date": "2026-04-29",
-      "time": "AMC",
-      "eps_estimate": 1.14,
-      "revenue_estimate": 1262539340
-    },
-    {
       "ticker": "ALGN",
       "company": "Align Technology",
       "sector": "Health Care",
@@ -1845,15 +1827,6 @@
       "revenue_estimate": 7057242410
     },
     {
-      "ticker": "AVB",
-      "company": "AvalonBay Communities",
-      "sector": "Real Estate",
-      "date": "2026-04-29",
-      "time": "AMC",
-      "eps_estimate": 1.18,
-      "revenue_estimate": 768294990
-    },
-    {
       "ticker": "AWK",
       "company": "American Water Works",
       "sector": "Utilities",
@@ -1870,6 +1843,15 @@
       "time": "BMO",
       "eps_estimate": 0.85,
       "revenue_estimate": 23365878710
+    },
+    {
+      "ticker": "BIIB",
+      "company": "Biogen",
+      "sector": "Health Care",
+      "date": "2026-04-29",
+      "time": "BMO",
+      "eps_estimate": 3.03,
+      "revenue_estimate": 2247409790
     },
     {
       "ticker": "CHRW",
@@ -2357,15 +2339,6 @@
       "revenue_estimate": 2613121600
     },
     {
-      "ticker": "BIIB",
-      "company": "Biogen",
-      "sector": "Health Care",
-      "date": "2026-04-30",
-      "time": "BMO",
-      "eps_estimate": 3.03,
-      "revenue_estimate": 2247409790
-    },
-    {
       "ticker": "BLDR",
       "company": "Builders FirstSource",
       "sector": "Industrials",
@@ -2454,15 +2427,6 @@
       "time": "BMO",
       "eps_estimate": -0.22,
       "revenue_estimate": 7059867500
-    },
-    {
-      "ticker": "D",
-      "company": "Dominion Energy",
-      "sector": "Utilities",
-      "date": "2026-04-30",
-      "time": "BMO",
-      "eps_estimate": 0.83,
-      "revenue_estimate": 4413586110
     },
     {
       "ticker": "DTE",
@@ -2654,6 +2618,15 @@
       "revenue_estimate": 17587119660
     },
     {
+      "ticker": "LNT",
+      "company": "Alliant Energy",
+      "sector": "Utilities",
+      "date": "2026-04-30",
+      "time": "AMC",
+      "eps_estimate": 0.84,
+      "revenue_estimate": 1158315000
+    },
+    {
       "ticker": "MA",
       "company": "Mastercard",
       "sector": "Financials",
@@ -2733,15 +2706,6 @@
       "time": "BMO",
       "eps_estimate": 7.82,
       "revenue_estimate": 5394908230
-    },
-    {
-      "ticker": "PNW",
-      "company": "Pinnacle West Capital",
-      "sector": "Utilities",
-      "date": "2026-04-30",
-      "time": "BMO",
-      "eps_estimate": -0.09,
-      "revenue_estimate": 1085688100
     },
     {
       "ticker": "PPL",
@@ -2924,6 +2888,15 @@
       "revenue_estimate": 52278657300
     },
     {
+      "ticker": "D",
+      "company": "Dominion Energy",
+      "sector": "Utilities",
+      "date": "2026-05-01",
+      "time": "BMO",
+      "eps_estimate": 0.83,
+      "revenue_estimate": 4413586110
+    },
+    {
       "ticker": "DD",
       "company": "DuPont",
       "sector": "Materials",
@@ -2949,6 +2922,15 @@
       "time": "BMO",
       "eps_estimate": 0.68,
       "revenue_estimate": 333134860
+    },
+    {
+      "ticker": "LYB",
+      "company": "LyondellBasell",
+      "sector": "Materials",
+      "date": "2026-05-01",
+      "time": "BMO",
+      "eps_estimate": 0.22,
+      "revenue_estimate": 7278086260
     },
     {
       "ticker": "TROW",
@@ -3055,6 +3037,15 @@
       "time": "AMC",
       "eps_estimate": 0.28,
       "revenue_estimate": 1538419820
+    },
+    {
+      "ticker": "PNW",
+      "company": "Pinnacle West Capital",
+      "sector": "Utilities",
+      "date": "2026-05-04",
+      "time": "BMO",
+      "eps_estimate": -0.09,
+      "revenue_estimate": 1085688100
     },
     {
       "ticker": "TSN",
@@ -3291,6 +3282,15 @@
       "revenue_estimate": 2275882440
     },
     {
+      "ticker": "LDOS",
+      "company": "Leidos",
+      "sector": "Industrials",
+      "date": "2026-05-05",
+      "time": "BMO",
+      "eps_estimate": 2.92,
+      "revenue_estimate": 4287402380
+    },
+    {
       "ticker": "MAR",
       "company": "Marriott International",
       "sector": "Consumer Discretionary",
@@ -3397,6 +3397,15 @@
       "time": "BMO",
       "eps_estimate": 2.26,
       "revenue_estimate": 3311136580
+    },
+    {
+      "ticker": "ALB",
+      "company": "Albemarle Corporation",
+      "sector": "Materials",
+      "date": "2026-05-06",
+      "time": "AMC",
+      "eps_estimate": 1.14,
+      "revenue_estimate": 1262539340
     },
     {
       "ticker": "APA",
@@ -3767,15 +3776,6 @@
       "revenue_estimate": 3845213000
     },
     {
-      "ticker": "LNT",
-      "company": "Alliant Energy",
-      "sector": "Utilities",
-      "date": "2026-05-07",
-      "time": "AMC",
-      "eps_estimate": 0.84,
-      "revenue_estimate": 1158315000
-    },
-    {
       "ticker": "LYV",
       "company": "Live Nation Entertainment",
       "sector": "Communication Services",
@@ -3999,6 +3999,15 @@
       "revenue_estimate": 1517186820
     },
     {
+      "ticker": "Q",
+      "company": "Qnity Electronics",
+      "sector": "Information Technology",
+      "date": "2026-05-12",
+      "time": "BMO",
+      "eps_estimate": 0.9,
+      "revenue_estimate": 1251718000
+    },
+    {
       "ticker": "SWKS",
       "company": "Skyworks Solutions",
       "sector": "Information Technology",
@@ -4051,15 +4060,6 @@
       "time": "AMC",
       "eps_estimate": 0.56,
       "revenue_estimate": 1557539750
-    },
-    {
-      "ticker": "Q",
-      "company": "Qnity Electronics",
-      "sector": "Information Technology",
-      "date": "2026-05-15",
-      "time": "AMC",
-      "eps_estimate": 0.9,
-      "revenue_estimate": 1251718000
     },
     {
       "ticker": "HD",
