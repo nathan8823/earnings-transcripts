@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: Apr 10, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Apr 11, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Apr 06–Apr 12)
 _No earnings scheduled._
@@ -143,7 +143,6 @@ _No earnings scheduled._
 | Apr 27 | AMC | CINF | Cincinnati Financial | $1.91 |
 | Apr 27 | BMO | DPZ | Domino's | $4.30 |
 | Apr 27 | AMC | NUE | Nucor | $2.78 |
-| Apr 27 | BMO | RVTY | Revvity | $1.02 |
 | Apr 27 | AMC | SBAC | SBA Communications | $1.74 |
 | Apr 27 | AMC | UHS | Universal Health Services | $5.46 |
 | Apr 27 | AMC | VTR | Ventas | $0.10 |
@@ -171,7 +170,7 @@ _No earnings scheduled._
 | Apr 28 | BMO | GM | General Motors | $2.60 |
 | Apr 28 | BMO | HLT | Hilton Worldwide | $1.96 |
 | Apr 28 | AMC | HOOD | Robinhood Markets | $0.43 |
-| Apr 28 | TBD | INCY | Incyte | $1.38 |
+| Apr 28 | BMO | INCY | Incyte | $1.38 |
 | Apr 28 | AMC | IR | Ingersoll Rand | $0.74 |
 | Apr 28 | BMO | IVZ | Invesco | $0.59 |
 | Apr 28 | BMO | KHC | Kraft Heinz | $0.50 |
@@ -223,7 +222,6 @@ _No earnings scheduled._
 | Apr 29 | BMO | HUM | Humana | $10.11 |
 | Apr 29 | BMO | IEX | IDEX Corporation | $1.77 |
 | Apr 29 | AMC | INVH | Invitation Homes | $0.15 |
-| Apr 29 | BMO | ITW | Illinois Tool Works | $2.56 |
 | Apr 29 | AMC | KLAC | KLA Corporation | $9.17 |
 | Apr 29 | BMO | LII | Lennox International | $3.19 |
 | Apr 29 | AMC | MAA | Mid-America Apartment Communities | — |
@@ -282,6 +280,7 @@ _No earnings scheduled._
 | Apr 30 | BMO | ICE | Intercontinental Exchange | $2.11 |
 | Apr 30 | BMO | IP | International Paper | $0.17 |
 | Apr 30 | BMO | IRM | Iron Mountain | $0.52 |
+| Apr 30 | BMO | ITW | Illinois Tool Works | $2.56 |
 | Apr 30 | BMO | KIM | Kimco Realty | $0.20 |
 | Apr 30 | BMO | LH | Labcorp | $4.12 |
 | Apr 30 | BMO | LHX | L3Harris | $2.60 |
@@ -369,6 +368,7 @@ _No earnings scheduled._
 | May 05 | BMO | PFE | Pfizer | $0.73 |
 | May 05 | AMC | PRU | Prudential Financial | $3.29 |
 | May 05 | BMO | PYPL | PayPal | $1.28 |
+| May 05 | BMO | RVTY | Revvity | $1.02 |
 | May 05 | AMC | SMCI | Supermicro | $0.62 |
 | May 05 | AMC | STX | Seagate Technology | $3.47 |
 | May 05 | BMO | TDG | TransDigm Group | $9.21 |

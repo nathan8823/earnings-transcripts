@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T09:26:29.115540Z",
+  "updated_at": "2026-04-11T09:02:17.442897Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 503,
   "earnings": [
@@ -1270,15 +1270,6 @@
       "revenue_estimate": 8902745880
     },
     {
-      "ticker": "RVTY",
-      "company": "Revvity",
-      "sector": "Health Care",
-      "date": "2026-04-27",
-      "time": "BMO",
-      "eps_estimate": 1.02,
-      "revenue_estimate": 704331140
-    },
-    {
       "ticker": "SBAC",
       "company": "SBA Communications",
       "sector": "Real Estate",
@@ -1526,7 +1517,7 @@
       "company": "Incyte",
       "sector": "Health Care",
       "date": "2026-04-28",
-      "time": "TBD",
+      "time": "BMO",
       "eps_estimate": 1.38,
       "revenue_estimate": 1231655570
     },
@@ -1990,15 +1981,6 @@
       "revenue_estimate": 687508120
     },
     {
-      "ticker": "ITW",
-      "company": "Illinois Tool Works",
-      "sector": "Industrials",
-      "date": "2026-04-29",
-      "time": "BMO",
-      "eps_estimate": 2.56,
-      "revenue_estimate": 4008211310
-    },
-    {
       "ticker": "KLAC",
       "company": "KLA Corporation",
       "sector": "Information Technology",
@@ -2400,7 +2382,7 @@
       "date": "2026-04-30",
       "time": "BMO",
       "eps_estimate": -0.22,
-      "revenue_estimate": 7053867500
+      "revenue_estimate": 7045993330
     },
     {
       "ticker": "DTE",
@@ -2518,6 +2500,15 @@
       "time": "BMO",
       "eps_estimate": 0.52,
       "revenue_estimate": 1861055830
+    },
+    {
+      "ticker": "ITW",
+      "company": "Illinois Tool Works",
+      "sector": "Industrials",
+      "date": "2026-04-30",
+      "time": "BMO",
+      "eps_estimate": 2.56,
+      "revenue_estimate": 4008211310
     },
     {
       "ticker": "KIM",
@@ -3297,6 +3288,15 @@
       "time": "BMO",
       "eps_estimate": 1.28,
       "revenue_estimate": 8066625280
+    },
+    {
+      "ticker": "RVTY",
+      "company": "Revvity",
+      "sector": "Health Care",
+      "date": "2026-05-05",
+      "time": "BMO",
+      "eps_estimate": 1.02,
+      "revenue_estimate": 704331140
     },
     {
       "ticker": "SMCI",
