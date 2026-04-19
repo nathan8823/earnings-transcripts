@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T09:07:31.873010Z",
+  "updated_at": "2026-04-19T09:10:32.101324Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 501,
   "earnings": [
@@ -92,42 +92,6 @@
       "time": "BMO",
       "eps_estimate": 0.42,
       "revenue_estimate": 1965207570
-    },
-    {
-      "ticker": "FITB",
-      "company": "Fifth Third Bancorp",
-      "sector": "Financials",
-      "date": "2026-04-17",
-      "time": "BMO",
-      "eps_estimate": 0.98,
-      "revenue_estimate": 3259250000
-    },
-    {
-      "ticker": "RF",
-      "company": "Regions Financial Corporation",
-      "sector": "Financials",
-      "date": "2026-04-17",
-      "time": "BMO",
-      "eps_estimate": 0.64,
-      "revenue_estimate": 1958146120
-    },
-    {
-      "ticker": "STT",
-      "company": "State Street Corporation",
-      "sector": "Financials",
-      "date": "2026-04-17",
-      "time": "BMO",
-      "eps_estimate": 3.04,
-      "revenue_estimate": 3696403710
-    },
-    {
-      "ticker": "TFC",
-      "company": "Truist Financial",
-      "sector": "Financials",
-      "date": "2026-04-17",
-      "time": "BMO",
-      "eps_estimate": 1.08,
-      "revenue_estimate": 5242200000
     },
     {
       "ticker": "STLD",
@@ -2889,7 +2853,7 @@
       "company": "Emerson Electric",
       "sector": "Industrials",
       "date": "2026-05-05",
-      "time": "AMC",
+      "time": "TBD",
       "eps_estimate": 1.54,
       "revenue_estimate": 4595476130
     },
@@ -4349,6 +4313,15 @@
       "revenue_estimate": 48677124320
     },
     {
+      "ticker": "STT",
+      "company": "State Street Corporation",
+      "sector": "Financials",
+      "date": "2026-07-14",
+      "time": "BMO",
+      "eps_estimate": 3.04,
+      "revenue_estimate": 3696403710
+    },
+    {
       "ticker": "WFC",
       "company": "Wells Fargo",
       "sector": "Financials",
@@ -4500,6 +4473,33 @@
       "time": "BMO",
       "eps_estimate": 1.25,
       "revenue_estimate": 7533142200
+    },
+    {
+      "ticker": "FITB",
+      "company": "Fifth Third Bancorp",
+      "sector": "Financials",
+      "date": "2026-07-17",
+      "time": "BMO",
+      "eps_estimate": 0.98,
+      "revenue_estimate": 3259250000
+    },
+    {
+      "ticker": "RF",
+      "company": "Regions Financial Corporation",
+      "sector": "Financials",
+      "date": "2026-07-17",
+      "time": "BMO",
+      "eps_estimate": 0.64,
+      "revenue_estimate": 1958146120
+    },
+    {
+      "ticker": "TFC",
+      "company": "Truist Financial",
+      "sector": "Financials",
+      "date": "2026-07-17",
+      "time": "BMO",
+      "eps_estimate": 1.08,
+      "revenue_estimate": 5242200000
     }
   ],
   "this_week": [
@@ -4511,42 +4511,6 @@
       "time": "BMO",
       "eps_estimate": 0.42,
       "revenue_estimate": 1965207570
-    },
-    {
-      "ticker": "FITB",
-      "company": "Fifth Third Bancorp",
-      "sector": "Financials",
-      "date": "2026-04-17",
-      "time": "BMO",
-      "eps_estimate": 0.98,
-      "revenue_estimate": 3259250000
-    },
-    {
-      "ticker": "RF",
-      "company": "Regions Financial Corporation",
-      "sector": "Financials",
-      "date": "2026-04-17",
-      "time": "BMO",
-      "eps_estimate": 0.64,
-      "revenue_estimate": 1958146120
-    },
-    {
-      "ticker": "STT",
-      "company": "State Street Corporation",
-      "sector": "Financials",
-      "date": "2026-04-17",
-      "time": "BMO",
-      "eps_estimate": 3.04,
-      "revenue_estimate": 3696403710
-    },
-    {
-      "ticker": "TFC",
-      "company": "Truist Financial",
-      "sector": "Financials",
-      "date": "2026-04-17",
-      "time": "BMO",
-      "eps_estimate": 1.08,
-      "revenue_estimate": 5242200000
     }
   ],
   "next_week": [

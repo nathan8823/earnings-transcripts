@@ -1,14 +1,10 @@
 # S&P 500 Earnings Calendar
-> Last updated: Apr 18, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Apr 19, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Apr 13–Apr 19)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Apr 16 | BMO | KEY | KeyCorp | $0.42 |
-| Apr 17 | BMO | FITB | Fifth Third Bancorp | $0.98 |
-| Apr 17 | BMO | RF | Regions Financial Corporation | $0.64 |
-| Apr 17 | BMO | STT | State Street Corporation | $3.04 |
-| Apr 17 | BMO | TFC | Truist Financial | $1.08 |
 
 ## Next Week (Apr 20–Apr 26)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -324,7 +320,7 @@
 | May 05 | BMO | DUK | Duke Energy | $1.74 |
 | May 05 | AMC | DVN | Devon Energy | $1.02 |
 | May 05 | AMC | EA | Electronic Arts | $2.34 |
-| May 05 | AMC | EMR | Emerson Electric | $1.54 |
+| May 05 | TBD | EMR | Emerson Electric | $1.54 |
 | May 05 | AMC | EOG | EOG Resources | $3.07 |
 | May 05 | BMO | EXPD | Expeditors International | $1.33 |
 | May 05 | BMO | FIS | Fidelity National Information Services | $1.29 |
@@ -487,6 +483,7 @@
 | Jul 14 | BMO | GS | Goldman Sachs | $13.80 |
 | Jul 14 | AMC | JBHT | J.B. Hunt | $1.71 |
 | Jul 14 | BMO | JPM | JPMorgan Chase | $5.41 |
+| Jul 14 | BMO | STT | State Street Corporation | $3.04 |
 | Jul 14 | BMO | WFC | Wells Fargo | $1.71 |
 | Jul 15 | BMO | BK | BNY Mellon | $2.16 |
 | Jul 15 | BMO | BLK | BlackRock | $12.58 |
@@ -504,4 +501,7 @@
 | Jul 16 | BMO | SCHW | Charles Schwab Corporation | $1.47 |
 | Jul 16 | BMO | TRV | Travelers Companies (The) | $4.93 |
 | Jul 16 | BMO | USB | U.S. Bancorp | $1.25 |
+| Jul 17 | BMO | FITB | Fifth Third Bancorp | $0.98 |
+| Jul 17 | BMO | RF | Regions Financial Corporation | $0.64 |
+| Jul 17 | BMO | TFC | Truist Financial | $1.08 |
 
