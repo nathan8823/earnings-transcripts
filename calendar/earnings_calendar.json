@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T10:12:48.953734Z",
+  "updated_at": "2026-04-21T09:54:13.026082Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 501,
   "earnings": [
@@ -99,8 +99,8 @@
       "sector": "Materials",
       "date": "2026-04-20",
       "time": "AMC",
-      "eps_estimate": 2.79,
-      "revenue_estimate": 5064193760
+      "eps_estimate": 3.76,
+      "revenue_estimate": 5505120150
     },
     {
       "ticker": "CB",
@@ -368,7 +368,7 @@
       "company": "Globe Life",
       "sector": "Financials",
       "date": "2026-04-22",
-      "time": "AMC",
+      "time": "TBD",
       "eps_estimate": 3.49,
       "revenue_estimate": 1553766670
     },
@@ -686,15 +686,6 @@
       "revenue_estimate": 5957471040
     },
     {
-      "ticker": "FISV",
-      "company": "Fiserv",
-      "sector": "Financials",
-      "date": "2026-04-23",
-      "time": "BMO",
-      "eps_estimate": 1.58,
-      "revenue_estimate": 4736064390
-    },
-    {
       "ticker": "FIX",
       "company": "Comfort Systems USA",
       "sector": "Industrials",
@@ -968,7 +959,7 @@
       "company": "Cadence Design Systems",
       "sector": "Information Technology",
       "date": "2026-04-27",
-      "time": "TBD",
+      "time": "AMC",
       "eps_estimate": 1.9,
       "revenue_estimate": 1455352980
     },
@@ -2618,15 +2609,6 @@
       "revenue_estimate": 2152199340
     },
     {
-      "ticker": "DVA",
-      "company": "DaVita",
-      "sector": "Health Care",
-      "date": "2026-05-04",
-      "time": "AMC",
-      "eps_estimate": 2.33,
-      "revenue_estimate": 3356414450
-    },
-    {
       "ticker": "FANG",
       "company": "Diamondback Energy",
       "sector": "Energy",
@@ -2831,6 +2813,15 @@
       "revenue_estimate": 8479224389
     },
     {
+      "ticker": "DVA",
+      "company": "DaVita",
+      "sector": "Health Care",
+      "date": "2026-05-05",
+      "time": "AMC",
+      "eps_estimate": 2.33,
+      "revenue_estimate": 3356414450
+    },
+    {
       "ticker": "DVN",
       "company": "Devon Energy",
       "sector": "Energy",
@@ -2883,6 +2874,15 @@
       "time": "BMO",
       "eps_estimate": 1.29,
       "revenue_estimate": 3279876920
+    },
+    {
+      "ticker": "FISV",
+      "company": "Fiserv",
+      "sector": "Financials",
+      "date": "2026-05-05",
+      "time": "BMO",
+      "eps_estimate": 1.58,
+      "revenue_estimate": 4736064390
     },
     {
       "ticker": "GPN",
@@ -2973,15 +2973,6 @@
       "time": "BMO",
       "eps_estimate": 2.92,
       "revenue_estimate": 4288250080
-    },
-    {
-      "ticker": "MOS",
-      "company": "Mosaic Company (The)",
-      "sector": "Materials",
-      "date": "2026-05-05",
-      "time": "AMC",
-      "eps_estimate": 0.21,
-      "revenue_estimate": 2844416080
     },
     {
       "ticker": "MPC",
@@ -3717,6 +3708,15 @@
       "time": "BMO",
       "eps_estimate": 0.97,
       "revenue_estimate": 3806955070
+    },
+    {
+      "ticker": "MOS",
+      "company": "Mosaic Company (The)",
+      "sector": "Materials",
+      "date": "2026-05-11",
+      "time": "BMO",
+      "eps_estimate": 0.21,
+      "revenue_estimate": 2844416080
     },
     {
       "ticker": "SPG",
@@ -4509,8 +4509,8 @@
       "sector": "Materials",
       "date": "2026-04-20",
       "time": "AMC",
-      "eps_estimate": 2.79,
-      "revenue_estimate": 5064193760
+      "eps_estimate": 3.76,
+      "revenue_estimate": 5505120150
     },
     {
       "ticker": "CB",
@@ -4778,7 +4778,7 @@
       "company": "Globe Life",
       "sector": "Financials",
       "date": "2026-04-22",
-      "time": "AMC",
+      "time": "TBD",
       "eps_estimate": 3.49,
       "revenue_estimate": 1553766670
     },
@@ -5096,15 +5096,6 @@
       "revenue_estimate": 5957471040
     },
     {
-      "ticker": "FISV",
-      "company": "Fiserv",
-      "sector": "Financials",
-      "date": "2026-04-23",
-      "time": "BMO",
-      "eps_estimate": 1.58,
-      "revenue_estimate": 4736064390
-    },
-    {
       "ticker": "FIX",
       "company": "Comfort Systems USA",
       "sector": "Industrials",
@@ -5380,7 +5371,7 @@
       "company": "Cadence Design Systems",
       "sector": "Information Technology",
       "date": "2026-04-27",
-      "time": "TBD",
+      "time": "AMC",
       "eps_estimate": 1.9,
       "revenue_estimate": 1455352980
     },

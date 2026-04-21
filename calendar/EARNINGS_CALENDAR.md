@@ -1,10 +1,10 @@
 # S&P 500 Earnings Calendar
-> Last updated: Apr 20, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Apr 21, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Apr 20–Apr 26)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
-| Apr 20 | AMC | STLD | Steel Dynamics | $2.79 |
+| Apr 20 | AMC | STLD | Steel Dynamics | $3.76 |
 | Apr 21 | AMC | CB | Chubb Limited | $6.60 |
 | Apr 21 | AMC | COF | Capital One | $4.57 |
 | Apr 21 | BMO | DGX | Quest Diagnostics | $2.37 |
@@ -34,7 +34,7 @@
 | Apr 22 | AMC | CSX | CSX Corporation | $0.39 |
 | Apr 22 | BMO | ELV | Elevance Health | $10.77 |
 | Apr 22 | BMO | GEV | GE Vernova | $1.68 |
-| Apr 22 | AMC | GL | Globe Life | $3.49 |
+| Apr 22 | TBD | GL | Globe Life | $3.49 |
 | Apr 22 | AMC | IBM | IBM | $1.81 |
 | Apr 22 | AMC | KMI | Kinder Morgan | $0.39 |
 | Apr 22 | AMC | LRCX | Lam Research | $1.36 |
@@ -70,7 +70,6 @@
 | Apr 23 | AMC | ERIE | Erie Indemnity | $3.06 |
 | Apr 23 | AMC | EW | Edwards Lifesciences | $0.73 |
 | Apr 23 | BMO | FCX | Freeport-McMoRan | $0.47 |
-| Apr 23 | BMO | FISV | Fiserv | $1.58 |
 | Apr 23 | AMC | FIX | Comfort Systems USA | $6.81 |
 | Apr 23 | AMC | GILD | Gilead Sciences | $1.91 |
 | Apr 23 | BMO | HAS | Hasbro | $0.99 |
@@ -105,7 +104,7 @@
 | Apr 27 | AMC | ARE | Alexandria Real Estate Equities | — |
 | Apr 27 | AMC | AVB | AvalonBay Communities | $1.18 |
 | Apr 27 | AMC | BRO | Brown & Brown | $1.36 |
-| Apr 27 | TBD | CDNS | Cadence Design Systems | $1.90 |
+| Apr 27 | AMC | CDNS | Cadence Design Systems | $1.90 |
 | Apr 27 | AMC | CINF | Cincinnati Financial | $1.92 |
 | Apr 27 | BMO | DPZ | Domino's | $4.28 |
 | Apr 27 | AMC | NUE | Nucor | $2.79 |
@@ -293,7 +292,6 @@
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | May 04 | AMC | CTRA | Coterra | $0.94 |
-| May 04 | AMC | DVA | DaVita | $2.33 |
 | May 04 | AMC | FANG | Diamondback Energy | $3.69 |
 | May 04 | BMO | HSIC | Henry Schein | $1.22 |
 | May 04 | BMO | L | Loews Corporation | — |
@@ -317,12 +315,14 @@
 | May 05 | BMO | DD | DuPont | $0.49 |
 | May 05 | AMC | DOC | Healthpeak Properties | — |
 | May 05 | BMO | DUK | Duke Energy | $1.77 |
+| May 05 | AMC | DVA | DaVita | $2.33 |
 | May 05 | AMC | DVN | Devon Energy | $1.02 |
 | May 05 | AMC | EA | Electronic Arts | $2.34 |
 | May 05 | AMC | EMR | Emerson Electric | $1.54 |
 | May 05 | AMC | EOG | EOG Resources | $3.07 |
 | May 05 | BMO | EXPD | Expeditors International | $1.33 |
 | May 05 | BMO | FIS | Fidelity National Information Services | $1.29 |
+| May 05 | BMO | FISV | Fiserv | $1.58 |
 | May 05 | BMO | GPN | Global Payments | $2.85 |
 | May 05 | BMO | HII | Huntington Ingalls Industries | $3.73 |
 | May 05 | BMO | IDXX | Idexx Laboratories | $3.41 |
@@ -333,7 +333,6 @@
 | May 05 | AMC | JKHY | Jack Henry & Associates | $1.42 |
 | May 05 | BMO | KKR | KKR & Co. | $1.29 |
 | May 05 | BMO | LDOS | Leidos | $2.92 |
-| May 05 | AMC | MOS | Mosaic Company (The) | $0.21 |
 | May 05 | BMO | MPC | Marathon Petroleum | $0.95 |
 | May 05 | AMC | OXY | Occidental Petroleum | $0.61 |
 | May 05 | BMO | PEG | Public Service Enterprise Group | $1.40 |
@@ -416,6 +415,7 @@
 | May 11 | BMO | CEG | Constellation Energy | $2.68 |
 | May 11 | BMO | FOX | Fox Corporation(Class B) | — |
 | May 11 | BMO | FOXA | Fox Corporation(Class A) | $0.97 |
+| May 11 | BMO | MOS | Mosaic Company (The) | $0.21 |
 | May 11 | AMC | SPG | Simon Property Group | $1.49 |
 | May 12 | BMO | Q | Qnity Electronics | $0.92 |
 | May 12 | AMC | SWKS | Skyworks Solutions | $1.04 |
