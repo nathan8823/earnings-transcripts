@@ -1,31 +1,7 @@
 # S&P 500 Earnings Calendar
-> Last updated: Apr 26, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Apr 27, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
-## This Week (Apr 20–Apr 26)
-| Date | Time | Ticker | Company | Est. EPS |
-|------|------|--------|---------|----------|
-| Apr 20 | AMC | STLD | Steel Dynamics | $3.99 |
-| Apr 21 | AMC | CB | Chubb Limited | $6.68 |
-| Apr 21 | BMO | TSCO | Tractor Supply | $0.86 |
-| Apr 21 | AMC | UAL | United Airlines Holdings | $1.82 |
-| Apr 21 | BMO | UNH | UnitedHealth Group | $4.84 |
-| Apr 22 | BMO | BA | Boeing | $-0.15 |
-| Apr 22 | AMC | CSX | CSX Corporation | $0.49 |
-| Apr 22 | BMO | GEV | GE Vernova | $2.80 |
-| Apr 22 | AMC | LRCX | Lam Research | $1.68 |
-| Apr 22 | BMO | MAS | Masco | $1.32 |
-| Apr 22 | AMC | ROL | Rollins, Inc. | $0.34 |
-| Apr 22 | AMC | TXN | Texas Instruments | $1.95 |
-| Apr 23 | BMO | CBRE | CBRE Group | $1.51 |
-| Apr 23 | BMO | CMCSA | Comcast | $0.98 |
-| Apr 23 | AMC | ERIE | Erie Indemnity | $3.57 |
-| Apr 23 | AMC | HIG | Hartford (The) | $3.33 |
-| Apr 23 | BMO | PCG | PG&E Corporation | $0.36 |
-| Apr 23 | AMC | PFG | Principal Financial Group | $2.30 |
-| Apr 24 | BMO | NSC | Norfolk Southern | $3.14 |
-| Apr 24 | BMO | PG | Procter & Gamble | $1.46 |
-
-## Next Week (Apr 27–May 03)
+## This Week (Apr 27–May 03)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Apr 27 | AMC | ARE | Alexandria Real Estate Equities | — |
@@ -211,7 +187,7 @@
 | May 01 | BMO | XOM | ExxonMobil | $1.00 |
 | May 02 | AMC | BRK-B | Berkshire Hathaway | $5.05 |
 
-## Later (May 04+)
+## Next Week (May 04–May 10)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | May 04 | AMC | CTRA | Coterra | $0.93 |
@@ -341,6 +317,10 @@
 | May 07 | BMO | ZTS | Zoetis | $1.62 |
 | May 08 | BMO | FIS | Fidelity National Information Services | $1.29 |
 | May 08 | BMO | PPL | PPL Corporation | $0.62 |
+
+## Later (May 11+)
+| Date | Time | Ticker | Company | Est. EPS |
+|------|------|--------|---------|----------|
 | May 11 | BMO | CEG | Constellation Energy | $2.60 |
 | May 11 | BMO | FOX | Fox Corporation(Class B) | — |
 | May 11 | BMO | FOXA | Fox Corporation(Class A) | $0.97 |
