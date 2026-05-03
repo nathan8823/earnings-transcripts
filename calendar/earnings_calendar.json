@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02T09:22:50.701834Z",
+  "updated_at": "2026-05-03T09:35:02.636138Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 503,
   "earnings": [
@@ -535,69 +535,6 @@
       "revenue_estimate": 3116376420
     },
     {
-      "ticker": "AON",
-      "company": "Aon plc",
-      "sector": "Financials",
-      "date": "2026-05-01",
-      "time": "BMO",
-      "eps_estimate": 3.83,
-      "revenue_estimate": 4312000000
-    },
-    {
-      "ticker": "ARES",
-      "company": "Ares Management",
-      "sector": "Financials",
-      "date": "2026-05-01",
-      "time": "BMO",
-      "eps_estimate": 1.37,
-      "revenue_estimate": 1143000000
-    },
-    {
-      "ticker": "CBOE",
-      "company": "Cboe Global Markets",
-      "sector": "Financials",
-      "date": "2026-05-01",
-      "time": "BMO",
-      "eps_estimate": 3.11,
-      "revenue_estimate": 723000000
-    },
-    {
-      "ticker": "CHD",
-      "company": "Church & Dwight",
-      "sector": "Consumer Staples",
-      "date": "2026-05-01",
-      "time": "BMO",
-      "eps_estimate": 0.95,
-      "revenue_estimate": 1492476250
-    },
-    {
-      "ticker": "CL",
-      "company": "Colgate-Palmolive",
-      "sector": "Consumer Staples",
-      "date": "2026-05-01",
-      "time": "BMO",
-      "eps_estimate": 0.96,
-      "revenue_estimate": 5334746330
-    },
-    {
-      "ticker": "CVX",
-      "company": "Chevron Corporation",
-      "sector": "Energy",
-      "date": "2026-05-01",
-      "time": "BMO",
-      "eps_estimate": 3.76,
-      "revenue_estimate": 49272500000
-    },
-    {
-      "ticker": "D",
-      "company": "Dominion Energy",
-      "sector": "Utilities",
-      "date": "2026-05-01",
-      "time": "BMO",
-      "eps_estimate": 0.86,
-      "revenue_estimate": 4132288550
-    },
-    {
       "ticker": "EL",
       "company": "Estée Lauder Companies (The)",
       "sector": "Consumer Staples",
@@ -616,47 +553,11 @@
       "revenue_estimate": 332696980
     },
     {
-      "ticker": "LIN",
-      "company": "Linde plc",
-      "sector": "Materials",
-      "date": "2026-05-01",
-      "time": "BMO",
-      "eps_estimate": 4.45,
-      "revenue_estimate": 9092000000
-    },
-    {
-      "ticker": "LYB",
-      "company": "LyondellBasell",
-      "sector": "Materials",
-      "date": "2026-05-01",
-      "time": "BMO",
-      "eps_estimate": 2.69,
-      "revenue_estimate": 8773312870
-    },
-    {
-      "ticker": "MRNA",
-      "company": "Moderna",
-      "sector": "Health Care",
-      "date": "2026-05-01",
-      "time": "TBD",
-      "eps_estimate": -1.96,
-      "revenue_estimate": 92376000
-    },
-    {
-      "ticker": "XOM",
-      "company": "ExxonMobil",
-      "sector": "Energy",
-      "date": "2026-05-01",
-      "time": "BMO",
-      "eps_estimate": 3.31,
-      "revenue_estimate": 95397000000
-    },
-    {
       "ticker": "BRK-B",
       "company": "Berkshire Hathaway",
       "sector": "Financials",
       "date": "2026-05-02",
-      "time": "AMC",
+      "time": "BMO",
       "eps_estimate": 5.05
     },
     {
@@ -3443,6 +3344,15 @@
       "revenue_estimate": 1824047090
     },
     {
+      "ticker": "AON",
+      "company": "Aon plc",
+      "sector": "Financials",
+      "date": "2026-07-24",
+      "time": "BMO",
+      "eps_estimate": 3.83,
+      "revenue_estimate": 4312000000
+    },
+    {
       "ticker": "AXP",
       "company": "American Express",
       "sector": "Financials",
@@ -4242,6 +4152,15 @@
       "revenue_estimate": 3194030830
     },
     {
+      "ticker": "ARES",
+      "company": "Ares Management",
+      "sector": "Financials",
+      "date": "2026-07-30",
+      "time": "BMO",
+      "eps_estimate": 1.37,
+      "revenue_estimate": 1143000000
+    },
+    {
       "ticker": "BAX",
       "company": "Baxter International",
       "sector": "Health Care",
@@ -4321,6 +4240,15 @@
       "time": "BMO",
       "eps_estimate": 2.09,
       "revenue_estimate": 10723164120
+    },
+    {
+      "ticker": "D",
+      "company": "Dominion Energy",
+      "sector": "Utilities",
+      "date": "2026-07-30",
+      "time": "BMO",
+      "eps_estimate": 0.86,
+      "revenue_estimate": 4132288550
     },
     {
       "ticker": "DTE",
@@ -4512,6 +4440,69 @@
       "revenue_estimate": 2194111940
     },
     {
+      "ticker": "CBOE",
+      "company": "Cboe Global Markets",
+      "sector": "Financials",
+      "date": "2026-07-31",
+      "time": "BMO",
+      "eps_estimate": 3.11,
+      "revenue_estimate": 723000000
+    },
+    {
+      "ticker": "CHD",
+      "company": "Church & Dwight",
+      "sector": "Consumer Staples",
+      "date": "2026-07-31",
+      "time": "BMO",
+      "eps_estimate": 0.95,
+      "revenue_estimate": 1492476250
+    },
+    {
+      "ticker": "CL",
+      "company": "Colgate-Palmolive",
+      "sector": "Consumer Staples",
+      "date": "2026-07-31",
+      "time": "BMO",
+      "eps_estimate": 0.96,
+      "revenue_estimate": 5334746330
+    },
+    {
+      "ticker": "CVX",
+      "company": "Chevron Corporation",
+      "sector": "Energy",
+      "date": "2026-07-31",
+      "time": "BMO",
+      "eps_estimate": 3.76,
+      "revenue_estimate": 49272500000
+    },
+    {
+      "ticker": "LIN",
+      "company": "Linde plc",
+      "sector": "Materials",
+      "date": "2026-07-31",
+      "time": "BMO",
+      "eps_estimate": 4.45,
+      "revenue_estimate": 9092000000
+    },
+    {
+      "ticker": "LYB",
+      "company": "LyondellBasell",
+      "sector": "Materials",
+      "date": "2026-07-31",
+      "time": "BMO",
+      "eps_estimate": 2.69,
+      "revenue_estimate": 8773312870
+    },
+    {
+      "ticker": "MRNA",
+      "company": "Moderna",
+      "sector": "Health Care",
+      "date": "2026-07-31",
+      "time": "BMO",
+      "eps_estimate": -1.96,
+      "revenue_estimate": 92376000
+    },
+    {
       "ticker": "TROW",
       "company": "T. Rowe Price",
       "sector": "Financials",
@@ -4519,6 +4510,15 @@
       "time": "BMO",
       "eps_estimate": 2.34,
       "revenue_estimate": 1859173500
+    },
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "sector": "Energy",
+      "date": "2026-07-31",
+      "time": "BMO",
+      "eps_estimate": 3.31,
+      "revenue_estimate": 95397000000
     }
   ],
   "this_week": [
@@ -4856,69 +4856,6 @@
       "revenue_estimate": 3116376420
     },
     {
-      "ticker": "AON",
-      "company": "Aon plc",
-      "sector": "Financials",
-      "date": "2026-05-01",
-      "time": "BMO",
-      "eps_estimate": 3.83,
-      "revenue_estimate": 4312000000
-    },
-    {
-      "ticker": "ARES",
-      "company": "Ares Management",
-      "sector": "Financials",
-      "date": "2026-05-01",
-      "time": "BMO",
-      "eps_estimate": 1.37,
-      "revenue_estimate": 1143000000
-    },
-    {
-      "ticker": "CBOE",
-      "company": "Cboe Global Markets",
-      "sector": "Financials",
-      "date": "2026-05-01",
-      "time": "BMO",
-      "eps_estimate": 3.11,
-      "revenue_estimate": 723000000
-    },
-    {
-      "ticker": "CHD",
-      "company": "Church & Dwight",
-      "sector": "Consumer Staples",
-      "date": "2026-05-01",
-      "time": "BMO",
-      "eps_estimate": 0.95,
-      "revenue_estimate": 1492476250
-    },
-    {
-      "ticker": "CL",
-      "company": "Colgate-Palmolive",
-      "sector": "Consumer Staples",
-      "date": "2026-05-01",
-      "time": "BMO",
-      "eps_estimate": 0.96,
-      "revenue_estimate": 5334746330
-    },
-    {
-      "ticker": "CVX",
-      "company": "Chevron Corporation",
-      "sector": "Energy",
-      "date": "2026-05-01",
-      "time": "BMO",
-      "eps_estimate": 3.76,
-      "revenue_estimate": 49272500000
-    },
-    {
-      "ticker": "D",
-      "company": "Dominion Energy",
-      "sector": "Utilities",
-      "date": "2026-05-01",
-      "time": "BMO",
-      "eps_estimate": 0.86,
-      "revenue_estimate": 4132288550
-    },
-    {
       "ticker": "EL",
       "company": "Estée Lauder Companies (The)",
       "sector": "Consumer Staples",
@@ -4937,47 +4874,11 @@
       "revenue_estimate": 332696980
     },
     {
-      "ticker": "LIN",
-      "company": "Linde plc",
-      "sector": "Materials",
-      "date": "2026-05-01",
-      "time": "BMO",
-      "eps_estimate": 4.45,
-      "revenue_estimate": 9092000000
-    },
-    {
-      "ticker": "LYB",
-      "company": "LyondellBasell",
-      "sector": "Materials",
-      "date": "2026-05-01",
-      "time": "BMO",
-      "eps_estimate": 2.69,
-      "revenue_estimate": 8773312870
-    },
-    {
-      "ticker": "MRNA",
-      "company": "Moderna",
-      "sector": "Health Care",
-      "date": "2026-05-01",
-      "time": "TBD",
-      "eps_estimate": -1.96,
-      "revenue_estimate": 92376000
-    },
-    {
-      "ticker": "XOM",
-      "company": "ExxonMobil",
-      "sector": "Energy",
-      "date": "2026-05-01",
-      "time": "BMO",
-      "eps_estimate": 3.31,
-      "revenue_estimate": 95397000000
-    },
-    {
       "ticker": "BRK-B",
       "company": "Berkshire Hathaway",
       "sector": "Financials",
       "date": "2026-05-02",
-      "time": "AMC",
+      "time": "BMO",
       "eps_estimate": 5.05
     }
   ],

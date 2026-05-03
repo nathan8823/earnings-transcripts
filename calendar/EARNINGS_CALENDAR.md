@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: May 02, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: May 03, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Apr 27–May 03)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -41,20 +41,9 @@
 | Apr 30 | AMC | RMD | ResMed | $2.89 |
 | Apr 30 | AMC | SNDK | Sandisk | $31.08 |
 | Apr 30 | BMO | TAP | Molson Coors Beverage Company | $1.60 |
-| May 01 | BMO | AON | Aon plc | $3.83 |
-| May 01 | BMO | ARES | Ares Management | $1.37 |
-| May 01 | BMO | CBOE | Cboe Global Markets | $3.11 |
-| May 01 | BMO | CHD | Church & Dwight | $0.95 |
-| May 01 | BMO | CL | Colgate-Palmolive | $0.96 |
-| May 01 | BMO | CVX | Chevron Corporation | $3.76 |
-| May 01 | BMO | D | Dominion Energy | $0.86 |
 | May 01 | BMO | EL | Estée Lauder Companies (The) | $0.35 |
 | May 01 | BMO | FRT | Federal Realty Investment Trust | $0.73 |
-| May 01 | BMO | LIN | Linde plc | $4.45 |
-| May 01 | BMO | LYB | LyondellBasell | $2.69 |
-| May 01 | TBD | MRNA | Moderna | $-1.96 |
-| May 01 | BMO | XOM | ExxonMobil | $3.31 |
-| May 02 | AMC | BRK-B | Berkshire Hathaway | $5.05 |
+| May 02 | BMO | BRK-B | Berkshire Hathaway | $5.05 |
 
 ## Next Week (May 04–May 10)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -373,6 +362,7 @@
 | Jul 23 | BMO | WAB | Wabtec | $2.60 |
 | Jul 23 | BMO | WST | West Pharmaceutical Services | $2.08 |
 | Jul 23 | AMC | WY | Weyerhaeuser | $0.05 |
+| Jul 24 | BMO | AON | Aon plc | $3.83 |
 | Jul 24 | BMO | AXP | American Express | $4.39 |
 | Jul 24 | BMO | CHTR | Charter Communications | $10.51 |
 | Jul 24 | BMO | HCA | HCA Healthcare | $7.39 |
@@ -462,6 +452,7 @@
 | Jul 30 | AMC | AMZN | Amazon | $1.82 |
 | Jul 30 | BMO | AOS | A. O. Smith | $0.93 |
 | Jul 30 | BMO | APD | Air Products | $3.33 |
+| Jul 30 | BMO | ARES | Ares Management | $1.37 |
 | Jul 30 | BMO | BAX | Baxter International | $0.37 |
 | Jul 30 | BMO | BIIB | Biogen | $2.10 |
 | Jul 30 | BMO | BLDR | Builders FirstSource | $1.27 |
@@ -471,6 +462,7 @@
 | Jul 30 | BMO | CMCSA | Comcast | $0.98 |
 | Jul 30 | AMC | CPT | Camden Property Trust | $0.22 |
 | Jul 30 | BMO | CRH | CRH plc | $2.09 |
+| Jul 30 | BMO | D | Dominion Energy | $0.86 |
 | Jul 30 | BMO | DTE | DTE Energy | $1.52 |
 | Jul 30 | BMO | EME | Emcor | $7.26 |
 | Jul 30 | BMO | ETR | Entergy | $1.11 |
@@ -492,5 +484,13 @@
 | Jul 30 | BMO | WTW | Willis Towers Watson | $3.14 |
 | Jul 30 | BMO | XEL | Xcel Energy | $0.79 |
 | Jul 30 | BMO | YUM | Yum! Brands | $1.57 |
+| Jul 31 | BMO | CBOE | Cboe Global Markets | $3.11 |
+| Jul 31 | BMO | CHD | Church & Dwight | $0.95 |
+| Jul 31 | BMO | CL | Colgate-Palmolive | $0.96 |
+| Jul 31 | BMO | CVX | Chevron Corporation | $3.76 |
+| Jul 31 | BMO | LIN | Linde plc | $4.45 |
+| Jul 31 | BMO | LYB | LyondellBasell | $2.69 |
+| Jul 31 | BMO | MRNA | Moderna | $-1.96 |
 | Jul 31 | BMO | TROW | T. Rowe Price | $2.34 |
+| Jul 31 | BMO | XOM | ExxonMobil | $3.31 |
 
