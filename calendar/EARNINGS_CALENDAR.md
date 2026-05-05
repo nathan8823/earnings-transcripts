@@ -1,20 +1,10 @@
 # S&P 500 Earnings Calendar
-> Last updated: May 04, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: May 05, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (May 04–May 10)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
-| May 04 | AMC | CTRA | Coterra | $0.93 |
-| May 04 | AMC | FANG | Diamondback Energy | $3.75 |
-| May 04 | BMO | L | Loews Corporation | — |
-| May 04 | BMO | NCLH | Norwegian Cruise Line Holdings | $0.14 |
-| May 04 | AMC | ON | ON Semiconductor | $0.62 |
-| May 04 | AMC | PLTR | Palantir Technologies | $0.28 |
-| May 04 | BMO | PNW | Pinnacle West Capital | $-0.00 |
-| May 04 | AMC | PSKY | Paramount Skydance Corporation | $0.15 |
-| May 04 | BMO | TSN | Tyson Foods | $0.78 |
-| May 04 | AMC | VRTX | Vertex Pharmaceuticals | $4.31 |
-| May 04 | AMC | WMB | Williams Companies | $0.62 |
+| May 04 | BMO | PNW | Pinnacle West Capital | $1.50 |
 | May 05 | BMO | ADM | Archer Daniels Midland | $0.66 |
 | May 05 | AMC | AEE | Ameren | $1.18 |
 | May 05 | BMO | AEP | American Electric Power | $1.57 |
@@ -48,7 +38,6 @@
 | May 05 | BMO | LDOS | Leidos | $2.91 |
 | May 05 | AMC | LYV | Live Nation Entertainment | $-0.32 |
 | May 05 | BMO | MPC | Marathon Petroleum | $0.75 |
-| May 05 | AMC | MTCH | Match Group | $0.86 |
 | May 05 | AMC | OXY | Occidental Petroleum | $0.58 |
 | May 05 | BMO | PEG | Public Service Enterprise Group | $1.43 |
 | May 05 | BMO | PFE | Pfizer | $0.72 |
@@ -131,6 +120,7 @@
 | May 07 | AMC | WYNN | Wynn Resorts | $1.18 |
 | May 07 | AMC | XYZ | Block, Inc. | $0.68 |
 | May 07 | BMO | ZTS | Zoetis | $1.62 |
+| May 08 | AMC | CTRA | Coterra | $0.93 |
 | May 08 | BMO | FIS | Fidelity National Information Services | $1.29 |
 | May 08 | BMO | PPL | PPL Corporation | $0.62 |
 
@@ -162,7 +152,6 @@
 | May 20 | BMO | TGT | Target Corporation | $1.35 |
 | May 20 | BMO | TJX | TJX Companies | $1.01 |
 | May 20 | BMO | WSM | Williams-Sonoma, Inc. | $1.80 |
-| May 21 | AMC | ADSK | Autodesk | $2.84 |
 | May 21 | AMC | CPRT | Copart | $0.41 |
 | May 21 | BMO | DE | Deere & Company | $5.71 |
 | May 21 | AMC | DECK | Deckers Brands | $0.83 |
@@ -176,6 +165,7 @@
 | May 27 | AMC | CRM | Salesforce | $3.12 |
 | May 27 | AMC | HPQ | HP Inc. | $0.71 |
 | May 27 | AMC | SNPS | Synopsys | $3.15 |
+| May 28 | AMC | ADSK | Autodesk | $2.84 |
 | May 28 | BMO | BBY | Best Buy | $1.23 |
 | May 28 | AMC | COST | Costco | $4.95 |
 | May 28 | AMC | DELL | Dell Technologies | $2.94 |
@@ -269,7 +259,6 @@
 | Jul 21 | BMO | SHW | Sherwin-Williams | $3.50 |
 | Jul 21 | BMO | SYF | Synchrony Financial | $2.10 |
 | Jul 21 | BMO | VZ | Verizon | $1.28 |
-| Jul 22 | BMO | BSX | Boston Scientific | $0.83 |
 | Jul 22 | AMC | CCI | Crown Castle | $0.47 |
 | Jul 22 | BMO | CME | CME Group | $2.98 |
 | Jul 22 | BMO | FCX | Freeport-McMoRan | $0.56 |
@@ -367,6 +356,7 @@
 | Jul 29 | AMC | AWK | American Water Works | $1.58 |
 | Jul 29 | BMO | BG | Bunge Global | $1.93 |
 | Jul 29 | AMC | BKNG | Booking Holdings | $2.45 |
+| Jul 29 | BMO | BSX | Boston Scientific | $0.83 |
 | Jul 29 | AMC | CHRW | C.H. Robinson | $1.52 |
 | Jul 29 | AMC | CMG | Chipotle Mexican Grill | $0.32 |
 | Jul 29 | BMO | CTSH | Cognizant | $1.38 |
@@ -435,6 +425,7 @@
 | Jul 30 | BMO | MA | Mastercard | $4.76 |
 | Jul 30 | BMO | MO | Altria | $1.49 |
 | Jul 30 | AMC | MPWR | Monolithic Power Systems | $5.86 |
+| Jul 30 | BMO | NCLH | Norwegian Cruise Line Holdings | $0.52 |
 | Jul 30 | BMO | PWR | Quanta Services | $3.24 |
 | Jul 30 | BMO | REGN | Regeneron Pharmaceuticals | $10.89 |
 | Jul 30 | BMO | SO | Southern Company | $1.01 |
@@ -454,4 +445,15 @@
 | Jul 31 | BMO | TROW | T. Rowe Price | $2.34 |
 | Jul 31 | BMO | XOM | ExxonMobil | $3.71 |
 | Aug 01 | AMC | BRK-B | Berkshire Hathaway | $5.08 |
+| Aug 03 | AMC | FANG | Diamondback Energy | $4.89 |
+| Aug 03 | BMO | L | Loews Corporation | — |
+| Aug 03 | BMO | ON | ON Semiconductor | $0.67 |
+| Aug 03 | AMC | PLTR | Palantir Technologies | $0.28 |
+| Aug 03 | AMC | PSKY | Paramount Skydance Corporation | $0.17 |
+| Aug 03 | BMO | TSN | Tyson Foods | $1.00 |
+| Aug 03 | AMC | VRTX | Vertex Pharmaceuticals | $4.31 |
+| Aug 03 | AMC | WMB | Williams Companies | $0.62 |
+| Aug 04 | AMC | AMGN | Amgen | $5.64 |
+| Aug 04 | BMO | CAT | Caterpillar Inc. | $6.03 |
+| Aug 04 | BMO | MRK | Merck & Co. | $2.09 |
 
