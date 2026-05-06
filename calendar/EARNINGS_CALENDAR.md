@@ -1,60 +1,19 @@
 # S&P 500 Earnings Calendar
-> Last updated: May 05, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: May 06, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (May 04–May 10)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
-| May 04 | BMO | PNW | Pinnacle West Capital | $1.50 |
-| May 05 | BMO | ADM | Archer Daniels Midland | $0.66 |
-| May 05 | AMC | AEE | Ameren | $1.18 |
-| May 05 | BMO | AEP | American Electric Power | $1.57 |
-| May 05 | AMC | AIZ | Assurant | $5.33 |
-| May 05 | AMC | AMD | Advanced Micro Devices | $1.29 |
-| May 05 | AMC | ANET | Arista Networks | $0.81 |
-| May 05 | BMO | APTV | Aptiv | $1.58 |
-| May 05 | BMO | BALL | Ball Corporation | $0.84 |
-| May 05 | BMO | CMI | Cummins | $5.63 |
-| May 05 | AMC | CTVA | Corteva | $1.18 |
-| May 05 | BMO | DD | DuPont | $0.48 |
-| May 05 | AMC | DOC | Healthpeak Properties | — |
-| May 05 | BMO | DUK | Duke Energy | $1.80 |
-| May 05 | AMC | DVA | DaVita | $2.33 |
-| May 05 | AMC | DVN | Devon Energy | $1.10 |
-| May 05 | AMC | EA | Electronic Arts | $2.36 |
-| May 05 | AMC | EMR | Emerson Electric | $1.53 |
+| May 04 | BMO | PNW | Pinnacle West Capital | $1.49 |
 | May 05 | AMC | EOG | EOG Resources | $3.21 |
-| May 05 | BMO | ETN | Eaton Corporation | $2.73 |
-| May 05 | BMO | EXPD | Expeditors International | $1.33 |
-| May 05 | BMO | FISV | Fiserv | $1.58 |
-| May 05 | BMO | HII | Huntington Ingalls Industries | $3.73 |
-| May 05 | BMO | HSIC | Henry Schein | $1.22 |
-| May 05 | BMO | IDXX | Idexx Laboratories | $3.41 |
-| May 05 | AMC | IFF | International Flavors & Fragrances | $1.07 |
-| May 05 | BMO | IQV | IQVIA | $2.82 |
-| May 05 | BMO | IT | Gartner | $2.92 |
-| May 05 | AMC | J | Jacobs Solutions | $1.63 |
-| May 05 | AMC | JKHY | Jack Henry & Associates | $1.42 |
-| May 05 | BMO | KKR | KKR & Co. | $1.26 |
-| May 05 | BMO | LDOS | Leidos | $2.91 |
-| May 05 | AMC | LYV | Live Nation Entertainment | $-0.32 |
-| May 05 | BMO | MPC | Marathon Petroleum | $0.75 |
-| May 05 | AMC | OXY | Occidental Petroleum | $0.58 |
-| May 05 | BMO | PEG | Public Service Enterprise Group | $1.43 |
-| May 05 | BMO | PFE | Pfizer | $0.72 |
-| May 05 | AMC | PRU | Prudential Financial | $3.10 |
-| May 05 | BMO | PYPL | PayPal | $1.27 |
-| May 05 | BMO | ROK | Rockwell Automation | $2.88 |
-| May 05 | BMO | RVTY | Revvity | $1.02 |
-| May 05 | AMC | SMCI | Supermicro | $0.62 |
+| May 05 | AMC | JKHY | Jack Henry & Associates | $1.41 |
+| May 05 | AMC | LYV | Live Nation Entertainment | $0.53 |
+| May 05 | BMO | ROK | Rockwell Automation | $3.10 |
 | May 05 | AMC | SOLV | Solventum | $1.35 |
-| May 05 | AMC | SWKS | Skyworks Solutions | $1.04 |
-| May 05 | BMO | TDG | TransDigm Group | $9.44 |
-| May 05 | BMO | WAT | Waters Corporation | $2.31 |
-| May 05 | BMO | WEC | WEC Energy Group | $2.30 |
 | May 06 | AMC | ALB | Albemarle Corporation | $1.31 |
 | May 06 | BMO | AMCR | Amcor | $0.95 |
 | May 06 | AMC | APA | APA Corporation | $1.14 |
-| May 06 | BMO | APO | Apollo Global Management | $1.90 |
+| May 06 | BMO | APO | Apollo Global Management | $1.88 |
 | May 06 | AMC | APP | AppLovin | $3.64 |
 | May 06 | AMC | ATO | Atmos Energy | $3.41 |
 | May 06 | AMC | AXON | Axon Enterprise | $1.60 |
@@ -64,21 +23,21 @@
 | May 06 | BMO | CVS | CVS Health | $2.21 |
 | May 06 | AMC | DASH | DoorDash | $1.07 |
 | May 06 | BMO | DIS | Walt Disney Company (The) | $1.50 |
-| May 06 | AMC | ES | Eversource Energy | $1.62 |
+| May 06 | AMC | ES | Eversource Energy | $1.63 |
 | May 06 | BMO | EXC | Exelon | $0.88 |
 | May 06 | AMC | FTNT | Fortinet | $0.62 |
-| May 06 | BMO | GPN | Global Payments | $2.82 |
+| May 06 | BMO | GPN | Global Payments | $2.81 |
 | May 06 | AMC | HST | Host Hotels & Resorts | $0.33 |
 | May 06 | BMO | JCI | Johnson Controls | $1.12 |
 | May 06 | BMO | KHC | Kraft Heinz | $0.50 |
-| May 06 | BMO | MAR | Marriott International | $2.56 |
+| May 06 | BMO | MAR | Marriott International | $2.55 |
 | May 06 | AMC | MET | MetLife | $2.27 |
 | May 06 | BMO | NI | NiSource | $1.05 |
-| May 06 | BMO | NRG | NRG Energy | $1.72 |
+| May 06 | BMO | NRG | NRG Energy | $1.73 |
 | May 06 | AMC | O | Realty Income | $0.42 |
 | May 06 | AMC | PAYC | Paycom | $2.99 |
 | May 06 | BMO | PODD | Insulet Corporation | $1.19 |
-| May 06 | AMC | PTC | PTC Inc. | $2.10 |
+| May 06 | AMC | PTC | PTC Inc. | $2.11 |
 | May 06 | BMO | TECH | Bio-Techne | $0.53 |
 | May 06 | AMC | TKO | TKO Group Holdings | $0.71 |
 | May 06 | AMC | TPL | Texas Pacific Land Corporation | — |
@@ -86,14 +45,14 @@
 | May 06 | BMO | UBER | Uber | $0.69 |
 | May 06 | AMC | WBD | Warner Bros. Discovery | $-0.10 |
 | May 07 | AMC | ABNB | Airbnb | $0.31 |
-| May 07 | AMC | AES | AES Corporation | $0.37 |
+| May 07 | AMC | AES | AES Corporation | $0.51 |
 | May 07 | AMC | AKAM | Akamai Technologies | $1.60 |
-| May 07 | BMO | BDX | Becton Dickinson | $2.78 |
-| May 07 | AMC | COIN | Coinbase | $0.23 |
+| May 07 | BMO | BDX | Becton Dickinson | $2.77 |
+| May 07 | AMC | COIN | Coinbase | $0.04 |
 | May 07 | AMC | CPAY | Corpay | $5.47 |
 | May 07 | BMO | CRL | Charles River Laboratories | $1.94 |
 | May 07 | BMO | DDOG | Datadog | $0.51 |
-| May 07 | AMC | ED | Consolidated Edison | $2.26 |
+| May 07 | AMC | ED | Consolidated Edison | $2.27 |
 | May 07 | BMO | EPAM | EPAM Systems | $2.75 |
 | May 07 | BMO | EVRG | Evergy | $0.61 |
 | May 07 | AMC | EXPE | Expedia Group | $1.38 |
@@ -113,7 +72,7 @@
 | May 07 | AMC | RSG | Republic Services | $1.64 |
 | May 07 | BMO | SRE | Sempra | $1.51 |
 | May 07 | BMO | TPR | Tapestry, Inc. | $1.29 |
-| May 07 | BMO | TRGP | Targa Resources | $2.60 |
+| May 07 | BMO | TRGP | Targa Resources | $2.57 |
 | May 07 | AMC | TTD | Trade Desk (The) | $0.32 |
 | May 07 | BMO | VST | Vistra Corp. | $1.46 |
 | May 07 | BMO | VTRS | Viatris | $0.50 |
@@ -130,7 +89,7 @@
 | May 11 | BMO | CEG | Constellation Energy | $2.61 |
 | May 11 | BMO | FOX | Fox Corporation(Class B) | — |
 | May 11 | BMO | FOXA | Fox Corporation(Class A) | $0.97 |
-| May 11 | BMO | MOS | Mosaic Company (The) | $0.21 |
+| May 11 | BMO | MOS | Mosaic Company (The) | $0.22 |
 | May 11 | AMC | SPG | Simon Property Group | $1.49 |
 | May 11 | AMC | STE | Steris | $2.85 |
 | May 12 | BMO | Q | Qnity Electronics | $0.92 |
@@ -144,18 +103,18 @@
 | May 19 | BMO | HD | Home Depot (The) | $3.41 |
 | May 19 | AMC | KEYS | Keysight Technologies | $2.32 |
 | May 20 | BMO | ADI | Analog Devices | $2.90 |
-| May 20 | BMO | HAS | Hasbro | $1.11 |
+| May 20 | BMO | HAS | Hasbro | $1.13 |
 | May 20 | AMC | INTU | Intuit | $12.52 |
 | May 20 | BMO | LOW | Lowe's | $2.96 |
 | May 20 | AMC | NDSN | Nordson Corporation | $2.85 |
 | May 20 | AMC | NVDA | Nvidia | $1.77 |
-| May 20 | BMO | TGT | Target Corporation | $1.35 |
+| May 20 | BMO | TGT | Target Corporation | $1.36 |
 | May 20 | BMO | TJX | TJX Companies | $1.01 |
 | May 20 | BMO | WSM | Williams-Sonoma, Inc. | $1.80 |
 | May 21 | AMC | CPRT | Copart | $0.41 |
 | May 21 | BMO | DE | Deere & Company | $5.71 |
 | May 21 | AMC | DECK | Deckers Brands | $0.83 |
-| May 21 | BMO | RL | Ralph Lauren Corporation | $2.49 |
+| May 21 | BMO | RL | Ralph Lauren Corporation | $2.51 |
 | May 21 | AMC | ROST | Ross Stores | $1.68 |
 | May 21 | AMC | TTWO | Take-Two Interactive | $0.56 |
 | May 21 | AMC | WDAY | Workday, Inc. | $2.52 |
@@ -174,7 +133,7 @@
 | Jun 02 | BMO | DG | Dollar General | $1.91 |
 | Jun 02 | AMC | HPE | Hewlett Packard Enterprise | $0.53 |
 | Jun 02 | AMC | PANW | Palo Alto Networks | $0.80 |
-| Jun 02 | AMC | ULTA | Ulta Beauty | $6.88 |
+| Jun 02 | AMC | ULTA | Ulta Beauty | $6.87 |
 | Jun 03 | AMC | AVGO | Broadcom | $2.39 |
 | Jun 03 | BMO | DLTR | Dollar Tree | $1.56 |
 | Jun 03 | BMO | MDT | Medtronic | $1.55 |
@@ -199,18 +158,18 @@
 | Jul 13 | BMO | FAST | Fastenal | $0.32 |
 | Jul 14 | BMO | BAC | Bank of America | $1.10 |
 | Jul 14 | BMO | C | Citigroup | $2.57 |
-| Jul 14 | BMO | GS | Goldman Sachs | $13.75 |
+| Jul 14 | BMO | GS | Goldman Sachs | $13.73 |
 | Jul 14 | AMC | IBKR | Interactive Brokers | $0.61 |
 | Jul 14 | AMC | JBHT | J.B. Hunt | $1.70 |
 | Jul 14 | BMO | JPM | JPMorgan Chase | $5.39 |
 | Jul 14 | BMO | STT | State Street Corporation | $3.14 |
-| Jul 14 | BMO | WFC | Wells Fargo | $1.70 |
+| Jul 14 | BMO | WFC | Wells Fargo | $1.71 |
 | Jul 15 | BMO | BK | BNY Mellon | $2.16 |
 | Jul 15 | BMO | BLK | BlackRock | $12.55 |
 | Jul 15 | BMO | JNJ | Johnson & Johnson | $2.84 |
 | Jul 15 | AMC | KMI | Kinder Morgan | $0.32 |
 | Jul 15 | BMO | MS | Morgan Stanley | $2.75 |
-| Jul 15 | BMO | MTB | M&T Bank | $4.63 |
+| Jul 15 | BMO | MTB | M&T Bank | $4.64 |
 | Jul 15 | BMO | PGR | Progressive Corporation | $3.75 |
 | Jul 15 | BMO | PLD | Prologis | $0.79 |
 | Jul 15 | BMO | PNC | PNC Financial Services | $4.51 |
@@ -234,19 +193,20 @@
 | Jul 21 | BMO | AVY | Avery Dennison | $2.47 |
 | Jul 21 | AMC | BKR | Baker Hughes | $0.47 |
 | Jul 21 | AMC | COF | Capital One | $4.74 |
-| Jul 21 | AMC | CSGP | CoStar Group | $0.28 |
+| Jul 21 | AMC | CSGP | CoStar Group | $0.29 |
 | Jul 21 | BMO | DGX | Quest Diagnostics | $2.82 |
 | Jul 21 | BMO | DHI | D. R. Horton | $2.99 |
 | Jul 21 | BMO | DHR | Danaher Corporation | $1.84 |
 | Jul 21 | BMO | EFX | Equifax | $2.20 |
 | Jul 21 | AMC | EQT | EQT Corporation | $0.58 |
-| Jul 21 | BMO | GM | General Motors | $3.26 |
+| Jul 21 | BMO | GM | General Motors | $3.24 |
 | Jul 21 | BMO | GPC | Genuine Parts Company | $2.06 |
 | Jul 21 | BMO | HAL | Halliburton | $0.54 |
+| Jul 21 | BMO | IQV | IQVIA | $3.04 |
 | Jul 21 | AMC | ISRG | Intuitive Surgical | $2.50 |
 | Jul 21 | BMO | IVZ | Invesco | $0.61 |
 | Jul 21 | BMO | KO | Coca-Cola Company (The) | $0.93 |
-| Jul 21 | BMO | LMT | Lockheed Martin | $7.15 |
+| Jul 21 | BMO | LMT | Lockheed Martin | $7.14 |
 | Jul 21 | BMO | MMM | 3M | $2.22 |
 | Jul 21 | BMO | MSCI | MSCI Inc. | $4.85 |
 | Jul 21 | BMO | NOC | Northrop Grumman | $6.82 |
@@ -259,10 +219,11 @@
 | Jul 21 | BMO | SHW | Sherwin-Williams | $3.50 |
 | Jul 21 | BMO | SYF | Synchrony Financial | $2.10 |
 | Jul 21 | BMO | VZ | Verizon | $1.28 |
-| Jul 22 | AMC | CCI | Crown Castle | $0.47 |
+| Jul 22 | AMC | CCI | Crown Castle | $0.48 |
 | Jul 22 | BMO | CME | CME Group | $2.98 |
 | Jul 22 | BMO | FCX | Freeport-McMoRan | $0.56 |
-| Jul 22 | BMO | GD | General Dynamics | $3.91 |
+| Jul 22 | BMO | FISV | Fiserv | $2.00 |
+| Jul 22 | BMO | GD | General Dynamics | $3.92 |
 | Jul 22 | AMC | GL | Globe Life | $3.69 |
 | Jul 22 | AMC | IBM | IBM | $2.98 |
 | Jul 22 | AMC | LUV | Southwest Airlines | $0.42 |
@@ -284,16 +245,17 @@
 | Jul 22 | AMC | TSLA | Tesla, Inc. | $0.45 |
 | Jul 22 | AMC | URI | United Rentals | $11.54 |
 | Jul 23 | BMO | ALLE | Allegion | $2.21 |
-| Jul 23 | AMC | AMP | Ameriprise Financial | $10.58 |
+| Jul 23 | AMC | AMP | Ameriprise Financial | $10.59 |
 | Jul 23 | BMO | BX | Blackstone Inc. | $1.35 |
 | Jul 23 | BMO | CNP | CenterPoint Energy | $0.38 |
 | Jul 23 | AMC | DLR | Digital Realty | — |
+| Jul 23 | AMC | DOC | Healthpeak Properties | — |
 | Jul 23 | BMO | DOV | Dover Corporation | $2.72 |
 | Jul 23 | BMO | DOW | Dow Inc. | $1.19 |
 | Jul 23 | AMC | EW | Edwards Lifesciences | $0.74 |
 | Jul 23 | AMC | FIX | Comfort Systems USA | $10.40 |
-| Jul 23 | AMC | GOOG | Alphabet Inc.(Class C) | $2.87 |
-| Jul 23 | AMC | GOOGL | Alphabet Inc.(Class A) | $2.87 |
+| Jul 23 | AMC | GOOG | Alphabet Inc.(Class C) | $2.88 |
+| Jul 23 | AMC | GOOGL | Alphabet Inc.(Class A) | $2.88 |
 | Jul 23 | BMO | HBAN | Huntington Bancshares | $0.39 |
 | Jul 23 | BMO | HON | Honeywell | $2.42 |
 | Jul 23 | AMC | INTC | Intel | $0.21 |
@@ -303,42 +265,45 @@
 | Jul 23 | BMO | NDAQ | Nasdaq, Inc. | $0.95 |
 | Jul 23 | AMC | NEM | Newmont | $2.17 |
 | Jul 23 | BMO | POOL | Pool Corporation | $5.36 |
-| Jul 23 | BMO | TXT | Textron | $1.58 |
+| Jul 23 | BMO | TXT | Textron | $1.56 |
 | Jul 23 | BMO | UNP | Union Pacific Corporation | $3.13 |
-| Jul 23 | BMO | VLO | Valero Energy | $8.93 |
+| Jul 23 | BMO | VLO | Valero Energy | $9.22 |
 | Jul 23 | AMC | VLTO | Veralto | $1.00 |
 | Jul 23 | AMC | VRSN | Verisign | $2.42 |
 | Jul 23 | BMO | WAB | Wabtec | $2.60 |
 | Jul 23 | BMO | WST | West Pharmaceutical Services | $2.08 |
-| Jul 23 | AMC | WY | Weyerhaeuser | $0.12 |
-| Jul 24 | BMO | AON | Aon plc | $3.83 |
-| Jul 24 | BMO | AXP | American Express | $4.39 |
-| Jul 24 | BMO | CHTR | Charter Communications | $10.51 |
+| Jul 23 | AMC | WY | Weyerhaeuser | $0.11 |
+| Jul 24 | BMO | AON | Aon plc | $3.82 |
+| Jul 24 | BMO | AXP | American Express | $4.40 |
+| Jul 24 | BMO | CHTR | Charter Communications | $10.36 |
 | Jul 24 | BMO | HCA | HCA Healthcare | $7.39 |
 | Jul 24 | BMO | LHX | L3Harris | $2.84 |
-| Jul 24 | BMO | PSX | Phillips 66 | $6.03 |
+| Jul 24 | BMO | PSX | Phillips 66 | $5.95 |
 | Jul 24 | BMO | SLB | Schlumberger | $0.53 |
 | Jul 27 | AMC | BRO | Brown & Brown | $1.08 |
 | Jul 27 | AMC | CDNS | Cadence Design Systems | $2.05 |
 | Jul 27 | AMC | CINF | Cincinnati Financial | $1.73 |
 | Jul 27 | AMC | NUE | Nucor | $4.19 |
 | Jul 27 | AMC | NXPI | NXP Semiconductors | $3.53 |
+| Jul 27 | BMO | RVTY | Revvity | $1.23 |
 | Jul 27 | AMC | UHS | Universal Health Services | $5.76 |
 | Jul 27 | AMC | WELL | Welltower | $0.57 |
-| Jul 27 | AMC | WM | Waste Management | $2.00 |
-| Jul 28 | AMC | ACGL | Arch Capital Group | $2.45 |
-| Jul 28 | BMO | AMT | American Tower | $1.55 |
+| Jul 27 | AMC | WM | Waste Management | $1.99 |
+| Jul 28 | AMC | ACGL | Arch Capital Group | $2.42 |
+| Jul 28 | BMO | AMT | American Tower | $1.54 |
 | Jul 28 | BMO | BA | Boeing | $-0.24 |
 | Jul 28 | AMC | BXP | BXP, Inc. | $0.43 |
-| Jul 28 | BMO | CARR | Carrier Global | $0.81 |
+| Jul 28 | BMO | CARR | Carrier Global | $0.82 |
 | Jul 28 | AMC | CB | Chubb Limited | $6.69 |
-| Jul 28 | BMO | CNC | Centene Corporation | $1.11 |
+| Jul 28 | BMO | CNC | Centene Corporation | $1.05 |
+| Jul 28 | AMC | EA | Electronic Arts | $2.36 |
 | Jul 28 | BMO | ECL | Ecolab | $2.07 |
-| Jul 28 | AMC | ESS | Essex Property Trust | $1.49 |
-| Jul 28 | AMC | EXE | Expand Energy | $1.18 |
+| Jul 28 | AMC | ESS | Essex Property Trust | $1.45 |
+| Jul 28 | AMC | EXE | Expand Energy | $1.16 |
 | Jul 28 | BMO | GLW | Corning Inc. | $0.76 |
 | Jul 28 | BMO | HUBB | Hubbell Incorporated | $5.36 |
 | Jul 28 | BMO | INCY | Incyte | $1.84 |
+| Jul 28 | BMO | LDOS | Leidos | $3.02 |
 | Jul 28 | AMC | MDLZ | Mondelez International | $0.68 |
 | Jul 28 | AMC | PPG | PPG Industries | $2.25 |
 | Jul 28 | BMO | RCL | Royal Caribbean Group | $3.92 |
@@ -349,10 +314,10 @@
 | Jul 28 | AMC | TXN | Texas Instruments | $1.95 |
 | Jul 28 | BMO | UNH | UnitedHealth Group | $4.85 |
 | Jul 28 | BMO | UPS | United Parcel Service | $1.64 |
-| Jul 28 | AMC | V | Visa Inc. | $3.21 |
+| Jul 28 | AMC | V | Visa Inc. | $3.22 |
 | Jul 29 | BMO | ADP | Automatic Data Processing | $2.59 |
-| Jul 29 | AMC | ALGN | Align Technology | $2.63 |
-| Jul 29 | BMO | APH | Amphenol | $1.16 |
+| Jul 29 | AMC | ALGN | Align Technology | $2.61 |
+| Jul 29 | BMO | APH | Amphenol | $1.17 |
 | Jul 29 | AMC | AWK | American Water Works | $1.58 |
 | Jul 29 | BMO | BG | Bunge Global | $1.93 |
 | Jul 29 | AMC | BKNG | Booking Holdings | $2.45 |
@@ -366,12 +331,13 @@
 | Jul 29 | AMC | EG | Everest Group | $14.92 |
 | Jul 29 | AMC | EQIX | Equinix | $4.78 |
 | Jul 29 | AMC | F | Ford Motor Company | $0.36 |
-| Jul 29 | BMO | FTV | Fortive | $0.71 |
+| Jul 29 | AMC | FFIV | F5, Inc. | $4.00 |
+| Jul 29 | BMO | FTV | Fortive | $0.70 |
 | Jul 29 | BMO | GEHC | GE HealthCare | $1.04 |
 | Jul 29 | BMO | GEV | GE Vernova | $2.91 |
-| Jul 29 | BMO | GNRC | Generac | $1.96 |
+| Jul 29 | BMO | GNRC | Generac | $1.97 |
 | Jul 29 | BMO | GRMN | Garmin | $2.26 |
-| Jul 29 | BMO | HLT | Hilton Worldwide | $2.29 |
+| Jul 29 | BMO | HLT | Hilton Worldwide | $2.25 |
 | Jul 29 | AMC | HOOD | Robinhood Markets | $0.49 |
 | Jul 29 | BMO | HUM | Humana | $6.46 |
 | Jul 29 | BMO | IEX | IDEX Corporation | $2.11 |
@@ -380,80 +346,117 @@
 | Jul 29 | BMO | LII | Lennox International | $7.59 |
 | Jul 29 | AMC | LRCX | Lam Research | $1.68 |
 | Jul 29 | AMC | MAA | Mid-America Apartment Communities | — |
-| Jul 29 | AMC | META | Meta Platforms | $7.41 |
+| Jul 29 | AMC | META | Meta Platforms | $7.43 |
 | Jul 29 | AMC | MGM | MGM Resorts | $0.63 |
-| Jul 29 | AMC | MSFT | Microsoft | $4.22 |
+| Jul 29 | AMC | MSFT | Microsoft | $4.24 |
 | Jul 29 | BMO | ODFL | Old Dominion | $1.45 |
 | Jul 29 | AMC | ORLY | O’Reilly Automotive | $0.86 |
+| Jul 29 | BMO | PFE | Pfizer | $0.68 |
 | Jul 29 | BMO | PG | Procter & Gamble | $1.42 |
+| Jul 29 | AMC | PRU | Prudential Financial | $3.11 |
 | Jul 29 | AMC | QCOM | Qualcomm | $2.22 |
 | Jul 29 | AMC | REG | Regency Centers | $0.60 |
-| Jul 29 | BMO | SW | Smurfit Westrock | $0.44 |
-| Jul 29 | BMO | TT | Trane Technologies | $4.27 |
+| Jul 29 | BMO | SW | Smurfit Westrock | $0.42 |
+| Jul 29 | BMO | TT | Trane Technologies | $4.26 |
 | Jul 29 | AMC | TYL | Tyler Technologies | $3.19 |
 | Jul 29 | AMC | UDR | UDR, Inc. | — |
 | Jul 29 | AMC | VICI | Vici Properties | $0.71 |
-| Jul 29 | BMO | VRSK | Verisk Analytics | $1.94 |
+| Jul 29 | BMO | VRSK | Verisk Analytics | $1.93 |
+| Jul 29 | BMO | WAT | Waters Corporation | $2.95 |
 | Jul 29 | AMC | WDC | Western Digital | $3.27 |
 | Jul 30 | AMC | AAPL | Apple Inc. | $1.89 |
 | Jul 30 | BMO | ABBV | AbbVie | $3.76 |
+| Jul 30 | AMC | AEE | Ameren | $1.08 |
+| Jul 30 | BMO | AEP | American Electric Power | $1.57 |
 | Jul 30 | AMC | AJG | Arthur J. Gallagher & Co. | $2.87 |
 | Jul 30 | BMO | AME | Ametek | $1.99 |
 | Jul 30 | AMC | AMZN | Amazon | $1.82 |
-| Jul 30 | BMO | AOS | A. O. Smith | $0.93 |
-| Jul 30 | BMO | APD | Air Products | $3.33 |
-| Jul 30 | BMO | ARES | Ares Management | $1.37 |
+| Jul 30 | BMO | AOS | A. O. Smith | $0.94 |
+| Jul 30 | BMO | APD | Air Products | $3.34 |
+| Jul 30 | BMO | APTV | Aptiv | $1.49 |
+| Jul 30 | BMO | ARES | Ares Management | $1.34 |
 | Jul 30 | BMO | BAX | Baxter International | $0.37 |
-| Jul 30 | BMO | BIIB | Biogen | $2.05 |
-| Jul 30 | BMO | BLDR | Builders FirstSource | $1.27 |
-| Jul 30 | BMO | BMY | Bristol Myers Squibb | $1.61 |
-| Jul 30 | BMO | CI | Cigna | $7.60 |
+| Jul 30 | BMO | BIIB | Biogen | $2.02 |
+| Jul 30 | BMO | BLDR | Builders FirstSource | $1.28 |
+| Jul 30 | BMO | BMY | Bristol Myers Squibb | $1.62 |
+| Jul 30 | BMO | CI | Cigna | $7.56 |
 | Jul 30 | AMC | CLX | Clorox | $1.66 |
 | Jul 30 | BMO | CMCSA | Comcast | $0.98 |
 | Jul 30 | AMC | CPT | Camden Property Trust | $0.22 |
 | Jul 30 | BMO | CRH | CRH plc | $2.08 |
 | Jul 30 | BMO | D | Dominion Energy | $0.85 |
-| Jul 30 | BMO | DTE | DTE Energy | $1.52 |
+| Jul 30 | BMO | DTE | DTE Energy | $1.51 |
 | Jul 30 | BMO | EME | Emcor | $7.26 |
 | Jul 30 | BMO | ETR | Entergy | $1.11 |
-| Jul 30 | AMC | FSLR | First Solar | $2.88 |
+| Jul 30 | AMC | FSLR | First Solar | $2.92 |
+| Jul 30 | BMO | HII | Huntington Ingalls Industries | $4.30 |
 | Jul 30 | BMO | HSY | Hershey Company (The) | $1.44 |
 | Jul 30 | BMO | ICE | Intercontinental Exchange | $1.92 |
 | Jul 30 | BMO | IP | International Paper | $-0.04 |
 | Jul 30 | BMO | KIM | Kimco Realty | $0.20 |
-| Jul 30 | AMC | KLAC | KLA Corporation | $9.95 |
+| Jul 30 | BMO | KKR | KKR & Co. | $1.45 |
+| Jul 30 | AMC | KLAC | KLA Corporation | $9.96 |
 | Jul 30 | BMO | MA | Mastercard | $4.76 |
 | Jul 30 | BMO | MO | Altria | $1.49 |
 | Jul 30 | AMC | MPWR | Monolithic Power Systems | $5.86 |
-| Jul 30 | BMO | NCLH | Norwegian Cruise Line Holdings | $0.52 |
-| Jul 30 | BMO | PWR | Quanta Services | $3.24 |
+| Jul 30 | BMO | NCLH | Norwegian Cruise Line Holdings | $0.43 |
+| Jul 30 | BMO | PWR | Quanta Services | $3.30 |
 | Jul 30 | BMO | REGN | Regeneron Pharmaceuticals | $10.89 |
-| Jul 30 | BMO | SO | Southern Company | $1.01 |
+| Jul 30 | BMO | SO | Southern Company | $1.02 |
 | Jul 30 | BMO | SPGI | S&P Global | $4.93 |
 | Jul 30 | AMC | SYK | Stryker Corporation | $3.47 |
 | Jul 30 | BMO | VMC | Vulcan Materials Company | $2.62 |
-| Jul 30 | BMO | WTW | Willis Towers Watson | $3.14 |
+| Jul 30 | BMO | WEC | WEC Energy Group | $0.84 |
+| Jul 30 | BMO | WTW | Willis Towers Watson | $3.11 |
 | Jul 30 | BMO | XEL | Xcel Energy | $0.79 |
 | Jul 30 | BMO | YUM | Yum! Brands | $1.57 |
-| Jul 31 | BMO | CBOE | Cboe Global Markets | $3.26 |
-| Jul 31 | BMO | CHD | Church & Dwight | $0.93 |
-| Jul 31 | BMO | CL | Colgate-Palmolive | $0.96 |
-| Jul 31 | BMO | CVX | Chevron Corporation | $4.60 |
-| Jul 31 | BMO | LIN | Linde plc | $4.47 |
-| Jul 31 | BMO | LYB | LyondellBasell | $2.69 |
-| Jul 31 | BMO | MRNA | Moderna | $-1.98 |
-| Jul 31 | BMO | TROW | T. Rowe Price | $2.34 |
-| Jul 31 | BMO | XOM | ExxonMobil | $3.71 |
-| Aug 01 | AMC | BRK-B | Berkshire Hathaway | $5.08 |
-| Aug 03 | AMC | FANG | Diamondback Energy | $4.89 |
+| Jul 31 | BMO | CBOE | Cboe Global Markets | $3.31 |
+| Jul 31 | BMO | CHD | Church & Dwight | $0.89 |
+| Jul 31 | BMO | CL | Colgate-Palmolive | $0.95 |
+| Jul 31 | BMO | CVX | Chevron Corporation | $4.97 |
+| Jul 31 | BMO | LIN | Linde plc | $4.48 |
+| Jul 31 | BMO | LYB | LyondellBasell | $3.21 |
+| Jul 31 | BMO | MRNA | Moderna | $-1.95 |
+| Jul 31 | BMO | TROW | T. Rowe Price | $2.29 |
+| Jul 31 | BMO | XOM | ExxonMobil | $3.66 |
+| Aug 01 | AMC | BRK-B | Berkshire Hathaway | $5.15 |
+| Aug 03 | AMC | FANG | Diamondback Energy | $5.92 |
+| Aug 03 | BMO | IDXX | Idexx Laboratories | $3.92 |
 | Aug 03 | BMO | L | Loews Corporation | — |
-| Aug 03 | BMO | ON | ON Semiconductor | $0.67 |
-| Aug 03 | AMC | PLTR | Palantir Technologies | $0.28 |
+| Aug 03 | BMO | ON | ON Semiconductor | $0.71 |
+| Aug 03 | AMC | PLTR | Palantir Technologies | $0.34 |
 | Aug 03 | AMC | PSKY | Paramount Skydance Corporation | $0.17 |
-| Aug 03 | BMO | TSN | Tyson Foods | $1.00 |
-| Aug 03 | AMC | VRTX | Vertex Pharmaceuticals | $4.31 |
-| Aug 03 | AMC | WMB | Williams Companies | $0.62 |
-| Aug 04 | AMC | AMGN | Amgen | $5.64 |
-| Aug 04 | BMO | CAT | Caterpillar Inc. | $6.03 |
+| Aug 03 | BMO | TSN | Tyson Foods | $1.06 |
+| Aug 03 | AMC | VRTX | Vertex Pharmaceuticals | $4.75 |
+| Aug 03 | AMC | WMB | Williams Companies | $0.52 |
+| Aug 04 | BMO | ADM | Archer Daniels Midland | $1.10 |
+| Aug 04 | AMC | AIZ | Assurant | $5.25 |
+| Aug 04 | AMC | AMD | Advanced Micro Devices | $1.44 |
+| Aug 04 | AMC | AMGN | Amgen | $5.62 |
+| Aug 04 | AMC | ANET | Arista Networks | $0.86 |
+| Aug 04 | BMO | BALL | Ball Corporation | $1.00 |
+| Aug 04 | BMO | CAT | Caterpillar Inc. | $5.99 |
+| Aug 04 | BMO | CMI | Cummins | $6.58 |
+| Aug 04 | BMO | DD | DuPont | $0.59 |
+| Aug 04 | BMO | DUK | Duke Energy | $1.25 |
+| Aug 04 | AMC | DVN | Devon Energy | $1.68 |
+| Aug 04 | BMO | ETN | Eaton Corporation | $3.12 |
+| Aug 04 | BMO | EXPD | Expeditors International | $1.46 |
+| Aug 04 | BMO | HSIC | Henry Schein | $1.22 |
+| Aug 04 | AMC | IFF | International Flavors & Fragrances | $1.07 |
+| Aug 04 | BMO | IT | Gartner | $3.67 |
+| Aug 04 | AMC | J | Jacobs Solutions | $1.90 |
+| Aug 04 | BMO | MPC | Marathon Petroleum | $9.51 |
 | Aug 04 | BMO | MRK | Merck & Co. | $2.09 |
+| Aug 04 | AMC | MTCH | Match Group | $0.86 |
+| Aug 04 | BMO | PEG | Public Service Enterprise Group | $0.83 |
+| Aug 04 | BMO | PYPL | PayPal | $1.33 |
+| Aug 04 | AMC | SMCI | Supermicro | $0.56 |
+| Aug 04 | AMC | SWKS | Skyworks Solutions | $1.04 |
+| Aug 04 | BMO | TDG | TransDigm Group | $9.96 |
+| Aug 05 | AMC | CTVA | Corteva | $2.32 |
+| Aug 05 | AMC | DVA | DaVita | $2.33 |
+| Aug 05 | AMC | EMR | Emerson Electric | $1.53 |
+| Aug 05 | BMO | LLY | Lilly (Eli) | $8.67 |
+| Aug 05 | AMC | OXY | Occidental Petroleum | $0.59 |
 
