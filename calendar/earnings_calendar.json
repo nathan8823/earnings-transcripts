@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-09T09:34:21.556572Z",
+  "updated_at": "2026-05-10T09:51:05.964181Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 503,
   "earnings": [
@@ -198,8 +198,8 @@
       "sector": "Industrials",
       "date": "2026-04-24",
       "time": "BMO",
-      "eps_estimate": 3.14,
-      "revenue_estimate": 3218934660
+      "eps_estimate": 3.15,
+      "revenue_estimate": 3222419860
     },
     {
       "ticker": "AVB",
@@ -217,7 +217,7 @@
       "date": "2026-04-27",
       "time": "AMC",
       "eps_estimate": 2.43,
-      "revenue_estimate": 1226207050
+      "revenue_estimate": 1227235210
     },
     {
       "ticker": "VTR",
@@ -225,7 +225,7 @@
       "sector": "Real Estate",
       "date": "2026-04-27",
       "time": "AMC",
-      "eps_estimate": 0.13,
+      "eps_estimate": 0.11,
       "revenue_estimate": 1682099000
     },
     {
@@ -315,7 +315,7 @@
       "sector": "Energy",
       "date": "2026-04-28",
       "time": "AMC",
-      "eps_estimate": 1.42,
+      "eps_estimate": 1.43,
       "revenue_estimate": 8979790240
     },
     {
@@ -343,7 +343,7 @@
       "date": "2026-04-28",
       "time": "BMO",
       "eps_estimate": 2.01,
-      "revenue_estimate": 2137402220
+      "revenue_estimate": 2136124130
     },
     {
       "ticker": "AFL",
@@ -379,7 +379,7 @@
       "date": "2026-04-30",
       "time": "AMC",
       "eps_estimate": 1.94,
-      "revenue_estimate": 7298936500
+      "revenue_estimate": 7317624330
     },
     {
       "ticker": "BR",
@@ -541,7 +541,7 @@
       "date": "2026-05-06",
       "time": "BMO",
       "eps_estimate": 1.19,
-      "revenue_estimate": 6019077950
+      "revenue_estimate": 6076330230
     },
     {
       "ticker": "DASH",
@@ -550,7 +550,7 @@
       "date": "2026-05-06",
       "time": "AMC",
       "eps_estimate": 1.23,
-      "revenue_estimate": 4338319210
+      "revenue_estimate": 4326931510
     },
     {
       "ticker": "MET",
@@ -567,8 +567,8 @@
       "sector": "Consumer Discretionary",
       "date": "2026-05-07",
       "time": "BMO",
-      "eps_estimate": 1.22,
-      "revenue_estimate": 1853826420
+      "eps_estimate": 1.25,
+      "revenue_estimate": 1858975140
     },
     {
       "ticker": "XYZ",
@@ -576,26 +576,8 @@
       "sector": "Financials",
       "date": "2026-05-07",
       "time": "AMC",
-      "eps_estimate": 0.68,
-      "revenue_estimate": 6028367540
-    },
-    {
-      "ticker": "FIS",
-      "company": "Fidelity National Information Services",
-      "sector": "Financials",
-      "date": "2026-05-08",
-      "time": "BMO",
-      "eps_estimate": 1.47,
-      "revenue_estimate": 3385763350
-    },
-    {
-      "ticker": "PPL",
-      "company": "PPL Corporation",
-      "sector": "Utilities",
-      "date": "2026-05-08",
-      "time": "BMO",
-      "eps_estimate": 0.36,
-      "revenue_estimate": 2188707520
+      "eps_estimate": 0.84,
+      "revenue_estimate": 6520024470
     },
     {
       "ticker": "CEG",
@@ -682,8 +664,8 @@
       "sector": "Information Technology",
       "date": "2026-05-14",
       "time": "AMC",
-      "eps_estimate": 2.67,
-      "revenue_estimate": 7684241240
+      "eps_estimate": 2.68,
+      "revenue_estimate": 7683696910
     },
     {
       "ticker": "HD",
@@ -763,8 +745,8 @@
       "sector": "Consumer Staples",
       "date": "2026-05-20",
       "time": "BMO",
-      "eps_estimate": 1.36,
-      "revenue_estimate": 24353139980
+      "eps_estimate": 1.37,
+      "revenue_estimate": 24396782830
     },
     {
       "ticker": "TJX",
@@ -773,7 +755,7 @@
       "date": "2026-05-20",
       "time": "BMO",
       "eps_estimate": 1.01,
-      "revenue_estimate": 13962664500
+      "revenue_estimate": 13976352000
     },
     {
       "ticker": "WSM",
@@ -781,8 +763,8 @@
       "sector": "Consumer Discretionary",
       "date": "2026-05-20",
       "time": "BMO",
-      "eps_estimate": 1.8,
-      "revenue_estimate": 1797484120
+      "eps_estimate": 1.81,
+      "revenue_estimate": 1797834120
     },
     {
       "ticker": "CPRT",
@@ -826,8 +808,8 @@
       "sector": "Consumer Discretionary",
       "date": "2026-05-21",
       "time": "AMC",
-      "eps_estimate": 1.68,
-      "revenue_estimate": 5568437680
+      "eps_estimate": 1.7,
+      "revenue_estimate": 5590037680
     },
     {
       "ticker": "TTWO",
@@ -854,7 +836,7 @@
       "date": "2026-05-21",
       "time": "BMO",
       "eps_estimate": 0.66,
-      "revenue_estimate": 174590887910
+      "revenue_estimate": 174592110140
     },
     {
       "ticker": "AZO",
@@ -1204,8 +1186,8 @@
       "sector": "Financials",
       "date": "2026-07-14",
       "time": "BMO",
-      "eps_estimate": 2.57,
-      "revenue_estimate": 23097913770
+      "eps_estimate": 2.58,
+      "revenue_estimate": 23130713450
     },
     {
       "ticker": "GS",
@@ -1321,8 +1303,8 @@
       "sector": "Financials",
       "date": "2026-07-15",
       "time": "BMO",
-      "eps_estimate": 3.74,
-      "revenue_estimate": 21169642860
+      "eps_estimate": 3.76,
+      "revenue_estimate": 21187642860
     },
     {
       "ticker": "PLD",
@@ -1331,7 +1313,7 @@
       "date": "2026-07-15",
       "time": "BMO",
       "eps_estimate": 0.79,
-      "revenue_estimate": 2164643360
+      "revenue_estimate": 2162931440
     },
     {
       "ticker": "PNC",
@@ -1952,7 +1934,7 @@
       "date": "2026-07-22",
       "time": "BMO",
       "eps_estimate": 5.72,
-      "revenue_estimate": 11705588290
+      "revenue_estimate": 11708176520
     },
     {
       "ticker": "TMUS",
@@ -2112,7 +2094,7 @@
       "date": "2026-07-23",
       "time": "AMC",
       "eps_estimate": 0.21,
-      "revenue_estimate": 14391464200
+      "revenue_estimate": 14398706630
     },
     {
       "ticker": "KDP",
@@ -2247,7 +2229,7 @@
       "date": "2026-07-24",
       "time": "BMO",
       "eps_estimate": 3.82,
-      "revenue_estimate": 4309472150
+      "revenue_estimate": 4308266140
     },
     {
       "ticker": "AXP",
@@ -2336,8 +2318,8 @@
       "sector": "Materials",
       "date": "2026-07-27",
       "time": "AMC",
-      "eps_estimate": 4.19,
-      "revenue_estimate": 10022984920
+      "eps_estimate": 4.15,
+      "revenue_estimate": 10061486430
     },
     {
       "ticker": "NXPI",
@@ -2355,7 +2337,7 @@
       "date": "2026-07-27",
       "time": "BMO",
       "eps_estimate": 1.22,
-      "revenue_estimate": 711029510
+      "revenue_estimate": 704268190
     },
     {
       "ticker": "UHS",
@@ -2435,7 +2417,7 @@
       "sector": "Financials",
       "date": "2026-07-28",
       "time": "AMC",
-      "eps_estimate": 6.69,
+      "eps_estimate": 6.68,
       "revenue_estimate": 13002571430
     },
     {
@@ -2490,7 +2472,7 @@
       "date": "2026-07-28",
       "time": "BMO",
       "eps_estimate": 0.76,
-      "revenue_estimate": 4632307270
+      "revenue_estimate": 4646781580
     },
     {
       "ticker": "HUBB",
@@ -2516,8 +2498,8 @@
       "sector": "Industrials",
       "date": "2026-07-28",
       "time": "BMO",
-      "eps_estimate": 1.3,
-      "revenue_estimate": 6459289370
+      "eps_estimate": 1.29,
+      "revenue_estimate": 6452852790
     },
     {
       "ticker": "LDOS",
@@ -2525,8 +2507,8 @@
       "sector": "Industrials",
       "date": "2026-07-28",
       "time": "BMO",
-      "eps_estimate": 2.93,
-      "revenue_estimate": 4474615490
+      "eps_estimate": 2.92,
+      "revenue_estimate": 4460021200
     },
     {
       "ticker": "MDLZ",
@@ -2553,7 +2535,7 @@
       "date": "2026-07-28",
       "time": "BMO",
       "eps_estimate": 1.3,
-      "revenue_estimate": 8463421530
+      "revenue_estimate": 8463068820
     },
     {
       "ticker": "RCL",
@@ -2570,8 +2552,8 @@
       "sector": "Industrials",
       "date": "2026-07-28",
       "time": "AMC",
-      "eps_estimate": 1.64,
-      "revenue_estimate": 4097520060
+      "eps_estimate": 1.83,
+      "revenue_estimate": 4355265810
     },
     {
       "ticker": "SBUX",
@@ -2796,7 +2778,7 @@
       "date": "2026-07-29",
       "time": "AMC",
       "eps_estimate": 0.36,
-      "revenue_estimate": 45111612350
+      "revenue_estimate": 44730056790
     },
     {
       "ticker": "FFIV",
@@ -2922,7 +2904,7 @@
       "date": "2026-07-29",
       "time": "BMO",
       "eps_estimate": 0.53,
-      "revenue_estimate": 6097307880
+      "revenue_estimate": 6091946350
     },
     {
       "ticker": "LII",
@@ -2975,7 +2957,7 @@
       "date": "2026-07-29",
       "time": "AMC",
       "eps_estimate": 4.25,
-      "revenue_estimate": 87613396420
+      "revenue_estimate": 87610832320
     },
     {
       "ticker": "ODFL",
@@ -2993,7 +2975,7 @@
       "date": "2026-07-29",
       "time": "AMC",
       "eps_estimate": 0.86,
-      "revenue_estimate": 4864803210
+      "revenue_estimate": 4866703210
     },
     {
       "ticker": "PFE",
@@ -3002,7 +2984,7 @@
       "date": "2026-07-29",
       "time": "BMO",
       "eps_estimate": 0.68,
-      "revenue_estimate": 14435335090
+      "revenue_estimate": 14414050210
     },
     {
       "ticker": "PG",
@@ -3019,8 +3001,8 @@
       "sector": "Financials",
       "date": "2026-07-29",
       "time": "AMC",
-      "eps_estimate": 3.37,
-      "revenue_estimate": 14120642760
+      "eps_estimate": 3.35,
+      "revenue_estimate": 14147976090
     },
     {
       "ticker": "QCOM",
@@ -3028,8 +3010,8 @@
       "sector": "Information Technology",
       "date": "2026-07-29",
       "time": "AMC",
-      "eps_estimate": 2.22,
-      "revenue_estimate": 9628389030
+      "eps_estimate": 2.23,
+      "revenue_estimate": 9663004100
     },
     {
       "ticker": "REG",
@@ -3091,7 +3073,7 @@
       "date": "2026-07-29",
       "time": "BMO",
       "eps_estimate": 1.93,
-      "revenue_estimate": 805014390
+      "revenue_estimate": 805521540
     },
     {
       "ticker": "WAT",
@@ -3262,7 +3244,7 @@
       "date": "2026-07-30",
       "time": "BMO",
       "eps_estimate": 1.62,
-      "revenue_estimate": 11738579430
+      "revenue_estimate": 11725789960
     },
     {
       "ticker": "CI",
@@ -3297,8 +3279,8 @@
       "sector": "Financials",
       "date": "2026-07-30",
       "time": "AMC",
-      "eps_estimate": 0.48,
-      "revenue_estimate": 1586848720
+      "eps_estimate": 0.12,
+      "revenue_estimate": 1345198300
     },
     {
       "ticker": "CPT",
@@ -3486,8 +3468,8 @@
       "sector": "Information Technology",
       "date": "2026-07-30",
       "time": "AMC",
-      "eps_estimate": 3.25,
-      "revenue_estimate": 2699936730
+      "eps_estimate": 3.86,
+      "revenue_estimate": 3000689620
     },
     {
       "ticker": "MTD",
@@ -3508,13 +3490,22 @@
       "revenue_estimate": 2652918170
     },
     {
+      "ticker": "PPL",
+      "company": "PPL Corporation",
+      "sector": "Utilities",
+      "date": "2026-07-30",
+      "time": "BMO",
+      "eps_estimate": 0.36,
+      "revenue_estimate": 2188707520
+    },
+    {
       "ticker": "PWR",
       "company": "Quanta Services",
       "sector": "Industrials",
       "date": "2026-07-30",
       "time": "BMO",
-      "eps_estimate": 3.3,
-      "revenue_estimate": 8627051990
+      "eps_estimate": 3.31,
+      "revenue_estimate": 8638326880
     },
     {
       "ticker": "REGN",
@@ -3550,7 +3541,7 @@
       "date": "2026-07-30",
       "time": "AMC",
       "eps_estimate": 3.47,
-      "revenue_estimate": 6577009650
+      "revenue_estimate": 6579052710
     },
     {
       "ticker": "VMC",
@@ -3604,7 +3595,7 @@
       "date": "2026-07-31",
       "time": "BMO",
       "eps_estimate": 0.89,
-      "revenue_estimate": 1495020950
+      "revenue_estimate": 1494573180
     },
     {
       "ticker": "CL",
@@ -3621,8 +3612,8 @@
       "sector": "Energy",
       "date": "2026-07-31",
       "time": "BMO",
-      "eps_estimate": 5.01,
-      "revenue_estimate": 57622413950
+      "eps_estimate": 5.05,
+      "revenue_estimate": 61018410480
     },
     {
       "ticker": "LIN",
@@ -3666,7 +3657,7 @@
       "sector": "Energy",
       "date": "2026-07-31",
       "time": "BMO",
-      "eps_estimate": 3.67,
+      "eps_estimate": 3.66,
       "revenue_estimate": 101798646090
     },
     {
@@ -3728,7 +3719,7 @@
       "date": "2026-08-03",
       "time": "AMC",
       "eps_estimate": 0.43,
-      "revenue_estimate": 1461214200
+      "revenue_estimate": 1402280200
     },
     {
       "ticker": "ON",
@@ -3772,8 +3763,8 @@
       "sector": "Health Care",
       "date": "2026-08-03",
       "time": "AMC",
-      "eps_estimate": 4.75,
-      "revenue_estimate": 3218263830
+      "eps_estimate": 4.74,
+      "revenue_estimate": 3215171080
     },
     {
       "ticker": "WMB",
@@ -3782,7 +3773,7 @@
       "date": "2026-08-03",
       "time": "AMC",
       "eps_estimate": 0.52,
-      "revenue_estimate": 2965360680
+      "revenue_estimate": 2673043430
     },
     {
       "ticker": "ADM",
@@ -3808,8 +3799,8 @@
       "sector": "Information Technology",
       "date": "2026-08-04",
       "time": "AMC",
-      "eps_estimate": 1.6,
-      "revenue_estimate": 11263688830
+      "eps_estimate": 1.61,
+      "revenue_estimate": 11276670210
     },
     {
       "ticker": "AMGN",
@@ -3835,8 +3826,8 @@
       "sector": "Financials",
       "date": "2026-08-04",
       "time": "BMO",
-      "eps_estimate": 2.23,
-      "revenue_estimate": 1368000000
+      "eps_estimate": 2.21,
+      "revenue_estimate": 1357300000
     },
     {
       "ticker": "BALL",
@@ -3899,7 +3890,7 @@
       "date": "2026-08-04",
       "time": "BMO",
       "eps_estimate": 3.07,
-      "revenue_estimate": 8104705290
+      "revenue_estimate": 8108940550
     },
     {
       "ticker": "EXPD",
@@ -3909,6 +3900,15 @@
       "time": "BMO",
       "eps_estimate": 1.64,
       "revenue_estimate": 2829177520
+    },
+    {
+      "ticker": "FIS",
+      "company": "Fidelity National Information Services",
+      "sector": "Financials",
+      "date": "2026-08-04",
+      "time": "BMO",
+      "eps_estimate": 1.47,
+      "revenue_estimate": 3385763350
     },
     {
       "ticker": "GWW",
@@ -3935,7 +3935,7 @@
       "date": "2026-08-04",
       "time": "AMC",
       "eps_estimate": 1.12,
-      "revenue_estimate": 2688015340
+      "revenue_estimate": 2684538120
     },
     {
       "ticker": "IT",
@@ -3979,8 +3979,8 @@
       "sector": "Health Care",
       "date": "2026-08-04",
       "time": "BMO",
-      "eps_estimate": 2.1,
-      "revenue_estimate": 16297993260
+      "eps_estimate": -0.15,
+      "revenue_estimate": 16386831670
     },
     {
       "ticker": "MTCH",
@@ -3989,7 +3989,7 @@
       "date": "2026-08-04",
       "time": "AMC",
       "eps_estimate": 0.95,
-      "revenue_estimate": 856239920
+      "revenue_estimate": 857268820
     },
     {
       "ticker": "NWS",
@@ -3997,8 +3997,8 @@
       "sector": "Communication Services",
       "date": "2026-08-04",
       "time": "AMC",
-      "eps_estimate": 0.2,
-      "revenue_estimate": 2110549140
+      "eps_estimate": 0.18,
+      "revenue_estimate": 2219288740
     },
     {
       "ticker": "NWSA",
@@ -4006,8 +4006,8 @@
       "sector": "Communication Services",
       "date": "2026-08-04",
       "time": "AMC",
-      "eps_estimate": 0.2,
-      "revenue_estimate": 2110549140
+      "eps_estimate": 0.18,
+      "revenue_estimate": 2219288740
     },
     {
       "ticker": "PEG",
@@ -4034,7 +4034,7 @@
       "date": "2026-08-04",
       "time": "AMC",
       "eps_estimate": 1.03,
-      "revenue_estimate": 920280650
+      "revenue_estimate": 925613120
     },
     {
       "ticker": "TDG",
@@ -4051,8 +4051,8 @@
       "sector": "Health Care",
       "date": "2026-08-04",
       "time": "BMO",
-      "eps_estimate": 1.62,
-      "revenue_estimate": 2301063450
+      "eps_estimate": 1.88,
+      "revenue_estimate": 2527724350
     },
     {
       "ticker": "ABNB",
@@ -4088,7 +4088,7 @@
       "date": "2026-08-05",
       "time": "AMC",
       "eps_estimate": 1.37,
-      "revenue_estimate": 913924380
+      "revenue_estimate": 815747310
     },
     {
       "ticker": "CDW",
@@ -4096,8 +4096,8 @@
       "sector": "Information Technology",
       "date": "2026-08-05",
       "time": "BMO",
-      "eps_estimate": 2.75,
-      "revenue_estimate": 6203423570
+      "eps_estimate": 2.77,
+      "revenue_estimate": 6190942760
     },
     {
       "ticker": "CF",
@@ -4123,8 +4123,8 @@
       "sector": "Financials",
       "date": "2026-08-05",
       "time": "AMC",
-      "eps_estimate": 5.47,
-      "revenue_estimate": 1212283620
+      "eps_estimate": 6.57,
+      "revenue_estimate": 1296185000
     },
     {
       "ticker": "CRL",
@@ -4132,8 +4132,8 @@
       "sector": "Health Care",
       "date": "2026-08-05",
       "time": "BMO",
-      "eps_estimate": 1.94,
-      "revenue_estimate": 977440170
+      "eps_estimate": 2.73,
+      "revenue_estimate": 974620050
     },
     {
       "ticker": "CTVA",
@@ -4141,8 +4141,8 @@
       "sector": "Materials",
       "date": "2026-08-05",
       "time": "AMC",
-      "eps_estimate": 2.26,
-      "revenue_estimate": 6643850600
+      "eps_estimate": 2.24,
+      "revenue_estimate": 6588207700
     },
     {
       "ticker": "DIS",
@@ -4151,7 +4151,7 @@
       "date": "2026-08-05",
       "time": "BMO",
       "eps_estimate": 1.86,
-      "revenue_estimate": 25477929230
+      "revenue_estimate": 25461380580
     },
     {
       "ticker": "DVA",
@@ -4168,8 +4168,8 @@
       "sector": "Industrials",
       "date": "2026-08-05",
       "time": "AMC",
-      "eps_estimate": 1.67,
-      "revenue_estimate": 4803996840
+      "eps_estimate": 1.68,
+      "revenue_estimate": 4810222640
     },
     {
       "ticker": "FTNT",
@@ -4195,8 +4195,8 @@
       "sector": "Health Care",
       "date": "2026-08-05",
       "time": "BMO",
-      "eps_estimate": 8.75,
-      "revenue_estimate": 20363126550
+      "eps_estimate": 8.81,
+      "revenue_estimate": 20484067720
     },
     {
       "ticker": "MCK",
@@ -4222,8 +4222,8 @@
       "sector": "Energy",
       "date": "2026-08-05",
       "time": "AMC",
-      "eps_estimate": 1.42,
-      "revenue_estimate": 6508211050
+      "eps_estimate": 1.5,
+      "revenue_estimate": 7147589650
     },
     {
       "ticker": "PAYC",
@@ -4231,8 +4231,8 @@
       "sector": "Industrials",
       "date": "2026-08-05",
       "time": "AMC",
-      "eps_estimate": 2.38,
-      "revenue_estimate": 514251700
+      "eps_estimate": 2.37,
+      "revenue_estimate": 513342980
     },
     {
       "ticker": "PTC",
@@ -4250,7 +4250,7 @@
       "date": "2026-08-05",
       "time": "BMO",
       "eps_estimate": 0.52,
-      "revenue_estimate": 318216940
+      "revenue_estimate": 316064850
     },
     {
       "ticker": "TKO",
@@ -4302,8 +4302,8 @@
       "sector": "Health Care",
       "date": "2026-08-06",
       "time": "BMO",
-      "eps_estimate": 2.77,
-      "revenue_estimate": 4671769960
+      "eps_estimate": 3.13,
+      "revenue_estimate": 4886176280
     },
     {
       "ticker": "COP",
@@ -4338,8 +4338,8 @@
       "sector": "Information Technology",
       "date": "2026-08-06",
       "time": "BMO",
-      "eps_estimate": 3.1,
-      "revenue_estimate": 1423845420
+      "eps_estimate": 3.14,
+      "revenue_estimate": 1407765840
     },
     {
       "ticker": "EVRG",
@@ -4347,8 +4347,8 @@
       "sector": "Utilities",
       "date": "2026-08-06",
       "time": "BMO",
-      "eps_estimate": 0.89,
-      "revenue_estimate": 1426923450
+      "eps_estimate": 0.91,
+      "revenue_estimate": 1331432980
     },
     {
       "ticker": "EXPE",
@@ -4356,8 +4356,8 @@
       "sector": "Consumer Discretionary",
       "date": "2026-08-06",
       "time": "AMC",
-      "eps_estimate": 5.01,
-      "revenue_estimate": 4123461410
+      "eps_estimate": 5.18,
+      "revenue_estimate": 4162330980
     },
     {
       "ticker": "GEN",
@@ -4374,8 +4374,8 @@
       "sector": "Health Care",
       "date": "2026-08-06",
       "time": "AMC",
-      "eps_estimate": 1.94,
-      "revenue_estimate": 7393808940
+      "eps_estimate": -6.9,
+      "revenue_estimate": 7430763080
     },
     {
       "ticker": "HWM",
@@ -4383,8 +4383,8 @@
       "sector": "Industrials",
       "date": "2026-08-06",
       "time": "BMO",
-      "eps_estimate": 1.11,
-      "revenue_estimate": 2241796300
+      "eps_estimate": 1.24,
+      "revenue_estimate": 2419298420
     },
     {
       "ticker": "KVUE",
@@ -4392,8 +4392,8 @@
       "sector": "Consumer Staples",
       "date": "2026-08-06",
       "time": "BMO",
-      "eps_estimate": 0.31,
-      "revenue_estimate": 3949380560
+      "eps_estimate": 0.32,
+      "revenue_estimate": 3964848220
     },
     {
       "ticker": "MCD",
@@ -4401,8 +4401,8 @@
       "sector": "Consumer Discretionary",
       "date": "2026-08-06",
       "time": "BMO",
-      "eps_estimate": 3.42,
-      "revenue_estimate": 7281277520
+      "eps_estimate": 3.35,
+      "revenue_estimate": 7184700450
     },
     {
       "ticker": "MCHP",
@@ -4429,7 +4429,7 @@
       "date": "2026-08-06",
       "time": "BMO",
       "eps_estimate": 1.6,
-      "revenue_estimate": 7747195170
+      "revenue_estimate": 7511005290
     },
     {
       "ticker": "PH",
@@ -4438,7 +4438,7 @@
       "date": "2026-08-06",
       "time": "BMO",
       "eps_estimate": 8.26,
-      "revenue_estimate": 5583073410
+      "revenue_estimate": 5580273410
     },
     {
       "ticker": "PODD",
@@ -4464,8 +4464,8 @@
       "sector": "Utilities",
       "date": "2026-08-06",
       "time": "BMO",
-      "eps_estimate": 1.01,
-      "revenue_estimate": 3054135020
+      "eps_estimate": 1.02,
+      "revenue_estimate": 3212303330
     },
     {
       "ticker": "TRGP",
@@ -4473,7 +4473,7 @@
       "sector": "Energy",
       "date": "2026-08-06",
       "time": "BMO",
-      "eps_estimate": 2.4,
+      "eps_estimate": 2.42,
       "revenue_estimate": 4877329950
     },
     {
@@ -4482,8 +4482,8 @@
       "sector": "Communication Services",
       "date": "2026-08-06",
       "time": "AMC",
-      "eps_estimate": 0.32,
-      "revenue_estimate": 678677350
+      "eps_estimate": 0.4,
+      "revenue_estimate": 753472410
     },
     {
       "ticker": "VST",
@@ -4501,7 +4501,7 @@
       "date": "2026-08-06",
       "time": "BMO",
       "eps_estimate": 0.61,
-      "revenue_estimate": 3660212680
+      "revenue_estimate": 3668226250
     },
     {
       "ticker": "WBD",
@@ -4509,8 +4509,8 @@
       "sector": "Communication Services",
       "date": "2026-08-06",
       "time": "AMC",
-      "eps_estimate": -0.08,
-      "revenue_estimate": 9213150000
+      "eps_estimate": -0.09,
+      "revenue_estimate": 9227545180
     },
     {
       "ticker": "WYNN",
@@ -4518,8 +4518,8 @@
       "sector": "Consumer Discretionary",
       "date": "2026-08-06",
       "time": "AMC",
-      "eps_estimate": 1.18,
-      "revenue_estimate": 1825537070
+      "eps_estimate": 1.04,
+      "revenue_estimate": 1847717630
     }
   ],
   "this_week": [
@@ -4575,7 +4575,7 @@
       "date": "2026-05-06",
       "time": "BMO",
       "eps_estimate": 1.19,
-      "revenue_estimate": 6019077950
+      "revenue_estimate": 6076330230
     },
     {
       "ticker": "DASH",
@@ -4584,7 +4584,7 @@
       "date": "2026-05-06",
       "time": "AMC",
       "eps_estimate": 1.23,
-      "revenue_estimate": 4338319210
+      "revenue_estimate": 4326931510
     },
     {
       "ticker": "MET",
@@ -4601,8 +4601,8 @@
       "sector": "Consumer Discretionary",
       "date": "2026-05-07",
       "time": "BMO",
-      "eps_estimate": 1.22,
-      "revenue_estimate": 1853826420
+      "eps_estimate": 1.25,
+      "revenue_estimate": 1858975140
     },
     {
       "ticker": "XYZ",
@@ -4610,26 +4610,8 @@
       "sector": "Financials",
       "date": "2026-05-07",
       "time": "AMC",
-      "eps_estimate": 0.68,
-      "revenue_estimate": 6028367540
-    },
-    {
-      "ticker": "FIS",
-      "company": "Fidelity National Information Services",
-      "sector": "Financials",
-      "date": "2026-05-08",
-      "time": "BMO",
-      "eps_estimate": 1.47,
-      "revenue_estimate": 3385763350
-    },
-    {
-      "ticker": "PPL",
-      "company": "PPL Corporation",
-      "sector": "Utilities",
-      "date": "2026-05-08",
-      "time": "BMO",
-      "eps_estimate": 0.36,
-      "revenue_estimate": 2188707520
+      "eps_estimate": 0.84,
+      "revenue_estimate": 6520024470
     }
   ],
   "next_week": [
@@ -4718,8 +4700,8 @@
       "sector": "Information Technology",
       "date": "2026-05-14",
       "time": "AMC",
-      "eps_estimate": 2.67,
-      "revenue_estimate": 7684241240
+      "eps_estimate": 2.68,
+      "revenue_estimate": 7683696910
     }
   ]
 }
