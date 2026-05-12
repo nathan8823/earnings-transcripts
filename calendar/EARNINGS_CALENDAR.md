@@ -1,15 +1,9 @@
 # S&P 500 Earnings Calendar
-> Last updated: May 11, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: May 12, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (May 11–May 17)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
-| May 11 | BMO | CEG | Constellation Energy | $2.61 |
-| May 11 | BMO | FOX | Fox Corporation(Class B) | — |
-| May 11 | BMO | FOXA | Fox Corporation(Class A) | $0.97 |
-| May 11 | BMO | MOS | Mosaic Company (The) | $0.22 |
-| May 11 | AMC | SPG | Simon Property Group | $1.49 |
-| May 11 | AMC | STE | Steris | $2.85 |
 | May 12 | BMO | Q | Qnity Electronics | $0.92 |
 | May 12 | BMO | ZBRA | Zebra Technologies | $4.25 |
 | May 13 | AMC | CSCO | Cisco | $1.04 |
@@ -53,8 +47,8 @@
 | May 28 | BMO | DLTR | Dollar Tree | $1.56 |
 | May 28 | BMO | HRL | Hormel Foods | $0.36 |
 | May 28 | AMC | NTAP | NetApp | $2.26 |
+| Jun 01 | AMC | HPE | Hewlett Packard Enterprise | $0.53 |
 | Jun 02 | BMO | DG | Dollar General | $1.90 |
-| Jun 02 | AMC | HPE | Hewlett Packard Enterprise | $0.53 |
 | Jun 02 | AMC | PANW | Palo Alto Networks | $0.80 |
 | Jun 02 | AMC | ULTA | Ulta Beauty | $6.87 |
 | Jun 03 | AMC | AVGO | Broadcom | $2.39 |
@@ -365,6 +359,7 @@
 | Aug 03 | BMO | ON | ON Semiconductor | $0.71 |
 | Aug 03 | AMC | PLTR | Palantir Technologies | $0.34 |
 | Aug 03 | AMC | PSKY | Paramount Skydance Corporation | $0.18 |
+| Aug 03 | AMC | SPG | Simon Property Group | $1.61 |
 | Aug 03 | BMO | TSN | Tyson Foods | $1.06 |
 | Aug 03 | AMC | VRTX | Vertex Pharmaceuticals | $4.74 |
 | Aug 03 | AMC | WMB | Williams Companies | $0.52 |
@@ -375,7 +370,7 @@
 | Aug 04 | AMC | ANET | Arista Networks | $0.88 |
 | Aug 04 | BMO | APO | Apollo Global Management | $2.21 |
 | Aug 04 | BMO | BALL | Ball Corporation | $0.98 |
-| Aug 04 | BMO | CAT | Caterpillar Inc. | $6.01 |
+| Aug 04 | BMO | CAT | Caterpillar Inc. | $6.02 |
 | Aug 04 | BMO | CMI | Cummins | $7.18 |
 | Aug 04 | BMO | DD | DuPont | $0.59 |
 | Aug 04 | BMO | DUK | Duke Energy | $1.26 |
@@ -389,6 +384,7 @@
 | Aug 04 | BMO | IT | Gartner | $3.74 |
 | Aug 04 | AMC | J | Jacobs Solutions | $1.83 |
 | Aug 04 | BMO | MAR | Marriott International | $3.05 |
+| Aug 04 | BMO | MOS | Mosaic Company (The) | $0.31 |
 | Aug 04 | BMO | MPC | Marathon Petroleum | $10.77 |
 | Aug 04 | BMO | MRK | Merck & Co. | $-0.15 |
 | Aug 04 | AMC | MTCH | Match Group | $0.95 |
@@ -412,6 +408,8 @@
 | Aug 05 | BMO | DIS | Walt Disney Company (The) | $1.86 |
 | Aug 05 | AMC | DVA | DaVita | $3.84 |
 | Aug 05 | AMC | EMR | Emerson Electric | $1.68 |
+| Aug 05 | BMO | FOX | Fox Corporation(Class B) | — |
+| Aug 05 | BMO | FOXA | Fox Corporation(Class A) | $1.34 |
 | Aug 05 | AMC | FTNT | Fortinet | $0.74 |
 | Aug 05 | BMO | GPN | Global Payments | $3.52 |
 | Aug 05 | BMO | LLY | Lilly (Eli) | $8.81 |
@@ -420,6 +418,7 @@
 | Aug 05 | AMC | OXY | Occidental Petroleum | $1.50 |
 | Aug 05 | AMC | PAYC | Paycom | $2.37 |
 | Aug 05 | AMC | PTC | PTC Inc. | $1.57 |
+| Aug 05 | AMC | STE | Steris | $2.85 |
 | Aug 05 | BMO | TECH | Bio-Techne | $0.52 |
 | Aug 05 | AMC | TKO | TKO Group Holdings | $0.90 |
 | Aug 05 | AMC | TPL | Texas Pacific Land Corporation | — |
@@ -451,4 +450,5 @@
 | Aug 06 | BMO | VTRS | Viatris | $0.61 |
 | Aug 06 | AMC | WBD | Warner Bros. Discovery | $-0.09 |
 | Aug 06 | AMC | WYNN | Wynn Resorts | $1.06 |
+| Aug 10 | BMO | CEG | Constellation Energy | $2.53 |
 
