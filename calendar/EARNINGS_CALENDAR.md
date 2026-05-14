@@ -1,10 +1,9 @@
 # S&P 500 Earnings Calendar
-> Last updated: May 13, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: May 14, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (May 11–May 17)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
-| May 13 | AMC | CSCO | Cisco | $1.04 |
 | May 14 | AMC | AMAT | Applied Materials | $2.68 |
 
 ## Next Week (May 18–May 24)
@@ -17,7 +16,7 @@
 | May 20 | AMC | INTU | Intuit | $12.52 |
 | May 20 | BMO | LOW | Lowe's | $2.96 |
 | May 20 | AMC | NDSN | Nordson Corporation | $2.85 |
-| May 20 | AMC | NVDA | Nvidia | $1.77 |
+| May 20 | AMC | NVDA | Nvidia | $1.78 |
 | May 20 | BMO | TGT | Target Corporation | $1.39 |
 | May 20 | BMO | TJX | TJX Companies | $1.01 |
 | May 20 | BMO | WSM | Williams-Sonoma, Inc. | $1.81 |
@@ -139,7 +138,7 @@
 | Jul 22 | BMO | FCX | Freeport-McMoRan | $0.56 |
 | Jul 22 | BMO | FISV | Fiserv | $1.94 |
 | Jul 22 | BMO | GD | General Dynamics | $3.94 |
-| Jul 22 | AMC | GL | Globe Life | $3.69 |
+| Jul 22 | AMC | GL | Globe Life | $3.68 |
 | Jul 22 | AMC | IBM | IBM | $3.03 |
 | Jul 22 | AMC | LUV | Southwest Airlines | $0.43 |
 | Jul 22 | AMC | LVS | Las Vegas Sands | $0.78 |
@@ -271,7 +270,7 @@
 | Jul 29 | AMC | MGM | MGM Resorts | $0.63 |
 | Jul 29 | AMC | MSFT | Microsoft | $4.25 |
 | Jul 29 | BMO | ODFL | Old Dominion | $1.45 |
-| Jul 29 | AMC | ORLY | O’Reilly Automotive | $0.86 |
+| Jul 29 | TBD | ORLY | O’Reilly Automotive | $0.86 |
 | Jul 29 | BMO | PFE | Pfizer | $0.68 |
 | Jul 29 | BMO | PG | Procter & Gamble | $1.42 |
 | Jul 29 | AMC | PRU | Prudential Financial | $3.20 |
@@ -297,7 +296,7 @@
 | Jul 30 | BMO | AOS | A. O. Smith | $0.94 |
 | Jul 30 | BMO | APD | Air Products | $3.34 |
 | Jul 30 | BMO | APTV | Aptiv | $1.42 |
-| Jul 30 | BMO | ARES | Ares Management | $1.34 |
+| Jul 30 | BMO | ARES | Ares Management | $1.33 |
 | Jul 30 | BMO | BAX | Baxter International | $0.37 |
 | Jul 30 | BMO | BIIB | Biogen | $2.02 |
 | Jul 30 | BMO | BLDR | Builders FirstSource | $1.28 |
@@ -367,7 +366,7 @@
 | Aug 04 | AMC | AMD | Advanced Micro Devices | $1.61 |
 | Aug 04 | AMC | AMGN | Amgen | $5.62 |
 | Aug 04 | AMC | ANET | Arista Networks | $0.88 |
-| Aug 04 | BMO | APO | Apollo Global Management | $2.21 |
+| Aug 04 | BMO | APO | Apollo Global Management | $2.19 |
 | Aug 04 | BMO | BALL | Ball Corporation | $0.98 |
 | Aug 04 | BMO | CAT | Caterpillar Inc. | $6.02 |
 | Aug 04 | BMO | CMI | Cummins | $7.17 |
@@ -418,7 +417,7 @@
 | Aug 05 | AMC | OXY | Occidental Petroleum | $1.67 |
 | Aug 05 | AMC | PAYC | Paycom | $2.37 |
 | Aug 05 | AMC | PTC | PTC Inc. | $1.57 |
-| Aug 05 | AMC | STE | Steris | $2.85 |
+| Aug 05 | AMC | STE | Steris | $2.50 |
 | Aug 05 | BMO | TECH | Bio-Techne | $0.52 |
 | Aug 05 | AMC | TKO | TKO Group Holdings | $0.90 |
 | Aug 05 | AMC | TPL | Texas Pacific Land Corporation | — |
@@ -454,4 +453,5 @@
 | Aug 10 | BMO | CEG | Constellation Energy | $2.53 |
 | Aug 10 | BMO | KMB | Kimberly-Clark | $2.02 |
 | Aug 11 | BMO | Q | Qnity Electronics | $0.95 |
+| Aug 12 | AMC | CSCO | Cisco | $1.04 |
 
