@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: May 15, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: May 16, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (May 11–May 17)
 _No earnings scheduled._
@@ -158,7 +158,7 @@ _No earnings scheduled._
 | Jul 22 | AMC | URI | United Rentals | $11.54 |
 | Jul 23 | BMO | ALLE | Allegion | $2.21 |
 | Jul 23 | AMC | AMP | Ameriprise Financial | $10.59 |
-| Jul 23 | BMO | BX | Blackstone Inc. | $1.35 |
+| Jul 23 | BMO | BX | Blackstone Inc. | $1.36 |
 | Jul 23 | BMO | CNP | CenterPoint Energy | $0.37 |
 | Jul 23 | AMC | DLR | Digital Realty | — |
 | Jul 23 | AMC | DOC | Healthpeak Properties | — |
@@ -205,7 +205,7 @@ _No earnings scheduled._
 | Jul 28 | BMO | AMT | American Tower | $1.54 |
 | Jul 28 | BMO | BA | Boeing | $-0.24 |
 | Jul 28 | AMC | BXP | BXP, Inc. | $0.38 |
-| Jul 28 | BMO | CARR | Carrier Global | $0.82 |
+| Jul 28 | BMO | CARR | Carrier Global | $0.81 |
 | Jul 28 | AMC | CB | Chubb Limited | $6.68 |
 | Jul 28 | BMO | CNC | Centene Corporation | $1.05 |
 | Jul 28 | AMC | EA | Electronic Arts | $0.76 |
@@ -284,7 +284,7 @@ _No earnings scheduled._
 | Jul 29 | AMC | WDC | Western Digital | $3.27 |
 | Jul 29 | BMO | WEC | WEC Energy Group | $0.83 |
 | Jul 30 | AMC | AAPL | Apple Inc. | $1.90 |
-| Jul 30 | BMO | ABBV | AbbVie | $3.76 |
+| Jul 30 | BMO | ABBV | AbbVie | $3.77 |
 | Jul 30 | AMC | AEE | Ameren | $1.08 |
 | Jul 30 | BMO | AEP | American Electric Power | $1.50 |
 | Jul 30 | AMC | AES | AES Corporation | $0.51 |
@@ -293,12 +293,12 @@ _No earnings scheduled._
 | Jul 30 | AMC | AMZN | Amazon | $1.82 |
 | Jul 30 | BMO | AOS | A. O. Smith | $0.94 |
 | Jul 30 | BMO | APD | Air Products | $3.34 |
-| Jul 30 | BMO | APTV | Aptiv | $1.42 |
+| Jul 30 | BMO | APTV | Aptiv | $1.41 |
 | Jul 30 | BMO | ARES | Ares Management | $1.33 |
 | Jul 30 | BMO | BAX | Baxter International | $0.37 |
 | Jul 30 | BMO | BIIB | Biogen | $1.94 |
 | Jul 30 | BMO | BLDR | Builders FirstSource | $1.28 |
-| Jul 30 | BMO | BMY | Bristol Myers Squibb | $1.62 |
+| Jul 30 | BMO | BMY | Bristol Myers Squibb | $1.61 |
 | Jul 30 | BMO | CI | Cigna | $7.56 |
 | Jul 30 | AMC | CLX | Clorox | $1.66 |
 | Jul 30 | BMO | CMCSA | Comcast | $0.98 |
@@ -366,7 +366,7 @@ _No earnings scheduled._
 | Aug 04 | AMC | ANET | Arista Networks | $0.88 |
 | Aug 04 | BMO | APO | Apollo Global Management | $2.19 |
 | Aug 04 | BMO | BALL | Ball Corporation | $0.98 |
-| Aug 04 | BMO | CAT | Caterpillar Inc. | $6.02 |
+| Aug 04 | BMO | CAT | Caterpillar Inc. | $6.13 |
 | Aug 04 | BMO | CMI | Cummins | $7.17 |
 | Aug 04 | BMO | DD | DuPont | $0.59 |
 | Aug 04 | BMO | DUK | Duke Energy | $1.25 |
@@ -389,8 +389,8 @@ _No earnings scheduled._
 | Aug 04 | BMO | PEG | Public Service Enterprise Group | $0.82 |
 | Aug 04 | AMC | SMCI | Supermicro | $0.71 |
 | Aug 04 | AMC | SWKS | Skyworks Solutions | $1.03 |
-| Aug 04 | BMO | TDG | TransDigm Group | $10.22 |
-| Aug 04 | BMO | ZBRA | Zebra Technologies | $4.30 |
+| Aug 04 | TBD | TDG | TransDigm Group | $10.22 |
+| Aug 04 | BMO | ZBRA | Zebra Technologies | $4.36 |
 | Aug 04 | BMO | ZTS | Zoetis | $1.87 |
 | Aug 05 | AMC | ABNB | Airbnb | $1.22 |
 | Aug 05 | AMC | APA | APA Corporation | $1.97 |
@@ -431,7 +431,7 @@ _No earnings scheduled._
 | Aug 06 | BMO | EVRG | Evergy | $0.91 |
 | Aug 06 | AMC | EXPE | Expedia Group | $5.17 |
 | Aug 06 | AMC | GEN | Gen Digital | $0.69 |
-| Aug 06 | AMC | GILD | Gilead Sciences | $-6.90 |
+| Aug 06 | AMC | GILD | Gilead Sciences | $-6.60 |
 | Aug 06 | BMO | HWM | Howmet Aerospace | $1.24 |
 | Aug 06 | BMO | KVUE | Kenvue | $0.32 |
 | Aug 06 | BMO | MCD | McDonald's | $3.34 |
@@ -452,5 +452,5 @@ _No earnings scheduled._
 | Aug 10 | BMO | KMB | Kimberly-Clark | $2.02 |
 | Aug 11 | BMO | Q | Qnity Electronics | $1.05 |
 | Aug 12 | AMC | CSCO | Cisco | $1.17 |
-| Aug 13 | AMC | AMAT | Applied Materials | $2.90 |
+| Aug 13 | AMC | AMAT | Applied Materials | $3.17 |
 
