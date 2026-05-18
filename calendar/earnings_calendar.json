@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T10:00:17.218580Z",
+  "updated_at": "2026-05-18T12:03:12.553058Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 503,
   "earnings": [
@@ -622,7 +622,7 @@
       "date": "2026-05-20",
       "time": "AMC",
       "eps_estimate": 1.78,
-      "revenue_estimate": 79166840620
+      "revenue_estimate": 79166935860
     },
     {
       "ticker": "TGT",
@@ -1008,8 +1008,7 @@
       "sector": "Information Technology",
       "date": "2026-06-24",
       "time": "AMC",
-      "eps_estimate": 18.97,
-      "revenue_estimate": 33537939860
+      "revenue_estimate": 33475564860
     },
     {
       "ticker": "FDS",
@@ -1531,7 +1530,7 @@
       "date": "2026-07-21",
       "time": "BMO",
       "eps_estimate": 2.22,
-      "revenue_estimate": 6377053060
+      "revenue_estimate": 6373453060
     },
     {
       "ticker": "MSCI",
@@ -2132,7 +2131,7 @@
       "date": "2026-07-24",
       "time": "BMO",
       "eps_estimate": 4.38,
-      "revenue_estimate": 19612384920
+      "revenue_estimate": 19615737860
     },
     {
       "ticker": "CHTR",
@@ -2456,7 +2455,7 @@
       "date": "2026-07-28",
       "time": "AMC",
       "eps_estimate": 0.65,
-      "revenue_estimate": 9184679570
+      "revenue_estimate": 9183158980
     },
     {
       "ticker": "STX",
@@ -2932,7 +2931,7 @@
       "date": "2026-07-29",
       "time": "BMO",
       "eps_estimate": 4.26,
-      "revenue_estimate": 6188522750
+      "revenue_estimate": 6189746610
     },
     {
       "ticker": "TYL",
@@ -3137,7 +3136,8 @@
       "sector": "Health Care",
       "date": "2026-07-30",
       "time": "BMO",
-      "eps_estimate": 1.61
+      "eps_estimate": 1.61,
+      "revenue_estimate": 11716600460
     },
     {
       "ticker": "CI",
@@ -4328,7 +4328,7 @@
       "date": "2026-08-06",
       "time": "AMC",
       "eps_estimate": -6.6,
-      "revenue_estimate": 7419828850
+      "revenue_estimate": 7408538920
     },
     {
       "ticker": "HWM",
@@ -4516,12 +4516,11 @@
       "sector": "Information Technology",
       "date": "2026-08-13",
       "time": "AMC",
-      "eps_estimate": 3.17,
-      "revenue_estimate": 8601403480
+      "eps_estimate": 3.38,
+      "revenue_estimate": 8999731660
     }
   ],
-  "this_week": [],
-  "next_week": [
+  "this_week": [
     {
       "ticker": "HD",
       "company": "Home Depot (The)",
@@ -4592,7 +4591,7 @@
       "date": "2026-05-20",
       "time": "AMC",
       "eps_estimate": 1.78,
-      "revenue_estimate": 79166840620
+      "revenue_estimate": 79166935860
     },
     {
       "ticker": "TGT",
@@ -4692,6 +4691,116 @@
       "time": "BMO",
       "eps_estimate": 0.66,
       "revenue_estimate": 174770391420
+    }
+  ],
+  "next_week": [
+    {
+      "ticker": "AZO",
+      "company": "AutoZone",
+      "sector": "Consumer Discretionary",
+      "date": "2026-05-26",
+      "time": "BMO",
+      "eps_estimate": 36.13,
+      "revenue_estimate": 4858795610
+    },
+    {
+      "ticker": "A",
+      "company": "Agilent Technologies",
+      "sector": "Health Care",
+      "date": "2026-05-27",
+      "time": "AMC",
+      "eps_estimate": 1.41,
+      "revenue_estimate": 1799626250
+    },
+    {
+      "ticker": "CRM",
+      "company": "Salesforce",
+      "sector": "Information Technology",
+      "date": "2026-05-27",
+      "time": "AMC",
+      "eps_estimate": 3.13,
+      "revenue_estimate": 11056031930
+    },
+    {
+      "ticker": "HPQ",
+      "company": "HP Inc.",
+      "sector": "Information Technology",
+      "date": "2026-05-27",
+      "time": "AMC",
+      "eps_estimate": 0.71,
+      "revenue_estimate": 14070932050
+    },
+    {
+      "ticker": "SNPS",
+      "company": "Synopsys",
+      "sector": "Information Technology",
+      "date": "2026-05-27",
+      "time": "AMC",
+      "eps_estimate": 3.15,
+      "revenue_estimate": 2250487890
+    },
+    {
+      "ticker": "ADSK",
+      "company": "Autodesk",
+      "sector": "Information Technology",
+      "date": "2026-05-28",
+      "time": "AMC",
+      "eps_estimate": 2.84,
+      "revenue_estimate": 1892276870
+    },
+    {
+      "ticker": "BBY",
+      "company": "Best Buy",
+      "sector": "Consumer Discretionary",
+      "date": "2026-05-28",
+      "time": "BMO",
+      "eps_estimate": 1.23,
+      "revenue_estimate": 8828859150
+    },
+    {
+      "ticker": "COST",
+      "company": "Costco",
+      "sector": "Consumer Staples",
+      "date": "2026-05-28",
+      "time": "AMC",
+      "eps_estimate": 4.98,
+      "revenue_estimate": 69445827050
+    },
+    {
+      "ticker": "DELL",
+      "company": "Dell Technologies",
+      "sector": "Information Technology",
+      "date": "2026-05-28",
+      "time": "AMC",
+      "eps_estimate": 2.94,
+      "revenue_estimate": 35591958750
+    },
+    {
+      "ticker": "DLTR",
+      "company": "Dollar Tree",
+      "sector": "Consumer Staples",
+      "date": "2026-05-28",
+      "time": "BMO",
+      "eps_estimate": 1.55,
+      "revenue_estimate": 4968191160
+    },
+    {
+      "ticker": "HRL",
+      "company": "Hormel Foods",
+      "sector": "Consumer Staples",
+      "date": "2026-05-28",
+      "time": "BMO",
+      "eps_estimate": 0.36,
+      "revenue_estimate": 2962848100
+    },
+    {
+      "ticker": "NTAP",
+      "company": "NetApp",
+      "sector": "Information Technology",
+      "date": "2026-05-28",
+      "time": "AMC",
+      "eps_estimate": 2.26,
+      "revenue_estimate": 1867915990
     }
   ]
 }

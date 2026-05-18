@@ -1,10 +1,7 @@
 # S&P 500 Earnings Calendar
-> Last updated: May 17, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: May 18, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
-## This Week (May 11–May 17)
-_No earnings scheduled._
-
-## Next Week (May 18–May 24)
+## This Week (May 18–May 24)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | May 19 | BMO | HD | Home Depot (The) | $3.42 |
@@ -27,7 +24,7 @@ _No earnings scheduled._
 | May 21 | AMC | WDAY | Workday, Inc. | $2.52 |
 | May 21 | BMO | WMT | Walmart | $0.66 |
 
-## Later (May 25+)
+## Next Week (May 25–May 31)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | May 26 | BMO | AZO | AutoZone | $36.13 |
@@ -42,6 +39,10 @@ _No earnings scheduled._
 | May 28 | BMO | DLTR | Dollar Tree | $1.55 |
 | May 28 | BMO | HRL | Hormel Foods | $0.36 |
 | May 28 | AMC | NTAP | NetApp | $2.26 |
+
+## Later (Jun 01+)
+| Date | Time | Ticker | Company | Est. EPS |
+|------|------|--------|---------|----------|
 | Jun 01 | AMC | HPE | Hewlett Packard Enterprise | $0.53 |
 | Jun 02 | BMO | DG | Dollar General | $1.89 |
 | Jun 02 | AMC | PANW | Palo Alto Networks | $0.80 |
@@ -61,7 +62,7 @@ _No earnings scheduled._
 | Jun 18 | BMO | ACN | Accenture | $3.73 |
 | Jun 23 | AMC | FDX | FedEx | $5.89 |
 | Jun 24 | BMO | CCL | Carnival | $0.33 |
-| Jun 24 | AMC | MU | Micron Technology | $18.97 |
+| Jun 24 | AMC | MU | Micron Technology | — |
 | Jun 25 | BMO | FDS | FactSet | $4.45 |
 | Jun 25 | AMC | NKE | Nike, Inc. | $0.12 |
 | Jun 25 | BMO | PAYX | Paychex | $1.30 |
@@ -452,5 +453,5 @@ _No earnings scheduled._
 | Aug 10 | BMO | KMB | Kimberly-Clark | $2.02 |
 | Aug 11 | BMO | Q | Qnity Electronics | $1.05 |
 | Aug 12 | AMC | CSCO | Cisco | $1.17 |
-| Aug 13 | AMC | AMAT | Applied Materials | $3.17 |
+| Aug 13 | AMC | AMAT | Applied Materials | $3.38 |
 
