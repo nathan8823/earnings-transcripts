@@ -1,11 +1,9 @@
 # S&P 500 Earnings Calendar
-> Last updated: May 19, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: May 20, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (May 18–May 24)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
-| May 19 | BMO | HD | Home Depot (The) | $3.41 |
-| May 19 | AMC | KEYS | Keysight Technologies | $2.32 |
 | May 20 | BMO | ADI | Analog Devices | $2.90 |
 | May 20 | TBD | HAS | Hasbro | $1.26 |
 | May 20 | AMC | INTU | Intuit | $12.57 |
@@ -14,7 +12,6 @@
 | May 20 | AMC | NVDA | Nvidia | $1.77 |
 | May 20 | BMO | TGT | Target Corporation | $1.46 |
 | May 20 | BMO | TJX | TJX Companies | $1.02 |
-| May 20 | BMO | WSM | Williams-Sonoma, Inc. | $1.80 |
 | May 21 | AMC | CPRT | Copart | $0.41 |
 | May 21 | BMO | DE | Deere & Company | $5.70 |
 | May 21 | AMC | DECK | Deckers Brands | $0.83 |
@@ -23,6 +20,7 @@
 | May 21 | AMC | TTWO | Take-Two Interactive | $0.56 |
 | May 21 | AMC | WDAY | Workday, Inc. | $2.52 |
 | May 21 | BMO | WMT | Walmart | $0.66 |
+| May 21 | BMO | WSM | Williams-Sonoma, Inc. | $1.80 |
 
 ## Next Week (May 25–May 31)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -454,4 +452,6 @@
 | Aug 11 | BMO | Q | Qnity Electronics | $1.05 |
 | Aug 12 | AMC | CSCO | Cisco | $1.17 |
 | Aug 13 | AMC | AMAT | Applied Materials | $3.38 |
+| Aug 18 | BMO | HD | Home Depot (The) | $3.41 |
+| Aug 18 | AMC | KEYS | Keysight Technologies | $2.32 |
 

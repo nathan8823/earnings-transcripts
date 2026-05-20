@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T11:34:20.579631Z",
+  "updated_at": "2026-05-20T11:11:20.497087Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 503,
   "earnings": [
@@ -553,24 +553,6 @@
       "revenue_estimate": 6529873920
     },
     {
-      "ticker": "HD",
-      "company": "Home Depot (The)",
-      "sector": "Consumer Discretionary",
-      "date": "2026-05-19",
-      "time": "BMO",
-      "eps_estimate": 3.41,
-      "revenue_estimate": 41511580650
-    },
-    {
-      "ticker": "KEYS",
-      "company": "Keysight Technologies",
-      "sector": "Information Technology",
-      "date": "2026-05-19",
-      "time": "AMC",
-      "eps_estimate": 2.32,
-      "revenue_estimate": 1705224330
-    },
-    {
       "ticker": "ADI",
       "company": "Analog Devices",
       "sector": "Information Technology",
@@ -643,15 +625,6 @@
       "revenue_estimate": 14006410770
     },
     {
-      "ticker": "WSM",
-      "company": "Williams-Sonoma, Inc.",
-      "sector": "Consumer Discretionary",
-      "date": "2026-05-20",
-      "time": "BMO",
-      "eps_estimate": 1.8,
-      "revenue_estimate": 1797081450
-    },
-    {
       "ticker": "CPRT",
       "company": "Copart",
       "sector": "Industrials",
@@ -722,6 +695,15 @@
       "time": "BMO",
       "eps_estimate": 0.66,
       "revenue_estimate": 174802462850
+    },
+    {
+      "ticker": "WSM",
+      "company": "Williams-Sonoma, Inc.",
+      "sector": "Consumer Discretionary",
+      "date": "2026-05-21",
+      "time": "BMO",
+      "eps_estimate": 1.8,
+      "revenue_estimate": 1797081450
     },
     {
       "ticker": "AZO",
@@ -2780,7 +2762,7 @@
       "date": "2026-07-29",
       "time": "AMC",
       "eps_estimate": 0.13,
-      "revenue_estimate": 705085800
+      "revenue_estimate": 704945800
     },
     {
       "ticker": "ITW",
@@ -4519,14 +4501,12 @@
       "time": "AMC",
       "eps_estimate": 3.38,
       "revenue_estimate": 8999731660
-    }
-  ],
-  "this_week": [
+    },
     {
       "ticker": "HD",
       "company": "Home Depot (The)",
       "sector": "Consumer Discretionary",
-      "date": "2026-05-19",
+      "date": "2026-08-18",
       "time": "BMO",
       "eps_estimate": 3.41,
       "revenue_estimate": 41511580650
@@ -4535,11 +4515,13 @@
       "ticker": "KEYS",
       "company": "Keysight Technologies",
       "sector": "Information Technology",
-      "date": "2026-05-19",
+      "date": "2026-08-18",
       "time": "AMC",
       "eps_estimate": 2.32,
       "revenue_estimate": 1705224330
-    },
+    }
+  ],
+  "this_week": [
     {
       "ticker": "ADI",
       "company": "Analog Devices",
@@ -4613,15 +4595,6 @@
       "revenue_estimate": 14006410770
     },
     {
-      "ticker": "WSM",
-      "company": "Williams-Sonoma, Inc.",
-      "sector": "Consumer Discretionary",
-      "date": "2026-05-20",
-      "time": "BMO",
-      "eps_estimate": 1.8,
-      "revenue_estimate": 1797081450
-    },
-    {
       "ticker": "CPRT",
       "company": "Copart",
       "sector": "Industrials",
@@ -4692,6 +4665,15 @@
       "time": "BMO",
       "eps_estimate": 0.66,
       "revenue_estimate": 174802462850
+    },
+    {
+      "ticker": "WSM",
+      "company": "Williams-Sonoma, Inc.",
+      "sector": "Consumer Discretionary",
+      "date": "2026-05-21",
+      "time": "BMO",
+      "eps_estimate": 1.8,
+      "revenue_estimate": 1797081450
     }
   ],
   "next_week": [
