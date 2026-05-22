@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: May 21, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: May 22, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (May 18–May 24)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -8,11 +8,6 @@
 | May 21 | AMC | CPRT | Copart | $0.41 |
 | May 21 | BMO | DE | Deere & Company | $5.70 |
 | May 21 | AMC | DECK | Deckers Brands | $0.83 |
-| May 21 | BMO | RL | Ralph Lauren Corporation | $2.54 |
-| May 21 | AMC | ROST | Ross Stores | $1.73 |
-| May 21 | AMC | TTWO | Take-Two Interactive | $0.56 |
-| May 21 | AMC | WDAY | Workday, Inc. | $2.52 |
-| May 21 | BMO | WMT | Walmart | $0.66 |
 | May 21 | BMO | WSM | Williams-Sonoma, Inc. | $1.80 |
 
 ## Next Week (May 25–May 31)
@@ -51,6 +46,7 @@
 | Jun 11 | AMC | ADBE | Adobe Inc. | $5.83 |
 | Jun 16 | BMO | JBL | Jabil | $3.10 |
 | Jun 18 | BMO | ACN | Accenture | $3.73 |
+| Jun 18 | BMO | KR | Kroger | $1.58 |
 | Jun 23 | AMC | FDX | FedEx | $5.89 |
 | Jun 24 | BMO | CCL | Carnival | $0.33 |
 | Jun 24 | AMC | MU | Micron Technology | $19.15 |
@@ -116,7 +112,6 @@
 | Jul 21 | BMO | NOC | Northrop Grumman | $6.81 |
 | Jul 21 | AMC | OMC | Omnicom Group | $2.64 |
 | Jul 21 | BMO | PCAR | Paccar | $1.35 |
-| Jul 21 | BMO | PHM | PulteGroup | $2.37 |
 | Jul 21 | BMO | PNR | Pentair | $1.48 |
 | Jul 21 | BMO | ROP | Roper Technologies | $5.30 |
 | Jul 21 | BMO | RTX | RTX Corporation | $1.66 |
@@ -139,6 +134,7 @@
 | Jul 22 | BMO | NTRS | Northern Trust | $2.64 |
 | Jul 22 | BMO | NVR | NVR, Inc. | $90.80 |
 | Jul 22 | BMO | OTIS | Otis Worldwide | $1.01 |
+| Jul 22 | BMO | PHM | PulteGroup | $2.37 |
 | Jul 22 | AMC | PKG | Packaging Corporation of America | $2.35 |
 | Jul 22 | BMO | PM | Philip Morris International | $2.04 |
 | Jul 22 | AMC | RJF | Raymond James Financial | $2.92 |
@@ -298,6 +294,7 @@
 | Jul 30 | AMC | COIN | Coinbase | $0.11 |
 | Jul 30 | AMC | CPT | Camden Property Trust | $0.25 |
 | Jul 30 | BMO | CRH | CRH plc | $2.06 |
+| Jul 30 | AMC | CTVA | Corteva | $2.23 |
 | Jul 30 | BMO | CVS | CVS Health | $1.82 |
 | Jul 30 | BMO | D | Dominion Energy | $0.86 |
 | Jul 30 | BMO | DTE | DTE Energy | $1.51 |
@@ -394,7 +391,6 @@
 | Aug 05 | BMO | COR | Cencora | $4.38 |
 | Aug 05 | AMC | CPAY | Corpay | $6.57 |
 | Aug 05 | BMO | CRL | Charles River Laboratories | $2.73 |
-| Aug 05 | AMC | CTVA | Corteva | $2.23 |
 | Aug 05 | BMO | DIS | Walt Disney Company (The) | $1.87 |
 | Aug 05 | AMC | DVA | DaVita | $3.84 |
 | Aug 05 | AMC | EMR | Emerson Electric | $1.68 |
@@ -426,13 +422,14 @@
 | Aug 06 | AMC | GEN | Gen Digital | $0.69 |
 | Aug 06 | AMC | GILD | Gilead Sciences | $-6.62 |
 | Aug 06 | BMO | HWM | Howmet Aerospace | $1.24 |
-| Aug 06 | BMO | KVUE | Kenvue | $0.32 |
+| Aug 06 | TBD | KVUE | Kenvue | $0.32 |
 | Aug 06 | BMO | MCD | McDonald's | $3.34 |
 | Aug 06 | AMC | MCHP | Microchip Technology | $0.70 |
 | Aug 06 | AMC | MNST | Monster Beverage | $0.58 |
 | Aug 06 | BMO | NRG | NRG Energy | $1.64 |
 | Aug 06 | BMO | PH | Parker Hannifin | $8.26 |
 | Aug 06 | BMO | PODD | Insulet Corporation | $1.45 |
+| Aug 06 | BMO | RL | Ralph Lauren Corporation | $2.54 |
 | Aug 06 | BMO | ROK | Rockwell Automation | $3.37 |
 | Aug 06 | BMO | SRE | Sempra | $1.02 |
 | Aug 06 | BMO | TRGP | Targa Resources | $2.77 |
@@ -443,6 +440,7 @@
 | Aug 06 | AMC | WYNN | Wynn Resorts | $1.05 |
 | Aug 10 | BMO | CEG | Constellation Energy | $2.59 |
 | Aug 10 | BMO | KMB | Kimberly-Clark | $2.02 |
+| Aug 10 | AMC | TTWO | Take-Two Interactive | $0.56 |
 | Aug 11 | BMO | Q | Qnity Electronics | $1.05 |
 | Aug 12 | AMC | CSCO | Cisco | $1.17 |
 | Aug 13 | AMC | AMAT | Applied Materials | $3.38 |
@@ -454,4 +452,7 @@
 | Aug 19 | BMO | TGT | Target Corporation | $2.23 |
 | Aug 19 | BMO | TJX | TJX Companies | $1.18 |
 | Aug 20 | AMC | INTU | Intuit | $3.22 |
+| Aug 20 | AMC | ROST | Ross Stores | $1.79 |
+| Aug 20 | AMC | WDAY | Workday, Inc. | $2.52 |
+| Aug 20 | BMO | WMT | Walmart | $0.66 |
 

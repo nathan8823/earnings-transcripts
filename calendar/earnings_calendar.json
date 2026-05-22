@@ -1,17 +1,8 @@
 {
-  "updated_at": "2026-05-21T11:45:30.227905Z",
+  "updated_at": "2026-05-22T11:06:05.789763Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 503,
   "earnings": [
-    {
-      "ticker": "KR",
-      "company": "Kroger",
-      "sector": "Consumer Staples",
-      "date": "2026-03-05",
-      "time": "BMO",
-      "eps_estimate": 1.58,
-      "revenue_estimate": 45336563820
-    },
     {
       "ticker": "LEN",
       "company": "Lennar",
@@ -589,51 +580,6 @@
       "revenue_estimate": 1085446750
     },
     {
-      "ticker": "RL",
-      "company": "Ralph Lauren Corporation",
-      "sector": "Consumer Discretionary",
-      "date": "2026-05-21",
-      "time": "BMO",
-      "eps_estimate": 2.54,
-      "revenue_estimate": 1848756820
-    },
-    {
-      "ticker": "ROST",
-      "company": "Ross Stores",
-      "sector": "Consumer Discretionary",
-      "date": "2026-05-21",
-      "time": "AMC",
-      "eps_estimate": 1.73,
-      "revenue_estimate": 5647990460
-    },
-    {
-      "ticker": "TTWO",
-      "company": "Take-Two Interactive",
-      "sector": "Communication Services",
-      "date": "2026-05-21",
-      "time": "AMC",
-      "eps_estimate": 0.56,
-      "revenue_estimate": 1551845430
-    },
-    {
-      "ticker": "WDAY",
-      "company": "Workday, Inc.",
-      "sector": "Information Technology",
-      "date": "2026-05-21",
-      "time": "AMC",
-      "eps_estimate": 2.52,
-      "revenue_estimate": 2516645340
-    },
-    {
-      "ticker": "WMT",
-      "company": "Walmart",
-      "sector": "Consumer Staples",
-      "date": "2026-05-21",
-      "time": "BMO",
-      "eps_estimate": 0.66,
-      "revenue_estimate": 174841308960
-    },
-    {
       "ticker": "WSM",
       "company": "Williams-Sonoma, Inc.",
       "sector": "Consumer Discretionary",
@@ -902,6 +848,15 @@
       "time": "BMO",
       "eps_estimate": 3.73,
       "revenue_estimate": 18808052370
+    },
+    {
+      "ticker": "KR",
+      "company": "Kroger",
+      "sector": "Consumer Staples",
+      "date": "2026-06-18",
+      "time": "BMO",
+      "eps_estimate": 1.58,
+      "revenue_estimate": 45336563820
     },
     {
       "ticker": "FDX",
@@ -1489,15 +1444,6 @@
       "revenue_estimate": 7058500000
     },
     {
-      "ticker": "PHM",
-      "company": "PulteGroup",
-      "sector": "Consumer Discretionary",
-      "date": "2026-07-21",
-      "time": "BMO",
-      "eps_estimate": 2.37,
-      "revenue_estimate": 3983045890
-    },
-    {
       "ticker": "PNR",
       "company": "Pentair",
       "sector": "Industrials",
@@ -1694,6 +1640,15 @@
       "time": "BMO",
       "eps_estimate": 1.01,
       "revenue_estimate": 3746881200
+    },
+    {
+      "ticker": "PHM",
+      "company": "PulteGroup",
+      "sector": "Consumer Discretionary",
+      "date": "2026-07-22",
+      "time": "BMO",
+      "eps_estimate": 2.37,
+      "revenue_estimate": 3983045890
     },
     {
       "ticker": "PKG",
@@ -3123,6 +3078,15 @@
       "revenue_estimate": 10723536150
     },
     {
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "sector": "Materials",
+      "date": "2026-07-30",
+      "time": "AMC",
+      "eps_estimate": 2.23,
+      "revenue_estimate": 6575973540
+    },
+    {
       "ticker": "CVS",
       "company": "CVS Health",
       "sector": "Health Care",
@@ -3984,15 +3948,6 @@
       "revenue_estimate": 973339950
     },
     {
-      "ticker": "CTVA",
-      "company": "Corteva",
-      "sector": "Materials",
-      "date": "2026-08-05",
-      "time": "AMC",
-      "eps_estimate": 2.23,
-      "revenue_estimate": 6575973540
-    },
-    {
       "ticker": "DIS",
       "company": "Walt Disney Company (The)",
       "sector": "Communication Services",
@@ -4273,7 +4228,7 @@
       "company": "Kenvue",
       "sector": "Consumer Staples",
       "date": "2026-08-06",
-      "time": "BMO",
+      "time": "TBD",
       "eps_estimate": 0.32,
       "revenue_estimate": 3967181560
     },
@@ -4330,6 +4285,15 @@
       "time": "BMO",
       "eps_estimate": 1.45,
       "revenue_estimate": 787738450
+    },
+    {
+      "ticker": "RL",
+      "company": "Ralph Lauren Corporation",
+      "sector": "Consumer Discretionary",
+      "date": "2026-08-06",
+      "time": "BMO",
+      "eps_estimate": 2.54,
+      "revenue_estimate": 1848239450
     },
     {
       "ticker": "ROK",
@@ -4420,6 +4384,15 @@
       "time": "BMO",
       "eps_estimate": 2.02,
       "revenue_estimate": 4247004200
+    },
+    {
+      "ticker": "TTWO",
+      "company": "Take-Two Interactive",
+      "sector": "Communication Services",
+      "date": "2026-08-10",
+      "time": "AMC",
+      "eps_estimate": 0.56,
+      "revenue_estimate": 1551845430
     },
     {
       "ticker": "Q",
@@ -4519,6 +4492,33 @@
       "time": "AMC",
       "eps_estimate": 3.22,
       "revenue_estimate": 4146554430
+    },
+    {
+      "ticker": "ROST",
+      "company": "Ross Stores",
+      "sector": "Consumer Discretionary",
+      "date": "2026-08-20",
+      "time": "AMC",
+      "eps_estimate": 1.79,
+      "revenue_estimate": 5982154260
+    },
+    {
+      "ticker": "WDAY",
+      "company": "Workday, Inc.",
+      "sector": "Information Technology",
+      "date": "2026-08-20",
+      "time": "AMC",
+      "eps_estimate": 2.52,
+      "revenue_estimate": 2516645340
+    },
+    {
+      "ticker": "WMT",
+      "company": "Walmart",
+      "sector": "Consumer Staples",
+      "date": "2026-08-20",
+      "time": "BMO",
+      "eps_estimate": 0.66,
+      "revenue_estimate": 174841757230
     }
   ],
   "this_week": [
@@ -4557,51 +4557,6 @@
       "time": "AMC",
       "eps_estimate": 0.83,
       "revenue_estimate": 1085446750
-    },
-    {
-      "ticker": "RL",
-      "company": "Ralph Lauren Corporation",
-      "sector": "Consumer Discretionary",
-      "date": "2026-05-21",
-      "time": "BMO",
-      "eps_estimate": 2.54,
-      "revenue_estimate": 1848756820
-    },
-    {
-      "ticker": "ROST",
-      "company": "Ross Stores",
-      "sector": "Consumer Discretionary",
-      "date": "2026-05-21",
-      "time": "AMC",
-      "eps_estimate": 1.73,
-      "revenue_estimate": 5647990460
-    },
-    {
-      "ticker": "TTWO",
-      "company": "Take-Two Interactive",
-      "sector": "Communication Services",
-      "date": "2026-05-21",
-      "time": "AMC",
-      "eps_estimate": 0.56,
-      "revenue_estimate": 1551845430
-    },
-    {
-      "ticker": "WDAY",
-      "company": "Workday, Inc.",
-      "sector": "Information Technology",
-      "date": "2026-05-21",
-      "time": "AMC",
-      "eps_estimate": 2.52,
-      "revenue_estimate": 2516645340
-    },
-    {
-      "ticker": "WMT",
-      "company": "Walmart",
-      "sector": "Consumer Staples",
-      "date": "2026-05-21",
-      "time": "BMO",
-      "eps_estimate": 0.66,
-      "revenue_estimate": 174841308960
     },
     {
       "ticker": "WSM",
