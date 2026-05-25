@@ -1,21 +1,14 @@
 # S&P 500 Earnings Calendar
-> Last updated: May 24, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: May 25, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
-## This Week (May 18–May 24)
-| Date | Time | Ticker | Company | Est. EPS |
-|------|------|--------|---------|----------|
-| May 20 | AMC | NVDA | Nvidia | $2.09 |
-| May 21 | AMC | CPRT | Copart | $0.38 |
-| May 21 | BMO | WSM | Williams-Sonoma, Inc. | $2.04 |
-
-## Next Week (May 25–May 31)
+## This Week (May 25–May 31)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | May 26 | BMO | AZO | AutoZone | $36.22 |
 | May 27 | AMC | A | Agilent Technologies | $1.41 |
 | May 27 | AMC | CRM | Salesforce | $3.13 |
 | May 27 | AMC | HPQ | HP Inc. | $0.72 |
-| May 27 | AMC | SNPS | Synopsys | $3.15 |
+| May 27 | AMC | SNPS | Synopsys | $3.16 |
 | May 28 | AMC | ADSK | Autodesk | $2.84 |
 | May 28 | BMO | BBY | Best Buy | $1.23 |
 | May 28 | AMC | COST | Costco | $4.98 |
@@ -24,7 +17,7 @@
 | May 28 | BMO | HRL | Hormel Foods | $0.35 |
 | May 28 | AMC | NTAP | NetApp | $2.27 |
 
-## Later (Jun 01+)
+## Next Week (Jun 01–Jun 07)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Jun 01 | AMC | HPE | Hewlett Packard Enterprise | $0.53 |
@@ -38,6 +31,10 @@
 | Jun 04 | BMO | CIEN | Ciena | $1.46 |
 | Jun 04 | AMC | COO | Cooper Companies (The) | $1.10 |
 | Jun 04 | AMC | LULU | Lululemon Athletica | $1.68 |
+
+## Later (Jun 08+)
+| Date | Time | Ticker | Company | Est. EPS |
+|------|------|--------|---------|----------|
 | Jun 08 | BMO | CPB | Campbell's Company (The) | $0.49 |
 | Jun 09 | BMO | SJM | J.M. Smucker Company (The) | $2.64 |
 | Jun 10 | AMC | ORCL | Oracle Corporation | $1.96 |
@@ -249,7 +246,7 @@
 | Jul 29 | AMC | INVH | Invitation Homes | $0.13 |
 | Jul 29 | BMO | ITW | Illinois Tool Works | $2.79 |
 | Jul 29 | BMO | KHC | Kraft Heinz | $0.53 |
-| Jul 29 | BMO | LII | Lennox International | $7.59 |
+| Jul 29 | BMO | LII | Lennox International | $7.61 |
 | Jul 29 | AMC | LRCX | Lam Research | $1.67 |
 | Jul 29 | AMC | MAA | Mid-America Apartment Communities | — |
 | Jul 29 | AMC | META | Meta Platforms | $7.53 |
@@ -290,12 +287,12 @@
 | Jul 30 | BMO | CI | Cigna | $7.56 |
 | Jul 30 | AMC | CLX | Clorox | $1.66 |
 | Jul 30 | BMO | CMCSA | Comcast | $0.98 |
-| Jul 30 | AMC | COIN | Coinbase | $0.10 |
+| Jul 30 | AMC | COIN | Coinbase | $0.08 |
 | Jul 30 | AMC | CPT | Camden Property Trust | $0.25 |
 | Jul 30 | BMO | CRH | CRH plc | $2.06 |
 | Jul 30 | AMC | CTVA | Corteva | $2.23 |
 | Jul 30 | BMO | CVS | CVS Health | $1.82 |
-| Jul 30 | BMO | D | Dominion Energy | $0.86 |
+| Jul 30 | BMO | D | Dominion Energy | $0.85 |
 | Jul 30 | BMO | DTE | DTE Energy | $1.52 |
 | Jul 30 | BMO | EME | Emcor | $7.26 |
 | Jul 30 | AMC | ES | Eversource Energy | $0.94 |
@@ -360,10 +357,10 @@
 | Aug 04 | BMO | DD | DuPont | $0.59 |
 | Aug 04 | BMO | DUK | Duke Energy | $1.25 |
 | Aug 04 | AMC | DVN | Devon Energy | $1.49 |
-| Aug 04 | BMO | ETN | Eaton Corporation | $3.08 |
+| Aug 04 | BMO | ETN | Eaton Corporation | $3.07 |
 | Aug 04 | BMO | EXPD | Expeditors International | $1.64 |
 | Aug 04 | BMO | FIS | Fidelity National Information Services | $1.47 |
-| Aug 04 | BMO | GWW | W. W. Grainger | $11.19 |
+| Aug 04 | BMO | GWW | W. W. Grainger | $11.18 |
 | Aug 04 | BMO | HSIC | Henry Schein | $1.23 |
 | Aug 04 | AMC | IFF | International Flavors & Fragrances | $1.12 |
 | Aug 04 | BMO | IT | Gartner | $3.74 |
@@ -417,7 +414,7 @@
 | Aug 06 | BMO | EPAM | EPAM Systems | $3.14 |
 | Aug 06 | AMC | ERIE | Erie Indemnity | $3.35 |
 | Aug 06 | BMO | EVRG | Evergy | $0.91 |
-| Aug 06 | AMC | EXPE | Expedia Group | $5.19 |
+| Aug 06 | AMC | EXPE | Expedia Group | $5.20 |
 | Aug 06 | AMC | GEN | Gen Digital | $0.69 |
 | Aug 06 | AMC | GILD | Gilead Sciences | $-6.62 |
 | Aug 06 | BMO | HWM | Howmet Aerospace | $1.24 |
@@ -439,7 +436,7 @@
 | Aug 06 | AMC | WYNN | Wynn Resorts | $1.05 |
 | Aug 10 | BMO | CEG | Constellation Energy | $2.57 |
 | Aug 10 | BMO | KMB | Kimberly-Clark | $2.02 |
-| Aug 10 | AMC | TTWO | Take-Two Interactive | $0.33 |
+| Aug 10 | AMC | TTWO | Take-Two Interactive | $0.37 |
 | Aug 11 | BMO | Q | Qnity Electronics | $1.05 |
 | Aug 12 | AMC | CSCO | Cisco | $1.17 |
 | Aug 13 | AMC | AMAT | Applied Materials | $3.38 |
@@ -447,12 +444,13 @@
 | Aug 18 | AMC | KEYS | Keysight Technologies | $2.48 |
 | Aug 19 | BMO | ADI | Analog Devices | $3.32 |
 | Aug 19 | BMO | LOW | Lowe's | $4.25 |
-| Aug 19 | AMC | NDSN | Nordson Corporation | $3.05 |
+| Aug 19 | AMC | NDSN | Nordson Corporation | $3.06 |
 | Aug 19 | BMO | TGT | Target Corporation | $2.24 |
 | Aug 19 | BMO | TJX | TJX Companies | $1.19 |
-| Aug 20 | BMO | DE | Deere & Company | $4.79 |
+| Aug 20 | BMO | DE | Deere & Company | $4.74 |
 | Aug 20 | AMC | INTU | Intuit | $3.54 |
 | Aug 20 | AMC | ROST | Ross Stores | $1.92 |
 | Aug 20 | AMC | WDAY | Workday, Inc. | $2.61 |
 | Aug 20 | BMO | WMT | Walmart | $0.74 |
+| Aug 24 | AMC | SNDK | Sandisk | $33.28 |
 
