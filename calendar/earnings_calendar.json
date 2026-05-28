@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-27T09:29:59.593714Z",
+  "updated_at": "2026-05-28T09:35:28.251740Z",
   "source": "Yahoo Finance via yfinance",
-  "total_companies": 501,
+  "total_companies": 503,
   "earnings": [
     {
       "ticker": "LEN",
@@ -576,8 +576,8 @@
       "sector": "Information Technology",
       "date": "2026-05-27",
       "time": "AMC",
-      "eps_estimate": 3.13,
-      "revenue_estimate": 11056096280
+      "eps_estimate": 3.25,
+      "revenue_estimate": 11361415160
     },
     {
       "ticker": "HPQ",
@@ -1183,15 +1183,6 @@
       "revenue_estimate": 5246897340
     },
     {
-      "ticker": "ARE",
-      "company": "Alexandria Real Estate Equities",
-      "sector": "Real Estate",
-      "date": "2026-07-20",
-      "time": "AMC",
-      "eps_estimate": 0.12,
-      "revenue_estimate": 657625330
-    },
-    {
       "ticker": "DPZ",
       "company": "Domino's",
       "sector": "Consumer Discretionary",
@@ -1505,6 +1496,15 @@
       "time": "BMO",
       "eps_estimate": 3.94,
       "revenue_estimate": 13437085480
+    },
+    {
+      "ticker": "GEV",
+      "company": "GE Vernova",
+      "sector": "Industrials",
+      "date": "2026-07-22",
+      "time": "BMO",
+      "eps_estimate": 2.96,
+      "revenue_estimate": 10720391110
     },
     {
       "ticker": "GL",
@@ -2559,15 +2559,6 @@
       "revenue_estimate": 5262384600
     },
     {
-      "ticker": "GEV",
-      "company": "GE Vernova",
-      "sector": "Industrials",
-      "date": "2026-07-29",
-      "time": "BMO",
-      "eps_estimate": 2.96,
-      "revenue_estimate": 10720391110
-    },
-    {
       "ticker": "GNRC",
       "company": "Generac",
       "sector": "Industrials",
@@ -3304,6 +3295,15 @@
       "revenue_estimate": 6579052710
     },
     {
+      "ticker": "VMC",
+      "company": "Vulcan Materials Company",
+      "sector": "Materials",
+      "date": "2026-07-30",
+      "time": "BMO",
+      "eps_estimate": 2.62,
+      "revenue_estimate": 2130587720
+    },
+    {
       "ticker": "WTW",
       "company": "Willis Towers Watson",
       "sector": "Financials",
@@ -3419,6 +3419,15 @@
       "time": "AMC",
       "eps_estimate": 5.01,
       "revenue_estimate": 98783000000
+    },
+    {
+      "ticker": "ARE",
+      "company": "Alexandria Real Estate Equities",
+      "sector": "Real Estate",
+      "date": "2026-08-03",
+      "time": "AMC",
+      "eps_estimate": 0.12,
+      "revenue_estimate": 657625330
     },
     {
       "ticker": "AXON",
@@ -4298,6 +4307,15 @@
       "revenue_estimate": 751628130
     },
     {
+      "ticker": "VST",
+      "company": "Vistra Corp.",
+      "sector": "Utilities",
+      "date": "2026-08-06",
+      "time": "BMO",
+      "eps_estimate": 2.25,
+      "revenue_estimate": 5873398620
+    },
+    {
       "ticker": "VTRS",
       "company": "Viatris",
       "sector": "Health Care",
@@ -4530,8 +4548,8 @@
       "sector": "Information Technology",
       "date": "2026-05-27",
       "time": "AMC",
-      "eps_estimate": 3.13,
-      "revenue_estimate": 11056096280
+      "eps_estimate": 3.25,
+      "revenue_estimate": 11361415160
     },
     {
       "ticker": "HPQ",

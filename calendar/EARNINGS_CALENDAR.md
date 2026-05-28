@@ -1,12 +1,12 @@
 # S&P 500 Earnings Calendar
-> Last updated: May 27, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: May 28, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (May 25–May 31)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | May 26 | BMO | AZO | AutoZone | $36.22 |
 | May 27 | AMC | A | Agilent Technologies | $1.41 |
-| May 27 | AMC | CRM | Salesforce | $3.13 |
+| May 27 | AMC | CRM | Salesforce | $3.25 |
 | May 27 | AMC | HPQ | HP Inc. | $0.72 |
 | May 27 | AMC | SNPS | Synopsys | $3.16 |
 | May 28 | AMC | ADSK | Autodesk | $2.84 |
@@ -82,7 +82,6 @@
 | Jul 17 | BMO | FITB | Fifth Third Bancorp | $0.98 |
 | Jul 17 | BMO | RF | Regions Financial Corporation | $0.63 |
 | Jul 17 | BMO | TFC | Truist Financial | $1.08 |
-| Jul 20 | AMC | ARE | Alexandria Real Estate Equities | $0.12 |
 | Jul 20 | BMO | DPZ | Domino's | $4.25 |
 | Jul 20 | AMC | WRB | W. R. Berkley Corporation | $1.09 |
 | Jul 21 | BMO | AVY | Avery Dennison | $2.47 |
@@ -118,6 +117,7 @@
 | Jul 22 | BMO | FCX | Freeport-McMoRan | $0.57 |
 | Jul 22 | BMO | FISV | Fiserv | $1.93 |
 | Jul 22 | BMO | GD | General Dynamics | $3.94 |
+| Jul 22 | BMO | GEV | GE Vernova | $2.96 |
 | Jul 22 | AMC | GL | Globe Life | $3.68 |
 | Jul 22 | AMC | HAS | Hasbro | $1.21 |
 | Jul 22 | AMC | IBM | IBM | $3.03 |
@@ -235,7 +235,6 @@
 | Jul 29 | AMC | FFIV | F5, Inc. | $4.00 |
 | Jul 29 | BMO | FTV | Fortive | $0.71 |
 | Jul 29 | BMO | GEHC | GE HealthCare | $1.03 |
-| Jul 29 | BMO | GEV | GE Vernova | $2.96 |
 | Jul 29 | BMO | GNRC | Generac | $2.00 |
 | Jul 29 | BMO | GRMN | Garmin | $2.29 |
 | Jul 29 | BMO | HLT | Hilton Worldwide | $2.26 |
@@ -318,6 +317,7 @@
 | Jul 30 | BMO | SO | Southern Company | $1.02 |
 | Jul 30 | BMO | SPGI | S&P Global | $4.93 |
 | Jul 30 | AMC | SYK | Stryker Corporation | $3.47 |
+| Jul 30 | BMO | VMC | Vulcan Materials Company | $2.62 |
 | Jul 30 | BMO | WTW | Willis Towers Watson | $3.12 |
 | Jul 30 | BMO | XEL | Xcel Energy | $0.79 |
 | Jul 30 | BMO | YUM | Yum! Brands | $1.57 |
@@ -331,6 +331,7 @@
 | Jul 31 | BMO | TROW | T. Rowe Price | $2.29 |
 | Jul 31 | BMO | XOM | ExxonMobil | $3.59 |
 | Aug 01 | AMC | BRK-B | Berkshire Hathaway | $5.01 |
+| Aug 03 | AMC | ARE | Alexandria Real Estate Equities | $0.12 |
 | Aug 03 | AMC | AXON | Axon Enterprise | $1.83 |
 | Aug 03 | AMC | CTRA | Coterra | $0.66 |
 | Aug 03 | AMC | FANG | Diamondback Energy | $5.92 |
@@ -429,6 +430,7 @@
 | Aug 06 | BMO | SRE | Sempra | $1.02 |
 | Aug 06 | BMO | TRGP | Targa Resources | $2.77 |
 | Aug 06 | AMC | TTD | Trade Desk (The) | $0.40 |
+| Aug 06 | BMO | VST | Vistra Corp. | $2.25 |
 | Aug 06 | BMO | VTRS | Viatris | $0.61 |
 | Aug 06 | AMC | WBD | Warner Bros. Discovery | $-0.09 |
 | Aug 06 | AMC | WYNN | Wynn Resorts | $1.05 |
