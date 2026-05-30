@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: May 29, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: May 30, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (May 25–May 31)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -7,12 +7,9 @@
 | May 26 | BMO | AZO | AutoZone | $36.22 |
 | May 27 | AMC | CRM | Salesforce | $3.27 |
 | May 27 | AMC | SNPS | Synopsys | $3.67 |
-| May 28 | AMC | ADSK | Autodesk | $3.04 |
-| May 28 | BMO | BBY | Best Buy | $1.33 |
 | May 28 | AMC | COST | Costco | $4.97 |
 | May 28 | AMC | DELL | Dell Technologies | $3.01 |
 | May 28 | BMO | DLTR | Dollar Tree | $1.04 |
-| May 28 | BMO | HRL | Hormel Foods | $0.35 |
 | May 28 | AMC | NTAP | NetApp | $1.86 |
 
 ## Next Week (Jun 01–Jun 07)
@@ -455,4 +452,7 @@
 | Aug 26 | AMC | A | Agilent Technologies | $1.49 |
 | Aug 26 | AMC | HPQ | HP Inc. | $0.65 |
 | Aug 26 | AMC | NVDA | Nvidia | $2.08 |
+| Aug 27 | AMC | ADSK | Autodesk | $3.04 |
+| Aug 27 | BMO | BBY | Best Buy | $1.33 |
+| Aug 27 | BMO | HRL | Hormel Foods | $0.35 |
 
