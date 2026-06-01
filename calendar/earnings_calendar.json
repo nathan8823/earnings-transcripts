@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T09:20:09.639285Z",
+  "updated_at": "2026-06-01T10:08:40.037365Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 503,
   "earnings": [
@@ -4525,71 +4525,6 @@
   ],
   "this_week": [
     {
-      "ticker": "AZO",
-      "company": "AutoZone",
-      "sector": "Consumer Discretionary",
-      "date": "2026-05-26",
-      "time": "BMO",
-      "eps_estimate": 36.22,
-      "revenue_estimate": 4862533700
-    },
-    {
-      "ticker": "CRM",
-      "company": "Salesforce",
-      "sector": "Information Technology",
-      "date": "2026-05-27",
-      "time": "AMC",
-      "eps_estimate": 3.27,
-      "revenue_estimate": 11307006880
-    },
-    {
-      "ticker": "SNPS",
-      "company": "Synopsys",
-      "sector": "Information Technology",
-      "date": "2026-05-27",
-      "time": "AMC",
-      "eps_estimate": 3.67,
-      "revenue_estimate": 2438808840
-    },
-    {
-      "ticker": "COST",
-      "company": "Costco",
-      "sector": "Consumer Staples",
-      "date": "2026-05-28",
-      "time": "AMC",
-      "eps_estimate": 4.97,
-      "revenue_estimate": 69639863080
-    },
-    {
-      "ticker": "DELL",
-      "company": "Dell Technologies",
-      "sector": "Information Technology",
-      "date": "2026-05-28",
-      "time": "AMC",
-      "eps_estimate": 4.86,
-      "revenue_estimate": 44873863200
-    },
-    {
-      "ticker": "DLTR",
-      "company": "Dollar Tree",
-      "sector": "Consumer Staples",
-      "date": "2026-05-28",
-      "time": "BMO",
-      "eps_estimate": 1.09,
-      "revenue_estimate": 4846895820
-    },
-    {
-      "ticker": "NTAP",
-      "company": "NetApp",
-      "sector": "Information Technology",
-      "date": "2026-05-28",
-      "time": "AMC",
-      "eps_estimate": 2.11,
-      "revenue_estimate": 1820754720
-    }
-  ],
-  "next_week": [
-    {
       "ticker": "HPE",
       "company": "Hewlett Packard Enterprise",
       "sector": "Information Technology",
@@ -4687,6 +4622,53 @@
       "time": "AMC",
       "eps_estimate": 1.69,
       "revenue_estimate": 2435741660
+    }
+  ],
+  "next_week": [
+    {
+      "ticker": "CPB",
+      "company": "Campbell's Company (The)",
+      "sector": "Consumer Staples",
+      "date": "2026-06-08",
+      "time": "BMO",
+      "eps_estimate": 0.49,
+      "revenue_estimate": 2387815360
+    },
+    {
+      "ticker": "SJM",
+      "company": "J.M. Smucker Company (The)",
+      "sector": "Consumer Staples",
+      "date": "2026-06-09",
+      "time": "BMO",
+      "eps_estimate": 2.64,
+      "revenue_estimate": 2261150160
+    },
+    {
+      "ticker": "ORCL",
+      "company": "Oracle Corporation",
+      "sector": "Information Technology",
+      "date": "2026-06-10",
+      "time": "AMC",
+      "eps_estimate": 1.96,
+      "revenue_estimate": 19096000930
+    },
+    {
+      "ticker": "ADBE",
+      "company": "Adobe Inc.",
+      "sector": "Information Technology",
+      "date": "2026-06-11",
+      "time": "AMC",
+      "eps_estimate": 5.83,
+      "revenue_estimate": 6454288800
+    },
+    {
+      "ticker": "LEN",
+      "company": "Lennar",
+      "sector": "Consumer Discretionary",
+      "date": "2026-06-11",
+      "time": "AMC",
+      "eps_estimate": 1.25,
+      "revenue_estimate": 8098330470
     }
   ]
 }

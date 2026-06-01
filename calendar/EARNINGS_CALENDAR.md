@@ -1,18 +1,7 @@
 # S&P 500 Earnings Calendar
-> Last updated: May 31, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Jun 01, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
-## This Week (May 25–May 31)
-| Date | Time | Ticker | Company | Est. EPS |
-|------|------|--------|---------|----------|
-| May 26 | BMO | AZO | AutoZone | $36.22 |
-| May 27 | AMC | CRM | Salesforce | $3.27 |
-| May 27 | AMC | SNPS | Synopsys | $3.67 |
-| May 28 | AMC | COST | Costco | $4.97 |
-| May 28 | AMC | DELL | Dell Technologies | $4.86 |
-| May 28 | BMO | DLTR | Dollar Tree | $1.09 |
-| May 28 | AMC | NTAP | NetApp | $2.11 |
-
-## Next Week (Jun 01–Jun 07)
+## This Week (Jun 01–Jun 07)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Jun 01 | AMC | HPE | Hewlett Packard Enterprise | $0.53 |
@@ -27,7 +16,7 @@
 | Jun 04 | AMC | COO | Cooper Companies (The) | $1.10 |
 | Jun 04 | AMC | LULU | Lululemon Athletica | $1.69 |
 
-## Later (Jun 08+)
+## Next Week (Jun 08–Jun 14)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Jun 08 | BMO | CPB | Campbell's Company (The) | $0.49 |
@@ -35,6 +24,10 @@
 | Jun 10 | AMC | ORCL | Oracle Corporation | $1.96 |
 | Jun 11 | AMC | ADBE | Adobe Inc. | $5.83 |
 | Jun 11 | AMC | LEN | Lennar | $1.25 |
+
+## Later (Jun 15+)
+| Date | Time | Ticker | Company | Est. EPS |
+|------|------|--------|---------|----------|
 | Jun 16 | BMO | JBL | Jabil | $3.10 |
 | Jun 18 | BMO | ACN | Accenture | $3.72 |
 | Jun 18 | BMO | KR | Kroger | $1.58 |
