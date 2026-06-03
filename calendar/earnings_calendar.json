@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T09:46:11.772383Z",
+  "updated_at": "2026-06-03T09:55:11.582888Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 503,
   "earnings": [
@@ -544,15 +544,6 @@
       "revenue_estimate": 4862533700
     },
     {
-      "ticker": "CRM",
-      "company": "Salesforce",
-      "sector": "Information Technology",
-      "date": "2026-05-27",
-      "time": "AMC",
-      "eps_estimate": 3.27,
-      "revenue_estimate": 11306714990
-    },
-    {
       "ticker": "SNPS",
       "company": "Synopsys",
       "sector": "Information Technology",
@@ -612,8 +603,8 @@
       "sector": "Consumer Staples",
       "date": "2026-06-02",
       "time": "BMO",
-      "eps_estimate": 1.89,
-      "revenue_estimate": 10812185240
+      "eps_estimate": 1.98,
+      "revenue_estimate": 11173646730
     },
     {
       "ticker": "PANW",
@@ -835,7 +826,7 @@
       "ticker": "STZ",
       "company": "Constellation Brands",
       "sector": "Consumer Staples",
-      "date": "2026-07-01",
+      "date": "2026-06-30",
       "time": "AMC",
       "eps_estimate": 3.26,
       "revenue_estimate": 2412019140
@@ -911,15 +902,6 @@
       "time": "BMO",
       "eps_estimate": 5.39,
       "revenue_estimate": 48588078300
-    },
-    {
-      "ticker": "STT",
-      "company": "State Street Corporation",
-      "sector": "Financials",
-      "date": "2026-07-14",
-      "time": "BMO",
-      "eps_estimate": 3.15,
-      "revenue_estimate": 3774187290
     },
     {
       "ticker": "WFC",
@@ -1091,6 +1073,15 @@
       "time": "BMO",
       "eps_estimate": 4.93,
       "revenue_estimate": 1218676310
+    },
+    {
+      "ticker": "STT",
+      "company": "State Street Corporation",
+      "sector": "Financials",
+      "date": "2026-07-16",
+      "time": "BMO",
+      "eps_estimate": 3.15,
+      "revenue_estimate": 3774187290
     },
     {
       "ticker": "TRV",
@@ -1651,6 +1642,15 @@
       "revenue_estimate": 24603984300
     },
     {
+      "ticker": "TXN",
+      "company": "Texas Instruments",
+      "sector": "Information Technology",
+      "date": "2026-07-22",
+      "time": "AMC",
+      "eps_estimate": 1.95,
+      "revenue_estimate": 5233803260
+    },
+    {
       "ticker": "URI",
       "company": "United Rentals",
       "sector": "Industrials",
@@ -1873,15 +1873,6 @@
       "time": "BMO",
       "eps_estimate": 3.13,
       "revenue_estimate": 6546834310
-    },
-    {
-      "ticker": "VLO",
-      "company": "Valero Energy",
-      "sector": "Energy",
-      "date": "2026-07-23",
-      "time": "BMO",
-      "eps_estimate": 10.04,
-      "revenue_estimate": 38862482870
     },
     {
       "ticker": "VLTO",
@@ -2296,15 +2287,6 @@
       "time": "BMO",
       "eps_estimate": 1.51,
       "revenue_estimate": 21883832490
-    },
-    {
-      "ticker": "TXN",
-      "company": "Texas Instruments",
-      "sector": "Information Technology",
-      "date": "2026-07-28",
-      "time": "AMC",
-      "eps_estimate": 1.95,
-      "revenue_estimate": 5233803260
     },
     {
       "ticker": "UNH",
@@ -3248,6 +3230,15 @@
       "time": "AMC",
       "eps_estimate": 3.49,
       "revenue_estimate": 6580558000
+    },
+    {
+      "ticker": "VLO",
+      "company": "Valero Energy",
+      "sector": "Energy",
+      "date": "2026-07-30",
+      "time": "BMO",
+      "eps_estimate": 10.04,
+      "revenue_estimate": 38862482870
     },
     {
       "ticker": "VMC",
@@ -4521,6 +4512,15 @@
       "time": "BMO",
       "eps_estimate": 0.35,
       "revenue_estimate": 3056724580
+    },
+    {
+      "ticker": "CRM",
+      "company": "Salesforce",
+      "sector": "Information Technology",
+      "date": "2026-09-02",
+      "time": "AMC",
+      "eps_estimate": 3.27,
+      "revenue_estimate": 11306714990
     }
   ],
   "this_week": [
@@ -4539,8 +4539,8 @@
       "sector": "Consumer Staples",
       "date": "2026-06-02",
       "time": "BMO",
-      "eps_estimate": 1.89,
-      "revenue_estimate": 10812185240
+      "eps_estimate": 1.98,
+      "revenue_estimate": 11173646730
     },
     {
       "ticker": "PANW",

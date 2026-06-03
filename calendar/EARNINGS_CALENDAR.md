@@ -1,11 +1,11 @@
 # S&P 500 Earnings Calendar
-> Last updated: Jun 02, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Jun 03, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Jun 01–Jun 07)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Jun 01 | AMC | HPE | Hewlett Packard Enterprise | $0.58 |
-| Jun 02 | BMO | DG | Dollar General | $1.89 |
+| Jun 02 | BMO | DG | Dollar General | $1.98 |
 | Jun 02 | AMC | PANW | Palo Alto Networks | $0.80 |
 | Jun 02 | AMC | ULTA | Ulta Beauty | $6.89 |
 | Jun 03 | AMC | AVGO | Broadcom | $2.40 |
@@ -38,7 +38,7 @@
 | Jun 25 | BMO | MKC | McCormick & Company | $0.70 |
 | Jun 25 | BMO | PAYX | Paychex | $1.31 |
 | Jun 30 | AMC | NKE | Nike, Inc. | $0.12 |
-| Jul 01 | AMC | STZ | Constellation Brands | $3.26 |
+| Jun 30 | AMC | STZ | Constellation Brands | $3.26 |
 | Jul 09 | BMO | DAL | Delta Air Lines | $1.47 |
 | Jul 13 | BMO | FAST | Fastenal | $0.32 |
 | Jul 14 | BMO | BAC | Bank of America | $1.10 |
@@ -47,7 +47,6 @@
 | Jul 14 | AMC | IBKR | Interactive Brokers | $0.61 |
 | Jul 14 | AMC | JBHT | J.B. Hunt | $1.70 |
 | Jul 14 | BMO | JPM | JPMorgan Chase | $5.39 |
-| Jul 14 | BMO | STT | State Street Corporation | $3.15 |
 | Jul 14 | BMO | WFC | Wells Fargo | $1.71 |
 | Jul 15 | BMO | BK | BNY Mellon | $2.17 |
 | Jul 15 | BMO | BLK | BlackRock | $12.53 |
@@ -67,6 +66,7 @@
 | Jul 16 | BMO | PEP | PepsiCo | $2.23 |
 | Jul 16 | BMO | SCHW | Charles Schwab Corporation | $1.51 |
 | Jul 16 | BMO | SNA | Snap-on | $4.93 |
+| Jul 16 | BMO | STT | State Street Corporation | $3.15 |
 | Jul 16 | BMO | TRV | Travelers Companies (The) | $4.84 |
 | Jul 16 | BMO | USB | U.S. Bancorp | $1.26 |
 | Jul 17 | BMO | FITB | Fifth Third Bancorp | $0.98 |
@@ -129,6 +129,7 @@
 | Jul 22 | BMO | TMO | Thermo Fisher Scientific | $5.72 |
 | Jul 22 | AMC | TMUS | T-Mobile US | $2.65 |
 | Jul 22 | AMC | TSLA | Tesla, Inc. | $0.45 |
+| Jul 22 | AMC | TXN | Texas Instruments | $1.95 |
 | Jul 22 | AMC | URI | United Rentals | $11.54 |
 | Jul 23 | BMO | ALLE | Allegion | $2.21 |
 | Jul 23 | AMC | AMP | Ameriprise Financial | $10.59 |
@@ -154,7 +155,6 @@
 | Jul 23 | BMO | POOL | Pool Corporation | $5.36 |
 | Jul 23 | BMO | TXT | Textron | $1.55 |
 | Jul 23 | BMO | UNP | Union Pacific Corporation | $3.13 |
-| Jul 23 | BMO | VLO | Valero Energy | $10.04 |
 | Jul 23 | AMC | VLTO | Veralto | $1.00 |
 | Jul 23 | AMC | VRSN | Verisign | $2.36 |
 | Jul 23 | BMO | WAB | Wabtec | $2.60 |
@@ -201,7 +201,6 @@
 | Jul 28 | AMC | STX | Seagate Technology | $5.06 |
 | Jul 28 | BMO | SWK | Stanley Black & Decker | $1.20 |
 | Jul 28 | BMO | SYY | Sysco | $1.51 |
-| Jul 28 | AMC | TXN | Texas Instruments | $1.95 |
 | Jul 28 | BMO | UNH | UnitedHealth Group | $4.85 |
 | Jul 28 | BMO | UPS | United Parcel Service | $1.65 |
 | Jul 28 | AMC | V | Visa Inc. | $3.22 |
@@ -307,6 +306,7 @@
 | Jul 30 | BMO | SO | Southern Company | $1.01 |
 | Jul 30 | BMO | SPGI | S&P Global | $4.93 |
 | Jul 30 | AMC | SYK | Stryker Corporation | $3.49 |
+| Jul 30 | BMO | VLO | Valero Energy | $10.04 |
 | Jul 30 | BMO | VMC | Vulcan Materials Company | $2.62 |
 | Jul 30 | BMO | WTW | Willis Towers Watson | $3.12 |
 | Jul 30 | BMO | XEL | Xcel Energy | $0.79 |
@@ -449,4 +449,5 @@
 | Aug 27 | AMC | ADSK | Autodesk | $3.12 |
 | Aug 27 | BMO | BBY | Best Buy | $1.34 |
 | Aug 27 | BMO | HRL | Hormel Foods | $0.35 |
+| Sep 02 | AMC | CRM | Salesforce | $3.27 |
 
