@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T09:36:38.707465Z",
+  "updated_at": "2026-06-05T09:28:18.585869Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 503,
   "earnings": [
@@ -580,40 +580,13 @@
       "revenue_estimate": 11907118060
     },
     {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "sector": "Information Technology",
-      "date": "2026-06-03",
-      "time": "AMC",
-      "eps_estimate": 3.18,
-      "revenue_estimate": 28469233940
-    },
-    {
-      "ticker": "CRWD",
-      "company": "CrowdStrike",
-      "sector": "Information Technology",
-      "date": "2026-06-03",
-      "time": "AMC",
-      "eps_estimate": 1.16,
-      "revenue_estimate": 1432494850
-    },
-    {
-      "ticker": "MDT",
-      "company": "Medtronic",
-      "sector": "Health Care",
-      "date": "2026-06-03",
-      "time": "BMO",
-      "eps_estimate": 1.39,
-      "revenue_estimate": 9492638570
-    },
-    {
       "ticker": "BF-B",
       "company": "Brown–Forman",
       "sector": "Consumer Staples",
       "date": "2026-06-04",
       "time": "BMO",
-      "eps_estimate": 0.32,
-      "revenue_estimate": 879669640
+      "eps_estimate": 0.38,
+      "revenue_estimate": 919423500
     },
     {
       "ticker": "CIEN",
@@ -621,8 +594,8 @@
       "sector": "Information Technology",
       "date": "2026-06-04",
       "time": "BMO",
-      "eps_estimate": 1.45,
-      "revenue_estimate": 1501116370
+      "eps_estimate": 1.58,
+      "revenue_estimate": 1555001110
     },
     {
       "ticker": "COO",
@@ -630,8 +603,8 @@
       "sector": "Health Care",
       "date": "2026-06-04",
       "time": "AMC",
-      "eps_estimate": 1.1,
-      "revenue_estimate": 1052839610
+      "eps_estimate": 1.19,
+      "revenue_estimate": 1119983170
     },
     {
       "ticker": "LULU",
@@ -639,8 +612,8 @@
       "sector": "Consumer Discretionary",
       "date": "2026-06-04",
       "time": "AMC",
-      "eps_estimate": 1.68,
-      "revenue_estimate": 2434302620
+      "eps_estimate": 2.69,
+      "revenue_estimate": 2594952390
     },
     {
       "ticker": "CPB",
@@ -805,6 +778,15 @@
       "revenue_estimate": 18672268360
     },
     {
+      "ticker": "PEP",
+      "company": "PepsiCo",
+      "sector": "Consumer Staples",
+      "date": "2026-07-09",
+      "time": "BMO",
+      "eps_estimate": 2.23,
+      "revenue_estimate": 24010301650
+    },
+    {
       "ticker": "FAST",
       "company": "Fastenal",
       "sector": "Industrials",
@@ -940,15 +922,6 @@
       "revenue_estimate": 21247425000
     },
     {
-      "ticker": "PLD",
-      "company": "Prologis",
-      "sector": "Real Estate",
-      "date": "2026-07-15",
-      "time": "BMO",
-      "eps_estimate": 0.79,
-      "revenue_estimate": 2162931440
-    },
-    {
       "ticker": "PNC",
       "company": "PNC Financial Services",
       "sector": "Financials",
@@ -1012,13 +985,13 @@
       "revenue_estimate": 12580988660
     },
     {
-      "ticker": "PEP",
-      "company": "PepsiCo",
-      "sector": "Consumer Staples",
+      "ticker": "PLD",
+      "company": "Prologis",
+      "sector": "Real Estate",
       "date": "2026-07-16",
       "time": "BMO",
-      "eps_estimate": 2.23,
-      "revenue_estimate": 24010301650
+      "eps_estimate": 0.79,
+      "revenue_estimate": 2162931440
     },
     {
       "ticker": "SCHW",
@@ -4325,6 +4298,15 @@
       "revenue_estimate": 1748067200
     },
     {
+      "ticker": "MDT",
+      "company": "Medtronic",
+      "sector": "Health Care",
+      "date": "2026-08-18",
+      "time": "BMO",
+      "eps_estimate": 1.39,
+      "revenue_estimate": 9492638570
+    },
+    {
       "ticker": "PANW",
       "company": "Palo Alto Networks",
       "sector": "Information Technology",
@@ -4505,6 +4487,15 @@
       "revenue_estimate": 2977248060
     },
     {
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "sector": "Information Technology",
+      "date": "2026-09-01",
+      "time": "AMC",
+      "eps_estimate": 1.16,
+      "revenue_estimate": 1432494850
+    },
+    {
       "ticker": "CRM",
       "company": "Salesforce",
       "sector": "Information Technology",
@@ -4512,6 +4503,15 @@
       "time": "AMC",
       "eps_estimate": 3.27,
       "revenue_estimate": 11316780880
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "sector": "Information Technology",
+      "date": "2026-09-03",
+      "time": "AMC",
+      "eps_estimate": 3.18,
+      "revenue_estimate": 28469233940
     },
     {
       "ticker": "DELL",
@@ -4534,40 +4534,13 @@
       "revenue_estimate": 11907118060
     },
     {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "sector": "Information Technology",
-      "date": "2026-06-03",
-      "time": "AMC",
-      "eps_estimate": 3.18,
-      "revenue_estimate": 28469233940
-    },
-    {
-      "ticker": "CRWD",
-      "company": "CrowdStrike",
-      "sector": "Information Technology",
-      "date": "2026-06-03",
-      "time": "AMC",
-      "eps_estimate": 1.16,
-      "revenue_estimate": 1432494850
-    },
-    {
-      "ticker": "MDT",
-      "company": "Medtronic",
-      "sector": "Health Care",
-      "date": "2026-06-03",
-      "time": "BMO",
-      "eps_estimate": 1.39,
-      "revenue_estimate": 9492638570
-    },
-    {
       "ticker": "BF-B",
       "company": "Brown–Forman",
       "sector": "Consumer Staples",
       "date": "2026-06-04",
       "time": "BMO",
-      "eps_estimate": 0.32,
-      "revenue_estimate": 879669640
+      "eps_estimate": 0.38,
+      "revenue_estimate": 919423500
     },
     {
       "ticker": "CIEN",
@@ -4575,8 +4548,8 @@
       "sector": "Information Technology",
       "date": "2026-06-04",
       "time": "BMO",
-      "eps_estimate": 1.45,
-      "revenue_estimate": 1501116370
+      "eps_estimate": 1.58,
+      "revenue_estimate": 1555001110
     },
     {
       "ticker": "COO",
@@ -4584,8 +4557,8 @@
       "sector": "Health Care",
       "date": "2026-06-04",
       "time": "AMC",
-      "eps_estimate": 1.1,
-      "revenue_estimate": 1052839610
+      "eps_estimate": 1.19,
+      "revenue_estimate": 1119983170
     },
     {
       "ticker": "LULU",
@@ -4593,8 +4566,8 @@
       "sector": "Consumer Discretionary",
       "date": "2026-06-04",
       "time": "AMC",
-      "eps_estimate": 1.68,
-      "revenue_estimate": 2434302620
+      "eps_estimate": 2.69,
+      "revenue_estimate": 2594952390
     }
   ],
   "next_week": [

@@ -1,17 +1,14 @@
 # S&P 500 Earnings Calendar
-> Last updated: Jun 04, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Jun 05, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Jun 01–Jun 07)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Jun 01 | AMC | HPE | Hewlett Packard Enterprise | $0.92 |
-| Jun 03 | AMC | AVGO | Broadcom | $3.18 |
-| Jun 03 | AMC | CRWD | CrowdStrike | $1.16 |
-| Jun 03 | BMO | MDT | Medtronic | $1.39 |
-| Jun 04 | BMO | BF-B | Brown–Forman | $0.32 |
-| Jun 04 | BMO | CIEN | Ciena | $1.45 |
-| Jun 04 | AMC | COO | Cooper Companies (The) | $1.10 |
-| Jun 04 | AMC | LULU | Lululemon Athletica | $1.68 |
+| Jun 04 | BMO | BF-B | Brown–Forman | $0.38 |
+| Jun 04 | BMO | CIEN | Ciena | $1.58 |
+| Jun 04 | AMC | COO | Cooper Companies (The) | $1.19 |
+| Jun 04 | AMC | LULU | Lululemon Athletica | $2.69 |
 
 ## Next Week (Jun 08–Jun 14)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -38,6 +35,7 @@
 | Jul 01 | BMO | FDS | FactSet | $4.45 |
 | Jul 01 | BMO | GIS | General Mills | $0.81 |
 | Jul 09 | BMO | DAL | Delta Air Lines | $1.47 |
+| Jul 09 | BMO | PEP | PepsiCo | $2.23 |
 | Jul 13 | BMO | FAST | Fastenal | $0.32 |
 | Jul 14 | BMO | BAC | Bank of America | $1.10 |
 | Jul 14 | BMO | C | Citigroup | $2.60 |
@@ -53,7 +51,6 @@
 | Jul 15 | BMO | MS | Morgan Stanley | $2.76 |
 | Jul 15 | BMO | MTB | M&T Bank | $4.65 |
 | Jul 15 | BMO | PGR | Progressive Corporation | $3.75 |
-| Jul 15 | BMO | PLD | Prologis | $0.79 |
 | Jul 15 | BMO | PNC | PNC Financial Services | $4.51 |
 | Jul 16 | BMO | ABT | Abbott Laboratories | $1.28 |
 | Jul 16 | BMO | CFG | Citizens Financial Group | $1.24 |
@@ -61,7 +58,7 @@
 | Jul 16 | BMO | GE | GE Aerospace | $1.85 |
 | Jul 16 | BMO | MRSH | Marsh McLennan | $2.91 |
 | Jul 16 | AMC | NFLX | Netflix | $0.79 |
-| Jul 16 | BMO | PEP | PepsiCo | $2.23 |
+| Jul 16 | BMO | PLD | Prologis | $0.79 |
 | Jul 16 | BMO | SCHW | Charles Schwab Corporation | $1.51 |
 | Jul 16 | BMO | SNA | Snap-on | $4.93 |
 | Jul 16 | BMO | STT | State Street Corporation | $3.15 |
@@ -430,6 +427,7 @@
 | Aug 13 | AMC | AMAT | Applied Materials | $3.38 |
 | Aug 18 | BMO | HD | Home Depot (The) | $4.73 |
 | Aug 18 | AMC | KEYS | Keysight Technologies | $2.48 |
+| Aug 18 | BMO | MDT | Medtronic | $1.39 |
 | Aug 18 | AMC | PANW | Palo Alto Networks | $0.98 |
 | Aug 19 | BMO | ADI | Analog Devices | $3.32 |
 | Aug 19 | BMO | LOW | Lowe's | $4.25 |
@@ -450,6 +448,8 @@
 | Aug 27 | BMO | DG | Dollar General | $1.99 |
 | Aug 27 | BMO | HRL | Hormel Foods | $0.35 |
 | Aug 27 | AMC | ULTA | Ulta Beauty | $6.13 |
+| Sep 01 | AMC | CRWD | CrowdStrike | $1.16 |
 | Sep 02 | AMC | CRM | Salesforce | $3.27 |
+| Sep 03 | AMC | AVGO | Broadcom | $3.18 |
 | Sep 03 | AMC | DELL | Dell Technologies | $4.88 |
 
