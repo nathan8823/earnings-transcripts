@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T09:20:33.849294Z",
+  "updated_at": "2026-06-08T09:54:35.568393Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 503,
   "earnings": [
@@ -281,15 +281,6 @@
       "time": "BMO",
       "eps_estimate": 2.01,
       "revenue_estimate": 2135704740
-    },
-    {
-      "ticker": "AFL",
-      "company": "Aflac",
-      "sector": "Financials",
-      "date": "2026-04-29",
-      "time": "AMC",
-      "eps_estimate": 1.77,
-      "revenue_estimate": 4242333330
     },
     {
       "ticker": "ALL",
@@ -2555,7 +2546,7 @@
       "date": "2026-07-29",
       "time": "BMO",
       "eps_estimate": 1.47,
-      "revenue_estimate": 1495254640
+      "revenue_estimate": 1498078170
     },
     {
       "ticker": "ORLY",
@@ -2788,7 +2779,7 @@
       "date": "2026-07-30",
       "time": "BMO",
       "eps_estimate": 1.42,
-      "revenue_estimate": 3300819700
+      "revenue_estimate": 3298602800
     },
     {
       "ticker": "ARES",
@@ -3947,6 +3938,15 @@
       "revenue_estimate": 14204638210
     },
     {
+      "ticker": "AFL",
+      "company": "Aflac",
+      "sector": "Financials",
+      "date": "2026-08-06",
+      "time": "AMC",
+      "eps_estimate": 1.77,
+      "revenue_estimate": 4242333330
+    },
+    {
       "ticker": "AKAM",
       "company": "Akamai Technologies",
       "sector": "Information Technology",
@@ -4277,7 +4277,7 @@
       "date": "2026-08-18",
       "time": "BMO",
       "eps_estimate": 1.39,
-      "revenue_estimate": 9536239580
+      "revenue_estimate": 9553065670
     },
     {
       "ticker": "PANW",
@@ -4493,7 +4493,7 @@
       "date": "2026-09-03",
       "time": "AMC",
       "eps_estimate": 3.24,
-      "revenue_estimate": 29440508590
+      "revenue_estimate": 29435447460
     },
     {
       "ticker": "COO",
@@ -4511,7 +4511,7 @@
       "date": "2026-09-03",
       "time": "AMC",
       "eps_estimate": 4.88,
-      "revenue_estimate": 44839925870
+      "revenue_estimate": 44376167490
     },
     {
       "ticker": "LULU",
@@ -4520,30 +4520,10 @@
       "date": "2026-09-03",
       "time": "AMC",
       "eps_estimate": 1.8,
-      "revenue_estimate": 2463154130
+      "revenue_estimate": 2462766420
     }
   ],
   "this_week": [
-    {
-      "ticker": "HPE",
-      "company": "Hewlett Packard Enterprise",
-      "sector": "Information Technology",
-      "date": "2026-06-01",
-      "time": "AMC",
-      "eps_estimate": 0.92,
-      "revenue_estimate": 11907118060
-    },
-    {
-      "ticker": "CIEN",
-      "company": "Ciena",
-      "sector": "Information Technology",
-      "date": "2026-06-04",
-      "time": "BMO",
-      "eps_estimate": 1.72,
-      "revenue_estimate": 1632589320
-    }
-  ],
-  "next_week": [
     {
       "ticker": "CPB",
       "company": "Campbell's Company (The)",
@@ -4588,6 +4568,35 @@
       "time": "AMC",
       "eps_estimate": 1.24,
       "revenue_estimate": 8074688900
+    }
+  ],
+  "next_week": [
+    {
+      "ticker": "JBL",
+      "company": "Jabil",
+      "sector": "Information Technology",
+      "date": "2026-06-17",
+      "time": "BMO",
+      "eps_estimate": 3.1,
+      "revenue_estimate": 8605769700
+    },
+    {
+      "ticker": "ACN",
+      "company": "Accenture",
+      "sector": "Information Technology",
+      "date": "2026-06-18",
+      "time": "BMO",
+      "eps_estimate": 3.72,
+      "revenue_estimate": 18755200000
+    },
+    {
+      "ticker": "KR",
+      "company": "Kroger",
+      "sector": "Consumer Staples",
+      "date": "2026-06-18",
+      "time": "BMO",
+      "eps_estimate": 1.58,
+      "revenue_estimate": 45382630490
     }
   ]
 }

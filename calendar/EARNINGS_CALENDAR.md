@@ -1,13 +1,7 @@
 # S&P 500 Earnings Calendar
-> Last updated: Jun 07, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Jun 08, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
-## This Week (Jun 01–Jun 07)
-| Date | Time | Ticker | Company | Est. EPS |
-|------|------|--------|---------|----------|
-| Jun 01 | AMC | HPE | Hewlett Packard Enterprise | $0.92 |
-| Jun 04 | BMO | CIEN | Ciena | $1.72 |
-
-## Next Week (Jun 08–Jun 14)
+## This Week (Jun 08–Jun 14)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Jun 08 | BMO | CPB | Campbell's Company (The) | $0.48 |
@@ -16,12 +10,16 @@
 | Jun 11 | AMC | ADBE | Adobe Inc. | $5.81 |
 | Jun 11 | AMC | LEN | Lennar | $1.24 |
 
-## Later (Jun 15+)
+## Next Week (Jun 15–Jun 21)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Jun 17 | BMO | JBL | Jabil | $3.10 |
 | Jun 18 | BMO | ACN | Accenture | $3.72 |
 | Jun 18 | BMO | KR | Kroger | $1.58 |
+
+## Later (Jun 22+)
+| Date | Time | Ticker | Company | Est. EPS |
+|------|------|--------|---------|----------|
 | Jun 23 | AMC | FDX | FedEx | $5.91 |
 | Jun 24 | BMO | CCL | Carnival | $0.34 |
 | Jun 24 | AMC | MU | Micron Technology | $19.31 |
@@ -388,6 +386,7 @@
 | Aug 05 | AMC | TPL | Texas Pacific Land Corporation | — |
 | Aug 05 | BMO | TRMB | Trimble Inc. | $0.80 |
 | Aug 05 | BMO | UBER | Uber | $0.80 |
+| Aug 06 | AMC | AFL | Aflac | $1.77 |
 | Aug 06 | AMC | AKAM | Akamai Technologies | $1.58 |
 | Aug 06 | BMO | BDX | Becton Dickinson | $3.13 |
 | Aug 06 | BMO | COP | ConocoPhillips | $2.88 |
