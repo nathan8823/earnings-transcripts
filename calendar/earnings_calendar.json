@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T09:54:35.568393Z",
+  "updated_at": "2026-06-09T09:27:14.094208Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 503,
   "earnings": [
@@ -341,7 +341,7 @@
       "company": "Hologic",
       "sector": "Health Care",
       "date": "2026-04-30",
-      "time": "AMC",
+      "time": "TBD",
       "eps_estimate": 1.07,
       "revenue_estimate": 1030656250
     },
@@ -639,8 +639,8 @@
       "sector": "Information Technology",
       "date": "2026-06-18",
       "time": "BMO",
-      "eps_estimate": 3.72,
-      "revenue_estimate": 18755200000
+      "eps_estimate": 3.71,
+      "revenue_estimate": 18742340000
     },
     {
       "ticker": "KR",
@@ -3707,15 +3707,6 @@
       "revenue_estimate": 2571707780
     },
     {
-      "ticker": "APP",
-      "company": "AppLovin",
-      "sector": "Information Technology",
-      "date": "2026-08-05",
-      "time": "AMC",
-      "eps_estimate": 4.09,
-      "revenue_estimate": 1941133440
-    },
-    {
       "ticker": "ATO",
       "company": "Atmos Energy",
       "sector": "Utilities",
@@ -3954,6 +3945,15 @@
       "time": "AMC",
       "eps_estimate": 1.58,
       "revenue_estimate": 1093077970
+    },
+    {
+      "ticker": "APP",
+      "company": "AppLovin",
+      "sector": "Information Technology",
+      "date": "2026-08-06",
+      "time": "AMC",
+      "eps_estimate": 4.09,
+      "revenue_estimate": 1941133440
     },
     {
       "ticker": "BDX",
@@ -4586,8 +4586,8 @@
       "sector": "Information Technology",
       "date": "2026-06-18",
       "time": "BMO",
-      "eps_estimate": 3.72,
-      "revenue_estimate": 18755200000
+      "eps_estimate": 3.71,
+      "revenue_estimate": 18742340000
     },
     {
       "ticker": "KR",

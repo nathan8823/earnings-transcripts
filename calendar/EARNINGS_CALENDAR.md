@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: Jun 08, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Jun 09, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Jun 08–Jun 14)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -14,7 +14,7 @@
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Jun 17 | BMO | JBL | Jabil | $3.10 |
-| Jun 18 | BMO | ACN | Accenture | $3.72 |
+| Jun 18 | BMO | ACN | Accenture | $3.71 |
 | Jun 18 | BMO | KR | Kroger | $1.58 |
 
 ## Later (Jun 22+)
@@ -360,7 +360,6 @@
 | Aug 04 | BMO | ZTS | Zoetis | $1.86 |
 | Aug 05 | AMC | ABNB | Airbnb | $1.22 |
 | Aug 05 | AMC | APA | APA Corporation | $2.10 |
-| Aug 05 | AMC | APP | AppLovin | $4.09 |
 | Aug 05 | AMC | ATO | Atmos Energy | $1.37 |
 | Aug 05 | BMO | CDW | CDW Corporation | $2.77 |
 | Aug 05 | AMC | CF | CF Industries | $5.60 |
@@ -388,6 +387,7 @@
 | Aug 05 | BMO | UBER | Uber | $0.80 |
 | Aug 06 | AMC | AFL | Aflac | $1.77 |
 | Aug 06 | AMC | AKAM | Akamai Technologies | $1.58 |
+| Aug 06 | AMC | APP | AppLovin | $4.09 |
 | Aug 06 | BMO | BDX | Becton Dickinson | $3.13 |
 | Aug 06 | BMO | COP | ConocoPhillips | $2.88 |
 | Aug 06 | BMO | DDOG | Datadog | $0.58 |
