@@ -1,11 +1,10 @@
 # S&P 500 Earnings Calendar
-> Last updated: Jun 10, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Jun 11, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Jun 08–Jun 14)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
-| Jun 09 | BMO | SJM | J.M. Smucker Company (The) | $2.18 |
-| Jun 10 | AMC | ORCL | Oracle Corporation | $1.96 |
+| Jun 10 | AMC | ORCL | Oracle Corporation | $1.69 |
 | Jun 11 | AMC | ADBE | Adobe Inc. | $5.81 |
 | Jun 11 | AMC | LEN | Lennar | $1.24 |
 
@@ -22,8 +21,8 @@
 | Jun 23 | AMC | FDX | FedEx | $5.91 |
 | Jun 24 | BMO | CCL | Carnival | $0.34 |
 | Jun 24 | AMC | MU | Micron Technology | $19.47 |
+| Jun 24 | BMO | PAYX | Paychex | $1.31 |
 | Jun 25 | BMO | MKC | McCormick & Company | $0.70 |
-| Jun 25 | BMO | PAYX | Paychex | $1.31 |
 | Jun 30 | AMC | NKE | Nike, Inc. | $0.12 |
 | Jun 30 | AMC | STZ | Constellation Brands | $3.27 |
 | Jul 01 | BMO | FDS | FactSet | $4.46 |
@@ -43,7 +42,7 @@
 | Jul 15 | BMO | CAG | Conagra Brands | $0.46 |
 | Jul 15 | BMO | JNJ | Johnson & Johnson | $2.85 |
 | Jul 15 | AMC | KMI | Kinder Morgan | $0.30 |
-| Jul 15 | TBD | MS | Morgan Stanley | $2.76 |
+| Jul 15 | BMO | MS | Morgan Stanley | $2.76 |
 | Jul 15 | BMO | MTB | M&T Bank | $4.65 |
 | Jul 15 | BMO | PGR | Progressive Corporation | $3.77 |
 | Jul 15 | BMO | PNC | PNC Financial Services | $4.51 |
@@ -82,7 +81,7 @@
 | Jul 21 | BMO | KO | Coca-Cola Company (The) | $0.93 |
 | Jul 21 | BMO | LMT | Lockheed Martin | $7.15 |
 | Jul 21 | BMO | MMM | 3M | $2.22 |
-| Jul 21 | TBD | MSCI | MSCI Inc. | $4.86 |
+| Jul 21 | BMO | MSCI | MSCI Inc. | $4.86 |
 | Jul 21 | BMO | NOC | Northrop Grumman | $6.81 |
 | Jul 21 | AMC | OMC | Omnicom Group | $2.61 |
 | Jul 21 | BMO | PCAR | Paccar | $1.35 |
@@ -90,13 +89,14 @@
 | Jul 21 | BMO | ROP | Roper Technologies | $5.30 |
 | Jul 21 | BMO | RTX | RTX Corporation | $1.66 |
 | Jul 21 | BMO | SHW | Sherwin-Williams | $3.52 |
+| Jul 21 | AMC | STLD | Steel Dynamics | $4.16 |
 | Jul 21 | BMO | SYF | Synchrony Financial | $2.09 |
 | Jul 22 | AMC | CCI | Crown Castle | $0.48 |
 | Jul 22 | BMO | CME | CME Group | $2.98 |
 | Jul 22 | BMO | FCX | Freeport-McMoRan | $0.58 |
 | Jul 22 | BMO | FISV | Fiserv | $1.93 |
 | Jul 22 | BMO | GD | General Dynamics | $3.94 |
-| Jul 22 | BMO | GEV | GE Vernova | $2.96 |
+| Jul 22 | TBD | GEV | GE Vernova | $2.96 |
 | Jul 22 | AMC | GL | Globe Life | $3.68 |
 | Jul 22 | AMC | HAS | Hasbro | $1.12 |
 | Jul 22 | AMC | IBM | IBM | $3.02 |
@@ -104,7 +104,7 @@
 | Jul 22 | AMC | LVS | Las Vegas Sands | $0.79 |
 | Jul 22 | AMC | MOH | Molina Healthcare | $1.45 |
 | Jul 22 | BMO | NEE | NextEra Energy | $1.08 |
-| Jul 22 | TBD | NOW | ServiceNow | $0.86 |
+| Jul 22 | AMC | NOW | ServiceNow | $0.86 |
 | Jul 22 | BMO | NTRS | Northern Trust | $2.64 |
 | Jul 22 | BMO | NVR | NVR, Inc. | $90.98 |
 | Jul 22 | BMO | OTIS | Otis Worldwide | $1.01 |
@@ -139,7 +139,7 @@
 | Jul 23 | BMO | KDP | Keurig Dr Pepper | $0.54 |
 | Jul 23 | BMO | LH | Labcorp | $4.78 |
 | Jul 23 | BMO | MCO | Moody's Corporation | $4.18 |
-| Jul 23 | TBD | NDAQ | Nasdaq, Inc. | $0.95 |
+| Jul 23 | BMO | NDAQ | Nasdaq, Inc. | $0.95 |
 | Jul 23 | AMC | NEM | Newmont | $2.26 |
 | Jul 23 | BMO | POOL | Pool Corporation | $5.36 |
 | Jul 23 | BMO | TXT | Textron | $1.55 |
@@ -162,6 +162,7 @@
 | Jul 27 | AMC | CINF | Cincinnati Financial | $1.73 |
 | Jul 27 | AMC | NUE | Nucor | $4.23 |
 | Jul 27 | AMC | NXPI | NXP Semiconductors | $3.53 |
+| Jul 27 | AMC | PFG | Principal Financial Group | $2.31 |
 | Jul 27 | BMO | RVTY | Revvity | $1.22 |
 | Jul 27 | AMC | UHS | Universal Health Services | $5.89 |
 | Jul 27 | AMC | WELL | Welltower | $0.65 |
@@ -238,6 +239,7 @@
 | Jul 29 | AMC | QCOM | Qualcomm | $2.23 |
 | Jul 29 | AMC | REG | Regency Centers | $0.59 |
 | Jul 29 | BMO | SW | Smurfit Westrock | $0.47 |
+| Jul 29 | AMC | TER | Teradyne | $2.05 |
 | Jul 29 | BMO | TT | Trane Technologies | $4.26 |
 | Jul 29 | AMC | TYL | Tyler Technologies | $3.17 |
 | Jul 29 | AMC | UDR | UDR, Inc. | — |
@@ -281,13 +283,13 @@
 | Jul 30 | BMO | HSY | Hershey Company (The) | $1.43 |
 | Jul 30 | BMO | ICE | Intercontinental Exchange | $1.92 |
 | Jul 30 | BMO | IP | International Paper | $-0.04 |
-| Jul 30 | TBD | KIM | Kimco Realty | $0.20 |
+| Jul 30 | BMO | KIM | Kimco Realty | $0.20 |
 | Jul 30 | BMO | KKR | KKR & Co. | $1.39 |
 | Jul 30 | AMC | KLAC | KLA Corporation | $9.95 |
 | Jul 30 | BMO | MA | Mastercard | $4.76 |
 | Jul 30 | BMO | MO | Altria | $1.49 |
 | Jul 30 | AMC | MPWR | Monolithic Power Systems | $5.86 |
-| Jul 30 | TBD | MSI | Motorola Solutions | $3.85 |
+| Jul 30 | AMC | MSI | Motorola Solutions | $3.85 |
 | Jul 30 | AMC | MTD | Mettler Toledo | $10.79 |
 | Jul 30 | BMO | NCLH | Norwegian Cruise Line Holdings | $0.38 |
 | Jul 30 | BMO | PPL | PPL Corporation | $0.36 |
@@ -356,7 +358,7 @@
 | Aug 04 | AMC | SMCI | Supermicro | $0.71 |
 | Aug 04 | AMC | SWKS | Skyworks Solutions | $1.03 |
 | Aug 04 | BMO | TDG | TransDigm Group | $10.25 |
-| Aug 04 | BMO | ZBRA | Zebra Technologies | $4.37 |
+| Aug 04 | TBD | ZBRA | Zebra Technologies | $4.37 |
 | Aug 04 | BMO | ZTS | Zoetis | $1.86 |
 | Aug 05 | AMC | ABNB | Airbnb | $1.22 |
 | Aug 05 | AMC | APA | APA Corporation | $2.10 |
@@ -396,10 +398,11 @@
 | Aug 06 | AMC | ERIE | Erie Indemnity | $3.35 |
 | Aug 06 | BMO | EVRG | Evergy | $0.91 |
 | Aug 06 | AMC | EXPE | Expedia Group | $5.20 |
-| Aug 06 | AMC | GEN | Gen Digital | $0.69 |
+| Aug 06 | TBD | GEN | Gen Digital | $0.69 |
 | Aug 06 | AMC | GILD | Gilead Sciences | $-6.58 |
 | Aug 06 | BMO | HWM | Howmet Aerospace | $1.24 |
 | Aug 06 | BMO | KVUE | Kenvue | $0.32 |
+| Aug 06 | AMC | LNT | Alliant Energy | $0.69 |
 | Aug 06 | BMO | MCD | McDonald's | $3.35 |
 | Aug 06 | AMC | MCHP | Microchip Technology | $0.70 |
 | Aug 06 | AMC | MNST | Monster Beverage | $0.58 |
@@ -444,6 +447,7 @@
 | Aug 27 | BMO | BF-B | Brown–Forman | $0.37 |
 | Aug 27 | BMO | DG | Dollar General | $1.99 |
 | Aug 27 | BMO | HRL | Hormel Foods | $0.35 |
+| Aug 27 | BMO | SJM | J.M. Smucker Company (The) | $2.18 |
 | Aug 27 | AMC | ULTA | Ulta Beauty | $6.16 |
 | Sep 01 | AMC | CRWD | CrowdStrike | $1.17 |
 | Sep 02 | AMC | CRM | Salesforce | $3.27 |

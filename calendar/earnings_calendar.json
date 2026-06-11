@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T09:33:15.669473Z",
+  "updated_at": "2026-06-11T09:48:19.670539Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 502,
   "earnings": [
@@ -38,15 +38,6 @@
       "time": "BMO",
       "eps_estimate": 0.43,
       "revenue_estimate": 1961901220
-    },
-    {
-      "ticker": "STLD",
-      "company": "Steel Dynamics",
-      "sector": "Materials",
-      "date": "2026-04-20",
-      "time": "AMC",
-      "eps_estimate": 4.16,
-      "revenue_estimate": 5649383610
     },
     {
       "ticker": "TSCO",
@@ -119,15 +110,6 @@
       "time": "BMO",
       "eps_estimate": 0.36,
       "revenue_estimate": 6178167860
-    },
-    {
-      "ticker": "PFG",
-      "company": "Principal Financial Group",
-      "sector": "Financials",
-      "date": "2026-04-23",
-      "time": "AMC",
-      "eps_estimate": 2.31,
-      "revenue_estimate": 4039350000
     },
     {
       "ticker": "NSC",
@@ -247,15 +229,6 @@
       "revenue_estimate": 8969697700
     },
     {
-      "ticker": "TER",
-      "company": "Teradyne",
-      "sector": "Information Technology",
-      "date": "2026-04-28",
-      "time": "AMC",
-      "eps_estimate": 2.05,
-      "revenue_estimate": 1217954730
-    },
-    {
       "ticker": "XYL",
       "company": "Xylem Inc.",
       "sector": "Industrials",
@@ -335,15 +308,6 @@
       "time": "BMO",
       "eps_estimate": 0.56,
       "revenue_estimate": 1968077080
-    },
-    {
-      "ticker": "LNT",
-      "company": "Alliant Energy",
-      "sector": "Utilities",
-      "date": "2026-04-30",
-      "time": "AMC",
-      "eps_estimate": 0.69,
-      "revenue_estimate": 951667250
     },
     {
       "ticker": "MLM",
@@ -562,22 +526,13 @@
       "revenue_estimate": 1633122820
     },
     {
-      "ticker": "SJM",
-      "company": "J.M. Smucker Company (The)",
-      "sector": "Consumer Staples",
-      "date": "2026-06-09",
-      "time": "BMO",
-      "eps_estimate": 2.18,
-      "revenue_estimate": 2119450000
-    },
-    {
       "ticker": "ORCL",
       "company": "Oracle Corporation",
       "sector": "Information Technology",
       "date": "2026-06-10",
       "time": "AMC",
-      "eps_estimate": 1.96,
-      "revenue_estimate": 19093860050
+      "eps_estimate": 1.69,
+      "revenue_estimate": 19014261940
     },
     {
       "ticker": "ADBE",
@@ -652,6 +607,15 @@
       "revenue_estimate": 34024205759
     },
     {
+      "ticker": "PAYX",
+      "company": "Paychex",
+      "sector": "Industrials",
+      "date": "2026-06-24",
+      "time": "BMO",
+      "eps_estimate": 1.31,
+      "revenue_estimate": 1606581120
+    },
+    {
       "ticker": "MKC",
       "company": "McCormick & Company",
       "sector": "Consumer Staples",
@@ -659,15 +623,6 @@
       "time": "BMO",
       "eps_estimate": 0.7,
       "revenue_estimate": 1912128190
-    },
-    {
-      "ticker": "PAYX",
-      "company": "Paychex",
-      "sector": "Industrials",
-      "date": "2026-06-25",
-      "time": "BMO",
-      "eps_estimate": 1.31,
-      "revenue_estimate": 1606581120
     },
     {
       "ticker": "NKE",
@@ -845,7 +800,7 @@
       "company": "Morgan Stanley",
       "sector": "Financials",
       "date": "2026-07-15",
-      "time": "TBD",
+      "time": "BMO",
       "eps_estimate": 2.76,
       "revenue_estimate": 19084902970
     },
@@ -1196,7 +1151,7 @@
       "company": "MSCI Inc.",
       "sector": "Financials",
       "date": "2026-07-21",
-      "time": "TBD",
+      "time": "BMO",
       "eps_estimate": 4.86,
       "revenue_estimate": 861354940
     },
@@ -1264,6 +1219,15 @@
       "revenue_estimate": 6603576340
     },
     {
+      "ticker": "STLD",
+      "company": "Steel Dynamics",
+      "sector": "Materials",
+      "date": "2026-07-21",
+      "time": "AMC",
+      "eps_estimate": 4.16,
+      "revenue_estimate": 5649383610
+    },
+    {
       "ticker": "SYF",
       "company": "Synchrony Financial",
       "sector": "Financials",
@@ -1322,7 +1286,7 @@
       "company": "GE Vernova",
       "sector": "Industrials",
       "date": "2026-07-22",
-      "time": "BMO",
+      "time": "TBD",
       "eps_estimate": 2.96,
       "revenue_estimate": 10716821550
     },
@@ -1394,7 +1358,7 @@
       "company": "ServiceNow",
       "sector": "Information Technology",
       "date": "2026-07-22",
-      "time": "TBD",
+      "time": "AMC",
       "eps_estimate": 0.86,
       "revenue_estimate": 3928370090
     },
@@ -1708,7 +1672,7 @@
       "company": "Nasdaq, Inc.",
       "sector": "Financials",
       "date": "2026-07-23",
-      "time": "TBD",
+      "time": "BMO",
       "eps_estimate": 0.95,
       "revenue_estimate": 1425320860
     },
@@ -1909,6 +1873,15 @@
       "time": "AMC",
       "eps_estimate": 3.53,
       "revenue_estimate": 3458194170
+    },
+    {
+      "ticker": "PFG",
+      "company": "Principal Financial Group",
+      "sector": "Financials",
+      "date": "2026-07-27",
+      "time": "AMC",
+      "eps_estimate": 2.31,
+      "revenue_estimate": 4039350000
     },
     {
       "ticker": "RVTY",
@@ -2594,6 +2567,15 @@
       "revenue_estimate": 7928571330
     },
     {
+      "ticker": "TER",
+      "company": "Teradyne",
+      "sector": "Information Technology",
+      "date": "2026-07-29",
+      "time": "AMC",
+      "eps_estimate": 2.05,
+      "revenue_estimate": 1217954730
+    },
+    {
       "ticker": "TT",
       "company": "Trane Technologies",
       "sector": "Industrials",
@@ -2984,7 +2966,7 @@
       "company": "Kimco Realty",
       "sector": "Real Estate",
       "date": "2026-07-30",
-      "time": "TBD",
+      "time": "BMO",
       "eps_estimate": 0.2,
       "revenue_estimate": 543133960
     },
@@ -3038,7 +3020,7 @@
       "company": "Motorola Solutions",
       "sector": "Information Technology",
       "date": "2026-07-30",
-      "time": "TBD",
+      "time": "AMC",
       "eps_estimate": 3.85,
       "revenue_estimate": 3000851700
     },
@@ -3657,7 +3639,7 @@
       "company": "Zebra Technologies",
       "sector": "Information Technology",
       "date": "2026-08-04",
-      "time": "BMO",
+      "time": "TBD",
       "eps_estimate": 4.37,
       "revenue_estimate": 1498057170
     },
@@ -4014,7 +3996,7 @@
       "company": "Gen Digital",
       "sector": "Information Technology",
       "date": "2026-08-06",
-      "time": "AMC",
+      "time": "TBD",
       "eps_estimate": 0.69,
       "revenue_estimate": 1311554160
     },
@@ -4044,6 +4026,15 @@
       "time": "BMO",
       "eps_estimate": 0.32,
       "revenue_estimate": 3967181560
+    },
+    {
+      "ticker": "LNT",
+      "company": "Alliant Energy",
+      "sector": "Utilities",
+      "date": "2026-08-06",
+      "time": "AMC",
+      "eps_estimate": 0.69,
+      "revenue_estimate": 951667250
     },
     {
       "ticker": "MCD",
@@ -4442,6 +4433,15 @@
       "revenue_estimate": 3056724580
     },
     {
+      "ticker": "SJM",
+      "company": "J.M. Smucker Company (The)",
+      "sector": "Consumer Staples",
+      "date": "2026-08-27",
+      "time": "BMO",
+      "eps_estimate": 2.18,
+      "revenue_estimate": 2119450000
+    },
+    {
       "ticker": "ULTA",
       "company": "Ulta Beauty",
       "sector": "Consumer Discretionary",
@@ -4516,22 +4516,13 @@
   ],
   "this_week": [
     {
-      "ticker": "SJM",
-      "company": "J.M. Smucker Company (The)",
-      "sector": "Consumer Staples",
-      "date": "2026-06-09",
-      "time": "BMO",
-      "eps_estimate": 2.18,
-      "revenue_estimate": 2119450000
-    },
-    {
       "ticker": "ORCL",
       "company": "Oracle Corporation",
       "sector": "Information Technology",
       "date": "2026-06-10",
       "time": "AMC",
-      "eps_estimate": 1.96,
-      "revenue_estimate": 19093860050
+      "eps_estimate": 1.69,
+      "revenue_estimate": 19014261940
     },
     {
       "ticker": "ADBE",
