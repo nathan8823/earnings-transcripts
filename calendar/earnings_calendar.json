@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T09:21:10.510454Z",
+  "updated_at": "2026-06-14T09:23:20.273320Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 502,
   "earnings": [
@@ -613,7 +613,7 @@
       "date": "2026-06-30",
       "time": "AMC",
       "eps_estimate": 3.26,
-      "revenue_estimate": 2413225430
+      "revenue_estimate": 2412435380
     },
     {
       "ticker": "FDS",
@@ -1124,7 +1124,7 @@
       "company": "3M",
       "sector": "Industrials",
       "date": "2026-07-21",
-      "time": "BMO",
+      "time": "TBD",
       "eps_estimate": 2.22,
       "revenue_estimate": 6373453060
     },
@@ -1620,7 +1620,7 @@
       "date": "2026-07-23",
       "time": "BMO",
       "eps_estimate": 2.42,
-      "revenue_estimate": 9556697990
+      "revenue_estimate": 9552068700
     },
     {
       "ticker": "INTC",
@@ -2284,7 +2284,7 @@
       "company": "Everest Group",
       "sector": "Financials",
       "date": "2026-07-29",
-      "time": "AMC",
+      "time": "TBD",
       "eps_estimate": 14.17,
       "revenue_estimate": 3538666670
     },
@@ -2367,7 +2367,7 @@
       "date": "2026-07-29",
       "time": "AMC",
       "eps_estimate": 0.5,
-      "revenue_estimate": 1192674570
+      "revenue_estimate": 1191746000
     },
     {
       "ticker": "HST",
@@ -2573,7 +2573,7 @@
       "date": "2026-07-29",
       "time": "AMC",
       "eps_estimate": 3.12,
-      "revenue_estimate": 649058900
+      "revenue_estimate": 649058810
     },
     {
       "ticker": "UDR",
@@ -3667,7 +3667,7 @@
       "sector": "Information Technology",
       "date": "2026-08-05",
       "time": "BMO",
-      "eps_estimate": 2.77,
+      "eps_estimate": 2.78,
       "revenue_estimate": 6198567760
     },
     {
