@@ -1,26 +1,25 @@
 # S&P 500 Earnings Calendar
-> Last updated: Jun 14, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Jun 15, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
-## This Week (Jun 08–Jun 14)
-| Date | Time | Ticker | Company | Est. EPS |
-|------|------|--------|---------|----------|
-| Jun 11 | AMC | LEN | Lennar | $1.23 |
-
-## Next Week (Jun 15–Jun 21)
+## This Week (Jun 15–Jun 21)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Jun 17 | BMO | JBL | Jabil | $3.12 |
 | Jun 18 | BMO | ACN | Accenture | $3.71 |
 | Jun 18 | BMO | KR | Kroger | $1.59 |
 
-## Later (Jun 22+)
+## Next Week (Jun 22–Jun 28)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Jun 23 | BMO | CCL | Carnival | $0.34 |
 | Jun 23 | AMC | FDX | FedEx | $5.92 |
-| Jun 24 | AMC | MU | Micron Technology | $19.66 |
+| Jun 24 | AMC | MU | Micron Technology | $19.69 |
 | Jun 24 | BMO | PAYX | Paychex | $1.31 |
 | Jun 25 | BMO | MKC | McCormick & Company | $0.70 |
+
+## Later (Jun 29+)
+| Date | Time | Ticker | Company | Est. EPS |
+|------|------|--------|---------|----------|
 | Jun 30 | AMC | NKE | Nike, Inc. | $0.12 |
 | Jun 30 | AMC | STZ | Constellation Brands | $3.26 |
 | Jul 01 | BMO | FDS | FactSet | $4.45 |
@@ -79,7 +78,7 @@
 | Jul 21 | BMO | IVZ | Invesco | $0.61 |
 | Jul 21 | BMO | KO | Coca-Cola Company (The) | $0.93 |
 | Jul 21 | BMO | LMT | Lockheed Martin | $7.18 |
-| Jul 21 | TBD | MMM | 3M | $2.22 |
+| Jul 21 | BMO | MMM | 3M | $2.23 |
 | Jul 21 | BMO | MSCI | MSCI Inc. | $4.86 |
 | Jul 21 | BMO | NOC | Northrop Grumman | $6.81 |
 | Jul 21 | AMC | OMC | Omnicom Group | $2.61 |
@@ -208,7 +207,7 @@
 | Jul 29 | AMC | CVNA | Carvana | $0.40 |
 | Jul 29 | AMC | DXCM | Dexcom | $0.61 |
 | Jul 29 | AMC | EBAY | eBay Inc. | $1.51 |
-| Jul 29 | TBD | EG | Everest Group | $14.17 |
+| Jul 29 | AMC | EG | Everest Group | $14.17 |
 | Jul 29 | AMC | EQIX | Equinix | $4.78 |
 | Jul 29 | AMC | F | Ford Motor Company | $0.34 |
 | Jul 29 | AMC | FFIV | F5, Inc. | $4.00 |
@@ -260,7 +259,7 @@
 | Jul 30 | BMO | APTV | Aptiv | $1.42 |
 | Jul 30 | BMO | ARES | Ares Management | $1.35 |
 | Jul 30 | BMO | BAX | Baxter International | $0.37 |
-| Jul 30 | BMO | BIIB | Biogen | $1.94 |
+| Jul 30 | BMO | BIIB | Biogen | $2.03 |
 | Jul 30 | BMO | BLDR | Builders FirstSource | $1.27 |
 | Jul 30 | BMO | BMY | Bristol Myers Squibb | $1.61 |
 | Jul 30 | BMO | CI | Cigna | $7.57 |
@@ -398,7 +397,7 @@
 | Aug 06 | BMO | EVRG | Evergy | $0.91 |
 | Aug 06 | AMC | EXPE | Expedia Group | $5.20 |
 | Aug 06 | AMC | GEN | Gen Digital | $0.69 |
-| Aug 06 | AMC | GILD | Gilead Sciences | $-7.13 |
+| Aug 06 | AMC | GILD | Gilead Sciences | $-7.14 |
 | Aug 06 | BMO | HWM | Howmet Aerospace | $1.24 |
 | Aug 06 | BMO | KVUE | Kenvue | $0.32 |
 | Aug 06 | AMC | LNT | Alliant Energy | $0.69 |
