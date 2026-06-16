@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T10:24:36.382800Z",
+  "updated_at": "2026-06-16T10:04:31.094745Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 502,
   "earnings": [
@@ -652,15 +652,6 @@
       "revenue_estimate": 23983780100
     },
     {
-      "ticker": "FAST",
-      "company": "Fastenal",
-      "sector": "Industrials",
-      "date": "2026-07-13",
-      "time": "BMO",
-      "eps_estimate": 0.33,
-      "revenue_estimate": 2333046170
-    },
-    {
       "ticker": "BAC",
       "company": "Bank of America",
       "sector": "Financials",
@@ -677,6 +668,15 @@
       "time": "BMO",
       "eps_estimate": 2.6,
       "revenue_estimate": 23266662490
+    },
+    {
+      "ticker": "FAST",
+      "company": "Fastenal",
+      "sector": "Industrials",
+      "date": "2026-07-14",
+      "time": "BMO",
+      "eps_estimate": 0.33,
+      "revenue_estimate": 2333046170
     },
     {
       "ticker": "GS",
@@ -1541,14 +1541,6 @@
       "time": "AMC",
       "eps_estimate": 0.73,
       "revenue_estimate": 1659434600
-    },
-    {
-      "ticker": "DOC",
-      "company": "Healthpeak Properties",
-      "sector": "Real Estate",
-      "date": "2026-07-23",
-      "time": "AMC",
-      "revenue_estimate": 706854010
     },
     {
       "ticker": "DOV",
@@ -3426,6 +3418,14 @@
       "time": "BMO",
       "eps_estimate": 0.59,
       "revenue_estimate": 1808467990
+    },
+    {
+      "ticker": "DOC",
+      "company": "Healthpeak Properties",
+      "sector": "Real Estate",
+      "date": "2026-08-04",
+      "time": "AMC",
+      "revenue_estimate": 706854010
     },
     {
       "ticker": "DUK",

@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: Jun 15, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Jun 16, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Jun 15–Jun 21)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -26,9 +26,9 @@
 | Jul 01 | BMO | GIS | General Mills | $0.80 |
 | Jul 09 | BMO | DAL | Delta Air Lines | $1.47 |
 | Jul 09 | BMO | PEP | PepsiCo | $2.23 |
-| Jul 13 | BMO | FAST | Fastenal | $0.33 |
 | Jul 14 | BMO | BAC | Bank of America | $1.10 |
 | Jul 14 | BMO | C | Citigroup | $2.60 |
+| Jul 14 | BMO | FAST | Fastenal | $0.33 |
 | Jul 14 | BMO | GS | Goldman Sachs | $13.77 |
 | Jul 14 | AMC | IBKR | Interactive Brokers | $0.61 |
 | Jul 14 | AMC | JBHT | J.B. Hunt | $1.70 |
@@ -125,7 +125,6 @@
 | Jul 23 | BMO | CNP | CenterPoint Energy | $0.37 |
 | Jul 23 | AMC | DECK | Deckers Brands | $0.87 |
 | Jul 23 | AMC | DLR | Digital Realty | $0.73 |
-| Jul 23 | AMC | DOC | Healthpeak Properties | — |
 | Jul 23 | BMO | DOV | Dover Corporation | $2.72 |
 | Jul 23 | BMO | DOW | Dow Inc. | $1.22 |
 | Jul 23 | AMC | EW | Edwards Lifesciences | $0.74 |
@@ -335,6 +334,7 @@
 | Aug 04 | BMO | CAT | Caterpillar Inc. | $6.15 |
 | Aug 04 | BMO | CMI | Cummins | $7.24 |
 | Aug 04 | BMO | DD | DuPont | $0.59 |
+| Aug 04 | AMC | DOC | Healthpeak Properties | — |
 | Aug 04 | BMO | DUK | Duke Energy | $1.25 |
 | Aug 04 | AMC | DVN | Devon Energy | $1.60 |
 | Aug 04 | BMO | ETN | Eaton Corporation | $3.07 |
