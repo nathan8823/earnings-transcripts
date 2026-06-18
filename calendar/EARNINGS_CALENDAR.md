@@ -1,10 +1,10 @@
 # S&P 500 Earnings Calendar
-> Last updated: Jun 17, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Jun 18, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Jun 15–Jun 21)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
-| Jun 17 | BMO | JBL | Jabil | $3.12 |
+| Jun 17 | BMO | JBL | Jabil | $3.73 |
 | Jun 18 | BMO | ACN | Accenture | $3.71 |
 | Jun 18 | BMO | KR | Kroger | $1.59 |
 
@@ -13,7 +13,7 @@
 |------|------|--------|---------|----------|
 | Jun 23 | BMO | CCL | Carnival | $0.34 |
 | Jun 23 | AMC | FDX | FedEx | $5.92 |
-| Jun 24 | AMC | MU | Micron Technology | $19.69 |
+| Jun 24 | AMC | MU | Micron Technology | $19.72 |
 | Jun 24 | BMO | PAYX | Paychex | $1.31 |
 | Jun 25 | BMO | MKC | McCormick & Company | $0.70 |
 
@@ -33,7 +33,7 @@
 | Jul 14 | AMC | IBKR | Interactive Brokers | $0.61 |
 | Jul 14 | AMC | JBHT | J.B. Hunt | $1.70 |
 | Jul 14 | BMO | JPM | JPMorgan Chase | $5.41 |
-| Jul 14 | BMO | WFC | Wells Fargo | $1.71 |
+| Jul 14 | BMO | WFC | Wells Fargo | $1.70 |
 | Jul 15 | BMO | BK | BNY Mellon | $2.17 |
 | Jul 15 | BMO | BLK | BlackRock | $12.53 |
 | Jul 15 | BMO | CAG | Conagra Brands | $0.46 |
@@ -60,12 +60,12 @@
 | Jul 17 | BMO | TFC | Truist Financial | $1.08 |
 | Jul 17 | BMO | TRV | Travelers Companies (The) | $4.87 |
 | Jul 20 | BMO | DPZ | Domino's | $4.25 |
+| Jul 20 | AMC | STLD | Steel Dynamics | $4.16 |
 | Jul 20 | AMC | WRB | W. R. Berkley Corporation | $1.10 |
 | Jul 21 | BMO | AVY | Avery Dennison | $2.47 |
 | Jul 21 | AMC | BKR | Baker Hughes | $0.47 |
 | Jul 21 | AMC | COF | Capital One | $4.76 |
 | Jul 21 | AMC | CSGP | CoStar Group | $0.29 |
-| Jul 21 | BMO | DGX | Quest Diagnostics | $2.82 |
 | Jul 21 | BMO | DHI | D. R. Horton | $2.99 |
 | Jul 21 | BMO | DHR | Danaher Corporation | $1.84 |
 | Jul 21 | BMO | EFX | Equifax | $2.20 |
@@ -87,11 +87,10 @@
 | Jul 21 | BMO | ROP | Roper Technologies | $5.30 |
 | Jul 21 | BMO | RTX | RTX Corporation | $1.66 |
 | Jul 21 | BMO | SHW | Sherwin-Williams | $3.52 |
-| Jul 21 | AMC | STLD | Steel Dynamics | $4.16 |
 | Jul 21 | BMO | SYF | Synchrony Financial | $2.10 |
 | Jul 22 | AMC | CCI | Crown Castle | $0.48 |
 | Jul 22 | BMO | CME | CME Group | $2.98 |
-| Jul 22 | BMO | FCX | Freeport-McMoRan | $0.58 |
+| Jul 22 | BMO | FCX | Freeport-McMoRan | $0.59 |
 | Jul 22 | BMO | FISV | Fiserv | $1.92 |
 | Jul 22 | BMO | GD | General Dynamics | $3.94 |
 | Jul 22 | BMO | GEV | GE Vernova | $2.96 |
@@ -124,6 +123,7 @@
 | Jul 23 | BMO | CMCSA | Comcast | $0.97 |
 | Jul 23 | BMO | CNP | CenterPoint Energy | $0.37 |
 | Jul 23 | AMC | DECK | Deckers Brands | $0.87 |
+| Jul 23 | BMO | DGX | Quest Diagnostics | $2.82 |
 | Jul 23 | AMC | DLR | Digital Realty | $0.73 |
 | Jul 23 | BMO | DOV | Dover Corporation | $2.72 |
 | Jul 23 | BMO | DOW | Dow Inc. | $1.22 |
@@ -148,7 +148,7 @@
 | Jul 23 | BMO | WST | West Pharmaceutical Services | $2.08 |
 | Jul 23 | AMC | WY | Weyerhaeuser | $0.11 |
 | Jul 24 | BMO | AON | Aon plc | $3.81 |
-| Jul 24 | BMO | AXP | American Express | $4.38 |
+| Jul 24 | BMO | AXP | American Express | $4.40 |
 | Jul 24 | BMO | CHTR | Charter Communications | $10.54 |
 | Jul 24 | BMO | HCA | HCA Healthcare | $7.36 |
 | Jul 24 | BMO | LHX | L3Harris | $2.84 |
@@ -180,7 +180,7 @@
 | Jul 28 | BMO | HUBB | Hubbell Incorporated | $5.43 |
 | Jul 28 | BMO | INCY | Incyte | $1.82 |
 | Jul 28 | BMO | JCI | Johnson Controls | $1.29 |
-| Jul 28 | BMO | LDOS | Leidos | $2.89 |
+| Jul 28 | BMO | LDOS | Leidos | $2.90 |
 | Jul 28 | AMC | MDLZ | Mondelez International | $0.68 |
 | Jul 28 | AMC | PPG | PPG Industries | $2.25 |
 | Jul 28 | BMO | PYPL | PayPal | $1.28 |
@@ -223,7 +223,7 @@
 | Jul 29 | AMC | INVH | Invitation Homes | $0.14 |
 | Jul 29 | BMO | ITW | Illinois Tool Works | $2.79 |
 | Jul 29 | BMO | KHC | Kraft Heinz | $0.53 |
-| Jul 29 | BMO | LII | Lennox International | $7.61 |
+| Jul 29 | BMO | LII | Lennox International | $7.60 |
 | Jul 29 | AMC | LRCX | Lam Research | $1.68 |
 | Jul 29 | AMC | MAA | Mid-America Apartment Communities | — |
 | Jul 29 | AMC | META | Meta Platforms | $7.51 |
@@ -236,7 +236,7 @@
 | Jul 29 | AMC | PRU | Prudential Financial | $3.35 |
 | Jul 29 | AMC | QCOM | Qualcomm | $2.23 |
 | Jul 29 | AMC | REG | Regency Centers | $0.59 |
-| Jul 29 | BMO | SW | Smurfit Westrock | $0.47 |
+| Jul 29 | BMO | SW | Smurfit Westrock | $0.45 |
 | Jul 29 | AMC | TER | Teradyne | $2.05 |
 | Jul 29 | BMO | TT | Trane Technologies | $4.25 |
 | Jul 29 | AMC | TYL | Tyler Technologies | $3.12 |
@@ -263,7 +263,7 @@
 | Jul 30 | BMO | BMY | Bristol Myers Squibb | $1.61 |
 | Jul 30 | BMO | CI | Cigna | $7.57 |
 | Jul 30 | AMC | CLX | Clorox | $1.66 |
-| Jul 30 | AMC | COIN | Coinbase | $0.09 |
+| Jul 30 | AMC | COIN | Coinbase | $0.10 |
 | Jul 30 | AMC | CPT | Camden Property Trust | $0.27 |
 | Jul 30 | BMO | CRH | CRH plc | $2.05 |
 | Jul 30 | AMC | CTVA | Corteva | $2.23 |
@@ -279,7 +279,6 @@
 | Jul 30 | BMO | HSY | Hershey Company (The) | $1.43 |
 | Jul 30 | BMO | ICE | Intercontinental Exchange | $1.92 |
 | Jul 30 | BMO | IP | International Paper | $-0.04 |
-| Jul 30 | BMO | KIM | Kimco Realty | $0.20 |
 | Jul 30 | BMO | KKR | KKR & Co. | $1.39 |
 | Jul 30 | AMC | KLAC | KLA Corporation | $1.00 |
 | Jul 30 | BMO | MA | Mastercard | $4.76 |
@@ -345,6 +344,7 @@
 | Aug 04 | AMC | IFF | International Flavors & Fragrances | $1.12 |
 | Aug 04 | BMO | IT | Gartner | $3.75 |
 | Aug 04 | AMC | J | Jacobs Solutions | $1.83 |
+| Aug 04 | BMO | KIM | Kimco Realty | $0.20 |
 | Aug 04 | BMO | MAR | Marriott International | $3.05 |
 | Aug 04 | BMO | MOS | Mosaic Company (The) | $0.18 |
 | Aug 04 | BMO | MPC | Marathon Petroleum | $11.82 |
@@ -416,7 +416,7 @@
 | Aug 06 | BMO | VTRS | Viatris | $0.60 |
 | Aug 06 | AMC | WBD | Warner Bros. Discovery | $-0.09 |
 | Aug 06 | AMC | WYNN | Wynn Resorts | $1.05 |
-| Aug 10 | BMO | CEG | Constellation Energy | $2.57 |
+| Aug 10 | BMO | CEG | Constellation Energy | $2.54 |
 | Aug 10 | BMO | KMB | Kimberly-Clark | $2.01 |
 | Aug 10 | AMC | TTWO | Take-Two Interactive | $0.36 |
 | Aug 11 | BMO | Q | Qnity Electronics | $1.05 |
