@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T09:25:11.268000Z",
+  "updated_at": "2026-06-21T09:32:25.718455Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 501,
   "earnings": [
@@ -2142,8 +2142,8 @@
       "sector": "Materials",
       "date": "2026-07-29",
       "time": "AMC",
-      "eps_estimate": 3.1,
-      "revenue_estimate": 1550674940
+      "eps_estimate": 3.12,
+      "revenue_estimate": 1565208280
     },
     {
       "ticker": "ALGN",
@@ -2206,7 +2206,7 @@
       "date": "2026-07-29",
       "time": "BMO",
       "eps_estimate": 0.83,
-      "revenue_estimate": 5375474650
+      "revenue_estimate": 5374245750
     },
     {
       "ticker": "CHRW",
@@ -2780,7 +2780,7 @@
       "date": "2026-07-30",
       "time": "BMO",
       "eps_estimate": 2.05,
-      "revenue_estimate": 10723536150
+      "revenue_estimate": 10715262390
     },
     {
       "ticker": "CTVA",
