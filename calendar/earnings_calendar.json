@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T09:32:25.718455Z",
+  "updated_at": "2026-06-22T10:18:25.741519Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 501,
   "earnings": [
@@ -1764,7 +1764,7 @@
       "sector": "Industrials",
       "date": "2026-07-24",
       "time": "BMO",
-      "eps_estimate": 2.84,
+      "eps_estimate": 2.83,
       "revenue_estimate": 5806827980
     },
     {
@@ -2609,7 +2609,7 @@
       "date": "2026-07-30",
       "time": "AMC",
       "eps_estimate": 1.89,
-      "revenue_estimate": 108994233640
+      "revenue_estimate": 109010939580
     },
     {
       "ticker": "ABBV",
@@ -3140,7 +3140,7 @@
       "date": "2026-07-31",
       "time": "BMO",
       "eps_estimate": -2.0,
-      "revenue_estimate": 103477380
+      "revenue_estimate": 101771860
     },
     {
       "ticker": "TROW",
@@ -4123,7 +4123,7 @@
       "sector": "Communication Services",
       "date": "2026-08-06",
       "time": "AMC",
-      "eps_estimate": -0.09,
+      "eps_estimate": -0.08,
       "revenue_estimate": 9210129860
     },
     {
@@ -4502,30 +4502,10 @@
       "date": "2026-09-10",
       "time": "BMO",
       "eps_estimate": 1.08,
-      "revenue_estimate": 34517441010
+      "revenue_estimate": 34550344270
     }
   ],
   "this_week": [
-    {
-      "ticker": "JBL",
-      "company": "Jabil",
-      "sector": "Information Technology",
-      "date": "2026-06-17",
-      "time": "BMO",
-      "eps_estimate": 4.07,
-      "revenue_estimate": 9696629980
-    },
-    {
-      "ticker": "ACN",
-      "company": "Accenture",
-      "sector": "Information Technology",
-      "date": "2026-06-18",
-      "time": "BMO",
-      "eps_estimate": 3.2,
-      "revenue_estimate": 18129037580
-    }
-  ],
-  "next_week": [
     {
       "ticker": "CCL",
       "company": "Carnival",
@@ -4570,6 +4550,44 @@
       "time": "BMO",
       "eps_estimate": 0.7,
       "revenue_estimate": 1913157190
+    }
+  ],
+  "next_week": [
+    {
+      "ticker": "NKE",
+      "company": "Nike, Inc.",
+      "sector": "Consumer Discretionary",
+      "date": "2026-06-30",
+      "time": "AMC",
+      "eps_estimate": 0.12,
+      "revenue_estimate": 10845808010
+    },
+    {
+      "ticker": "STZ",
+      "company": "Constellation Brands",
+      "sector": "Consumer Staples",
+      "date": "2026-06-30",
+      "time": "AMC",
+      "eps_estimate": 3.25,
+      "revenue_estimate": 2403829970
+    },
+    {
+      "ticker": "FDS",
+      "company": "FactSet",
+      "sector": "Financials",
+      "date": "2026-07-01",
+      "time": "BMO",
+      "eps_estimate": 4.45,
+      "revenue_estimate": 617636650
+    },
+    {
+      "ticker": "GIS",
+      "company": "General Mills",
+      "sector": "Consumer Staples",
+      "date": "2026-07-01",
+      "time": "BMO",
+      "eps_estimate": 0.8,
+      "revenue_estimate": 4601603490
     }
   ]
 }

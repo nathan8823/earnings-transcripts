@@ -1,13 +1,7 @@
 # S&P 500 Earnings Calendar
-> Last updated: Jun 21, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Jun 22, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
-## This Week (Jun 15–Jun 21)
-| Date | Time | Ticker | Company | Est. EPS |
-|------|------|--------|---------|----------|
-| Jun 17 | BMO | JBL | Jabil | $4.07 |
-| Jun 18 | BMO | ACN | Accenture | $3.20 |
-
-## Next Week (Jun 22–Jun 28)
+## This Week (Jun 22–Jun 28)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Jun 23 | BMO | CCL | Carnival | $0.34 |
@@ -16,13 +10,17 @@
 | Jun 24 | BMO | PAYX | Paychex | $1.31 |
 | Jun 25 | BMO | MKC | McCormick & Company | $0.70 |
 
-## Later (Jun 29+)
+## Next Week (Jun 29–Jul 05)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Jun 30 | AMC | NKE | Nike, Inc. | $0.12 |
 | Jun 30 | AMC | STZ | Constellation Brands | $3.25 |
 | Jul 01 | BMO | FDS | FactSet | $4.45 |
 | Jul 01 | BMO | GIS | General Mills | $0.80 |
+
+## Later (Jul 06+)
+| Date | Time | Ticker | Company | Est. EPS |
+|------|------|--------|---------|----------|
 | Jul 09 | BMO | PEP | PepsiCo | $2.23 |
 | Jul 10 | BMO | DAL | Delta Air Lines | $1.47 |
 | Jul 14 | BMO | BAC | Bank of America | $1.10 |
@@ -150,7 +148,7 @@
 | Jul 24 | BMO | AXP | American Express | $4.40 |
 | Jul 24 | BMO | CHTR | Charter Communications | $10.54 |
 | Jul 24 | BMO | HCA | HCA Healthcare | $7.36 |
-| Jul 24 | BMO | LHX | L3Harris | $2.84 |
+| Jul 24 | BMO | LHX | L3Harris | $2.83 |
 | Jul 24 | BMO | PSX | Phillips 66 | $6.53 |
 | Jul 24 | BMO | SLB | Schlumberger | $0.52 |
 | Jul 24 | BMO | VZ | Verizon | $1.28 |
@@ -413,7 +411,7 @@
 | Aug 06 | AMC | TTD | Trade Desk (The) | $0.40 |
 | Aug 06 | BMO | VST | Vistra Corp. | $1.92 |
 | Aug 06 | BMO | VTRS | Viatris | $0.60 |
-| Aug 06 | AMC | WBD | Warner Bros. Discovery | $-0.09 |
+| Aug 06 | AMC | WBD | Warner Bros. Discovery | $-0.08 |
 | Aug 06 | AMC | WYNN | Wynn Resorts | $1.05 |
 | Aug 10 | BMO | CEG | Constellation Energy | $2.54 |
 | Aug 10 | BMO | KMB | Kimberly-Clark | $2.01 |
