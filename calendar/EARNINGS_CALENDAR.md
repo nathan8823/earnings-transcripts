@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: Jun 22, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Jun 23, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Jun 22–Jun 28)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -87,9 +87,9 @@
 | Jul 21 | BMO | SYF | Synchrony Financial | $2.10 |
 | Jul 22 | AMC | CCI | Crown Castle | $0.48 |
 | Jul 22 | BMO | CME | CME Group | $2.98 |
+| Jul 22 | AMC | CSX | CSX Corporation | $0.49 |
 | Jul 22 | BMO | FCX | Freeport-McMoRan | $0.59 |
 | Jul 22 | BMO | FISV | Fiserv | $1.92 |
-| Jul 22 | BMO | GD | General Dynamics | $3.94 |
 | Jul 22 | BMO | GEV | GE Vernova | $2.96 |
 | Jul 22 | AMC | GL | Globe Life | $3.68 |
 | Jul 22 | AMC | HAS | Hasbro | $1.12 |
@@ -209,6 +209,7 @@
 | Jul 29 | AMC | F | Ford Motor Company | $0.34 |
 | Jul 29 | AMC | FFIV | F5, Inc. | $4.00 |
 | Jul 29 | BMO | FTV | Fortive | $0.71 |
+| Jul 29 | BMO | GD | General Dynamics | $3.94 |
 | Jul 29 | BMO | GEHC | GE HealthCare | $1.03 |
 | Jul 29 | BMO | GNRC | Generac | $2.00 |
 | Jul 29 | BMO | GRMN | Garmin | $2.29 |
