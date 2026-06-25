@@ -1,12 +1,12 @@
 # S&P 500 Earnings Calendar
-> Last updated: Jun 24, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Jun 25, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Jun 22–Jun 28)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Jun 23 | BMO | CCL | Carnival | $0.34 |
 | Jun 23 | AMC | FDX | FedEx | $3.83 |
-| Jun 24 | AMC | MU | Micron Technology | $20.28 |
+| Jun 24 | AMC | MU | Micron Technology | $25.43 |
 | Jun 24 | BMO | PAYX | Paychex | $1.31 |
 | Jun 25 | BMO | MKC | McCormick & Company | $0.70 |
 
@@ -29,7 +29,7 @@
 | Jul 14 | BMO | GS | Goldman Sachs | $13.80 |
 | Jul 14 | AMC | IBKR | Interactive Brokers | $0.61 |
 | Jul 14 | AMC | JBHT | J.B. Hunt | $1.70 |
-| Jul 14 | TBD | JPM | JPMorgan Chase | $5.41 |
+| Jul 14 | BMO | JPM | JPMorgan Chase | $5.41 |
 | Jul 14 | BMO | WFC | Wells Fargo | $1.70 |
 | Jul 15 | BMO | BK | BNY Mellon | $2.17 |
 | Jul 15 | BMO | BLK | BlackRock | $12.53 |
@@ -93,7 +93,7 @@
 | Jul 22 | BMO | GEV | GE Vernova | $2.97 |
 | Jul 22 | AMC | GL | Globe Life | $3.68 |
 | Jul 22 | AMC | HAS | Hasbro | $1.12 |
-| Jul 22 | TBD | IBM | IBM | $3.02 |
+| Jul 22 | AMC | IBM | IBM | $3.02 |
 | Jul 22 | AMC | LUV | Southwest Airlines | $0.45 |
 | Jul 22 | AMC | LVS | Las Vegas Sands | $0.79 |
 | Jul 22 | AMC | MOH | Molina Healthcare | $1.45 |
@@ -114,6 +114,7 @@
 | Jul 22 | AMC | TSLA | Tesla, Inc. | $0.46 |
 | Jul 22 | AMC | TXN | Texas Instruments | $1.95 |
 | Jul 22 | AMC | URI | United Rentals | $11.57 |
+| Jul 22 | BMO | WAB | Wabtec | $2.60 |
 | Jul 23 | BMO | ALLE | Allegion | $2.21 |
 | Jul 23 | AMC | AMP | Ameriprise Financial | $10.60 |
 | Jul 23 | BMO | BX | Blackstone Inc. | $1.36 |
@@ -141,7 +142,6 @@
 | Jul 23 | BMO | UNP | Union Pacific Corporation | $3.13 |
 | Jul 23 | AMC | VLTO | Veralto | $1.00 |
 | Jul 23 | AMC | VRSN | Verisign | $2.37 |
-| Jul 23 | BMO | WAB | Wabtec | $2.60 |
 | Jul 23 | BMO | WST | West Pharmaceutical Services | $2.08 |
 | Jul 23 | AMC | WY | Weyerhaeuser | $0.11 |
 | Jul 24 | BMO | AON | Aon plc | $3.81 |
@@ -149,7 +149,7 @@
 | Jul 24 | BMO | CHTR | Charter Communications | $10.54 |
 | Jul 24 | BMO | HCA | HCA Healthcare | $7.48 |
 | Jul 24 | BMO | LHX | L3Harris | $2.83 |
-| Jul 24 | BMO | PSX | Phillips 66 | $6.64 |
+| Jul 24 | BMO | LW | Lamb Weston | $0.62 |
 | Jul 24 | BMO | SLB | Schlumberger | $0.52 |
 | Jul 24 | BMO | VZ | Verizon | $1.28 |
 | Jul 27 | AMC | BRO | Brown & Brown | $1.08 |
@@ -378,6 +378,7 @@
 | Aug 05 | BMO | NI | NiSource | $0.23 |
 | Aug 05 | AMC | OXY | Occidental Petroleum | $1.88 |
 | Aug 05 | AMC | PAYC | Paycom | $2.38 |
+| Aug 05 | BMO | PSX | Phillips 66 | $6.64 |
 | Aug 05 | AMC | PTC | PTC Inc. | $1.57 |
 | Aug 05 | AMC | STE | Steris | $2.50 |
 | Aug 05 | BMO | TECH | Bio-Techne | $0.52 |
@@ -389,6 +390,7 @@
 | Aug 06 | AMC | AKAM | Akamai Technologies | $1.58 |
 | Aug 06 | AMC | APP | AppLovin | $4.09 |
 | Aug 06 | BMO | BDX | Becton Dickinson | $3.13 |
+| Aug 06 | BMO | CEG | Constellation Energy | $2.54 |
 | Aug 06 | BMO | COP | ConocoPhillips | $2.86 |
 | Aug 06 | BMO | DDOG | Datadog | $0.58 |
 | Aug 06 | AMC | ED | Consolidated Edison | $0.76 |
@@ -416,7 +418,6 @@
 | Aug 06 | BMO | VTRS | Viatris | $0.60 |
 | Aug 06 | AMC | WBD | Warner Bros. Discovery | $-0.10 |
 | Aug 06 | AMC | WYNN | Wynn Resorts | $1.05 |
-| Aug 10 | BMO | CEG | Constellation Energy | $2.54 |
 | Aug 10 | AMC | TTWO | Take-Two Interactive | $0.36 |
 | Aug 11 | BMO | Q | Qnity Electronics | $1.05 |
 | Aug 12 | AMC | CSCO | Cisco | $1.17 |
@@ -456,4 +457,5 @@
 | Sep 09 | AMC | ORCL | Oracle Corporation | $1.96 |
 | Sep 10 | AMC | ADBE | Adobe Inc. | $5.81 |
 | Sep 10 | BMO | KR | Kroger | $1.06 |
+| Sep 24 | AMC | COST | Costco | $6.55 |
 
