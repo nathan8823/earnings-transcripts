@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-26T09:24:45.571526Z",
+  "updated_at": "2026-06-27T09:11:46.326651Z",
   "source": "Yahoo Finance via yfinance",
-  "total_companies": 500,
+  "total_companies": 501,
   "earnings": [
     {
       "ticker": "KEY",
@@ -197,7 +197,7 @@
       "company": "American International Group",
       "sector": "Financials",
       "date": "2026-04-30",
-      "time": "TBD",
+      "time": "AMC",
       "eps_estimate": 1.93,
       "revenue_estimate": 7288291000
     },
@@ -875,15 +875,6 @@
       "time": "BMO",
       "eps_estimate": 2.47,
       "revenue_estimate": 2293261190
-    },
-    {
-      "ticker": "BKR",
-      "company": "Baker Hughes",
-      "sector": "Energy",
-      "date": "2026-07-21",
-      "time": "AMC",
-      "eps_estimate": 0.47,
-      "revenue_estimate": 6529861670
     },
     {
       "ticker": "COF",
@@ -1723,6 +1714,15 @@
       "revenue_estimate": 35362633240
     },
     {
+      "ticker": "BKR",
+      "company": "Baker Hughes",
+      "sector": "Energy",
+      "date": "2026-07-26",
+      "time": "AMC",
+      "eps_estimate": 0.47,
+      "revenue_estimate": 6529861670
+    },
+    {
       "ticker": "BRO",
       "company": "Brown & Brown",
       "sector": "Financials",
@@ -1793,15 +1793,6 @@
       "time": "AMC",
       "eps_estimate": 0.65,
       "revenue_estimate": 3372295640
-    },
-    {
-      "ticker": "WM",
-      "company": "Waste Management",
-      "sector": "Industrials",
-      "date": "2026-07-27",
-      "time": "AMC",
-      "eps_estimate": 1.99,
-      "revenue_estimate": 6691263230
     },
     {
       "ticker": "ACGL",
@@ -2054,6 +2045,15 @@
       "time": "AMC",
       "eps_estimate": 3.22,
       "revenue_estimate": 11381336930
+    },
+    {
+      "ticker": "WM",
+      "company": "Waste Management",
+      "sector": "Industrials",
+      "date": "2026-07-28",
+      "time": "AMC",
+      "eps_estimate": 1.99,
+      "revenue_estimate": 6691263230
     },
     {
       "ticker": "ADP",
@@ -2549,15 +2549,6 @@
       "revenue_estimate": 108900233640
     },
     {
-      "ticker": "ABBV",
-      "company": "AbbVie",
-      "sector": "Health Care",
-      "date": "2026-07-30",
-      "time": "BMO",
-      "eps_estimate": 3.77,
-      "revenue_estimate": 16757825860
-    },
-    {
       "ticker": "AEE",
       "company": "Ameren",
       "sector": "Utilities",
@@ -2967,7 +2958,7 @@
       "company": "Valero Energy",
       "sector": "Energy",
       "date": "2026-07-30",
-      "time": "TBD",
+      "time": "BMO",
       "eps_estimate": 9.94,
       "revenue_estimate": 37280070250
     },
@@ -3015,6 +3006,15 @@
       "time": "BMO",
       "eps_estimate": 1.57,
       "revenue_estimate": 2194879150
+    },
+    {
+      "ticker": "ABBV",
+      "company": "AbbVie",
+      "sector": "Health Care",
+      "date": "2026-07-31",
+      "time": "BMO",
+      "eps_estimate": 3.77,
+      "revenue_estimate": 16757825860
     },
     {
       "ticker": "CBOE",
@@ -4320,7 +4320,7 @@
       "company": "Nvidia",
       "sector": "Information Technology",
       "date": "2026-08-26",
-      "time": "TBD",
+      "time": "AMC",
       "eps_estimate": 2.08,
       "revenue_estimate": 91728642100
     },
@@ -4476,6 +4476,15 @@
       "time": "BMO",
       "eps_estimate": 1.05,
       "revenue_estimate": 34611918930
+    },
+    {
+      "ticker": "DRI",
+      "company": "Darden Restaurants",
+      "sector": "Consumer Discretionary",
+      "date": "2026-09-17",
+      "time": "BMO",
+      "eps_estimate": 2.21,
+      "revenue_estimate": 3211152560
     },
     {
       "ticker": "MU",

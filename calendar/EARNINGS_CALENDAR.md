@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: Jun 26, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Jun 27, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Jun 22–Jun 28)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -59,7 +59,6 @@
 | Jul 20 | AMC | STLD | Steel Dynamics | $3.70 |
 | Jul 20 | AMC | WRB | W. R. Berkley Corporation | $1.10 |
 | Jul 21 | BMO | AVY | Avery Dennison | $2.47 |
-| Jul 21 | AMC | BKR | Baker Hughes | $0.47 |
 | Jul 21 | AMC | COF | Capital One | $4.76 |
 | Jul 21 | AMC | CSGP | CoStar Group | $0.29 |
 | Jul 21 | BMO | DHI | D. R. Horton | $2.99 |
@@ -153,6 +152,7 @@
 | Jul 24 | BMO | LW | Lamb Weston | $0.62 |
 | Jul 24 | BMO | SLB | Schlumberger | $0.52 |
 | Jul 24 | BMO | VZ | Verizon | $1.28 |
+| Jul 26 | AMC | BKR | Baker Hughes | $0.47 |
 | Jul 27 | AMC | BRO | Brown & Brown | $1.08 |
 | Jul 27 | AMC | CDNS | Cadence Design Systems | $2.06 |
 | Jul 27 | AMC | CINF | Cincinnati Financial | $1.73 |
@@ -161,7 +161,6 @@
 | Jul 27 | BMO | RVTY | Revvity | $1.22 |
 | Jul 27 | AMC | UHS | Universal Health Services | $5.98 |
 | Jul 27 | AMC | WELL | Welltower | $0.65 |
-| Jul 27 | AMC | WM | Waste Management | $1.99 |
 | Jul 28 | AMC | ACGL | Arch Capital Group | $2.42 |
 | Jul 28 | BMO | AMT | American Tower | $1.54 |
 | Jul 28 | BMO | BA | Boeing | $-0.27 |
@@ -190,6 +189,7 @@
 | Jul 28 | BMO | SYY | Sysco | $1.51 |
 | Jul 28 | BMO | UPS | United Parcel Service | $1.65 |
 | Jul 28 | AMC | V | Visa Inc. | $3.22 |
+| Jul 28 | AMC | WM | Waste Management | $1.99 |
 | Jul 29 | BMO | ADP | Automatic Data Processing | $2.60 |
 | Jul 29 | AMC | ALB | Albemarle Corporation | $3.12 |
 | Jul 29 | AMC | ALGN | Align Technology | $2.60 |
@@ -245,7 +245,6 @@
 | Jul 29 | AMC | WDC | Western Digital | $3.29 |
 | Jul 29 | BMO | WEC | WEC Energy Group | $0.83 |
 | Jul 30 | AMC | AAPL | Apple Inc. | $1.89 |
-| Jul 30 | BMO | ABBV | AbbVie | $3.77 |
 | Jul 30 | AMC | AEE | Ameren | $1.08 |
 | Jul 30 | BMO | AEP | American Electric Power | $1.50 |
 | Jul 30 | AMC | AES | AES Corporation | $0.51 |
@@ -291,12 +290,13 @@
 | Jul 30 | BMO | SO | Southern Company | $1.01 |
 | Jul 30 | BMO | SPGI | S&P Global | $4.93 |
 | Jul 30 | AMC | SYK | Stryker Corporation | $3.49 |
-| Jul 30 | TBD | VLO | Valero Energy | $9.94 |
+| Jul 30 | BMO | VLO | Valero Energy | $9.94 |
 | Jul 30 | BMO | VMC | Vulcan Materials Company | $2.62 |
 | Jul 30 | BMO | WTW | Willis Towers Watson | $3.11 |
 | Jul 30 | AMC | WY | Weyerhaeuser | $0.11 |
 | Jul 30 | BMO | XEL | Xcel Energy | $0.79 |
 | Jul 30 | BMO | YUM | Yum! Brands | $1.57 |
+| Jul 31 | BMO | ABBV | AbbVie | $3.77 |
 | Jul 31 | BMO | CBOE | Cboe Global Markets | $3.34 |
 | Jul 31 | BMO | CHD | Church & Dwight | $0.89 |
 | Jul 31 | BMO | CL | Colgate-Palmolive | $0.95 |
@@ -442,7 +442,7 @@
 | Aug 24 | AMC | SNDK | Sandisk | $33.72 |
 | Aug 26 | AMC | A | Agilent Technologies | $1.49 |
 | Aug 26 | AMC | HPQ | HP Inc. | $0.66 |
-| Aug 26 | TBD | NVDA | Nvidia | $2.08 |
+| Aug 26 | AMC | NVDA | Nvidia | $2.08 |
 | Aug 27 | AMC | ADSK | Autodesk | $3.12 |
 | Aug 27 | BMO | BBY | Best Buy | $1.34 |
 | Aug 27 | BMO | BF-B | Brown–Forman | $0.37 |
@@ -460,6 +460,7 @@
 | Sep 09 | AMC | ORCL | Oracle Corporation | $1.96 |
 | Sep 10 | AMC | ADBE | Adobe Inc. | $5.81 |
 | Sep 10 | BMO | KR | Kroger | $1.05 |
+| Sep 17 | BMO | DRI | Darden Restaurants | $2.21 |
 | Sep 23 | AMC | MU | Micron Technology | $31.37 |
 | Sep 24 | AMC | COST | Costco | $6.55 |
 
