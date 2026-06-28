@@ -26,6 +26,8 @@ import warnings
 import requests
 from bs4 import BeautifulSoup, XMLParsedAsHTMLWarning
 
+from marketbeat import MarketBeatScraper
+
 warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
 
 # Configuration
@@ -34,6 +36,12 @@ RATE_LIMIT_SECONDS = 2  # Be respectful to the server
 BASE_URL = "https://www.fool.com"
 SITEMAP_URL = f"{BASE_URL}/sitemap"
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+# Quality config. Min words for a transcript to be accepted from ANY source.
+# Large-cap earnings calls run ~6k-16k words; this floor rejects
+# prepared-remarks-only stubs and truncated pages without rejecting a
+# legitimately short call.
+WORD_COUNT_FLOOR = int(os.environ.get("TRANSCRIPT_WORD_FLOOR", "800"))
 
 # Regex to extract ticker from URL slug like "walmart-wmt-q4-2026-earnings-call-transcript"
 # Matches patterns like: company-TICKER-q1-2026 or company-TICKER-earnings
@@ -363,67 +371,186 @@ class MotleyFoolScraper:
         print(f"  Saved: {filepath}")
         return str(filepath)
 
-    def run(self, limit: int = 10, tickers: list[str] = None) -> list[str]:
+    # --- canonical dedup + quality gate (shared by ALL sources) ----------
+
+    @staticmethod
+    def _valid_label(year, quarter) -> bool:
+        """A transcript is only writable with an integer year and quarter 1-4.
+        Downstream selects 'latest quarter' by parsing the filename
+        (^TICKER_YYYY_Q[1-4]_), so a None label would break selection."""
+        return (isinstance(year, int) and isinstance(quarter, int)
+                and 2000 <= year <= 2100 and 1 <= quarter <= 4)
+
+    def quarter_exists(self, ticker: str, year: int, quarter: int) -> bool:
+        """Canonical dedup: has ANY source already captured this fiscal quarter?
+        Keyed on (ticker, year, quarter), NOT URL — so the first source to land
+        wins and the slower source is suppressed (no duplicate episode)."""
+        pattern = f"{ticker.upper()}_{year}_Q{quarter}_*.json"
+        return any(TRANSCRIPTS_DIR.glob(pattern))
+
+    def passes_quality(self, t: dict) -> tuple[bool, str]:
+        """Completeness gate applied to every source before write."""
+        wc = t.get("word_count") or len((t.get("transcript") or "").split())
+        if wc < WORD_COUNT_FLOOR:
+            return False, f"below word floor ({wc} < {WORD_COUNT_FLOOR})"
+        body = (t.get("transcript") or "").strip()
+        # Truncation guard: a complete call ends on terminal punctuation /
+        # a closing marker, not mid-sentence.
+        tail = body[-400:].lower()
+        if not (body.endswith((".", "!", "?", '"')) or
+                any(m in tail for m in ("disconnect", "concludes", "thank you"))):
+            return False, "looks truncated (no clean ending)"
+        return True, ""
+
+    def accept_and_save(self, t: dict | None, dry_run: bool = False) -> str | None:
+        """Validate label, quality-gate, canonical-dedup, then save.
+        Returns the saved path, or None (with a logged reason) if rejected."""
+        if not t:
+            return None
+        ticker = (t.get("ticker") or "").upper()
+        year, quarter = t.get("year"), t.get("quarter")
+        if not self._valid_label(year, quarter):
+            print(f"  Skip {ticker}: unresolved quarter/year ({year!r}, {quarter!r})")
+            return None
+        if self.quarter_exists(ticker, year, quarter):
+            print(f"  Skip {ticker} {year} Q{quarter}: already captured "
+                  f"(source={t.get('source')})")
+            return None
+        ok, reason = self.passes_quality(t)
+        if not ok:
+            print(f"  Reject {ticker} {year} Q{quarter} ({t.get('source')}): {reason}")
+            return None
+        if dry_run:
+            print(f"  [dry-run] would save {ticker} {year} Q{quarter} "
+                  f"({t.get('source')}, {t.get('word_count')} words)")
+            return f"DRYRUN:{ticker}_{year}_Q{quarter}"
+        return self.save_transcript(t)
+
+    # --- MarketBeat fallback pass ---------------------------------------
+
+    def fallback_for_gaps(self, tickers: list[str] | None,
+                          dry_run: bool = False, limit: int = 10) -> list[str]:
+        """Fill missing quarters from MarketBeat's transcripts listing.
+
+        Listing-driven (like the Fool sitemap pass): the listing table gives the
+        canonical (ticker, year, quarter) for each recent transcript, so we skip
+        quarters we already have BEFORE fetching any report page. Wrapped so it
+        can NEVER break the Fool path or fail the job."""
+        saved = []
+        try:
+            mb = MarketBeatScraper()
+            rows = mb.discover(tickers)
+            if not rows:
+                print("Fallback: MarketBeat listing returned no covered rows")
+                return saved
+            # Only chase quarters we don't already have (canonical dedup, pre-fetch).
+            todo = [r for r in rows
+                    if self._valid_label(r["year"], r["quarter"])
+                    and not self.quarter_exists(r["ticker"], r["year"], r["quarter"])]
+            if not todo:
+                print("Fallback: no missing quarters in MarketBeat listing")
+                return saved
+            print(f"Fallback: {len(todo)} missing quarter(s) via MarketBeat: " +
+                  ", ".join(f"{r['ticker']} {r['year']}Q{r['quarter']}" for r in todo))
+            for r in todo[:limit]:
+                t = mb.scrape_report(r["url"], company=r.get("company", ""))
+                path = self.accept_and_save(t, dry_run=dry_run)
+                if path:
+                    saved.append(path)
+        except Exception as e:  # fallback must never fail the job
+            print(f"  Fallback pass error (non-fatal): {type(e).__name__}: {e}")
+        return saved
+
+    def run(self, limit: int = 10, tickers: list[str] = None,
+            dry_run: bool = False, sources: tuple = ("fool", "marketbeat")) -> list[str]:
         """
-        Main scraping loop.
+        Main scraping loop. Runs the Motley Fool pass, then the MarketBeat
+        fallback pass for any reported-but-missing covered tickers. Sources are
+        co-equal: canonical (ticker, year, quarter) dedup means whichever lands a
+        valid transcript first wins; the slower source is suppressed for that
+        quarter (no duplicate episodes).
 
         Args:
-            limit: Maximum number of transcripts to scrape
+            limit: Maximum number of transcripts to scrape per source
             tickers: Optional list of tickers to filter (e.g., ['AAPL', 'MSFT'])
+            dry_run: If True, gate/dedup but never write files
+            sources: Which sources to run, in order
 
         Returns:
             List of saved file paths
         """
-        print(f"Starting Motley Fool scraper at {datetime.now().isoformat()}")
+        print(f"Starting transcript scraper at {datetime.now().isoformat()}")
         saved_files = []
 
-        # Get transcript URLs from sitemap (filtered by tickers if provided)
-        transcript_list = self.get_transcripts_from_sitemap(tickers=tickers)
+        if "fool" in sources:
+            saved_files += self._run_fool(limit=limit, tickers=tickers, dry_run=dry_run)
 
-        # Sort by date descending (newest first)
-        transcript_list.sort(key=lambda t: t.get("date", ""), reverse=True)
-
-        if tickers:
-            print(f"Found {len(transcript_list)} transcripts matching {len(tickers)} target tickers")
-
-        scraped = 0
-        for i, item in enumerate(transcript_list):
-            if scraped >= limit:
-                break
-
-            url = item.get("url")
-            if not url:
-                continue
-
-            # Skip if already scraped
-            if self.transcript_exists(url):
-                continue
-
-            print(f"\n[{scraped+1}/{limit}] {item.get('ticker', '???')} - {item.get('date', '???')}")
-
-            # Scrape and save
-            transcript = self.scrape_transcript(url)
-            if transcript:
-                filepath = self.save_transcript(transcript)
-                saved_files.append(filepath)
-            scraped += 1
+        if "marketbeat" in sources:
+            saved_files += self.fallback_for_gaps(tickers, dry_run=dry_run, limit=limit)
 
         print(f"\nScraping complete. Saved {len(saved_files)} new transcripts.")
         return saved_files
 
+    def _run_fool(self, limit: int, tickers: list[str] | None,
+                  dry_run: bool = False) -> list[str]:
+        """The Motley Fool sitemap pass."""
+        saved = []
+        transcript_list = self.get_transcripts_from_sitemap(tickers=tickers)
+        # Sort by date descending (newest first)
+        transcript_list.sort(key=lambda t: t.get("date", ""), reverse=True)
+        if tickers:
+            print(f"Found {len(transcript_list)} transcripts matching {len(tickers)} target tickers")
+
+        scraped = 0
+        for item in transcript_list:
+            if scraped >= limit:
+                break
+            url = item.get("url")
+            if not url:
+                continue
+            # Intra-source skip: don't re-fetch a URL we already have.
+            if self.transcript_exists(url):
+                continue
+            print(f"\n[{scraped+1}/{limit}] {item.get('ticker', '???')} - {item.get('date', '???')}")
+            transcript = self.scrape_transcript(url)
+            path = self.accept_and_save(transcript, dry_run=dry_run)
+            if path:
+                saved.append(path)
+            scraped += 1
+        return saved
+
 
 def main():
     """Entry point for the scraper."""
-    # Get configuration from environment
-    limit = int(os.environ.get("TRANSCRIPT_LIMIT", 50))
+    import argparse
+    parser = argparse.ArgumentParser(
+        description="Earnings transcript scraper (Motley Fool + MarketBeat fallback)")
+    parser.add_argument("--ticker", action="append",
+                        help="Limit to ticker(s); repeatable. Overrides $TICKERS.")
+    parser.add_argument("--source", choices=["fool", "marketbeat", "both"],
+                        default="both", help="Which source(s) to run")
+    parser.add_argument("--dry-run", action="store_true",
+                        help="Discover/gate/dedup but never write files")
+    parser.add_argument("--limit", type=int,
+                        default=int(os.environ.get("TRANSCRIPT_LIMIT", 50)),
+                        help="Max transcripts per source")
+    args = parser.parse_args()
 
-    # Optional: filter to specific tickers (comma-separated)
-    tickers_env = os.environ.get("TICKERS")
-    tickers = [t.strip() for t in tickers_env.split(",")] if tickers_env else None
+    if args.ticker:
+        tickers = [t.strip().upper() for t in args.ticker]
+    else:
+        tickers_env = os.environ.get("TICKERS")
+        tickers = [t.strip() for t in tickers_env.split(",")] if tickers_env else None
 
-    # Run the scraper
+    sources = {
+        "fool": ("fool",),
+        "marketbeat": ("marketbeat",),
+        "both": ("fool", "marketbeat"),
+    }[args.source]
+
     scraper = MotleyFoolScraper()
-    saved_files = scraper.run(limit=limit, tickers=tickers)
+    saved_files = scraper.run(limit=args.limit, tickers=tickers,
+                              dry_run=args.dry_run, sources=sources)
 
     # Output for GitHub Actions
     if saved_files:
