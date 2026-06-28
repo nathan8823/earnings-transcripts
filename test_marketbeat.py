@@ -19,11 +19,12 @@ SAMPLE_HTML = """
 <body>
 <div class="transcript-discussion">
   <div class="transcript-line-speaker">Operator 00:00:00</div>
-  <div class="transcript-arrow">Operator 00:00:00 Welcome to Micron's fiscal third quarter 2026 call. {body}</div>
+  <div class="transcript-arrow">Operator 00:00:00 Welcome to Micron's fiscal third quarter 2026 call. After today's prepared remarks, we will host a question-and-answer session. {body}</div>
   <div class="transcript-line-speaker">Sanjay Mehrotra 00:05:00</div>
   <div class="transcript-arrow">Sanjay Mehrotra 00:05:00 We delivered record revenue this quarter. {body}</div>
-  <div class="transcript-line-speaker">Analyst 00:30:00</div>
-  <div class="transcript-arrow">Analyst 00:30:00 Now for the question-and-answer session, my question is on margins. {body}</div>
+  <div class="transcript-line-speaker">Operator 00:30:00</div>
+  <div class="transcript-arrow">Operator 00:30:00 We will now begin the question and answer session. Our first question comes from an analyst. {body}</div>
+  <div class="transcript-arrow">Analyst 00:31:00 My question is on margins. {body}</div>
   <div class="transcript-arrow">Operator 00:58:00 This concludes today's call. You may now disconnect.</div>
 </div>
 </body></html>
@@ -44,13 +45,24 @@ class TestTitleParse(unittest.TestCase):
 
 
 class TestSectionSplit(unittest.TestCase):
-    def test_split_on_qa_marker(self):
-        turns = ["intro prepared remark", "more prepared",
-                 "now the question-and-answer session begins", "analyst question"]
+    def test_split_on_real_boundary(self):
+        turns = ["intro prepared remark", "more prepared remarks",
+                 "We will now begin the question and answer session. Our first question comes from an analyst.",
+                 "analyst question about margins"]
         prep, qa = MarketBeatScraper._split_sections(turns)
         self.assertIn("prepared", prep)
         self.assertIn("analyst question", qa)
         self.assertNotIn("analyst question", prep)
+
+    def test_opening_agenda_mention_does_not_split(self):
+        # The opening turn often previews the agenda ("...we will host a
+        # question-and-answer session"); that must NOT flip the section.
+        turns = ["Operator: welcome. After prepared remarks we will host a "
+                 "question-and-answer session.",
+                 "CEO prepared remarks about revenue"]
+        prep, qa = MarketBeatScraper._split_sections(turns)
+        self.assertEqual(qa, "")
+        self.assertIn("revenue", prep)
 
 
 class TestParserInjected(unittest.TestCase):
@@ -65,7 +77,11 @@ class TestParserInjected(unittest.TestCase):
         self.assertEqual((t["year"], t["quarter"]), (2026, 3))
         self.assertEqual(t["source"], "marketbeat")
         self.assertGreater(t["word_count"], 800)
-        self.assertIn("question-and-answer", t["qa_section"])
+        # Split correctness: prepared remarks present, Q&A separated, and the
+        # opening agenda mention did NOT dump everything into qa_section.
+        self.assertIn("record revenue", t["prepared_remarks"])
+        self.assertNotIn("margins", t["prepared_remarks"])
+        self.assertIn("margins", t["qa_section"])
         self.assertTrue(t["transcript"].strip().endswith("disconnect."))
 
 

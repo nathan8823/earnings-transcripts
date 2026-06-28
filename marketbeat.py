@@ -43,9 +43,20 @@ TITLE_RE = re.compile(r"^\s*([A-Z][A-Z.\-]{0,5})\s+Q([1-4])\s+(20\d{2})\b")
 # Listing table: ticker from the /stocks/EXCH/TICKER/ link, period from "Q3 2026"
 STOCK_TICKER_RE = re.compile(r"/stocks/[A-Z]+/([A-Z][A-Z.\-]{0,5})/")
 PERIOD_RE = re.compile(r"\bQ([1-4])\s+(20\d{2})\b")
-# Q&A section boundary markers (same spirit as the Fool path)
-QA_MARKERS = ("q&a", "question-and-answer", "questions and answers",
-              "question and answer")
+# Q&A boundary markers. The real Q&A section opens with the operator INVITING
+# questions ("We will now begin the question and answer session... first
+# question..."). An early agenda mention in the opening turn ("after today's
+# prepared remarks, we will host a question-and-answer session") must NOT
+# trigger the split — so we require a strong boundary phrase and never split on
+# the opening turn.
+QA_BOUNDARY_MARKERS = (
+    "first question",
+    "begin the question-and-answer",
+    "begin the question and answer",
+    "operator instructions",
+    "open the line",
+    "open the floor",
+)
 
 
 class MarketBeatScraper:
@@ -139,11 +150,17 @@ class MarketBeatScraper:
 
     @staticmethod
     def _split_sections(turns: list[str]) -> tuple[str, str]:
-        """Split ordered speaker turns into (prepared_remarks, qa_section)."""
+        """Split ordered speaker turns into (prepared_remarks, qa_section).
+
+        The full call is preserved in the `transcript` field regardless; this
+        only populates the secondary section fields. The boundary is the
+        operator turn that opens Q&A — never the opening agenda turn (turn 0).
+        If no boundary is found, everything is prepared_remarks (qa empty),
+        matching the Fool path's behavior on calls without a clean marker."""
         prepared, qa, in_qa = [], [], False
-        for t in turns:
+        for i, t in enumerate(turns):
             low = t.lower()
-            if not in_qa and any(m in low for m in QA_MARKERS):
+            if not in_qa and i > 0 and any(m in low for m in QA_BOUNDARY_MARKERS):
                 in_qa = True
             (qa if in_qa else prepared).append(t)
         return "\n\n".join(prepared), "\n\n".join(qa)
