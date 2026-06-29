@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T09:23:23.319519Z",
+  "updated_at": "2026-06-29T09:53:48.661375Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 501,
   "earnings": [
@@ -1457,7 +1457,7 @@
       "company": "Edwards Lifesciences",
       "sector": "Health Care",
       "date": "2026-07-23",
-      "time": "AMC",
+      "time": "TBD",
       "eps_estimate": 0.74,
       "revenue_estimate": 1699830450
     },
@@ -1512,7 +1512,7 @@
       "sector": "Industrials",
       "date": "2026-07-23",
       "time": "BMO",
-      "eps_estimate": 2.42,
+      "eps_estimate": 4.84,
       "revenue_estimate": 9554135490
     },
     {
@@ -4507,44 +4507,6 @@
   ],
   "this_week": [
     {
-      "ticker": "CCL",
-      "company": "Carnival",
-      "sector": "Consumer Discretionary",
-      "date": "2026-06-23",
-      "time": "BMO",
-      "eps_estimate": 1.35,
-      "revenue_estimate": 8404536220
-    },
-    {
-      "ticker": "FDX",
-      "company": "FedEx",
-      "sector": "Industrials",
-      "date": "2026-06-23",
-      "time": "AMC",
-      "eps_estimate": 4.14,
-      "revenue_estimate": 22651050000
-    },
-    {
-      "ticker": "PAYX",
-      "company": "Paychex",
-      "sector": "Industrials",
-      "date": "2026-06-24",
-      "time": "BMO",
-      "eps_estimate": 1.33,
-      "revenue_estimate": 1626564880
-    },
-    {
-      "ticker": "MKC",
-      "company": "McCormick & Company",
-      "sector": "Consumer Staples",
-      "date": "2026-06-25",
-      "time": "BMO",
-      "eps_estimate": 0.76,
-      "revenue_estimate": 1980962220
-    }
-  ],
-  "next_week": [
-    {
       "ticker": "NKE",
       "company": "Nike, Inc.",
       "sector": "Consumer Discretionary",
@@ -4579,6 +4541,26 @@
       "time": "BMO",
       "eps_estimate": 0.8,
       "revenue_estimate": 4601603490
+    }
+  ],
+  "next_week": [
+    {
+      "ticker": "PEP",
+      "company": "PepsiCo",
+      "sector": "Consumer Staples",
+      "date": "2026-07-09",
+      "time": "BMO",
+      "eps_estimate": 2.21,
+      "revenue_estimate": 23973485030
+    },
+    {
+      "ticker": "DAL",
+      "company": "Delta Air Lines",
+      "sector": "Industrials",
+      "date": "2026-07-10",
+      "time": "BMO",
+      "eps_estimate": 1.48,
+      "revenue_estimate": 18675833770
     }
   ]
 }

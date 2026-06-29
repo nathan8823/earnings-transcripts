@@ -1,15 +1,7 @@
 # S&P 500 Earnings Calendar
-> Last updated: Jun 28, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Jun 29, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
-## This Week (Jun 22–Jun 28)
-| Date | Time | Ticker | Company | Est. EPS |
-|------|------|--------|---------|----------|
-| Jun 23 | BMO | CCL | Carnival | $1.35 |
-| Jun 23 | AMC | FDX | FedEx | $4.14 |
-| Jun 24 | BMO | PAYX | Paychex | $1.33 |
-| Jun 25 | BMO | MKC | McCormick & Company | $0.76 |
-
-## Next Week (Jun 29–Jul 05)
+## This Week (Jun 29–Jul 05)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Jun 30 | AMC | NKE | Nike, Inc. | $0.13 |
@@ -17,11 +9,15 @@
 | Jul 01 | BMO | FDS | FactSet | $4.45 |
 | Jul 01 | BMO | GIS | General Mills | $0.80 |
 
-## Later (Jul 06+)
+## Next Week (Jul 06–Jul 12)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Jul 09 | BMO | PEP | PepsiCo | $2.21 |
 | Jul 10 | BMO | DAL | Delta Air Lines | $1.48 |
+
+## Later (Jul 13+)
+| Date | Time | Ticker | Company | Est. EPS |
+|------|------|--------|---------|----------|
 | Jul 14 | BMO | BAC | Bank of America | $1.11 |
 | Jul 14 | BMO | C | Citigroup | $2.62 |
 | Jul 14 | BMO | FAST | Fastenal | $0.33 |
@@ -123,13 +119,13 @@
 | Jul 23 | AMC | DLR | Digital Realty | $0.73 |
 | Jul 23 | BMO | DOV | Dover Corporation | $2.72 |
 | Jul 23 | BMO | DOW | Dow Inc. | $1.22 |
-| Jul 23 | AMC | EW | Edwards Lifesciences | $0.74 |
+| Jul 23 | TBD | EW | Edwards Lifesciences | $0.74 |
 | Jul 23 | AMC | FIX | Comfort Systems USA | $10.42 |
 | Jul 23 | AMC | GOOG | Alphabet Inc.(Class C) | $2.88 |
 | Jul 23 | AMC | GOOGL | Alphabet Inc.(Class A) | $2.88 |
 | Jul 23 | BMO | HBAN | Huntington Bancshares | $0.39 |
 | Jul 23 | AMC | HIG | Hartford (The) | $3.26 |
-| Jul 23 | BMO | HON | Honeywell | $2.42 |
+| Jul 23 | BMO | HON | Honeywell | $4.84 |
 | Jul 23 | AMC | INTC | Intel | $0.21 |
 | Jul 23 | BMO | LH | Labcorp | $4.77 |
 | Jul 23 | BMO | MCO | Moody's Corporation | $4.18 |
