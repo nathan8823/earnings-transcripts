@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T09:26:03.954186Z",
+  "updated_at": "2026-07-01T09:25:44.078886Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 501,
   "earnings": [
@@ -83,15 +83,6 @@
       "time": "AMC",
       "eps_estimate": 0.51,
       "revenue_estimate": 789593420
-    },
-    {
-      "ticker": "EXR",
-      "company": "Extra Space Storage",
-      "sector": "Real Estate",
-      "date": "2026-04-28",
-      "time": "AMC",
-      "eps_estimate": 1.15,
-      "revenue_estimate": 739125600
     },
     {
       "ticker": "FE",
@@ -218,15 +209,6 @@
       "time": "BMO",
       "eps_estimate": 4.98,
       "revenue_estimate": 1884588310
-    },
-    {
-      "ticker": "RMD",
-      "company": "ResMed",
-      "sector": "Health Care",
-      "date": "2026-04-30",
-      "time": "AMC",
-      "eps_estimate": 2.87,
-      "revenue_estimate": 1463408570
     },
     {
       "ticker": "TAP",
@@ -468,8 +450,8 @@
       "sector": "Consumer Discretionary",
       "date": "2026-06-30",
       "time": "AMC",
-      "eps_estimate": 0.13,
-      "revenue_estimate": 10849396780
+      "eps_estimate": 0.45,
+      "revenue_estimate": 11497526440
     },
     {
       "ticker": "STZ",
@@ -551,15 +533,6 @@
       "time": "BMO",
       "eps_estimate": 13.84,
       "revenue_estimate": 15901444530
-    },
-    {
-      "ticker": "IBKR",
-      "company": "Interactive Brokers",
-      "sector": "Financials",
-      "date": "2026-07-14",
-      "time": "AMC",
-      "eps_estimate": 0.61,
-      "revenue_estimate": 1712562500
     },
     {
       "ticker": "JBHT",
@@ -850,6 +823,15 @@
       "revenue_estimate": 2293261190
     },
     {
+      "ticker": "CB",
+      "company": "Chubb Limited",
+      "sector": "Financials",
+      "date": "2026-07-21",
+      "time": "AMC",
+      "eps_estimate": 6.68,
+      "revenue_estimate": 13002571430
+    },
+    {
       "ticker": "COF",
       "company": "Capital One",
       "sector": "Financials",
@@ -908,7 +890,7 @@
       "company": "General Motors",
       "sector": "Consumer Discretionary",
       "date": "2026-07-21",
-      "time": "BMO",
+      "time": "TBD",
       "eps_estimate": 3.17,
       "revenue_estimate": 46847961310
     },
@@ -929,6 +911,24 @@
       "time": "BMO",
       "eps_estimate": 0.54,
       "revenue_estimate": 5496020300
+    },
+    {
+      "ticker": "HAS",
+      "company": "Hasbro",
+      "sector": "Consumer Discretionary",
+      "date": "2026-07-21",
+      "time": "BMO",
+      "eps_estimate": 1.12,
+      "revenue_estimate": 1060105920
+    },
+    {
+      "ticker": "IBKR",
+      "company": "Interactive Brokers",
+      "sector": "Financials",
+      "date": "2026-07-21",
+      "time": "AMC",
+      "eps_estimate": 0.61,
+      "revenue_estimate": 1712562500
     },
     {
       "ticker": "IQV",
@@ -1021,15 +1021,6 @@
       "revenue_estimate": 2096732010
     },
     {
-      "ticker": "RTX",
-      "company": "RTX Corporation",
-      "sector": "Industrials",
-      "date": "2026-07-21",
-      "time": "BMO",
-      "eps_estimate": 1.66,
-      "revenue_estimate": 22855840460
-    },
-    {
       "ticker": "SCHW",
       "company": "Charles Schwab Corporation",
       "sector": "Financials",
@@ -1118,15 +1109,6 @@
       "time": "AMC",
       "eps_estimate": 3.68,
       "revenue_estimate": 1589155750
-    },
-    {
-      "ticker": "HAS",
-      "company": "Hasbro",
-      "sector": "Consumer Discretionary",
-      "date": "2026-07-22",
-      "time": "AMC",
-      "eps_estimate": 1.12,
-      "revenue_estimate": 1060105920
     },
     {
       "ticker": "IBM",
@@ -1480,15 +1462,6 @@
       "revenue_estimate": 14401833710
     },
     {
-      "ticker": "LH",
-      "company": "Labcorp",
-      "sector": "Health Care",
-      "date": "2026-07-23",
-      "time": "BMO",
-      "eps_estimate": 4.77,
-      "revenue_estimate": 3730977240
-    },
-    {
       "ticker": "MCO",
       "company": "Moody's Corporation",
       "sector": "Financials",
@@ -1541,6 +1514,15 @@
       "time": "BMO",
       "eps_estimate": 5.36,
       "revenue_estimate": 1819099870
+    },
+    {
+      "ticker": "RTX",
+      "company": "RTX Corporation",
+      "sector": "Industrials",
+      "date": "2026-07-23",
+      "time": "BMO",
+      "eps_estimate": 1.66,
+      "revenue_estimate": 22855840460
     },
     {
       "ticker": "TMUS",
@@ -1795,15 +1777,6 @@
       "revenue_estimate": 6003380750
     },
     {
-      "ticker": "CB",
-      "company": "Chubb Limited",
-      "sector": "Financials",
-      "date": "2026-07-28",
-      "time": "AMC",
-      "eps_estimate": 6.68,
-      "revenue_estimate": 13002571430
-    },
-    {
       "ticker": "CNC",
       "company": "Centene Corporation",
       "sector": "Health Care",
@@ -1849,6 +1822,15 @@
       "revenue_estimate": 1985631430
     },
     {
+      "ticker": "EXR",
+      "company": "Extra Space Storage",
+      "sector": "Real Estate",
+      "date": "2026-07-28",
+      "time": "AMC",
+      "eps_estimate": 1.15,
+      "revenue_estimate": 739125600
+    },
+    {
       "ticker": "GLW",
       "company": "Corning Inc.",
       "sector": "Information Technology",
@@ -1856,6 +1838,15 @@
       "time": "BMO",
       "eps_estimate": 0.75,
       "revenue_estimate": 4622533220
+    },
+    {
+      "ticker": "HLT",
+      "company": "Hilton Worldwide",
+      "sector": "Consumer Discretionary",
+      "date": "2026-07-28",
+      "time": "BMO",
+      "eps_estimate": 2.25,
+      "revenue_estimate": 3312166360
     },
     {
       "ticker": "HUBB",
@@ -1964,15 +1955,6 @@
       "time": "BMO",
       "eps_estimate": 3.93,
       "revenue_estimate": 4821647080
-    },
-    {
-      "ticker": "RSG",
-      "company": "Republic Services",
-      "sector": "Industrials",
-      "date": "2026-07-28",
-      "time": "AMC",
-      "eps_estimate": 1.83,
-      "revenue_estimate": 4354764820
     },
     {
       "ticker": "STX",
@@ -2087,7 +2069,7 @@
       "company": "Booking Holdings",
       "sector": "Consumer Discretionary",
       "date": "2026-07-29",
-      "time": "AMC",
+      "time": "TBD",
       "eps_estimate": 2.44,
       "revenue_estimate": 7172733210
     },
@@ -2243,15 +2225,6 @@
       "time": "BMO",
       "eps_estimate": 2.29,
       "revenue_estimate": 1936487020
-    },
-    {
-      "ticker": "HLT",
-      "company": "Hilton Worldwide",
-      "sector": "Consumer Discretionary",
-      "date": "2026-07-29",
-      "time": "BMO",
-      "eps_estimate": 2.25,
-      "revenue_estimate": 3312166360
     },
     {
       "ticker": "HOOD",
@@ -2630,15 +2603,6 @@
       "revenue_estimate": 3299811370
     },
     {
-      "ticker": "ARES",
-      "company": "Ares Management",
-      "sector": "Financials",
-      "date": "2026-07-30",
-      "time": "BMO",
-      "eps_estimate": 1.33,
-      "revenue_estimate": 1141644500
-    },
-    {
       "ticker": "BAX",
       "company": "Baxter International",
       "sector": "Health Care",
@@ -2846,6 +2810,15 @@
       "revenue_estimate": 3597735290
     },
     {
+      "ticker": "LH",
+      "company": "Labcorp",
+      "sector": "Health Care",
+      "date": "2026-07-30",
+      "time": "BMO",
+      "eps_estimate": 4.77,
+      "revenue_estimate": 3730977240
+    },
+    {
       "ticker": "MA",
       "company": "Mastercard",
       "sector": "Financials",
@@ -3015,6 +2988,15 @@
       "time": "BMO",
       "eps_estimate": 3.77,
       "revenue_estimate": 16757825860
+    },
+    {
+      "ticker": "ARES",
+      "company": "Ares Management",
+      "sector": "Financials",
+      "date": "2026-07-31",
+      "time": "BMO",
+      "eps_estimate": 1.33,
+      "revenue_estimate": 1141644500
     },
     {
       "ticker": "CBOE",
@@ -3558,7 +3540,7 @@
       "company": "Zebra Technologies",
       "sector": "Information Technology",
       "date": "2026-08-04",
-      "time": "BMO",
+      "time": "TBD",
       "eps_estimate": 4.37,
       "revenue_estimate": 1498227170
     },
@@ -4046,6 +4028,15 @@
       "revenue_estimate": 1854235030
     },
     {
+      "ticker": "RMD",
+      "company": "ResMed",
+      "sector": "Health Care",
+      "date": "2026-08-06",
+      "time": "AMC",
+      "eps_estimate": 2.87,
+      "revenue_estimate": 1463408570
+    },
+    {
       "ticker": "ROK",
       "company": "Rockwell Automation",
       "sector": "Industrials",
@@ -4053,6 +4044,15 @@
       "time": "BMO",
       "eps_estimate": 3.37,
       "revenue_estimate": 2247164680
+    },
+    {
+      "ticker": "RSG",
+      "company": "Republic Services",
+      "sector": "Industrials",
+      "date": "2026-08-06",
+      "time": "AMC",
+      "eps_estimate": 1.83,
+      "revenue_estimate": 4354764820
     },
     {
       "ticker": "SRE",
@@ -4512,8 +4512,8 @@
       "sector": "Consumer Discretionary",
       "date": "2026-06-30",
       "time": "AMC",
-      "eps_estimate": 0.13,
-      "revenue_estimate": 10849396780
+      "eps_estimate": 0.45,
+      "revenue_estimate": 11497526440
     },
     {
       "ticker": "STZ",
