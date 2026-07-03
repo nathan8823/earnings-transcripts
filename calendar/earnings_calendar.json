@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T09:19:51.299071Z",
+  "updated_at": "2026-07-03T09:18:52.835881Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 502,
   "earnings": [
@@ -11,15 +11,6 @@
       "time": "BMO",
       "eps_estimate": 0.42,
       "revenue_estimate": 1967460330
-    },
-    {
-      "ticker": "TSCO",
-      "company": "Tractor Supply",
-      "sector": "Consumer Discretionary",
-      "date": "2026-04-21",
-      "time": "BMO",
-      "eps_estimate": 0.85,
-      "revenue_estimate": 4647167190
     },
     {
       "ticker": "ROL",
@@ -67,15 +58,6 @@
       "revenue_estimate": 789593420
     },
     {
-      "ticker": "FE",
-      "company": "FirstEnergy",
-      "sector": "Utilities",
-      "date": "2026-04-28",
-      "time": "AMC",
-      "eps_estimate": 0.59,
-      "revenue_estimate": 3587149620
-    },
-    {
       "ticker": "FICO",
       "company": "Fair Isaac",
       "sector": "Information Technology",
@@ -92,15 +74,6 @@
       "time": "AMC",
       "eps_estimate": 1.4,
       "revenue_estimate": 9044576270
-    },
-    {
-      "ticker": "XYL",
-      "company": "Xylem Inc.",
-      "sector": "Industrials",
-      "date": "2026-04-28",
-      "time": "BMO",
-      "eps_estimate": 1.34,
-      "revenue_estimate": 2346371490
     },
     {
       "ticker": "ZBH",
@@ -265,15 +238,6 @@
       "revenue_estimate": 1858424740
     },
     {
-      "ticker": "XYZ",
-      "company": "Block, Inc.",
-      "sector": "Financials",
-      "date": "2026-05-07",
-      "time": "AMC",
-      "eps_estimate": 0.87,
-      "revenue_estimate": 6489802750
-    },
-    {
       "ticker": "CPRT",
       "company": "Copart",
       "sector": "Industrials",
@@ -416,24 +380,6 @@
       "time": "AMC",
       "eps_estimate": 3.69,
       "revenue_estimate": 2595640620
-    },
-    {
-      "ticker": "FDS",
-      "company": "FactSet",
-      "sector": "Financials",
-      "date": "2026-07-01",
-      "time": "BMO",
-      "eps_estimate": 4.33,
-      "revenue_estimate": 628937330
-    },
-    {
-      "ticker": "GIS",
-      "company": "General Mills",
-      "sector": "Consumer Staples",
-      "date": "2026-07-01",
-      "time": "BMO",
-      "eps_estimate": 0.78,
-      "revenue_estimate": 4388274480
     },
     {
       "ticker": "PEP",
@@ -1462,6 +1408,15 @@
       "revenue_estimate": 22980464620
     },
     {
+      "ticker": "TSCO",
+      "company": "Tractor Supply",
+      "sector": "Consumer Discretionary",
+      "date": "2026-07-23",
+      "time": "BMO",
+      "eps_estimate": 0.85,
+      "revenue_estimate": 4647167190
+    },
+    {
       "ticker": "UNP",
       "company": "Union Pacific Corporation",
       "sector": "Industrials",
@@ -1768,6 +1723,15 @@
       "revenue_estimate": 45210906390
     },
     {
+      "ticker": "FE",
+      "company": "FirstEnergy",
+      "sector": "Utilities",
+      "date": "2026-07-28",
+      "time": "AMC",
+      "eps_estimate": 0.59,
+      "revenue_estimate": 3587149620
+    },
+    {
       "ticker": "GLW",
       "company": "Corning Inc.",
       "sector": "Information Technology",
@@ -1975,6 +1939,15 @@
       "revenue_estimate": 6691263230
     },
     {
+      "ticker": "XYL",
+      "company": "Xylem Inc.",
+      "sector": "Industrials",
+      "date": "2026-07-28",
+      "time": "BMO",
+      "eps_estimate": 1.34,
+      "revenue_estimate": 2346371490
+    },
+    {
       "ticker": "ADP",
       "company": "Automatic Data Processing",
       "sector": "Industrials",
@@ -2144,6 +2117,15 @@
       "time": "AMC",
       "eps_estimate": 4.0,
       "revenue_estimate": 833616110
+    },
+    {
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "sector": "Information Technology",
+      "date": "2026-07-29",
+      "time": "AMC",
+      "eps_estimate": 0.74,
+      "revenue_estimate": 1886135790
     },
     {
       "ticker": "FTV",
@@ -2448,15 +2430,6 @@
       "time": "AMC",
       "eps_estimate": 0.11,
       "revenue_estimate": 1679733000
-    },
-    {
-      "ticker": "WAT",
-      "company": "Waters Corporation",
-      "sector": "Health Care",
-      "date": "2026-07-29",
-      "time": "BMO",
-      "eps_estimate": 3.0,
-      "revenue_estimate": 1622535020
     },
     {
       "ticker": "WDC",
@@ -3509,6 +3482,15 @@
       "revenue_estimate": 2666138360
     },
     {
+      "ticker": "WAT",
+      "company": "Waters Corporation",
+      "sector": "Health Care",
+      "date": "2026-08-04",
+      "time": "BMO",
+      "eps_estimate": 3.0,
+      "revenue_estimate": 1622535020
+    },
+    {
       "ticker": "ZBRA",
       "company": "Zebra Technologies",
       "sector": "Information Technology",
@@ -3640,15 +3622,6 @@
       "time": "BMO",
       "eps_estimate": 1.34,
       "revenue_estimate": 3577963660
-    },
-    {
-      "ticker": "FTNT",
-      "company": "Fortinet",
-      "sector": "Information Technology",
-      "date": "2026-08-05",
-      "time": "AMC",
-      "eps_estimate": 0.74,
-      "revenue_estimate": 1886135790
     },
     {
       "ticker": "GPN",
@@ -3801,6 +3774,15 @@
       "time": "BMO",
       "eps_estimate": 0.8,
       "revenue_estimate": 14235982780
+    },
+    {
+      "ticker": "XYZ",
+      "company": "Block, Inc.",
+      "sector": "Financials",
+      "date": "2026-08-05",
+      "time": "AMC",
+      "eps_estimate": 0.87,
+      "revenue_estimate": 6489802750
     },
     {
       "ticker": "AFL",
@@ -4487,6 +4469,24 @@
       "revenue_estimate": 3207158580
     },
     {
+      "ticker": "FDS",
+      "company": "FactSet",
+      "sector": "Financials",
+      "date": "2026-09-17",
+      "time": "BMO",
+      "eps_estimate": 4.33,
+      "revenue_estimate": 628937330
+    },
+    {
+      "ticker": "GIS",
+      "company": "General Mills",
+      "sector": "Consumer Staples",
+      "date": "2026-09-23",
+      "time": "BMO",
+      "eps_estimate": 0.78,
+      "revenue_estimate": 4388274480
+    },
+    {
       "ticker": "MU",
       "company": "Micron Technology",
       "sector": "Information Technology",
@@ -4523,24 +4523,6 @@
       "time": "AMC",
       "eps_estimate": 3.69,
       "revenue_estimate": 2595640620
-    },
-    {
-      "ticker": "FDS",
-      "company": "FactSet",
-      "sector": "Financials",
-      "date": "2026-07-01",
-      "time": "BMO",
-      "eps_estimate": 4.33,
-      "revenue_estimate": 628937330
-    },
-    {
-      "ticker": "GIS",
-      "company": "General Mills",
-      "sector": "Consumer Staples",
-      "date": "2026-07-01",
-      "time": "BMO",
-      "eps_estimate": 0.78,
-      "revenue_estimate": 4388274480
     }
   ],
   "next_week": [

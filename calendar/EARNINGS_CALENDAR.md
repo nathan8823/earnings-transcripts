@@ -1,12 +1,10 @@
 # S&P 500 Earnings Calendar
-> Last updated: Jul 02, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Jul 03, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Jun 29–Jul 05)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Jun 30 | AMC | STZ | Constellation Brands | $3.69 |
-| Jul 01 | BMO | FDS | FactSet | $4.33 |
-| Jul 01 | BMO | GIS | General Mills | $0.78 |
 
 ## Next Week (Jul 06–Jul 12)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -129,6 +127,7 @@
 | Jul 23 | BMO | RTX | RTX Corporation | $1.66 |
 | Jul 23 | BMO | TMO | Thermo Fisher Scientific | $5.71 |
 | Jul 23 | BMO | TMUS | T-Mobile US | $2.65 |
+| Jul 23 | BMO | TSCO | Tractor Supply | $0.85 |
 | Jul 23 | BMO | UNP | Union Pacific Corporation | $3.16 |
 | Jul 23 | AMC | VLTO | Veralto | $1.00 |
 | Jul 23 | AMC | VRSN | Verisign | $2.37 |
@@ -163,6 +162,7 @@
 | Jul 28 | AMC | EXE | Expand Energy | $1.15 |
 | Jul 28 | AMC | EXR | Extra Space Storage | $1.15 |
 | Jul 28 | AMC | F | Ford Motor Company | $0.34 |
+| Jul 28 | AMC | FE | FirstEnergy | $0.59 |
 | Jul 28 | BMO | GLW | Corning Inc. | $0.75 |
 | Jul 28 | BMO | HLT | Hilton Worldwide | $2.25 |
 | Jul 28 | BMO | HUBB | Hubbell Incorporated | $5.46 |
@@ -186,6 +186,7 @@
 | Jul 28 | BMO | UPS | United Parcel Service | $1.65 |
 | Jul 28 | AMC | V | Visa Inc. | $3.23 |
 | Jul 28 | AMC | WM | Waste Management | $1.99 |
+| Jul 28 | BMO | XYL | Xylem Inc. | $1.34 |
 | Jul 29 | BMO | ADP | Automatic Data Processing | $2.60 |
 | Jul 29 | AMC | ALB | Albemarle Corporation | $3.22 |
 | Jul 29 | AMC | ALGN | Align Technology | $2.60 |
@@ -205,6 +206,7 @@
 | Jul 29 | AMC | EG | Everest Group | $14.21 |
 | Jul 29 | AMC | EQIX | Equinix | $4.78 |
 | Jul 29 | AMC | FFIV | F5, Inc. | $4.00 |
+| Jul 29 | AMC | FTNT | Fortinet | $0.74 |
 | Jul 29 | BMO | FTV | Fortive | $0.71 |
 | Jul 29 | BMO | GD | General Dynamics | $3.95 |
 | Jul 29 | BMO | GEHC | GE HealthCare | $1.03 |
@@ -239,7 +241,6 @@
 | Jul 29 | AMC | VICI | Vici Properties | $0.71 |
 | Jul 29 | BMO | VRSK | Verisk Analytics | $1.93 |
 | Jul 29 | AMC | VTR | Ventas | $0.11 |
-| Jul 29 | BMO | WAT | Waters Corporation | $3.00 |
 | Jul 29 | AMC | WDC | Western Digital | $3.29 |
 | Jul 29 | BMO | WEC | WEC Energy Group | $0.83 |
 | Jul 30 | AMC | AAPL | Apple Inc. | $1.89 |
@@ -357,6 +358,7 @@
 | Aug 04 | AMC | SMCI | Supermicro | $0.71 |
 | Aug 04 | AMC | SWKS | Skyworks Solutions | $1.03 |
 | Aug 04 | BMO | TDG | TransDigm Group | $10.28 |
+| Aug 04 | BMO | WAT | Waters Corporation | $3.00 |
 | Aug 04 | BMO | ZBRA | Zebra Technologies | $4.37 |
 | Aug 05 | AMC | ABNB | Airbnb | $1.22 |
 | Aug 05 | AMC | APA | APA Corporation | $2.08 |
@@ -372,7 +374,6 @@
 | Aug 05 | AMC | EMR | Emerson Electric | $1.67 |
 | Aug 05 | BMO | FOX | Fox Corporation(Class B) | — |
 | Aug 05 | BMO | FOXA | Fox Corporation(Class A) | $1.34 |
-| Aug 05 | AMC | FTNT | Fortinet | $0.74 |
 | Aug 05 | BMO | GPN | Global Payments | $3.47 |
 | Aug 05 | AMC | HST | Host Hotels & Resorts | $0.33 |
 | Aug 05 | BMO | LLY | Lilly (Eli) | $8.80 |
@@ -390,6 +391,7 @@
 | Aug 05 | AMC | TPL | Texas Pacific Land Corporation | — |
 | Aug 05 | BMO | TRMB | Trimble Inc. | $0.80 |
 | Aug 05 | BMO | UBER | Uber | $0.80 |
+| Aug 05 | AMC | XYZ | Block, Inc. | $0.87 |
 | Aug 06 | AMC | AFL | Aflac | $1.77 |
 | Aug 06 | AMC | AIG | American International Group | $1.94 |
 | Aug 06 | AMC | AKAM | Akamai Technologies | $1.58 |
@@ -466,6 +468,8 @@
 | Sep 10 | AMC | ADBE | Adobe Inc. | $5.81 |
 | Sep 10 | BMO | KR | Kroger | $1.05 |
 | Sep 17 | BMO | DRI | Darden Restaurants | $2.05 |
+| Sep 17 | BMO | FDS | FactSet | $4.33 |
+| Sep 23 | BMO | GIS | General Mills | $0.78 |
 | Sep 23 | AMC | MU | Micron Technology | $31.28 |
 | Sep 24 | AMC | COST | Costco | $6.55 |
 | Sep 29 | AMC | NKE | Nike, Inc. | $0.45 |
