@@ -1,18 +1,13 @@
 # S&P 500 Earnings Calendar
-> Last updated: Jul 05, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Jul 06, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
-## This Week (Jun 29–Jul 05)
-| Date | Time | Ticker | Company | Est. EPS |
-|------|------|--------|---------|----------|
-| Jun 30 | AMC | STZ | Constellation Brands | $3.20 |
-
-## Next Week (Jul 06–Jul 12)
+## This Week (Jul 06–Jul 12)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Jul 09 | BMO | PEP | PepsiCo | $2.21 |
 | Jul 10 | BMO | DAL | Delta Air Lines | $1.48 |
 
-## Later (Jul 13+)
+## Next Week (Jul 13–Jul 19)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Jul 14 | BMO | BAC | Bank of America | $1.12 |
@@ -48,6 +43,10 @@
 | Jul 17 | BMO | RF | Regions Financial Corporation | $0.63 |
 | Jul 17 | BMO | TFC | Truist Financial | $1.08 |
 | Jul 17 | BMO | TRV | Travelers Companies (The) | $4.96 |
+
+## Later (Jul 20+)
+| Date | Time | Ticker | Company | Est. EPS |
+|------|------|--------|---------|----------|
 | Jul 20 | BMO | DPZ | Domino's | $4.23 |
 | Jul 20 | AMC | STLD | Steel Dynamics | $3.70 |
 | Jul 20 | AMC | WRB | W. R. Berkley Corporation | $1.09 |
