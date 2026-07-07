@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T09:42:00.634126Z",
+  "updated_at": "2026-07-07T09:22:51.113862Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 502,
   "earnings": [
@@ -209,15 +209,6 @@
       "time": "BMO",
       "eps_estimate": 1.19,
       "revenue_estimate": 6050088340
-    },
-    {
-      "ticker": "DASH",
-      "company": "DoorDash",
-      "sector": "Consumer Discretionary",
-      "date": "2026-05-06",
-      "time": "AMC",
-      "eps_estimate": 1.22,
-      "revenue_estimate": 4329798180
     },
     {
       "ticker": "MET",
@@ -490,6 +481,15 @@
       "revenue_estimate": 2872801560
     },
     {
+      "ticker": "ELV",
+      "company": "Elevance Health",
+      "sector": "Health Care",
+      "date": "2026-07-15",
+      "time": "BMO",
+      "eps_estimate": 6.2,
+      "revenue_estimate": 48626975280
+    },
+    {
       "ticker": "JBHT",
       "company": "J.B. Hunt",
       "sector": "Industrials",
@@ -578,15 +578,6 @@
       "time": "BMO",
       "eps_estimate": 1.24,
       "revenue_estimate": 2248182530
-    },
-    {
-      "ticker": "ELV",
-      "company": "Elevance Health",
-      "sector": "Health Care",
-      "date": "2026-07-16",
-      "time": "BMO",
-      "eps_estimate": 6.2,
-      "revenue_estimate": 48626975280
     },
     {
       "ticker": "GE",
@@ -931,15 +922,6 @@
       "revenue_estimate": 3790696330
     },
     {
-      "ticker": "FCX",
-      "company": "Freeport-McMoRan",
-      "sector": "Materials",
-      "date": "2026-07-22",
-      "time": "BMO",
-      "eps_estimate": 0.6,
-      "revenue_estimate": 6699242860
-    },
-    {
       "ticker": "FISV",
       "company": "Fiserv",
       "sector": "Financials",
@@ -1246,6 +1228,15 @@
       "revenue_estimate": 1699830450
     },
     {
+      "ticker": "FCX",
+      "company": "Freeport-McMoRan",
+      "sector": "Materials",
+      "date": "2026-07-23",
+      "time": "BMO",
+      "eps_estimate": 0.6,
+      "revenue_estimate": 6699242860
+    },
+    {
       "ticker": "FIX",
       "company": "Comfort Systems USA",
       "sector": "Industrials",
@@ -1487,15 +1478,6 @@
       "time": "BMO",
       "eps_estimate": 7.42,
       "revenue_estimate": 19384662170
-    },
-    {
-      "ticker": "LHX",
-      "company": "L3Harris",
-      "sector": "Industrials",
-      "date": "2026-07-24",
-      "time": "BMO",
-      "eps_estimate": 2.83,
-      "revenue_estimate": 5806827980
     },
     {
       "ticker": "LW",
@@ -1885,6 +1867,15 @@
       "revenue_estimate": 6603532500
     },
     {
+      "ticker": "SPGI",
+      "company": "S&P Global",
+      "sector": "Financials",
+      "date": "2026-07-28",
+      "time": "BMO",
+      "eps_estimate": 4.95,
+      "revenue_estimate": 4083235050
+    },
+    {
       "ticker": "STX",
       "company": "Seagate Technology",
       "sector": "Information Technology",
@@ -2225,6 +2216,15 @@
       "time": "BMO",
       "eps_estimate": 0.53,
       "revenue_estimate": 6091450210
+    },
+    {
+      "ticker": "LHX",
+      "company": "L3Harris",
+      "sector": "Industrials",
+      "date": "2026-07-29",
+      "time": "AMC",
+      "eps_estimate": 2.83,
+      "revenue_estimate": 5806827980
     },
     {
       "ticker": "LII",
@@ -2630,15 +2630,6 @@
       "revenue_estimate": 6585390950
     },
     {
-      "ticker": "CVS",
-      "company": "CVS Health",
-      "sector": "Health Care",
-      "date": "2026-07-30",
-      "time": "BMO",
-      "eps_estimate": 1.83,
-      "revenue_estimate": 100070523490
-    },
-    {
       "ticker": "D",
       "company": "Dominion Energy",
       "sector": "Utilities",
@@ -2862,15 +2853,6 @@
       "time": "BMO",
       "eps_estimate": 1.01,
       "revenue_estimate": 7220884110
-    },
-    {
-      "ticker": "SPGI",
-      "company": "S&P Global",
-      "sector": "Financials",
-      "date": "2026-07-30",
-      "time": "BMO",
-      "eps_estimate": 4.95,
-      "revenue_estimate": 4083235050
     },
     {
       "ticker": "SYK",
@@ -3581,6 +3563,24 @@
       "revenue_estimate": 973977720
     },
     {
+      "ticker": "CVS",
+      "company": "CVS Health",
+      "sector": "Health Care",
+      "date": "2026-08-05",
+      "time": "BMO",
+      "eps_estimate": 1.83,
+      "revenue_estimate": 100070523490
+    },
+    {
+      "ticker": "DASH",
+      "company": "DoorDash",
+      "sector": "Consumer Discretionary",
+      "date": "2026-08-05",
+      "time": "AMC",
+      "eps_estimate": 1.22,
+      "revenue_estimate": 4329798180
+    },
+    {
       "ticker": "DIS",
       "company": "Walt Disney Company (The)",
       "sector": "Communication Services",
@@ -4055,15 +4055,6 @@
       "revenue_estimate": 751582410
     },
     {
-      "ticker": "VST",
-      "company": "Vistra Corp.",
-      "sector": "Utilities",
-      "date": "2026-08-06",
-      "time": "BMO",
-      "eps_estimate": 1.92,
-      "revenue_estimate": 5748463210
-    },
-    {
       "ticker": "VTRS",
       "company": "Viatris",
       "sector": "Health Care",
@@ -4098,6 +4089,15 @@
       "time": "BMO",
       "eps_estimate": 1.86,
       "revenue_estimate": 2516761780
+    },
+    {
+      "ticker": "VST",
+      "company": "Vistra Corp.",
+      "sector": "Utilities",
+      "date": "2026-08-07",
+      "time": "BMO",
+      "eps_estimate": 1.92,
+      "revenue_estimate": 5748463210
     },
     {
       "ticker": "SPG",
@@ -4626,6 +4626,15 @@
       "revenue_estimate": 2872801560
     },
     {
+      "ticker": "ELV",
+      "company": "Elevance Health",
+      "sector": "Health Care",
+      "date": "2026-07-15",
+      "time": "BMO",
+      "eps_estimate": 6.2,
+      "revenue_estimate": 48626975280
+    },
+    {
       "ticker": "JBHT",
       "company": "J.B. Hunt",
       "sector": "Industrials",
@@ -4714,15 +4723,6 @@
       "time": "BMO",
       "eps_estimate": 1.24,
       "revenue_estimate": 2248182530
-    },
-    {
-      "ticker": "ELV",
-      "company": "Elevance Health",
-      "sector": "Health Care",
-      "date": "2026-07-16",
-      "time": "BMO",
-      "eps_estimate": 6.2,
-      "revenue_estimate": 48626975280
     },
     {
       "ticker": "GE",
