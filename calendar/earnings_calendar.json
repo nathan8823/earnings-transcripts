@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-10T09:21:38.432174Z",
+  "updated_at": "2026-07-11T08:48:29.194797Z",
   "source": "Yahoo Finance via yfinance",
-  "total_companies": 501,
+  "total_companies": 499,
   "earnings": [
     {
       "ticker": "KEY",
@@ -265,22 +265,13 @@
       "revenue_estimate": 2389115680
     },
     {
-      "ticker": "PEP",
-      "company": "PepsiCo",
-      "sector": "Consumer Staples",
-      "date": "2026-07-09",
-      "time": "BMO",
-      "eps_estimate": 2.39,
-      "revenue_estimate": 25019175280
-    },
-    {
       "ticker": "DAL",
       "company": "Delta Air Lines",
       "sector": "Industrials",
       "date": "2026-07-10",
       "time": "BMO",
-      "eps_estimate": 1.5,
-      "revenue_estimate": 18853972740
+      "eps_estimate": 1.49,
+      "revenue_estimate": 18822004550
     },
     {
       "ticker": "BAC",
@@ -782,7 +773,7 @@
       "company": "CME Group",
       "sector": "Financials",
       "date": "2026-07-22",
-      "time": "TBD",
+      "time": "BMO",
       "eps_estimate": 2.96,
       "revenue_estimate": 1718430210
     },
@@ -895,15 +886,6 @@
       "revenue_estimate": 10833269110
     },
     {
-      "ticker": "NEE",
-      "company": "NextEra Energy",
-      "sector": "Utilities",
-      "date": "2026-07-22",
-      "time": "BMO",
-      "eps_estimate": 1.09,
-      "revenue_estimate": 8154577010
-    },
-    {
       "ticker": "NOW",
       "company": "ServiceNow",
       "sector": "Information Technology",
@@ -972,8 +954,8 @@
       "sector": "Financials",
       "date": "2026-07-22",
       "time": "AMC",
-      "eps_estimate": 2.92,
-      "revenue_estimate": 3910397340
+      "eps_estimate": 2.91,
+      "revenue_estimate": 3911841790
     },
     {
       "ticker": "ROL",
@@ -1309,15 +1291,6 @@
       "revenue_estimate": 6657897240
     },
     {
-      "ticker": "VLTO",
-      "company": "Veralto",
-      "sector": "Industrials",
-      "date": "2026-07-23",
-      "time": "AMC",
-      "eps_estimate": 1.01,
-      "revenue_estimate": 1454950490
-    },
-    {
       "ticker": "VRSN",
       "company": "Verisign",
       "sector": "Information Technology",
@@ -1334,15 +1307,6 @@
       "time": "BMO",
       "eps_estimate": 2.08,
       "revenue_estimate": 839745580
-    },
-    {
-      "ticker": "AON",
-      "company": "Aon plc",
-      "sector": "Financials",
-      "date": "2026-07-24",
-      "time": "BMO",
-      "eps_estimate": 3.81,
-      "revenue_estimate": 4283156800
     },
     {
       "ticker": "AXP",
@@ -1379,6 +1343,15 @@
       "time": "BMO",
       "eps_estimate": 0.63,
       "revenue_estimate": 1692068430
+    },
+    {
+      "ticker": "NEE",
+      "company": "NextEra Energy",
+      "sector": "Utilities",
+      "date": "2026-07-24",
+      "time": "BMO",
+      "eps_estimate": 1.09,
+      "revenue_estimate": 8154577010
     },
     {
       "ticker": "SLB",
@@ -1839,6 +1812,15 @@
       "revenue_estimate": 11382531160
     },
     {
+      "ticker": "VLTO",
+      "company": "Veralto",
+      "sector": "Industrials",
+      "date": "2026-07-28",
+      "time": "AMC",
+      "eps_estimate": 1.01,
+      "revenue_estimate": 1454950490
+    },
+    {
       "ticker": "WM",
       "company": "Waste Management",
       "sector": "Industrials",
@@ -1873,6 +1855,15 @@
       "time": "AMC",
       "eps_estimate": 2.6,
       "revenue_estimate": 1056935810
+    },
+    {
+      "ticker": "AON",
+      "company": "Aon plc",
+      "sector": "Financials",
+      "date": "2026-07-29",
+      "time": "BMO",
+      "eps_estimate": 3.81,
+      "revenue_estimate": 4283156800
     },
     {
       "ticker": "APH",
@@ -3024,15 +3015,6 @@
       "revenue_estimate": 1810817530
     },
     {
-      "ticker": "PSKY",
-      "company": "Paramount Skydance Corporation",
-      "sector": "Communication Services",
-      "date": "2026-08-03",
-      "time": "AMC",
-      "eps_estimate": 0.18,
-      "revenue_estimate": 6865514560
-    },
-    {
       "ticker": "TKO",
       "company": "TKO Group Holdings",
       "sector": "Communication Services",
@@ -3631,8 +3613,8 @@
       "sector": "Industrials",
       "date": "2026-08-05",
       "time": "AMC",
-      "eps_estimate": 1.69,
-      "revenue_estimate": 4822001720
+      "eps_estimate": 1.68,
+      "revenue_estimate": 4802685840
     },
     {
       "ticker": "EXPE",
@@ -4073,15 +4055,6 @@
       "revenue_estimate": 3660815710
     },
     {
-      "ticker": "WBD",
-      "company": "Warner Bros. Discovery",
-      "sector": "Communication Services",
-      "date": "2026-08-06",
-      "time": "AMC",
-      "eps_estimate": -0.1,
-      "revenue_estimate": 9177698610
-    },
-    {
       "ticker": "ZTS",
       "company": "Zoetis",
       "sector": "Health Care",
@@ -4451,15 +4424,6 @@
       "revenue_estimate": 34611918930
     },
     {
-      "ticker": "DRI",
-      "company": "Darden Restaurants",
-      "sector": "Consumer Discretionary",
-      "date": "2026-09-17",
-      "time": "BMO",
-      "eps_estimate": 2.05,
-      "revenue_estimate": 3207158580
-    },
-    {
       "ticker": "FDS",
       "company": "FactSet",
       "sector": "Financials",
@@ -4496,6 +4460,15 @@
       "revenue_estimate": 94411677910
     },
     {
+      "ticker": "DRI",
+      "company": "Darden Restaurants",
+      "sector": "Consumer Discretionary",
+      "date": "2026-09-24",
+      "time": "BMO",
+      "eps_estimate": 2.05,
+      "revenue_estimate": 3207158580
+    },
+    {
       "ticker": "NKE",
       "company": "Nike, Inc.",
       "sector": "Consumer Discretionary",
@@ -4503,26 +4476,26 @@
       "time": "AMC",
       "eps_estimate": 0.13,
       "revenue_estimate": 11382592090
-    }
-  ],
-  "this_week": [
+    },
     {
       "ticker": "PEP",
       "company": "PepsiCo",
       "sector": "Consumer Staples",
-      "date": "2026-07-09",
+      "date": "2026-10-08",
       "time": "BMO",
       "eps_estimate": 2.39,
       "revenue_estimate": 25019175280
-    },
+    }
+  ],
+  "this_week": [
     {
       "ticker": "DAL",
       "company": "Delta Air Lines",
       "sector": "Industrials",
       "date": "2026-07-10",
       "time": "BMO",
-      "eps_estimate": 1.5,
-      "revenue_estimate": 18853972740
+      "eps_estimate": 1.49,
+      "revenue_estimate": 18822004550
     }
   ],
   "next_week": [
