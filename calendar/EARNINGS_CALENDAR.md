@@ -1,10 +1,7 @@
 # S&P 500 Earnings Calendar
-> Last updated: Jul 12, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Jul 13, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
-## This Week (Jul 06–Jul 12)
-_No earnings scheduled._
-
-## Next Week (Jul 13–Jul 19)
+## This Week (Jul 13–Jul 19)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Jul 14 | BMO | BAC | Bank of America | $1.13 |
@@ -40,14 +37,13 @@ _No earnings scheduled._
 | Jul 17 | BMO | TFC | Truist Financial | $1.08 |
 | Jul 17 | BMO | TRV | Travelers Companies (The) | $5.33 |
 
-## Later (Jul 20+)
+## Next Week (Jul 20–Jul 26)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Jul 20 | BMO | DPZ | Domino's | $4.19 |
 | Jul 20 | AMC | STLD | Steel Dynamics | $3.61 |
 | Jul 20 | AMC | WRB | W. R. Berkley Corporation | $1.08 |
 | Jul 21 | AMC | CB | Chubb Limited | $6.73 |
-| Jul 21 | AMC | COF | Capital One | $4.75 |
 | Jul 21 | BMO | DHI | D. R. Horton | $2.98 |
 | Jul 21 | BMO | DHR | Danaher Corporation | $1.84 |
 | Jul 21 | BMO | EFX | Equifax | $2.20 |
@@ -101,7 +97,6 @@ _No earnings scheduled._
 | Jul 23 | BMO | CMCSA | Comcast | $0.96 |
 | Jul 23 | AMC | DECK | Deckers Brands | $0.87 |
 | Jul 23 | BMO | DGX | Quest Diagnostics | $2.82 |
-| Jul 23 | AMC | DLR | Digital Realty | $0.73 |
 | Jul 23 | BMO | DOV | Dover Corporation | $2.72 |
 | Jul 23 | BMO | DOW | Dow Inc. | $1.24 |
 | Jul 23 | AMC | EW | Edwards Lifesciences | $0.74 |
@@ -134,6 +129,10 @@ _No earnings scheduled._
 | Jul 24 | BMO | SLB | Schlumberger | $0.52 |
 | Jul 24 | BMO | VZ | Verizon | $1.27 |
 | Jul 26 | AMC | BKR | Baker Hughes | $0.49 |
+
+## Later (Jul 27+)
+| Date | Time | Ticker | Company | Est. EPS |
+|------|------|--------|---------|----------|
 | Jul 27 | AMC | BRO | Brown & Brown | $1.08 |
 | Jul 27 | AMC | CDNS | Cadence Design Systems | $2.06 |
 | Jul 27 | AMC | CINF | Cincinnati Financial | $1.78 |
@@ -202,7 +201,7 @@ _No earnings scheduled._
 | Jul 29 | AMC | EG | Everest Group | $14.57 |
 | Jul 29 | AMC | EQIX | Equinix | $4.78 |
 | Jul 29 | AMC | ESS | Essex Property Trust | $1.45 |
-| Jul 29 | TBD | ETR | Entergy | $1.10 |
+| Jul 29 | BMO | ETR | Entergy | $1.10 |
 | Jul 29 | AMC | FTNT | Fortinet | $0.74 |
 | Jul 29 | BMO | FTV | Fortive | $0.71 |
 | Jul 29 | BMO | GD | General Dynamics | $3.95 |
@@ -224,7 +223,7 @@ _No earnings scheduled._
 | Jul 29 | AMC | MSFT | Microsoft | $4.24 |
 | Jul 29 | BMO | ODFL | Old Dominion | $1.52 |
 | Jul 29 | AMC | ORLY | O’Reilly Automotive | $0.86 |
-| Jul 29 | TBD | PG | Procter & Gamble | $1.42 |
+| Jul 29 | BMO | PG | Procter & Gamble | $1.42 |
 | Jul 29 | AMC | PSA | Public Storage | $2.54 |
 | Jul 29 | AMC | PTC | PTC Inc. | $1.56 |
 | Jul 29 | AMC | QCOM | Qualcomm | $2.22 |
@@ -262,7 +261,7 @@ _No earnings scheduled._
 | Jul 30 | AMC | DXCM | Dexcom | $0.61 |
 | Jul 30 | AMC | EIX | Edison International | $1.04 |
 | Jul 30 | BMO | EME | Emcor | $7.27 |
-| Jul 30 | TBD | ERIE | Erie Indemnity | $3.35 |
+| Jul 30 | AMC | ERIE | Erie Indemnity | $3.35 |
 | Jul 30 | AMC | ES | Eversource Energy | $0.94 |
 | Jul 30 | BMO | EXC | Exelon | $0.48 |
 | Jul 30 | AMC | FSLR | First Solar | $2.83 |
@@ -420,7 +419,7 @@ _No earnings scheduled._
 | Aug 06 | AMC | GILD | Gilead Sciences | $-7.13 |
 | Aug 06 | BMO | HWM | Howmet Aerospace | $1.25 |
 | Aug 06 | BMO | KDP | Keurig Dr Pepper | $0.54 |
-| Aug 06 | TBD | KVUE | Kenvue | $0.32 |
+| Aug 06 | BMO | KVUE | Kenvue | $0.32 |
 | Aug 06 | AMC | MCHP | Microchip Technology | $0.70 |
 | Aug 06 | AMC | MNST | Monster Beverage | $0.58 |
 | Aug 06 | BMO | PH | Parker Hannifin | $8.26 |
@@ -454,7 +453,7 @@ _No earnings scheduled._
 | Aug 20 | AMC | INTU | Intuit | $3.59 |
 | Aug 20 | AMC | ROST | Ross Stores | $1.92 |
 | Aug 20 | AMC | WDAY | Workday, Inc. | $2.61 |
-| Aug 20 | BMO | WMT | Walmart | $0.74 |
+| Aug 20 | TBD | WMT | Walmart | $0.74 |
 | Aug 26 | AMC | A | Agilent Technologies | $1.49 |
 | Aug 26 | AMC | HPQ | HP Inc. | $0.66 |
 | Aug 26 | AMC | NVDA | Nvidia | $2.08 |
@@ -481,6 +480,6 @@ _No earnings scheduled._
 | Sep 24 | AMC | COST | Costco | $6.55 |
 | Sep 24 | BMO | DRI | Darden Restaurants | $2.05 |
 | Sep 29 | AMC | NKE | Nike, Inc. | $0.13 |
-| Oct 08 | BMO | DAL | Delta Air Lines | $2.19 |
+| Oct 08 | TBD | DAL | Delta Air Lines | $2.19 |
 | Oct 08 | BMO | PEP | PepsiCo | $2.30 |
 
