@@ -1,18 +1,18 @@
 # S&P 500 Earnings Calendar
-> Last updated: Jul 27, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Jul 28, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Jul 27–Aug 02)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Jul 27 | AMC | BRO | Brown & Brown | $1.07 |
-| Jul 27 | AMC | CDNS | Cadence Design Systems | $2.06 |
-| Jul 27 | AMC | CINF | Cincinnati Financial | $1.82 |
-| Jul 27 | AMC | FFIV | F5, Inc. | $4.00 |
-| Jul 27 | AMC | NUE | Nucor | $4.53 |
-| Jul 27 | AMC | PFG | Principal Financial Group | $2.33 |
+| Jul 27 | AMC | CDNS | Cadence Design Systems | $1.95 |
+| Jul 27 | AMC | CINF | Cincinnati Financial | $1.94 |
+| Jul 27 | AMC | FFIV | F5, Inc. | $4.14 |
+| Jul 27 | AMC | NUE | Nucor | $5.13 |
+| Jul 27 | AMC | PFG | Principal Financial Group | $2.49 |
 | Jul 27 | AMC | UDR | UDR, Inc. | — |
-| Jul 27 | AMC | UHS | Universal Health Services | $6.01 |
-| Jul 27 | AMC | WELL | Welltower | $0.65 |
+| Jul 27 | AMC | UHS | Universal Health Services | $5.56 |
+| Jul 27 | AMC | WELL | Welltower | $0.67 |
 | Jul 28 | AMC | ACGL | Arch Capital Group | $2.46 |
 | Jul 28 | BMO | AMT | American Tower | $1.55 |
 | Jul 28 | BMO | BA | Boeing | $-0.31 |
@@ -175,7 +175,6 @@
 | Jul 31 | BMO | MRNA | Moderna | $-2.00 |
 | Jul 31 | BMO | TROW | T. Rowe Price | $2.52 |
 | Jul 31 | BMO | XOM | ExxonMobil | $3.68 |
-| Aug 01 | AMC | BRK-B | Berkshire Hathaway | $5.05 |
 
 ## Next Week (Aug 03–Aug 09)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -254,7 +253,7 @@
 | Aug 05 | AMC | CF | CF Industries | $5.61 |
 | Aug 05 | BMO | COR | Cencora | $4.35 |
 | Aug 05 | AMC | CPAY | Corpay | $6.58 |
-| Aug 05 | TBD | CRL | Charles River Laboratories | $2.73 |
+| Aug 05 | BMO | CRL | Charles River Laboratories | $2.73 |
 | Aug 05 | BMO | CVS | CVS Health | $1.85 |
 | Aug 05 | AMC | DASH | DoorDash | $1.22 |
 | Aug 05 | BMO | DIS | Walt Disney Company (The) | $1.86 |
@@ -313,13 +312,14 @@
 | Aug 06 | BMO | SRE | Sempra | $1.06 |
 | Aug 06 | BMO | TAP | Molson Coors Beverage Company | $1.52 |
 | Aug 06 | BMO | TRGP | Targa Resources | $2.74 |
-| Aug 06 | AMC | TTD | Trade Desk (The) | $0.40 |
+| Aug 06 | TBD | TTD | Trade Desk (The) | $0.40 |
 | Aug 06 | BMO | VTRS | Viatris | $0.60 |
 | Aug 06 | BMO | WBD | Warner Bros. Discovery | $-0.10 |
 | Aug 06 | BMO | ZTS | Zoetis | $1.85 |
 | Aug 07 | BMO | PPL | PPL Corporation | $0.34 |
 | Aug 07 | BMO | TTWO | Take-Two Interactive | $0.36 |
 | Aug 07 | BMO | VST | Vistra Corp. | $1.92 |
+| Aug 08 | AMC | BRK-B | Berkshire Hathaway | $5.05 |
 
 ## Later (Aug 10+)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -465,6 +465,7 @@
 | Oct 21 | AMC | URI | United Rentals | $13.83 |
 | Oct 21 | BMO | WAB | Wabtec | $2.73 |
 | Oct 22 | BMO | ALLE | Allegion | $2.49 |
+| Oct 22 | AMC | BKR | Baker Hughes | $0.58 |
 | Oct 22 | BMO | BX | Blackstone Inc. | $1.37 |
 | Oct 22 | AMC | CSX | CSX Corporation | $0.54 |
 | Oct 22 | AMC | DECK | Deckers Brands | $1.79 |
@@ -491,4 +492,8 @@
 | Oct 23 | BMO | AXP | American Express | $4.57 |
 | Oct 23 | BMO | HCA | HCA Healthcare | $6.96 |
 | Oct 23 | BMO | SLB | Schlumberger | $0.61 |
+| Oct 27 | AMC | CB | Chubb Limited | $6.31 |
+| Oct 27 | BMO | NEE | NextEra Energy | $1.22 |
+| Oct 27 | AMC | TXN | Texas Instruments | $2.42 |
+| Oct 27 | BMO | UNH | UnitedHealth Group | $4.08 |
 
