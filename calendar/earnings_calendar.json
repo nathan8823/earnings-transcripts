@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T09:05:01.159266Z",
+  "updated_at": "2026-08-03T09:26:20.538334Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 500,
   "earnings": [
@@ -1148,7 +1148,7 @@
       "company": "Paycom",
       "sector": "Industrials",
       "date": "2026-08-05",
-      "time": "AMC",
+      "time": "TBD",
       "eps_estimate": 2.38,
       "revenue_estimate": 513289820
     },
@@ -2261,7 +2261,7 @@
       "company": "Bank of America",
       "sector": "Financials",
       "date": "2026-10-14",
-      "time": "TBD",
+      "time": "BMO",
       "eps_estimate": 1.19,
       "revenue_estimate": 31200241200
     },
@@ -2918,7 +2918,7 @@
       "company": "Baker Hughes",
       "sector": "Energy",
       "date": "2026-10-22",
-      "time": "TBD",
+      "time": "AMC",
       "eps_estimate": 0.63,
       "revenue_estimate": 7577582950
     },
@@ -4498,296 +4498,6 @@
   ],
   "this_week": [
     {
-      "ticker": "IQV",
-      "company": "IQVIA",
-      "sector": "Health Care",
-      "date": "2026-07-28",
-      "time": "BMO",
-      "eps_estimate": 3.27,
-      "revenue_estimate": 4362404890
-    },
-    {
-      "ticker": "SWKS",
-      "company": "Skyworks Solutions",
-      "sector": "Information Technology",
-      "date": "2026-07-28",
-      "time": "AMC",
-      "eps_estimate": 1.27,
-      "revenue_estimate": 1036134970
-    },
-    {
-      "ticker": "XYL",
-      "company": "Xylem Inc.",
-      "sector": "Industrials",
-      "date": "2026-07-28",
-      "time": "BMO",
-      "eps_estimate": 1.46,
-      "revenue_estimate": 2286533800
-    },
-    {
-      "ticker": "BG",
-      "company": "Bunge Global",
-      "sector": "Consumer Staples",
-      "date": "2026-07-29",
-      "time": "BMO",
-      "eps_estimate": 2.48,
-      "revenue_estimate": 23217666670
-    },
-    {
-      "ticker": "CMG",
-      "company": "Chipotle Mexican Grill",
-      "sector": "Consumer Discretionary",
-      "date": "2026-07-29",
-      "time": "AMC",
-      "eps_estimate": 0.29,
-      "revenue_estimate": 3277809190
-    },
-    {
-      "ticker": "FICO",
-      "company": "Fair Isaac",
-      "sector": "Information Technology",
-      "date": "2026-07-29",
-      "time": "AMC",
-      "eps_estimate": 11.08,
-      "revenue_estimate": 667116560
-    },
-    {
-      "ticker": "FTNT",
-      "company": "Fortinet",
-      "sector": "Information Technology",
-      "date": "2026-07-29",
-      "time": "AMC",
-      "eps_estimate": 0.86,
-      "revenue_estimate": 2062112200
-    },
-    {
-      "ticker": "HOOD",
-      "company": "Robinhood Markets",
-      "sector": "Financials",
-      "date": "2026-07-29",
-      "time": "AMC",
-      "eps_estimate": 0.6,
-      "revenue_estimate": 1344935000
-    },
-    {
-      "ticker": "HUM",
-      "company": "Humana",
-      "sector": "Health Care",
-      "date": "2026-07-29",
-      "time": "BMO",
-      "eps_estimate": -0.99,
-      "revenue_estimate": 40898874700
-    },
-    {
-      "ticker": "JCI",
-      "company": "Johnson Controls",
-      "sector": "Industrials",
-      "date": "2026-07-29",
-      "time": "BMO",
-      "eps_estimate": 1.58,
-      "revenue_estimate": 7021631300
-    },
-    {
-      "ticker": "PTC",
-      "company": "PTC Inc.",
-      "sector": "Information Technology",
-      "date": "2026-07-29",
-      "time": "AMC",
-      "eps_estimate": 1.96,
-      "revenue_estimate": 665769150
-    },
-    {
-      "ticker": "SWK",
-      "company": "Stanley Black & Decker",
-      "sector": "Industrials",
-      "date": "2026-07-29",
-      "time": "BMO",
-      "eps_estimate": 1.57,
-      "revenue_estimate": 3726637580
-    },
-    {
-      "ticker": "AEE",
-      "company": "Ameren",
-      "sector": "Utilities",
-      "date": "2026-07-30",
-      "time": "AMC",
-      "eps_estimate": 2.31,
-      "revenue_estimate": 3015600760
-    },
-    {
-      "ticker": "APD",
-      "company": "Air Products",
-      "sector": "Materials",
-      "date": "2026-07-30",
-      "time": "BMO",
-      "eps_estimate": 3.61,
-      "revenue_estimate": 3313486960
-    },
-    {
-      "ticker": "CI",
-      "company": "Cigna",
-      "sector": "Health Care",
-      "date": "2026-07-30",
-      "time": "BMO",
-      "eps_estimate": 7.58,
-      "revenue_estimate": 72144247500
-    },
-    {
-      "ticker": "CPT",
-      "company": "Camden Property Trust",
-      "sector": "Real Estate",
-      "date": "2026-07-30",
-      "time": "AMC",
-      "eps_estimate": 0.21,
-      "revenue_estimate": 383098330
-    },
-    {
-      "ticker": "CTVA",
-      "company": "Corteva",
-      "sector": "Materials",
-      "date": "2026-07-30",
-      "time": "AMC",
-      "eps_estimate": -0.34,
-      "revenue_estimate": 2678362640
-    },
-    {
-      "ticker": "ES",
-      "company": "Eversource Energy",
-      "sector": "Utilities",
-      "date": "2026-07-30",
-      "time": "AMC",
-      "eps_estimate": 1.02,
-      "revenue_estimate": 3234886820
-    },
-    {
-      "ticker": "EXC",
-      "company": "Exelon",
-      "sector": "Utilities",
-      "date": "2026-07-30",
-      "time": "BMO",
-      "eps_estimate": 0.86,
-      "revenue_estimate": 6855229720
-    },
-    {
-      "ticker": "HSY",
-      "company": "Hershey Company (The)",
-      "sector": "Consumer Staples",
-      "date": "2026-07-30",
-      "time": "BMO",
-      "eps_estimate": 2.12,
-      "revenue_estimate": 3258583000
-    },
-    {
-      "ticker": "KKR",
-      "company": "KKR & Co.",
-      "sector": "Financials",
-      "date": "2026-07-30",
-      "time": "BMO",
-      "eps_estimate": 1.6,
-      "revenue_estimate": 2643320530
-    },
-    {
-      "ticker": "LH",
-      "company": "Labcorp",
-      "sector": "Health Care",
-      "date": "2026-07-30",
-      "time": "BMO",
-      "eps_estimate": 4.66,
-      "revenue_estimate": 3759863310
-    },
-    {
-      "ticker": "LNT",
-      "company": "Alliant Energy",
-      "sector": "Utilities",
-      "date": "2026-07-30",
-      "time": "AMC",
-      "eps_estimate": 1.21,
-      "revenue_estimate": 1433805240
-    },
-    {
-      "ticker": "LYV",
-      "company": "Live Nation Entertainment",
-      "sector": "Communication Services",
-      "date": "2026-07-30",
-      "time": "AMC",
-      "eps_estimate": 1.55,
-      "revenue_estimate": 9571414200
-    },
-    {
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "sector": "Materials",
-      "date": "2026-07-30",
-      "time": "BMO",
-      "eps_estimate": 6.86,
-      "revenue_estimate": 2179350350
-    },
-    {
-      "ticker": "MTD",
-      "company": "Mettler Toledo",
-      "sector": "Health Care",
-      "date": "2026-07-30",
-      "time": "AMC",
-      "eps_estimate": 12.13,
-      "revenue_estimate": 1070631490
-    },
-    {
-      "ticker": "NCLH",
-      "company": "Norwegian Cruise Line Holdings",
-      "sector": "Consumer Discretionary",
-      "date": "2026-07-30",
-      "time": "BMO",
-      "eps_estimate": 0.9,
-      "revenue_estimate": 2859267590
-    },
-    {
-      "ticker": "YUM",
-      "company": "Yum! Brands",
-      "sector": "Consumer Discretionary",
-      "date": "2026-07-30",
-      "time": "BMO",
-      "eps_estimate": 1.58,
-      "revenue_estimate": 2189460500
-    },
-    {
-      "ticker": "ARES",
-      "company": "Ares Management",
-      "sector": "Financials",
-      "date": "2026-07-31",
-      "time": "BMO",
-      "eps_estimate": 1.37,
-      "revenue_estimate": 1272550000
-    },
-    {
-      "ticker": "BEN",
-      "company": "Franklin Resources",
-      "sector": "Financials",
-      "date": "2026-07-31",
-      "time": "BMO",
-      "eps_estimate": 0.75,
-      "revenue_estimate": 2442000000
-    },
-    {
-      "ticker": "ETN",
-      "company": "Eaton Corporation",
-      "sector": "Industrials",
-      "date": "2026-07-31",
-      "time": "BMO",
-      "eps_estimate": 3.51,
-      "revenue_estimate": 8300563959
-    },
-    {
-      "ticker": "MRNA",
-      "company": "Moderna",
-      "sector": "Health Care",
-      "date": "2026-07-31",
-      "time": "BMO",
-      "eps_estimate": -1.32,
-      "revenue_estimate": 871599000
-    }
-  ],
-  "next_week": [
-    {
       "ticker": "AES",
       "company": "AES Corporation",
       "sector": "Utilities",
@@ -5644,7 +5354,7 @@
       "company": "Paycom",
       "sector": "Industrials",
       "date": "2026-08-05",
-      "time": "AMC",
+      "time": "TBD",
       "eps_estimate": 2.38,
       "revenue_estimate": 513289820
     },
@@ -6067,6 +5777,71 @@
       "time": "AMC",
       "eps_estimate": 5.13,
       "revenue_estimate": 98784000000
+    }
+  ],
+  "next_week": [
+    {
+      "ticker": "SPG",
+      "company": "Simon Property Group",
+      "sector": "Real Estate",
+      "date": "2026-08-10",
+      "time": "AMC",
+      "eps_estimate": 1.57,
+      "revenue_estimate": 1613208640
+    },
+    {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "sector": "Health Care",
+      "date": "2026-08-11",
+      "time": "BMO",
+      "eps_estimate": 2.42,
+      "revenue_estimate": 65105403860
+    },
+    {
+      "ticker": "SMCI",
+      "company": "Supermicro",
+      "sector": "Information Technology",
+      "date": "2026-08-11",
+      "time": "AMC",
+      "eps_estimate": 0.96,
+      "revenue_estimate": 11562988100
+    },
+    {
+      "ticker": "AMCR",
+      "company": "Amcor",
+      "sector": "Materials",
+      "date": "2026-08-12",
+      "time": "BMO",
+      "eps_estimate": 1.19,
+      "revenue_estimate": 6075695310
+    },
+    {
+      "ticker": "CSCO",
+      "company": "Cisco",
+      "sector": "Information Technology",
+      "date": "2026-08-12",
+      "time": "AMC",
+      "eps_estimate": 1.17,
+      "revenue_estimate": 16827267250
+    },
+    {
+      "ticker": "AMAT",
+      "company": "Applied Materials",
+      "sector": "Information Technology",
+      "date": "2026-08-13",
+      "time": "AMC",
+      "eps_estimate": 3.39,
+      "revenue_estimate": 9006637960
+    },
+    {
+      "ticker": "TPR",
+      "company": "Tapestry, Inc.",
+      "sector": "Consumer Discretionary",
+      "date": "2026-08-13",
+      "time": "BMO",
+      "eps_estimate": 1.27,
+      "revenue_estimate": 1867394430
     }
   ]
 }

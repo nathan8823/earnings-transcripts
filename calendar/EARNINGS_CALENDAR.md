@@ -1,43 +1,7 @@
 # S&P 500 Earnings Calendar
-> Last updated: Aug 02, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Aug 03, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
-## This Week (Jul 27–Aug 02)
-| Date | Time | Ticker | Company | Est. EPS |
-|------|------|--------|---------|----------|
-| Jul 28 | BMO | IQV | IQVIA | $3.27 |
-| Jul 28 | AMC | SWKS | Skyworks Solutions | $1.27 |
-| Jul 28 | BMO | XYL | Xylem Inc. | $1.46 |
-| Jul 29 | BMO | BG | Bunge Global | $2.48 |
-| Jul 29 | AMC | CMG | Chipotle Mexican Grill | $0.29 |
-| Jul 29 | AMC | FICO | Fair Isaac | $11.08 |
-| Jul 29 | AMC | FTNT | Fortinet | $0.86 |
-| Jul 29 | AMC | HOOD | Robinhood Markets | $0.60 |
-| Jul 29 | BMO | HUM | Humana | $-0.99 |
-| Jul 29 | BMO | JCI | Johnson Controls | $1.58 |
-| Jul 29 | AMC | PTC | PTC Inc. | $1.96 |
-| Jul 29 | BMO | SWK | Stanley Black & Decker | $1.57 |
-| Jul 30 | AMC | AEE | Ameren | $2.31 |
-| Jul 30 | BMO | APD | Air Products | $3.61 |
-| Jul 30 | BMO | CI | Cigna | $7.58 |
-| Jul 30 | AMC | CPT | Camden Property Trust | $0.21 |
-| Jul 30 | AMC | CTVA | Corteva | $-0.34 |
-| Jul 30 | AMC | ES | Eversource Energy | $1.02 |
-| Jul 30 | BMO | EXC | Exelon | $0.86 |
-| Jul 30 | BMO | HSY | Hershey Company (The) | $2.12 |
-| Jul 30 | BMO | KKR | KKR & Co. | $1.60 |
-| Jul 30 | BMO | LH | Labcorp | $4.66 |
-| Jul 30 | AMC | LNT | Alliant Energy | $1.21 |
-| Jul 30 | AMC | LYV | Live Nation Entertainment | $1.55 |
-| Jul 30 | BMO | MLM | Martin Marietta Materials | $6.86 |
-| Jul 30 | AMC | MTD | Mettler Toledo | $12.13 |
-| Jul 30 | BMO | NCLH | Norwegian Cruise Line Holdings | $0.90 |
-| Jul 30 | BMO | YUM | Yum! Brands | $1.58 |
-| Jul 31 | BMO | ARES | Ares Management | $1.37 |
-| Jul 31 | BMO | BEN | Franklin Resources | $0.75 |
-| Jul 31 | BMO | ETN | Eaton Corporation | $3.51 |
-| Jul 31 | BMO | MRNA | Moderna | $-1.32 |
-
-## Next Week (Aug 03–Aug 09)
+## This Week (Aug 03–Aug 09)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Aug 03 | AMC | AES | AES Corporation | $0.47 |
@@ -135,7 +99,7 @@
 | Aug 05 | AMC | NWSA | News Corp(Class A) | $0.23 |
 | Aug 05 | AMC | O | Realty Income | $0.42 |
 | Aug 05 | AMC | OXY | Occidental Petroleum | $1.86 |
-| Aug 05 | AMC | PAYC | Paycom | $2.38 |
+| Aug 05 | TBD | PAYC | Paycom | $2.38 |
 | Aug 05 | BMO | PODD | Insulet Corporation | $1.45 |
 | Aug 05 | BMO | PSX | Phillips 66 | $7.50 |
 | Aug 05 | AMC | SNDK | Sandisk | $34.52 |
@@ -184,7 +148,7 @@
 | Aug 07 | BMO | VST | Vistra Corp. | $1.95 |
 | Aug 08 | AMC | BRK-B | Berkshire Hathaway | $5.13 |
 
-## Later (Aug 10+)
+## Next Week (Aug 10–Aug 16)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Aug 10 | AMC | SPG | Simon Property Group | $1.57 |
@@ -194,6 +158,10 @@
 | Aug 12 | AMC | CSCO | Cisco | $1.17 |
 | Aug 13 | AMC | AMAT | Applied Materials | $3.39 |
 | Aug 13 | BMO | TPR | Tapestry, Inc. | $1.27 |
+
+## Later (Aug 17+)
+| Date | Time | Ticker | Company | Est. EPS |
+|------|------|--------|---------|----------|
 | Aug 18 | BMO | HD | Home Depot (The) | $4.73 |
 | Aug 18 | AMC | JKHY | Jack Henry & Associates | $1.44 |
 | Aug 18 | AMC | KEYS | Keysight Technologies | $2.48 |
@@ -263,7 +231,7 @@
 | Oct 13 | BMO | JPM | JPMorgan Chase | $5.90 |
 | Oct 13 | BMO | WFC | Wells Fargo | $1.81 |
 | Oct 14 | BMO | ABT | Abbott Laboratories | $1.42 |
-| Oct 14 | TBD | BAC | Bank of America | $1.19 |
+| Oct 14 | BMO | BAC | Bank of America | $1.19 |
 | Oct 14 | BMO | BLK | BlackRock | $14.28 |
 | Oct 14 | BMO | FAST | Fastenal | $0.33 |
 | Oct 14 | AMC | JBHT | J.B. Hunt | $2.14 |
@@ -336,7 +304,7 @@
 | Oct 21 | AMC | VLTO | Veralto | $1.08 |
 | Oct 21 | BMO | WAB | Wabtec | $2.73 |
 | Oct 22 | BMO | ALLE | Allegion | $2.49 |
-| Oct 22 | TBD | BKR | Baker Hughes | $0.63 |
+| Oct 22 | AMC | BKR | Baker Hughes | $0.63 |
 | Oct 22 | BMO | BX | Blackstone Inc. | $1.37 |
 | Oct 22 | BMO | CBRE | CBRE Group | $1.91 |
 | Oct 22 | BMO | CNP | CenterPoint Energy | $0.51 |
