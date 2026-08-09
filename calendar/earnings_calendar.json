@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T08:28:56.919259Z",
+  "updated_at": "2026-08-09T08:29:38.794456Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 500,
   "earnings": [
@@ -127,7 +127,7 @@
       "date": "2026-07-30",
       "time": "AMC",
       "eps_estimate": 0.21,
-      "revenue_estimate": 383626110
+      "revenue_estimate": 384597980
     },
     {
       "ticker": "CTVA",
@@ -324,8 +324,8 @@
       "sector": "Financials",
       "date": "2026-08-05",
       "time": "AMC",
-      "eps_estimate": 1.03,
-      "revenue_estimate": 6572951120
+      "eps_estimate": 1.04,
+      "revenue_estimate": 6575213620
     },
     {
       "ticker": "CEG",
@@ -337,15 +337,6 @@
       "revenue_estimate": 8557490159
     },
     {
-      "ticker": "PPL",
-      "company": "PPL Corporation",
-      "sector": "Utilities",
-      "date": "2026-08-07",
-      "time": "BMO",
-      "eps_estimate": 0.52,
-      "revenue_estimate": 2446094990
-    },
-    {
       "ticker": "TTWO",
       "company": "Take-Two Interactive",
       "sector": "Communication Services",
@@ -355,20 +346,11 @@
       "revenue_estimate": 1806071720
     },
     {
-      "ticker": "VST",
-      "company": "Vistra Corp.",
-      "sector": "Utilities",
-      "date": "2026-08-07",
-      "time": "TBD",
-      "eps_estimate": 2.67,
-      "revenue_estimate": 7093651420
-    },
-    {
       "ticker": "BRK-B",
       "company": "Berkshire Hathaway",
       "sector": "Financials",
       "date": "2026-08-08",
-      "time": "AMC",
+      "time": "BMO",
       "eps_estimate": 5.13,
       "revenue_estimate": 98784000000
     },
@@ -719,7 +701,7 @@
       "company": "Palo Alto Networks",
       "sector": "Information Technology",
       "date": "2026-09-01",
-      "time": "AMC",
+      "time": "TBD",
       "eps_estimate": 0.98,
       "revenue_estimate": 3351771170
     },
@@ -891,7 +873,7 @@
       "sector": "Information Technology",
       "date": "2026-09-23",
       "time": "AMC",
-      "eps_estimate": 31.33,
+      "eps_estimate": 31.31,
       "revenue_estimate": 50838974970
     },
     {
@@ -1898,8 +1880,8 @@
       "sector": "Materials",
       "date": "2026-10-22",
       "time": "AMC",
-      "eps_estimate": 2.08,
-      "revenue_estimate": 6167666950
+      "eps_estimate": 2.09,
+      "revenue_estimate": 6190458580
     },
     {
       "ticker": "NSC",
@@ -2015,8 +1997,8 @@
       "sector": "Financials",
       "date": "2026-10-23",
       "time": "BMO",
-      "eps_estimate": 4.54,
-      "revenue_estimate": 20123372630
+      "eps_estimate": 4.53,
+      "revenue_estimate": 20128983740
     },
     {
       "ticker": "HCA",
@@ -2043,7 +2025,7 @@
       "date": "2026-10-23",
       "time": "BMO",
       "eps_estimate": 0.62,
-      "revenue_estimate": 9241389250
+      "revenue_estimate": 9250002090
     },
     {
       "ticker": "ACGL",
@@ -2429,7 +2411,7 @@
       "date": "2026-10-27",
       "time": "AMC",
       "eps_estimate": 3.44,
-      "revenue_estimate": 12093946190
+      "revenue_estimate": 12096637700
     },
     {
       "ticker": "ADP",
@@ -2644,8 +2626,8 @@
       "sector": "Consumer Discretionary",
       "date": "2026-10-28",
       "time": "BMO",
-      "eps_estimate": 2.35,
-      "revenue_estimate": 1978720000
+      "eps_estimate": 2.38,
+      "revenue_estimate": 1980720000
     },
     {
       "ticker": "HLT",
@@ -2931,7 +2913,7 @@
       "date": "2026-10-29",
       "time": "BMO",
       "eps_estimate": 3.84,
-      "revenue_estimate": 17311900150
+      "revenue_estimate": 17311670730
     },
     {
       "ticker": "AEP",
@@ -3144,8 +3126,8 @@
       "sector": "Communication Services",
       "date": "2026-10-29",
       "time": "BMO",
-      "eps_estimate": 2.1,
-      "revenue_estimate": 4299556130
+      "eps_estimate": 2.03,
+      "revenue_estimate": 4298792720
     },
     {
       "ticker": "FSLR",
@@ -3171,8 +3153,8 @@
       "sector": "Health Care",
       "date": "2026-10-29",
       "time": "AMC",
-      "eps_estimate": 2.18,
-      "revenue_estimate": 7794864610
+      "eps_estimate": 2.16,
+      "revenue_estimate": 7780117730
     },
     {
       "ticker": "HIG",
@@ -3234,8 +3216,8 @@
       "sector": "Health Care",
       "date": "2026-10-29",
       "time": "BMO",
-      "eps_estimate": 9.72,
-      "revenue_estimate": 22102449920
+      "eps_estimate": 9.78,
+      "revenue_estimate": 22162467150
     },
     {
       "ticker": "MA",
@@ -3262,7 +3244,7 @@
       "date": "2026-10-29",
       "time": "BMO",
       "eps_estimate": 1.5,
-      "revenue_estimate": 5312727580
+      "revenue_estimate": 5316054820
     },
     {
       "ticker": "MPWR",
@@ -3307,7 +3289,7 @@
       "date": "2026-10-29",
       "time": "AMC",
       "eps_estimate": 2.17,
-      "revenue_estimate": 10126234390
+      "revenue_estimate": 10148926700
     },
     {
       "ticker": "RMD",
@@ -3496,7 +3478,7 @@
       "date": "2026-10-30",
       "time": "BMO",
       "eps_estimate": 4.53,
-      "revenue_estimate": 9093042770
+      "revenue_estimate": 9359000000
     },
     {
       "ticker": "LYB",
@@ -3540,7 +3522,7 @@
       "sector": "Energy",
       "date": "2026-11-02",
       "time": "AMC",
-      "eps_estimate": 4.82,
+      "eps_estimate": 4.87,
       "revenue_estimate": 4437146830
     },
     {
@@ -3827,7 +3809,7 @@
       "date": "2026-11-03",
       "time": "AMC",
       "eps_estimate": 0.03,
-      "revenue_estimate": 3171914680
+      "revenue_estimate": 3167212580
     },
     {
       "ticker": "MPC",
@@ -3845,7 +3827,7 @@
       "date": "2026-11-03",
       "time": "AMC",
       "eps_estimate": 1.02,
-      "revenue_estimate": 892075610
+      "revenue_estimate": 891950610
     },
     {
       "ticker": "PFE",
@@ -3898,8 +3880,8 @@
       "sector": "Information Technology",
       "date": "2026-11-03",
       "time": "BMO",
-      "eps_estimate": 4.85,
-      "revenue_estimate": 1554139640
+      "eps_estimate": 4.86,
+      "revenue_estimate": 1558353930
     },
     {
       "ticker": "ZTS",
@@ -4007,7 +3989,7 @@
       "date": "2026-11-04",
       "time": "AMC",
       "eps_estimate": 7.16,
-      "revenue_estimate": 1356901750
+      "revenue_estimate": 1357009790
     },
     {
       "ticker": "CRL",
@@ -4016,7 +3998,7 @@
       "date": "2026-11-04",
       "time": "BMO",
       "eps_estimate": 2.95,
-      "revenue_estimate": 959828380
+      "revenue_estimate": 959324830
     },
     {
       "ticker": "DASH",
@@ -4136,6 +4118,15 @@
       "revenue_estimate": 536094240
     },
     {
+      "ticker": "PPL",
+      "company": "PPL Corporation",
+      "sector": "Utilities",
+      "date": "2026-11-04",
+      "time": "BMO",
+      "eps_estimate": 0.52,
+      "revenue_estimate": 2446094990
+    },
+    {
       "ticker": "SRE",
       "company": "Sempra",
       "sector": "Utilities",
@@ -4213,7 +4204,7 @@
       "date": "2026-11-05",
       "time": "BMO",
       "eps_estimate": 1.9,
-      "revenue_estimate": 1857833510
+      "revenue_estimate": 1854733510
     },
     {
       "ticker": "DDOG",
@@ -4393,7 +4384,7 @@
       "date": "2026-11-05",
       "time": "BMO",
       "eps_estimate": 1.6,
-      "revenue_estimate": 835120310
+      "revenue_estimate": 834470310
     },
     {
       "ticker": "RL",
@@ -4420,7 +4411,7 @@
       "date": "2026-11-05",
       "time": "AMC",
       "eps_estimate": 1.35,
-      "revenue_estimate": 1934348120
+      "revenue_estimate": 1934225570
     },
     {
       "ticker": "TDG",
@@ -4450,13 +4441,22 @@
       "revenue_estimate": 650539600
     },
     {
+      "ticker": "VST",
+      "company": "Vistra Corp.",
+      "sector": "Utilities",
+      "date": "2026-11-05",
+      "time": "BMO",
+      "eps_estimate": 2.67,
+      "revenue_estimate": 7093651420
+    },
+    {
       "ticker": "VTRS",
       "company": "Viatris",
       "sector": "Health Care",
       "date": "2026-11-05",
       "time": "BMO",
       "eps_estimate": 0.64,
-      "revenue_estimate": 3820918810
+      "revenue_estimate": 3809208240
     },
     {
       "ticker": "WBD",
@@ -4483,7 +4483,7 @@
       "date": "2026-11-05",
       "time": "BMO",
       "eps_estimate": 1.88,
-      "revenue_estimate": 2046503820
+      "revenue_estimate": 2045732670
     },
     {
       "ticker": "SNDK",
@@ -4491,8 +4491,8 @@
       "sector": "Information Technology",
       "date": "2026-11-06",
       "time": "AMC",
-      "eps_estimate": 46.17,
-      "revenue_estimate": 10695447090
+      "eps_estimate": 46.02,
+      "revenue_estimate": 10696526070
     }
   ],
   "this_week": [
@@ -4592,8 +4592,8 @@
       "sector": "Financials",
       "date": "2026-08-05",
       "time": "AMC",
-      "eps_estimate": 1.03,
-      "revenue_estimate": 6572951120
+      "eps_estimate": 1.04,
+      "revenue_estimate": 6575213620
     },
     {
       "ticker": "CEG",
@@ -4605,15 +4605,6 @@
       "revenue_estimate": 8557490159
     },
     {
-      "ticker": "PPL",
-      "company": "PPL Corporation",
-      "sector": "Utilities",
-      "date": "2026-08-07",
-      "time": "BMO",
-      "eps_estimate": 0.52,
-      "revenue_estimate": 2446094990
-    },
-    {
       "ticker": "TTWO",
       "company": "Take-Two Interactive",
       "sector": "Communication Services",
@@ -4623,20 +4614,11 @@
       "revenue_estimate": 1806071720
     },
     {
-      "ticker": "VST",
-      "company": "Vistra Corp.",
-      "sector": "Utilities",
-      "date": "2026-08-07",
-      "time": "TBD",
-      "eps_estimate": 2.67,
-      "revenue_estimate": 7093651420
-    },
-    {
       "ticker": "BRK-B",
       "company": "Berkshire Hathaway",
       "sector": "Financials",
       "date": "2026-08-08",
-      "time": "AMC",
+      "time": "BMO",
       "eps_estimate": 5.13,
       "revenue_estimate": 98784000000
     }
