@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T08:46:10.502651Z",
+  "updated_at": "2026-08-13T08:47:21.417574Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 500,
   "earnings": [
@@ -283,24 +283,6 @@
       "revenue_estimate": 1490986000
     },
     {
-      "ticker": "WYNN",
-      "company": "Wynn Resorts",
-      "sector": "Consumer Discretionary",
-      "date": "2026-08-04",
-      "time": "AMC",
-      "eps_estimate": 0.87,
-      "revenue_estimate": 1824488800
-    },
-    {
-      "ticker": "DIS",
-      "company": "Walt Disney Company (The)",
-      "sector": "Communication Services",
-      "date": "2026-08-05",
-      "time": "BMO",
-      "eps_estimate": 1.67,
-      "revenue_estimate": 25080347520
-    },
-    {
       "ticker": "MET",
       "company": "MetLife",
       "sector": "Financials",
@@ -337,31 +319,13 @@
       "revenue_estimate": 1659810810
     },
     {
-      "ticker": "CAH",
-      "company": "Cardinal Health",
-      "sector": "Health Care",
-      "date": "2026-08-11",
-      "time": "BMO",
-      "eps_estimate": 2.88,
-      "revenue_estimate": 68587858700
-    },
-    {
-      "ticker": "SMCI",
-      "company": "Supermicro",
-      "sector": "Information Technology",
-      "date": "2026-08-11",
-      "time": "AMC",
-      "eps_estimate": 0.76,
-      "revenue_estimate": 12089437830
-    },
-    {
       "ticker": "AMCR",
       "company": "Amcor",
       "sector": "Materials",
       "date": "2026-08-12",
       "time": "BMO",
-      "eps_estimate": 1.19,
-      "revenue_estimate": 6075695310
+      "eps_estimate": 1.04,
+      "revenue_estimate": 5904718460
     },
     {
       "ticker": "CSCO",
@@ -387,8 +351,8 @@
       "sector": "Information Technology",
       "date": "2026-08-12",
       "time": "BMO",
-      "eps_estimate": 0.8,
-      "revenue_estimate": 952079180
+      "eps_estimate": 0.87,
+      "revenue_estimate": 961268550
     },
     {
       "ticker": "AMAT",
@@ -697,6 +661,15 @@
       "revenue_estimate": 916270410
     },
     {
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise",
+      "sector": "Information Technology",
+      "date": "2026-09-02",
+      "time": "AMC",
+      "eps_estimate": 0.93,
+      "revenue_estimate": 11916091930
+    },
+    {
       "ticker": "NTAP",
       "company": "NetApp",
       "sector": "Information Technology",
@@ -731,15 +704,6 @@
       "time": "AMC",
       "eps_estimate": 4.9,
       "revenue_estimate": 44418978920
-    },
-    {
-      "ticker": "HPE",
-      "company": "Hewlett Packard Enterprise",
-      "sector": "Information Technology",
-      "date": "2026-09-03",
-      "time": "AMC",
-      "eps_estimate": 0.93,
-      "revenue_estimate": 11916091930
     },
     {
       "ticker": "LULU",
@@ -3467,7 +3431,7 @@
       "company": "T. Rowe Price",
       "sector": "Financials",
       "date": "2026-10-30",
-      "time": "BMO",
+      "time": "TBD",
       "eps_estimate": 2.67,
       "revenue_estimate": 1984888000
     },
@@ -3830,6 +3794,15 @@
       "revenue_estimate": 1846479770
     },
     {
+      "ticker": "SMCI",
+      "company": "Supermicro",
+      "sector": "Information Technology",
+      "date": "2026-11-03",
+      "time": "AMC",
+      "eps_estimate": 0.76,
+      "revenue_estimate": 12089437830
+    },
+    {
       "ticker": "SYY",
       "company": "Sysco",
       "sector": "Consumer Staples",
@@ -4162,6 +4135,15 @@
       "revenue_estimate": 5113661950
     },
     {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "sector": "Health Care",
+      "date": "2026-11-05",
+      "time": "BMO",
+      "eps_estimate": 2.88,
+      "revenue_estimate": 68587858700
+    },
+    {
       "ticker": "CMI",
       "company": "Cummins",
       "sector": "Industrials",
@@ -4459,6 +4441,15 @@
       "revenue_estimate": 4133316480
     },
     {
+      "ticker": "WYNN",
+      "company": "Wynn Resorts",
+      "sector": "Consumer Discretionary",
+      "date": "2026-11-05",
+      "time": "AMC",
+      "eps_estimate": 0.87,
+      "revenue_estimate": 1824488800
+    },
+    {
       "ticker": "ZBH",
       "company": "Zimmer Biomet",
       "sector": "Health Care",
@@ -4493,35 +4484,26 @@
       "time": "BMO",
       "eps_estimate": 3.69,
       "revenue_estimate": 9556182890
+    },
+    {
+      "ticker": "DIS",
+      "company": "Walt Disney Company (The)",
+      "sector": "Communication Services",
+      "date": "2026-11-12",
+      "time": "BMO",
+      "eps_estimate": 1.67,
+      "revenue_estimate": 25080347520
     }
   ],
   "this_week": [
-    {
-      "ticker": "CAH",
-      "company": "Cardinal Health",
-      "sector": "Health Care",
-      "date": "2026-08-11",
-      "time": "BMO",
-      "eps_estimate": 2.88,
-      "revenue_estimate": 68587858700
-    },
-    {
-      "ticker": "SMCI",
-      "company": "Supermicro",
-      "sector": "Information Technology",
-      "date": "2026-08-11",
-      "time": "AMC",
-      "eps_estimate": 0.76,
-      "revenue_estimate": 12089437830
-    },
     {
       "ticker": "AMCR",
       "company": "Amcor",
       "sector": "Materials",
       "date": "2026-08-12",
       "time": "BMO",
-      "eps_estimate": 1.19,
-      "revenue_estimate": 6075695310
+      "eps_estimate": 1.04,
+      "revenue_estimate": 5904718460
     },
     {
       "ticker": "CSCO",
@@ -4547,8 +4529,8 @@
       "sector": "Information Technology",
       "date": "2026-08-12",
       "time": "BMO",
-      "eps_estimate": 0.8,
-      "revenue_estimate": 952079180
+      "eps_estimate": 0.87,
+      "revenue_estimate": 961268550
     },
     {
       "ticker": "AMAT",
