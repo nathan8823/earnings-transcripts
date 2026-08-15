@@ -1,11 +1,8 @@
 # S&P 500 Earnings Calendar
-> Last updated: Aug 14, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Aug 15, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Aug 10–Aug 16)
-| Date | Time | Ticker | Company | Est. EPS |
-|------|------|--------|---------|----------|
-| Aug 13 | AMC | AMAT | Applied Materials | $3.69 |
-| Aug 13 | BMO | TPR | Tapestry, Inc. | $1.28 |
+_No earnings scheduled._
 
 ## Next Week (Aug 17–Aug 23)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -55,8 +52,8 @@
 | Sep 03 | AMC | LULU | Lululemon Athletica | $1.80 |
 | Sep 09 | AMC | COO | Cooper Companies (The) | $1.12 |
 | Sep 10 | AMC | ADBE | Adobe Inc. | $6.08 |
-| Sep 10 | BMO | KR | Kroger | $1.05 |
 | Sep 10 | AMC | ORCL | Oracle Corporation | $1.74 |
+| Sep 11 | BMO | KR | Kroger | $1.05 |
 | Sep 17 | BMO | FDS | FactSet | $4.34 |
 | Sep 17 | AMC | LEN | Lennar | $1.30 |
 | Sep 22 | BMO | AZO | AutoZone | $54.50 |
@@ -465,6 +462,7 @@
 | Nov 05 | BMO | ROK | Rockwell Automation | $3.68 |
 | Nov 05 | AMC | SOLV | Solventum | $1.35 |
 | Nov 05 | BMO | TDG | TransDigm Group | $12.12 |
+| Nov 05 | BMO | TPR | Tapestry, Inc. | $1.28 |
 | Nov 05 | BMO | TRGP | Targa Resources | $2.81 |
 | Nov 05 | AMC | TTD | Trade Desk (The) | $0.27 |
 | Nov 05 | BMO | VST | Vistra Corp. | $2.67 |
@@ -477,6 +475,7 @@
 | Nov 07 | AMC | BRK-B | Berkshire Hathaway | $6.21 |
 | Nov 09 | BMO | CEG | Constellation Energy | $3.69 |
 | Nov 09 | BMO | TECH | Bio-Techne | $0.52 |
+| Nov 12 | AMC | AMAT | Applied Materials | $3.69 |
 | Nov 12 | AMC | CSCO | Cisco | $1.17 |
 | Nov 12 | BMO | DIS | Walt Disney Company (The) | $1.67 |
 

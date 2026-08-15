@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T08:43:43.320606Z",
+  "updated_at": "2026-08-15T08:20:28.508883Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 500,
   "earnings": [
@@ -299,24 +299,6 @@
       "time": "BMO",
       "eps_estimate": 0.94,
       "revenue_estimate": 1659810810
-    },
-    {
-      "ticker": "AMAT",
-      "company": "Applied Materials",
-      "sector": "Information Technology",
-      "date": "2026-08-13",
-      "time": "AMC",
-      "eps_estimate": 3.69,
-      "revenue_estimate": 9556960590
-    },
-    {
-      "ticker": "TPR",
-      "company": "Tapestry, Inc.",
-      "sector": "Consumer Discretionary",
-      "date": "2026-08-13",
-      "time": "BMO",
-      "eps_estimate": 1.28,
-      "revenue_estimate": 1872342240
     },
     {
       "ticker": "HD",
@@ -688,15 +670,6 @@
       "revenue_estimate": 6695163470
     },
     {
-      "ticker": "KR",
-      "company": "Kroger",
-      "sector": "Consumer Staples",
-      "date": "2026-09-10",
-      "time": "BMO",
-      "eps_estimate": 1.05,
-      "revenue_estimate": 34611918930
-    },
-    {
       "ticker": "ORCL",
       "company": "Oracle Corporation",
       "sector": "Information Technology",
@@ -704,6 +677,15 @@
       "time": "AMC",
       "eps_estimate": 1.74,
       "revenue_estimate": 19124084550
+    },
+    {
+      "ticker": "KR",
+      "company": "Kroger",
+      "sector": "Consumer Staples",
+      "date": "2026-09-11",
+      "time": "BMO",
+      "eps_estimate": 1.05,
+      "revenue_estimate": 34611918930
     },
     {
       "ticker": "FDS",
@@ -4369,6 +4351,15 @@
       "revenue_estimate": 2937548090
     },
     {
+      "ticker": "TPR",
+      "company": "Tapestry, Inc.",
+      "sector": "Consumer Discretionary",
+      "date": "2026-11-05",
+      "time": "BMO",
+      "eps_estimate": 1.28,
+      "revenue_estimate": 1872342240
+    },
+    {
       "ticker": "TRGP",
       "company": "Targa Resources",
       "sector": "Energy",
@@ -4477,6 +4468,15 @@
       "revenue_estimate": 314517000
     },
     {
+      "ticker": "AMAT",
+      "company": "Applied Materials",
+      "sector": "Information Technology",
+      "date": "2026-11-12",
+      "time": "AMC",
+      "eps_estimate": 3.69,
+      "revenue_estimate": 9556960590
+    },
+    {
       "ticker": "CSCO",
       "company": "Cisco",
       "sector": "Information Technology",
@@ -4495,26 +4495,7 @@
       "revenue_estimate": 25080347520
     }
   ],
-  "this_week": [
-    {
-      "ticker": "AMAT",
-      "company": "Applied Materials",
-      "sector": "Information Technology",
-      "date": "2026-08-13",
-      "time": "AMC",
-      "eps_estimate": 3.69,
-      "revenue_estimate": 9556960590
-    },
-    {
-      "ticker": "TPR",
-      "company": "Tapestry, Inc.",
-      "sector": "Consumer Discretionary",
-      "date": "2026-08-13",
-      "time": "BMO",
-      "eps_estimate": 1.28,
-      "revenue_estimate": 1872342240
-    }
-  ],
+  "this_week": [],
   "next_week": [
     {
       "ticker": "HD",
