@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T08:21:37.767280Z",
+  "updated_at": "2026-08-17T08:29:41.642418Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 500,
   "earnings": [
@@ -439,7 +439,7 @@
       "company": "CrowdStrike",
       "sector": "Information Technology",
       "date": "2026-08-26",
-      "time": "AMC",
+      "time": "TBD",
       "eps_estimate": 0.29,
       "revenue_estimate": 1440206650
     },
@@ -1348,7 +1348,7 @@
       "company": "CME Group",
       "sector": "Financials",
       "date": "2026-10-21",
-      "time": "TBD",
+      "time": "BMO",
       "eps_estimate": 2.94,
       "revenue_estimate": 1697605270
     },
@@ -4492,8 +4492,7 @@
       "revenue_estimate": 25064665700
     }
   ],
-  "this_week": [],
-  "next_week": [
+  "this_week": [
     {
       "ticker": "HD",
       "company": "Home Depot (The)",
@@ -4601,6 +4600,152 @@
       "time": "BMO",
       "eps_estimate": 0.74,
       "revenue_estimate": 186888123140
+    }
+  ],
+  "next_week": [
+    {
+      "ticker": "INTU",
+      "company": "Intuit",
+      "sector": "Information Technology",
+      "date": "2026-08-25",
+      "time": "AMC",
+      "eps_estimate": 3.59,
+      "revenue_estimate": 4268872240
+    },
+    {
+      "ticker": "A",
+      "company": "Agilent Technologies",
+      "sector": "Health Care",
+      "date": "2026-08-26",
+      "time": "AMC",
+      "eps_estimate": 1.49,
+      "revenue_estimate": 1841490470
+    },
+    {
+      "ticker": "CRM",
+      "company": "Salesforce",
+      "sector": "Information Technology",
+      "date": "2026-08-26",
+      "time": "AMC",
+      "eps_estimate": 3.27,
+      "revenue_estimate": 11315118570
+    },
+    {
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "sector": "Information Technology",
+      "date": "2026-08-26",
+      "time": "TBD",
+      "eps_estimate": 0.29,
+      "revenue_estimate": 1440206650
+    },
+    {
+      "ticker": "HPQ",
+      "company": "HP Inc.",
+      "sector": "Information Technology",
+      "date": "2026-08-26",
+      "time": "AMC",
+      "eps_estimate": 0.66,
+      "revenue_estimate": 14389126800
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "sector": "Information Technology",
+      "date": "2026-08-26",
+      "time": "AMC",
+      "eps_estimate": 2.08,
+      "revenue_estimate": 91956584330
+    },
+    {
+      "ticker": "SJM",
+      "company": "J.M. Smucker Company (The)",
+      "sector": "Consumer Staples",
+      "date": "2026-08-26",
+      "time": "BMO",
+      "eps_estimate": 2.22,
+      "revenue_estimate": 2130218850
+    },
+    {
+      "ticker": "SNPS",
+      "company": "Synopsys",
+      "sector": "Information Technology",
+      "date": "2026-08-26",
+      "time": "AMC",
+      "eps_estimate": 3.67,
+      "revenue_estimate": 2438797080
+    },
+    {
+      "ticker": "WSM",
+      "company": "Williams-Sonoma, Inc.",
+      "sector": "Consumer Discretionary",
+      "date": "2026-08-26",
+      "time": "BMO",
+      "eps_estimate": 2.07,
+      "revenue_estimate": 1924379530
+    },
+    {
+      "ticker": "ADSK",
+      "company": "Autodesk",
+      "sector": "Information Technology",
+      "date": "2026-08-27",
+      "time": "AMC",
+      "eps_estimate": 3.12,
+      "revenue_estimate": 2010616350
+    },
+    {
+      "ticker": "BBY",
+      "company": "Best Buy",
+      "sector": "Consumer Discretionary",
+      "date": "2026-08-27",
+      "time": "BMO",
+      "eps_estimate": 1.36,
+      "revenue_estimate": 9559986400
+    },
+    {
+      "ticker": "DG",
+      "company": "Dollar General",
+      "sector": "Consumer Staples",
+      "date": "2026-08-27",
+      "time": "BMO",
+      "eps_estimate": 2.01,
+      "revenue_estimate": 11190951300
+    },
+    {
+      "ticker": "DLTR",
+      "company": "Dollar Tree",
+      "sector": "Consumer Staples",
+      "date": "2026-08-27",
+      "time": "BMO",
+      "eps_estimate": 1.12,
+      "revenue_estimate": 4855518640
+    },
+    {
+      "ticker": "HRL",
+      "company": "Hormel Foods",
+      "sector": "Consumer Staples",
+      "date": "2026-08-27",
+      "time": "BMO",
+      "eps_estimate": 0.35,
+      "revenue_estimate": 3046107920
+    },
+    {
+      "ticker": "ULTA",
+      "company": "Ulta Beauty",
+      "sector": "Consumer Discretionary",
+      "date": "2026-08-27",
+      "time": "AMC",
+      "eps_estimate": 6.17,
+      "revenue_estimate": 2979760030
+    },
+    {
+      "ticker": "WDAY",
+      "company": "Workday, Inc.",
+      "sector": "Information Technology",
+      "date": "2026-08-27",
+      "time": "AMC",
+      "eps_estimate": 2.61,
+      "revenue_estimate": 2635331000
     }
   ]
 }

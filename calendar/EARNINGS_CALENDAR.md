@@ -1,10 +1,7 @@
 # S&P 500 Earnings Calendar
-> Last updated: Aug 16, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Aug 17, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
-## This Week (Aug 10–Aug 16)
-_No earnings scheduled._
-
-## Next Week (Aug 17–Aug 23)
+## This Week (Aug 17–Aug 23)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Aug 18 | BMO | HD | Home Depot (The) | $4.73 |
@@ -20,13 +17,13 @@ _No earnings scheduled._
 | Aug 20 | AMC | ROST | Ross Stores | $1.93 |
 | Aug 20 | BMO | WMT | Walmart | $0.74 |
 
-## Later (Aug 24+)
+## Next Week (Aug 24–Aug 30)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Aug 25 | AMC | INTU | Intuit | $3.59 |
 | Aug 26 | AMC | A | Agilent Technologies | $1.49 |
 | Aug 26 | AMC | CRM | Salesforce | $3.27 |
-| Aug 26 | AMC | CRWD | CrowdStrike | $0.29 |
+| Aug 26 | TBD | CRWD | CrowdStrike | $0.29 |
 | Aug 26 | AMC | HPQ | HP Inc. | $0.66 |
 | Aug 26 | AMC | NVDA | Nvidia | $2.08 |
 | Aug 26 | BMO | SJM | J.M. Smucker Company (The) | $2.22 |
@@ -39,6 +36,10 @@ _No earnings scheduled._
 | Aug 27 | BMO | HRL | Hormel Foods | $0.35 |
 | Aug 27 | AMC | ULTA | Ulta Beauty | $6.17 |
 | Aug 27 | AMC | WDAY | Workday, Inc. | $2.61 |
+
+## Later (Aug 31+)
+| Date | Time | Ticker | Company | Est. EPS |
+|------|------|--------|---------|----------|
 | Sep 01 | BMO | MDT | Medtronic | $1.39 |
 | Sep 01 | AMC | PANW | Palo Alto Networks | $0.98 |
 | Sep 02 | AMC | AVGO | Broadcom | $3.24 |
@@ -127,7 +128,7 @@ _No earnings scheduled._
 | Oct 20 | BMO | VZ | Verizon | $1.29 |
 | Oct 21 | BMO | AVY | Avery Dennison | $2.33 |
 | Oct 21 | AMC | CCI | Crown Castle | $0.68 |
-| Oct 21 | TBD | CME | CME Group | $2.94 |
+| Oct 21 | BMO | CME | CME Group | $2.94 |
 | Oct 21 | BMO | ELV | Elevance Health | $4.66 |
 | Oct 21 | AMC | EQR | Equity Residential | $0.37 |
 | Oct 21 | AMC | FE | FirstEnergy | $0.94 |
