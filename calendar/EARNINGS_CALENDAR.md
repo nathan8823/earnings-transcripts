@@ -1,11 +1,11 @@
 # S&P 500 Earnings Calendar
-> Last updated: Aug 18, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Aug 19, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Aug 17–Aug 23)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
-| Aug 18 | BMO | HD | Home Depot (The) | $4.73 |
-| Aug 18 | AMC | JKHY | Jack Henry & Associates | $1.44 |
+| Aug 18 | BMO | HD | Home Depot (The) | $3.96 |
+| Aug 18 | AMC | JKHY | Jack Henry & Associates | $1.98 |
 | Aug 18 | AMC | KEYS | Keysight Technologies | $2.48 |
 | Aug 19 | BMO | ADI | Analog Devices | $3.34 |
 | Aug 19 | BMO | EL | Estée Lauder Companies (The) | $0.32 |
@@ -40,6 +40,7 @@
 ## Later (Aug 31+)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
+| Sep 01 | AMC | DELL | Dell Technologies | $4.89 |
 | Sep 01 | BMO | MDT | Medtronic | $1.39 |
 | Sep 01 | AMC | PANW | Palo Alto Networks | $0.98 |
 | Sep 02 | AMC | AVGO | Broadcom | $3.24 |
@@ -49,7 +50,6 @@
 | Sep 03 | BMO | CIEN | Ciena | $1.72 |
 | Sep 03 | BMO | CPB | Campbell's Company (The) | $0.39 |
 | Sep 03 | AMC | CPRT | Copart | $0.39 |
-| Sep 03 | AMC | DELL | Dell Technologies | $4.89 |
 | Sep 03 | AMC | LULU | Lululemon Athletica | $1.80 |
 | Sep 09 | AMC | COO | Cooper Companies (The) | $1.12 |
 | Sep 10 | AMC | ADBE | Adobe Inc. | $6.08 |
@@ -251,7 +251,7 @@
 | Oct 28 | BMO | FTV | Fortive | $0.71 |
 | Oct 28 | BMO | GD | General Dynamics | $4.12 |
 | Oct 28 | BMO | GEHC | GE HealthCare | $1.20 |
-| Oct 28 | BMO | GEV | GE Vernova | $4.03 |
+| Oct 28 | BMO | GEV | GE Vernova | $4.06 |
 | Oct 28 | BMO | GNRC | Generac | $2.45 |
 | Oct 28 | AMC | GOOG | Alphabet Inc.(Class C) | $3.00 |
 | Oct 28 | AMC | GOOGL | Alphabet Inc.(Class A) | $3.00 |
@@ -292,7 +292,7 @@
 | Oct 29 | AMC | AJG | Arthur J. Gallagher & Co. | $3.06 |
 | Oct 29 | BMO | AME | Ametek | $2.09 |
 | Oct 29 | BMO | AMP | Ameriprise Financial | $11.78 |
-| Oct 29 | AMC | AMZN | Amazon | $1.94 |
+| Oct 29 | TBD | AMZN | Amazon | $1.94 |
 | Oct 29 | BMO | APTV | Aptiv | $1.33 |
 | Oct 29 | BMO | BAX | Baxter International | $0.52 |
 | Oct 29 | BMO | BIIB | Biogen | $2.04 |
@@ -385,7 +385,7 @@
 | Nov 03 | AMC | IFF | International Flavors & Fragrances | $0.80 |
 | Nov 03 | BMO | IT | Gartner | $2.86 |
 | Nov 03 | BMO | KMB | Kimberly-Clark | $1.67 |
-| Nov 03 | BMO | LDOS | Leidos | $3.06 |
+| Nov 03 | BMO | LDOS | Leidos | $3.05 |
 | Nov 03 | BMO | LH | Labcorp | $4.65 |
 | Nov 03 | BMO | MAR | Marriott International | $2.82 |
 | Nov 03 | AMC | MOS | Mosaic Company (The) | $0.06 |
@@ -427,7 +427,7 @@
 | Nov 04 | AMC | PAYC | Paycom | $2.77 |
 | Nov 04 | BMO | PPL | PPL Corporation | $0.52 |
 | Nov 04 | BMO | SRE | Sempra | $1.09 |
-| Nov 04 | AMC | STE | Steris | $2.69 |
+| Nov 04 | AMC | STE | Steris | $2.68 |
 | Nov 04 | AMC | TPL | Texas Pacific Land Corporation | — |
 | Nov 04 | BMO | TRMB | Trimble Inc. | $0.80 |
 | Nov 05 | AMC | ABNB | Airbnb | $2.88 |
@@ -468,7 +468,7 @@
 | Nov 05 | AMC | TTD | Trade Desk (The) | $0.25 |
 | Nov 05 | BMO | VST | Vistra Corp. | $2.79 |
 | Nov 05 | BMO | VTRS | Viatris | $0.65 |
-| Nov 05 | BMO | WBD | Warner Bros. Discovery | $0.03 |
+| Nov 05 | BMO | WBD | Warner Bros. Discovery | $0.02 |
 | Nov 05 | AMC | WDC | Western Digital | $4.04 |
 | Nov 05 | AMC | WYNN | Wynn Resorts | $0.87 |
 | Nov 05 | BMO | ZBH | Zimmer Biomet | $1.88 |
