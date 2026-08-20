@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T08:24:50.431578Z",
+  "updated_at": "2026-08-20T08:26:49.234282Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 500,
   "earnings": [
@@ -300,24 +300,6 @@
       "revenue_estimate": 1660233710
     },
     {
-      "ticker": "HD",
-      "company": "Home Depot (The)",
-      "sector": "Consumer Discretionary",
-      "date": "2026-08-18",
-      "time": "BMO",
-      "eps_estimate": 3.96,
-      "revenue_estimate": 42751465220
-    },
-    {
-      "ticker": "JKHY",
-      "company": "Jack Henry & Associates",
-      "sector": "Financials",
-      "date": "2026-08-18",
-      "time": "AMC",
-      "eps_estimate": 1.98,
-      "revenue_estimate": 680541120
-    },
-    {
       "ticker": "KEYS",
       "company": "Keysight Technologies",
       "sector": "Information Technology",
@@ -341,8 +323,8 @@
       "sector": "Consumer Staples",
       "date": "2026-08-19",
       "time": "BMO",
-      "eps_estimate": 0.32,
-      "revenue_estimate": 3545252360
+      "eps_estimate": 0.47,
+      "revenue_estimate": 3593661580
     },
     {
       "ticker": "LOW",
@@ -350,8 +332,8 @@
       "sector": "Consumer Discretionary",
       "date": "2026-08-19",
       "time": "BMO",
-      "eps_estimate": 4.22,
-      "revenue_estimate": 26109203170
+      "eps_estimate": 3.13,
+      "revenue_estimate": 22683626050
     },
     {
       "ticker": "NDSN",
@@ -378,7 +360,7 @@
       "date": "2026-08-19",
       "time": "BMO",
       "eps_estimate": 1.19,
-      "revenue_estimate": 15170705730
+      "revenue_estimate": 15157622950
     },
     {
       "ticker": "DE",
@@ -2819,7 +2801,7 @@
       "company": "Amazon",
       "sector": "Consumer Discretionary",
       "date": "2026-10-29",
-      "time": "TBD",
+      "time": "AMC",
       "eps_estimate": 1.94,
       "revenue_estimate": 201870206220
     },
@@ -3639,6 +3621,15 @@
       "revenue_estimate": 1490064470
     },
     {
+      "ticker": "JKHY",
+      "company": "Jack Henry & Associates",
+      "sector": "Financials",
+      "date": "2026-11-03",
+      "time": "AMC",
+      "eps_estimate": 1.98,
+      "revenue_estimate": 680541120
+    },
+    {
       "ticker": "KMB",
       "company": "Kimberly-Clark",
       "sector": "Consumer Staples",
@@ -4076,7 +4067,7 @@
       "date": "2026-11-05",
       "time": "BMO",
       "eps_estimate": 1.18,
-      "revenue_estimate": 5909406640
+      "revenue_estimate": 5922882770
     },
     {
       "ticker": "BDX",
@@ -4490,27 +4481,18 @@
       "time": "BMO",
       "eps_estimate": 1.66,
       "revenue_estimate": 25064665700
-    }
-  ],
-  "this_week": [
+    },
     {
       "ticker": "HD",
       "company": "Home Depot (The)",
       "sector": "Consumer Discretionary",
-      "date": "2026-08-18",
+      "date": "2026-11-17",
       "time": "BMO",
       "eps_estimate": 3.96,
       "revenue_estimate": 42751465220
-    },
-    {
-      "ticker": "JKHY",
-      "company": "Jack Henry & Associates",
-      "sector": "Financials",
-      "date": "2026-08-18",
-      "time": "AMC",
-      "eps_estimate": 1.98,
-      "revenue_estimate": 680541120
-    },
+    }
+  ],
+  "this_week": [
     {
       "ticker": "KEYS",
       "company": "Keysight Technologies",
@@ -4535,8 +4517,8 @@
       "sector": "Consumer Staples",
       "date": "2026-08-19",
       "time": "BMO",
-      "eps_estimate": 0.32,
-      "revenue_estimate": 3545252360
+      "eps_estimate": 0.47,
+      "revenue_estimate": 3593661580
     },
     {
       "ticker": "LOW",
@@ -4544,8 +4526,8 @@
       "sector": "Consumer Discretionary",
       "date": "2026-08-19",
       "time": "BMO",
-      "eps_estimate": 4.22,
-      "revenue_estimate": 26109203170
+      "eps_estimate": 3.13,
+      "revenue_estimate": 22683626050
     },
     {
       "ticker": "NDSN",
@@ -4572,7 +4554,7 @@
       "date": "2026-08-19",
       "time": "BMO",
       "eps_estimate": 1.19,
-      "revenue_estimate": 15170705730
+      "revenue_estimate": 15157622950
     },
     {
       "ticker": "DE",

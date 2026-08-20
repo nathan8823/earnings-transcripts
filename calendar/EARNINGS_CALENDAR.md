@@ -1,15 +1,13 @@
 # S&P 500 Earnings Calendar
-> Last updated: Aug 19, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Aug 20, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Aug 17–Aug 23)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
-| Aug 18 | BMO | HD | Home Depot (The) | $3.96 |
-| Aug 18 | AMC | JKHY | Jack Henry & Associates | $1.98 |
 | Aug 18 | AMC | KEYS | Keysight Technologies | $2.48 |
 | Aug 19 | BMO | ADI | Analog Devices | $3.34 |
-| Aug 19 | BMO | EL | Estée Lauder Companies (The) | $0.32 |
-| Aug 19 | BMO | LOW | Lowe's | $4.22 |
+| Aug 19 | BMO | EL | Estée Lauder Companies (The) | $0.47 |
+| Aug 19 | BMO | LOW | Lowe's | $3.13 |
 | Aug 19 | AMC | NDSN | Nordson Corporation | $3.09 |
 | Aug 19 | BMO | TGT | Target Corporation | $2.34 |
 | Aug 19 | BMO | TJX | TJX Companies | $1.19 |
@@ -292,7 +290,7 @@
 | Oct 29 | AMC | AJG | Arthur J. Gallagher & Co. | $3.06 |
 | Oct 29 | BMO | AME | Ametek | $2.09 |
 | Oct 29 | BMO | AMP | Ameriprise Financial | $11.78 |
-| Oct 29 | TBD | AMZN | Amazon | $1.94 |
+| Oct 29 | AMC | AMZN | Amazon | $1.94 |
 | Oct 29 | BMO | APTV | Aptiv | $1.33 |
 | Oct 29 | BMO | BAX | Baxter International | $0.52 |
 | Oct 29 | BMO | BIIB | Biogen | $2.04 |
@@ -384,6 +382,7 @@
 | Nov 03 | BMO | HSIC | Henry Schein | $1.35 |
 | Nov 03 | AMC | IFF | International Flavors & Fragrances | $0.80 |
 | Nov 03 | BMO | IT | Gartner | $2.86 |
+| Nov 03 | AMC | JKHY | Jack Henry & Associates | $1.98 |
 | Nov 03 | BMO | KMB | Kimberly-Clark | $1.67 |
 | Nov 03 | BMO | LDOS | Leidos | $3.05 |
 | Nov 03 | BMO | LH | Labcorp | $4.65 |
@@ -479,4 +478,5 @@
 | Nov 12 | AMC | AMAT | Applied Materials | $4.06 |
 | Nov 12 | AMC | CSCO | Cisco | $1.32 |
 | Nov 12 | BMO | DIS | Walt Disney Company (The) | $1.66 |
+| Nov 17 | BMO | HD | Home Depot (The) | $3.96 |
 
