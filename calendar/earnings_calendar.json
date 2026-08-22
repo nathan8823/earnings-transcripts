@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T08:26:11.118466Z",
+  "updated_at": "2026-08-22T08:20:14.684118Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 500,
   "earnings": [
@@ -127,15 +127,6 @@
       "time": "AMC",
       "eps_estimate": -0.39,
       "revenue_estimate": 2655919350
-    },
-    {
-      "ticker": "EXC",
-      "company": "Exelon",
-      "sector": "Utilities",
-      "date": "2026-07-30",
-      "time": "BMO",
-      "eps_estimate": 0.82,
-      "revenue_estimate": 6813311190
     },
     {
       "ticker": "LNT",
@@ -334,24 +325,6 @@
       "time": "BMO",
       "eps_estimate": 4.37,
       "revenue_estimate": 10755700000
-    },
-    {
-      "ticker": "ROST",
-      "company": "Ross Stores",
-      "sector": "Consumer Discretionary",
-      "date": "2026-08-20",
-      "time": "AMC",
-      "eps_estimate": 1.94,
-      "revenue_estimate": 6164702600
-    },
-    {
-      "ticker": "WMT",
-      "company": "Walmart",
-      "sector": "Consumer Staples",
-      "date": "2026-08-20",
-      "time": "BMO",
-      "eps_estimate": 0.68,
-      "revenue_estimate": 188339579880
     },
     {
       "ticker": "INTU",
@@ -3549,6 +3522,15 @@
       "revenue_estimate": 8449282499
     },
     {
+      "ticker": "EXC",
+      "company": "Exelon",
+      "sector": "Utilities",
+      "date": "2026-11-03",
+      "time": "BMO",
+      "eps_estimate": 0.82,
+      "revenue_estimate": 6813311190
+    },
+    {
       "ticker": "EXPD",
       "company": "Expeditors International",
       "sector": "Industrials",
@@ -4490,6 +4472,24 @@
       "time": "BMO",
       "eps_estimate": 1.34,
       "revenue_estimate": 15881349840
+    },
+    {
+      "ticker": "ROST",
+      "company": "Ross Stores",
+      "sector": "Consumer Discretionary",
+      "date": "2026-11-19",
+      "time": "AMC",
+      "eps_estimate": 1.94,
+      "revenue_estimate": 6164702600
+    },
+    {
+      "ticker": "WMT",
+      "company": "Walmart",
+      "sector": "Consumer Staples",
+      "date": "2026-11-19",
+      "time": "BMO",
+      "eps_estimate": 0.68,
+      "revenue_estimate": 188339579880
     }
   ],
   "this_week": [
@@ -4528,24 +4528,6 @@
       "time": "BMO",
       "eps_estimate": 4.37,
       "revenue_estimate": 10755700000
-    },
-    {
-      "ticker": "ROST",
-      "company": "Ross Stores",
-      "sector": "Consumer Discretionary",
-      "date": "2026-08-20",
-      "time": "AMC",
-      "eps_estimate": 1.94,
-      "revenue_estimate": 6164702600
-    },
-    {
-      "ticker": "WMT",
-      "company": "Walmart",
-      "sector": "Consumer Staples",
-      "date": "2026-08-20",
-      "time": "BMO",
-      "eps_estimate": 0.68,
-      "revenue_estimate": 188339579880
     }
   ],
   "next_week": [

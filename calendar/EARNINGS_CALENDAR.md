@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: Aug 21, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Aug 22, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Aug 17–Aug 23)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -8,8 +8,6 @@
 | Aug 19 | BMO | ADI | Analog Devices | $3.82 |
 | Aug 19 | AMC | NDSN | Nordson Corporation | $3.31 |
 | Aug 20 | BMO | DE | Deere & Company | $4.37 |
-| Aug 20 | AMC | ROST | Ross Stores | $1.94 |
-| Aug 20 | BMO | WMT | Walmart | $0.68 |
 
 ## Next Week (Aug 24–Aug 30)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -374,6 +372,7 @@
 | Nov 03 | AMC | CLX | Clorox | $1.11 |
 | Nov 03 | AMC | EA | Electronic Arts | $2.00 |
 | Nov 03 | BMO | ETN | Eaton Corporation | $3.52 |
+| Nov 03 | BMO | EXC | Exelon | $0.82 |
 | Nov 03 | BMO | EXPD | Expeditors International | $2.10 |
 | Nov 03 | BMO | GPN | Global Payments | $3.59 |
 | Nov 03 | BMO | HSIC | Henry Schein | $1.35 |
@@ -479,4 +478,6 @@
 | Nov 18 | BMO | LOW | Lowe's | $2.91 |
 | Nov 18 | BMO | TGT | Target Corporation | $2.04 |
 | Nov 18 | BMO | TJX | TJX Companies | $1.34 |
+| Nov 19 | AMC | ROST | Ross Stores | $1.94 |
+| Nov 19 | BMO | WMT | Walmart | $0.68 |
 
