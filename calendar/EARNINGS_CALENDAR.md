@@ -1,13 +1,13 @@
 # S&P 500 Earnings Calendar
-> Last updated: Aug 22, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Aug 23, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Aug 17–Aug 23)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Aug 18 | AMC | KEYS | Keysight Technologies | $3.38 |
-| Aug 19 | BMO | ADI | Analog Devices | $3.82 |
-| Aug 19 | AMC | NDSN | Nordson Corporation | $3.31 |
-| Aug 20 | BMO | DE | Deere & Company | $4.37 |
+| Aug 19 | BMO | ADI | Analog Devices | $3.84 |
+| Aug 19 | AMC | NDSN | Nordson Corporation | $3.43 |
+| Aug 20 | BMO | DE | Deere & Company | $4.11 |
 
 ## Next Week (Aug 24–Aug 30)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -38,10 +38,10 @@
 | Sep 02 | AMC | AVGO | Broadcom | $3.24 |
 | Sep 02 | BMO | BF-B | Brown–Forman | $0.37 |
 | Sep 02 | AMC | HPE | Hewlett Packard Enterprise | $0.93 |
-| Sep 02 | AMC | NTAP | NetApp | $2.11 |
+| Sep 02 | AMC | NTAP | NetApp | $2.12 |
 | Sep 03 | BMO | CIEN | Ciena | $1.72 |
 | Sep 03 | BMO | CPB | Campbell's Company (The) | $0.39 |
-| Sep 03 | AMC | CPRT | Copart | $0.39 |
+| Sep 03 | AMC | CPRT | Copart | $0.38 |
 | Sep 03 | AMC | LULU | Lululemon Athletica | $1.80 |
 | Sep 09 | AMC | COO | Cooper Companies (The) | $1.12 |
 | Sep 10 | AMC | ADBE | Adobe Inc. | $6.08 |
@@ -52,7 +52,7 @@
 | Sep 22 | BMO | AZO | AutoZone | $54.50 |
 | Sep 23 | BMO | CTAS | Cintas | $1.34 |
 | Sep 23 | BMO | GIS | General Mills | $0.71 |
-| Sep 23 | AMC | MU | Micron Technology | $31.30 |
+| Sep 23 | AMC | MU | Micron Technology | $31.28 |
 | Sep 24 | AMC | COST | Costco | $6.56 |
 | Sep 24 | BMO | DRI | Darden Restaurants | $2.05 |
 | Sep 24 | BMO | JBL | Jabil | $4.07 |
@@ -78,7 +78,7 @@
 | Oct 14 | BMO | FAST | Fastenal | $0.33 |
 | Oct 14 | AMC | JBHT | J.B. Hunt | $2.14 |
 | Oct 14 | BMO | MS | Morgan Stanley | $3.11 |
-| Oct 14 | BMO | PGR | Progressive Corporation | $3.90 |
+| Oct 14 | BMO | PGR | Progressive Corporation | $3.93 |
 | Oct 14 | BMO | PLD | Prologis | $0.79 |
 | Oct 14 | BMO | STT | State Street Corporation | $3.64 |
 | Oct 14 | BMO | SYF | Synchrony Financial | $2.35 |
@@ -148,7 +148,7 @@
 | Oct 22 | AMC | BKR | Baker Hughes | $0.63 |
 | Oct 22 | BMO | BX | Blackstone Inc. | $1.36 |
 | Oct 22 | BMO | CBRE | CBRE Group | $1.95 |
-| Oct 22 | BMO | CNP | CenterPoint Energy | $0.50 |
+| Oct 22 | BMO | CNP | CenterPoint Energy | $0.49 |
 | Oct 22 | AMC | CSX | CSX Corporation | $0.54 |
 | Oct 22 | AMC | DECK | Deckers Brands | $1.79 |
 | Oct 22 | AMC | DLR | Digital Realty | $0.57 |
@@ -157,12 +157,12 @@
 | Oct 22 | BMO | DOW | Dow Inc. | $0.77 |
 | Oct 22 | AMC | F | Ford Motor Company | $0.42 |
 | Oct 22 | BMO | FCX | Freeport-McMoRan | $0.73 |
-| Oct 22 | AMC | FIX | Comfort Systems USA | $12.79 |
+| Oct 22 | AMC | FIX | Comfort Systems USA | $12.81 |
 | Oct 22 | BMO | HAS | Hasbro | $1.87 |
 | Oct 22 | BMO | HBAN | Huntington Bancshares | $0.39 |
 | Oct 22 | BMO | HON | Honeywell | $2.15 |
 | Oct 22 | AMC | INTC | Intel | $0.39 |
-| Oct 22 | BMO | NDAQ | Nasdaq, Inc. | $1.03 |
+| Oct 22 | TBD | NDAQ | Nasdaq, Inc. | $1.03 |
 | Oct 22 | AMC | NEM | Newmont | $2.11 |
 | Oct 22 | BMO | NSC | Norfolk Southern | $3.59 |
 | Oct 22 | BMO | PCG | PG&E Corporation | $0.42 |
@@ -202,13 +202,13 @@
 | Oct 27 | AMC | CB | Chubb Limited | $6.34 |
 | Oct 27 | BMO | CNC | Centene Corporation | $0.10 |
 | Oct 27 | AMC | CSGP | CoStar Group | $0.34 |
-| Oct 27 | BMO | ECL | Ecolab | $2.17 |
+| Oct 27 | BMO | ECL | Ecolab | $2.18 |
 | Oct 27 | AMC | EIX | Edison International | $1.93 |
 | Oct 27 | AMC | ESS | Essex Property Trust | $1.44 |
 | Oct 27 | AMC | EXE | Expand Energy | $1.37 |
 | Oct 27 | BMO | GLW | Corning Inc. | $0.87 |
 | Oct 27 | BMO | HUBB | Hubbell Incorporated | $5.73 |
-| Oct 27 | BMO | INCY | Incyte | $-3.44 |
+| Oct 27 | BMO | INCY | Incyte | $-3.47 |
 | Oct 27 | BMO | IVZ | Invesco | $0.74 |
 | Oct 27 | AMC | MDLZ | Mondelez International | $0.72 |
 | Oct 27 | BMO | NEE | NextEra Energy | $1.21 |
@@ -237,7 +237,7 @@
 | Oct 28 | AMC | DVA | DaVita | $3.58 |
 | Oct 28 | AMC | EG | Everest Group | $8.20 |
 | Oct 28 | AMC | EQIX | Equinix | $4.04 |
-| Oct 28 | AMC | EXR | Extra Space Storage | $1.18 |
+| Oct 28 | AMC | EXR | Extra Space Storage | $1.19 |
 | Oct 28 | TBD | FDX | FedEx | $4.38 |
 | Oct 28 | BMO | FISV | Fiserv | $1.72 |
 | Oct 28 | BMO | FTV | Fortive | $0.71 |
@@ -259,14 +259,14 @@
 | Oct 28 | AMC | MAA | Mid-America Apartment Communities | — |
 | Oct 28 | AMC | META | Meta Platforms | $6.97 |
 | Oct 28 | AMC | MGM | MGM Resorts | $0.23 |
-| Oct 28 | AMC | MSFT | Microsoft | $4.71 |
+| Oct 28 | AMC | MSFT | Microsoft | $4.72 |
 | Oct 28 | BMO | NI | NiSource | $0.22 |
 | Oct 28 | AMC | NOW | ServiceNow | $1.03 |
 | Oct 28 | BMO | ODFL | Old Dominion | $1.59 |
 | Oct 28 | AMC | ORLY | O’Reilly Automotive | $0.93 |
 | Oct 28 | BMO | OTIS | Otis Worldwide | $1.01 |
 | Oct 28 | AMC | PRU | Prudential Financial | $3.45 |
-| Oct 28 | AMC | PSA | Public Storage | $2.69 |
+| Oct 28 | AMC | PSA | Public Storage | $2.45 |
 | Oct 28 | AMC | REG | Regency Centers | $0.61 |
 | Oct 28 | BMO | REGN | Regeneron Pharmaceuticals | $16.00 |
 | Oct 28 | AMC | RJF | Raymond James Financial | $3.34 |
@@ -283,8 +283,8 @@
 | Oct 29 | BMO | AEP | American Electric Power | $1.91 |
 | Oct 29 | AMC | AJG | Arthur J. Gallagher & Co. | $3.06 |
 | Oct 29 | BMO | AME | Ametek | $2.09 |
-| Oct 29 | BMO | AMP | Ameriprise Financial | $11.78 |
-| Oct 29 | AMC | AMZN | Amazon | $1.94 |
+| Oct 29 | BMO | AMP | Ameriprise Financial | $11.79 |
+| Oct 29 | AMC | AMZN | Amazon | $1.95 |
 | Oct 29 | BMO | APTV | Aptiv | $1.33 |
 | Oct 29 | BMO | BAX | Baxter International | $0.52 |
 | Oct 29 | BMO | BIIB | Biogen | $2.04 |
@@ -303,8 +303,8 @@
 | Oct 29 | BMO | ETR | Entergy | $1.62 |
 | Oct 29 | AMC | EW | Edwards Lifesciences | $0.74 |
 | Oct 29 | BMO | FOX | Fox Corporation(Class B) | — |
-| Oct 29 | BMO | FOXA | Fox Corporation(Class A) | $2.02 |
-| Oct 29 | AMC | FSLR | First Solar | $4.73 |
+| Oct 29 | BMO | FOXA | Fox Corporation(Class A) | $2.03 |
+| Oct 29 | AMC | FSLR | First Solar | $4.71 |
 | Oct 29 | AMC | GDDY | GoDaddy | $2.47 |
 | Oct 29 | AMC | GILD | Gilead Sciences | $2.15 |
 | Oct 29 | AMC | HIG | Hartford (The) | $3.06 |
@@ -353,11 +353,11 @@
 | Nov 02 | BMO | L | Loews Corporation | — |
 | Nov 02 | AMC | O | Realty Income | $0.44 |
 | Nov 02 | BMO | ON | ON Semiconductor | $0.87 |
-| Nov 02 | BMO | PEG | Public Service Enterprise Group | $1.18 |
+| Nov 02 | BMO | PEG | Public Service Enterprise Group | $1.19 |
 | Nov 02 | AMC | PLTR | Palantir Technologies | $0.41 |
 | Nov 02 | AMC | SBAC | SBA Communications | $2.09 |
 | Nov 02 | AMC | SPG | Simon Property Group | $1.57 |
-| Nov 02 | AMC | VRTX | Vertex Pharmaceuticals | $4.91 |
+| Nov 02 | AMC | VRTX | Vertex Pharmaceuticals | $4.92 |
 | Nov 02 | AMC | WMB | Williams Companies | $0.52 |
 | Nov 03 | BMO | ADM | Archer Daniels Midland | $1.52 |
 | Nov 03 | AMC | AIZ | Assurant | $4.47 |
@@ -378,7 +378,7 @@
 | Nov 03 | BMO | HSIC | Henry Schein | $1.35 |
 | Nov 03 | AMC | IFF | International Flavors & Fragrances | $0.80 |
 | Nov 03 | BMO | IT | Gartner | $2.85 |
-| Nov 03 | AMC | JKHY | Jack Henry & Associates | $2.04 |
+| Nov 03 | AMC | JKHY | Jack Henry & Associates | $2.02 |
 | Nov 03 | BMO | KMB | Kimberly-Clark | $1.67 |
 | Nov 03 | BMO | LDOS | Leidos | $3.05 |
 | Nov 03 | BMO | LH | Labcorp | $4.65 |
@@ -399,8 +399,8 @@
 | Nov 04 | AMC | AFL | Aflac | $1.79 |
 | Nov 04 | AMC | AIG | American International Group | $1.81 |
 | Nov 04 | AMC | ALB | Albemarle Corporation | $2.49 |
-| Nov 04 | AMC | ALL | Allstate | $6.44 |
-| Nov 04 | AMC | APA | APA Corporation | $1.22 |
+| Nov 04 | AMC | ALL | Allstate | $6.42 |
+| Nov 04 | AMC | APA | APA Corporation | $1.21 |
 | Nov 04 | AMC | APP | AppLovin | $4.35 |
 | Nov 04 | AMC | ATO | Atmos Energy | $1.17 |
 | Nov 04 | AMC | CF | CF Industries | $3.04 |
@@ -410,7 +410,7 @@
 | Nov 04 | AMC | DASH | DoorDash | $1.53 |
 | Nov 04 | AMC | DVN | Devon Energy | $1.30 |
 | Nov 04 | AMC | EBAY | eBay Inc. | $1.41 |
-| Nov 04 | AMC | EMR | Emerson Electric | $1.84 |
+| Nov 04 | AMC | EMR | Emerson Electric | $1.85 |
 | Nov 04 | AMC | ES | Eversource Energy | $1.03 |
 | Nov 04 | BMO | FIS | Fidelity National Information Services | $1.60 |
 | Nov 04 | AMC | FTNT | Fortinet | $0.86 |
@@ -452,7 +452,7 @@
 | Nov 05 | BMO | NRG | NRG Energy | $2.87 |
 | Nov 05 | AMC | NWS | News Corp(Class B) | $0.26 |
 | Nov 05 | AMC | NWSA | News Corp(Class A) | $0.26 |
-| Nov 05 | BMO | PH | Parker Hannifin | $8.12 |
+| Nov 05 | BMO | PH | Parker Hannifin | $8.15 |
 | Nov 05 | BMO | PODD | Insulet Corporation | $1.59 |
 | Nov 05 | BMO | RL | Ralph Lauren Corporation | $4.22 |
 | Nov 05 | BMO | ROK | Rockwell Automation | $3.68 |
@@ -469,15 +469,15 @@
 | Nov 05 | BMO | ZBH | Zimmer Biomet | $1.88 |
 | Nov 06 | AMC | SNDK | Sandisk | $46.21 |
 | Nov 07 | AMC | BRK-B | Berkshire Hathaway | $5.13 |
-| Nov 09 | BMO | CEG | Constellation Energy | $3.81 |
+| Nov 09 | BMO | CEG | Constellation Energy | $3.79 |
 | Nov 09 | BMO | TECH | Bio-Techne | $0.52 |
 | Nov 12 | AMC | AMAT | Applied Materials | $4.06 |
-| Nov 12 | AMC | CSCO | Cisco | $1.32 |
-| Nov 12 | BMO | DIS | Walt Disney Company (The) | $1.66 |
-| Nov 17 | BMO | HD | Home Depot (The) | $3.86 |
-| Nov 18 | BMO | LOW | Lowe's | $2.91 |
-| Nov 18 | BMO | TGT | Target Corporation | $2.04 |
+| Nov 12 | AMC | CSCO | Cisco | $1.33 |
+| Nov 12 | BMO | DIS | Walt Disney Company (The) | $1.67 |
+| Nov 17 | BMO | HD | Home Depot (The) | $3.84 |
+| Nov 18 | BMO | LOW | Lowe's | $2.89 |
+| Nov 18 | BMO | TGT | Target Corporation | $2.05 |
 | Nov 18 | BMO | TJX | TJX Companies | $1.34 |
-| Nov 19 | AMC | ROST | Ross Stores | $1.94 |
-| Nov 19 | BMO | WMT | Walmart | $0.68 |
+| Nov 19 | AMC | ROST | Ross Stores | $1.83 |
+| Nov 19 | BMO | WMT | Walmart | $0.64 |
 
