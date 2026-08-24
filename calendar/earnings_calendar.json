@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T08:18:34.857928Z",
+  "updated_at": "2026-08-24T08:28:15.534011Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 500,
   "earnings": [
@@ -1644,7 +1644,7 @@
       "company": "Nasdaq, Inc.",
       "sector": "Financials",
       "date": "2026-10-22",
-      "time": "TBD",
+      "time": "BMO",
       "eps_estimate": 1.03,
       "revenue_estimate": 1468283300
     },
@@ -4494,44 +4494,6 @@
   ],
   "this_week": [
     {
-      "ticker": "KEYS",
-      "company": "Keysight Technologies",
-      "sector": "Information Technology",
-      "date": "2026-08-18",
-      "time": "AMC",
-      "eps_estimate": 3.38,
-      "revenue_estimate": 1949938240
-    },
-    {
-      "ticker": "ADI",
-      "company": "Analog Devices",
-      "sector": "Information Technology",
-      "date": "2026-08-19",
-      "time": "BMO",
-      "eps_estimate": 3.84,
-      "revenue_estimate": 4284138150
-    },
-    {
-      "ticker": "NDSN",
-      "company": "Nordson Corporation",
-      "sector": "Industrials",
-      "date": "2026-08-19",
-      "time": "AMC",
-      "eps_estimate": 3.43,
-      "revenue_estimate": 823928570
-    },
-    {
-      "ticker": "DE",
-      "company": "Deere & Company",
-      "sector": "Industrials",
-      "date": "2026-08-20",
-      "time": "BMO",
-      "eps_estimate": 4.11,
-      "revenue_estimate": 10456273330
-    }
-  ],
-  "next_week": [
-    {
       "ticker": "INTU",
       "company": "Intuit",
       "sector": "Information Technology",
@@ -4674,6 +4636,107 @@
       "time": "AMC",
       "eps_estimate": 2.61,
       "revenue_estimate": 2635328230
+    }
+  ],
+  "next_week": [
+    {
+      "ticker": "DELL",
+      "company": "Dell Technologies",
+      "sector": "Information Technology",
+      "date": "2026-09-01",
+      "time": "AMC",
+      "eps_estimate": 4.9,
+      "revenue_estimate": 44441865590
+    },
+    {
+      "ticker": "MDT",
+      "company": "Medtronic",
+      "sector": "Health Care",
+      "date": "2026-09-01",
+      "time": "BMO",
+      "eps_estimate": 1.39,
+      "revenue_estimate": 9544792810
+    },
+    {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "sector": "Information Technology",
+      "date": "2026-09-01",
+      "time": "AMC",
+      "eps_estimate": 0.98,
+      "revenue_estimate": 3351899260
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "sector": "Information Technology",
+      "date": "2026-09-02",
+      "time": "AMC",
+      "eps_estimate": 3.24,
+      "revenue_estimate": 29434507200
+    },
+    {
+      "ticker": "BF-B",
+      "company": "Brown–Forman",
+      "sector": "Consumer Staples",
+      "date": "2026-09-02",
+      "time": "BMO",
+      "eps_estimate": 0.37,
+      "revenue_estimate": 915570410
+    },
+    {
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise",
+      "sector": "Information Technology",
+      "date": "2026-09-02",
+      "time": "AMC",
+      "eps_estimate": 0.93,
+      "revenue_estimate": 11914091930
+    },
+    {
+      "ticker": "NTAP",
+      "company": "NetApp",
+      "sector": "Information Technology",
+      "date": "2026-09-02",
+      "time": "AMC",
+      "eps_estimate": 2.12,
+      "revenue_estimate": 1836569550
+    },
+    {
+      "ticker": "CIEN",
+      "company": "Ciena",
+      "sector": "Information Technology",
+      "date": "2026-09-03",
+      "time": "BMO",
+      "eps_estimate": 1.72,
+      "revenue_estimate": 1633225750
+    },
+    {
+      "ticker": "CPB",
+      "company": "Campbell's Company (The)",
+      "sector": "Consumer Staples",
+      "date": "2026-09-03",
+      "time": "BMO",
+      "eps_estimate": 0.39,
+      "revenue_estimate": 2143869670
+    },
+    {
+      "ticker": "CPRT",
+      "company": "Copart",
+      "sector": "Industrials",
+      "date": "2026-09-03",
+      "time": "AMC",
+      "eps_estimate": 0.38,
+      "revenue_estimate": 1141061000
+    },
+    {
+      "ticker": "LULU",
+      "company": "Lululemon Athletica",
+      "sector": "Consumer Discretionary",
+      "date": "2026-09-03",
+      "time": "AMC",
+      "eps_estimate": 1.8,
+      "revenue_estimate": 2460464710
     }
   ]
 }

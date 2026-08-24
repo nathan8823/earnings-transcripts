@@ -1,15 +1,7 @@
 # S&P 500 Earnings Calendar
-> Last updated: Aug 23, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Aug 24, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
-## This Week (Aug 17–Aug 23)
-| Date | Time | Ticker | Company | Est. EPS |
-|------|------|--------|---------|----------|
-| Aug 18 | AMC | KEYS | Keysight Technologies | $3.38 |
-| Aug 19 | BMO | ADI | Analog Devices | $3.84 |
-| Aug 19 | AMC | NDSN | Nordson Corporation | $3.43 |
-| Aug 20 | BMO | DE | Deere & Company | $4.11 |
-
-## Next Week (Aug 24–Aug 30)
+## This Week (Aug 24–Aug 30)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Aug 25 | AMC | INTU | Intuit | $3.59 |
@@ -29,7 +21,7 @@
 | Aug 27 | AMC | ULTA | Ulta Beauty | $6.19 |
 | Aug 27 | AMC | WDAY | Workday, Inc. | $2.61 |
 
-## Later (Aug 31+)
+## Next Week (Aug 31–Sep 06)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Sep 01 | AMC | DELL | Dell Technologies | $4.90 |
@@ -43,6 +35,10 @@
 | Sep 03 | BMO | CPB | Campbell's Company (The) | $0.39 |
 | Sep 03 | AMC | CPRT | Copart | $0.38 |
 | Sep 03 | AMC | LULU | Lululemon Athletica | $1.80 |
+
+## Later (Sep 07+)
+| Date | Time | Ticker | Company | Est. EPS |
+|------|------|--------|---------|----------|
 | Sep 09 | AMC | COO | Cooper Companies (The) | $1.12 |
 | Sep 10 | AMC | ADBE | Adobe Inc. | $6.08 |
 | Sep 10 | AMC | ORCL | Oracle Corporation | $1.74 |
@@ -162,7 +158,7 @@
 | Oct 22 | BMO | HBAN | Huntington Bancshares | $0.39 |
 | Oct 22 | BMO | HON | Honeywell | $2.15 |
 | Oct 22 | AMC | INTC | Intel | $0.39 |
-| Oct 22 | TBD | NDAQ | Nasdaq, Inc. | $1.03 |
+| Oct 22 | BMO | NDAQ | Nasdaq, Inc. | $1.03 |
 | Oct 22 | AMC | NEM | Newmont | $2.11 |
 | Oct 22 | BMO | NSC | Norfolk Southern | $3.59 |
 | Oct 22 | BMO | PCG | PG&E Corporation | $0.42 |
