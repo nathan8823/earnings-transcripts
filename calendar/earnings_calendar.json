@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T08:30:44.300857Z",
+  "updated_at": "2026-08-26T08:31:09.492951Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 500,
   "earnings": [
@@ -124,7 +124,7 @@
       "company": "Corteva",
       "sector": "Materials",
       "date": "2026-07-30",
-      "time": "TBD",
+      "time": "AMC",
       "eps_estimate": -0.39,
       "revenue_estimate": 2655919350
     },
@@ -307,15 +307,6 @@
       "time": "AMC",
       "eps_estimate": 3.43,
       "revenue_estimate": 823928570
-    },
-    {
-      "ticker": "DE",
-      "company": "Deere & Company",
-      "sector": "Industrials",
-      "date": "2026-08-20",
-      "time": "BMO",
-      "eps_estimate": 4.09,
-      "revenue_estimate": 10436523330
     },
     {
       "ticker": "INTU",
@@ -1168,7 +1159,7 @@
       "company": "MSCI Inc.",
       "sector": "Financials",
       "date": "2026-10-20",
-      "time": "TBD",
+      "time": "BMO",
       "eps_estimate": 5.02,
       "revenue_estimate": 884774160
     },
@@ -2165,7 +2156,7 @@
       "company": "United Parcel Service",
       "sector": "Industrials",
       "date": "2026-10-27",
-      "time": "BMO",
+      "time": "TBD",
       "eps_estimate": 1.63,
       "revenue_estimate": 22133407770
     },
@@ -2372,7 +2363,7 @@
       "company": "Generac",
       "sector": "Industrials",
       "date": "2026-10-28",
-      "time": "BMO",
+      "time": "TBD",
       "eps_estimate": 2.45,
       "revenue_estimate": 1327725320
     },
@@ -2390,7 +2381,7 @@
       "company": "Alphabet Inc.(Class A)",
       "sector": "Communication Services",
       "date": "2026-10-28",
-      "time": "TBD",
+      "time": "AMC",
       "eps_estimate": 3.0,
       "revenue_estimate": 127081092080
     },
@@ -2801,7 +2792,7 @@
       "company": "CMS Energy",
       "sector": "Utilities",
       "date": "2026-10-29",
-      "time": "BMO",
+      "time": "TBD",
       "eps_estimate": 1.14,
       "revenue_estimate": 2166053370
     },
@@ -4490,6 +4481,15 @@
       "time": "BMO",
       "eps_estimate": 3.85,
       "revenue_estimate": 4289638150
+    },
+    {
+      "ticker": "DE",
+      "company": "Deere & Company",
+      "sector": "Industrials",
+      "date": "2026-11-25",
+      "time": "BMO",
+      "eps_estimate": 4.09,
+      "revenue_estimate": 10436523330
     }
   ],
   "this_week": [

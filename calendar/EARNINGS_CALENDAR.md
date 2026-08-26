@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: Aug 25, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Aug 26, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Aug 24–Aug 30)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -106,7 +106,7 @@
 | Oct 20 | BMO | KO | Coca-Cola Company (The) | $0.88 |
 | Oct 20 | BMO | LMT | Lockheed Martin | $7.44 |
 | Oct 20 | BMO | MMM | 3M | $2.39 |
-| Oct 20 | TBD | MSCI | MSCI Inc. | $5.02 |
+| Oct 20 | BMO | MSCI | MSCI Inc. | $5.02 |
 | Oct 20 | AMC | NFLX | Netflix | $0.82 |
 | Oct 20 | BMO | NOC | Northrop Grumman | $7.16 |
 | Oct 20 | AMC | OMC | Omnicom Group | $2.56 |
@@ -217,7 +217,7 @@
 | Oct 27 | AMC | STX | Seagate Technology | $7.35 |
 | Oct 27 | AMC | TXN | Texas Instruments | $2.42 |
 | Oct 27 | BMO | UNH | UnitedHealth Group | $4.12 |
-| Oct 27 | BMO | UPS | United Parcel Service | $1.63 |
+| Oct 27 | TBD | UPS | United Parcel Service | $1.63 |
 | Oct 27 | AMC | V | Visa Inc. | $3.43 |
 | Oct 28 | BMO | ADP | Automatic Data Processing | $2.77 |
 | Oct 28 | AMC | ALGN | Align Technology | $2.79 |
@@ -240,9 +240,9 @@
 | Oct 28 | BMO | GD | General Dynamics | $4.12 |
 | Oct 28 | BMO | GEHC | GE HealthCare | $1.20 |
 | Oct 28 | BMO | GEV | GE Vernova | $4.06 |
-| Oct 28 | BMO | GNRC | Generac | $2.45 |
+| Oct 28 | TBD | GNRC | Generac | $2.45 |
 | Oct 28 | AMC | GOOG | Alphabet Inc.(Class C) | $3.00 |
-| Oct 28 | TBD | GOOGL | Alphabet Inc.(Class A) | $3.00 |
+| Oct 28 | AMC | GOOGL | Alphabet Inc.(Class A) | $3.00 |
 | Oct 28 | BMO | GRMN | Garmin | $2.38 |
 | Oct 28 | BMO | HLT | Hilton Worldwide | $2.35 |
 | Oct 28 | BMO | IEX | IDEX Corporation | $2.23 |
@@ -288,7 +288,7 @@
 | Oct 29 | BMO | BMY | Bristol Myers Squibb | $1.73 |
 | Oct 29 | BMO | CAT | Caterpillar Inc. | $6.92 |
 | Oct 29 | BMO | CMCSA | Comcast | $1.00 |
-| Oct 29 | BMO | CMS | CMS Energy | $1.14 |
+| Oct 29 | TBD | CMS | CMS Energy | $1.14 |
 | Oct 29 | AMC | COIN | Coinbase | $-0.14 |
 | Oct 29 | BMO | CRH | CRH plc | $2.25 |
 | Oct 29 | BMO | DHI | D. R. Horton | $3.04 |
@@ -477,4 +477,5 @@
 | Nov 19 | AMC | ROST | Ross Stores | $1.83 |
 | Nov 19 | BMO | WMT | Walmart | $0.64 |
 | Nov 24 | BMO | ADI | Analog Devices | $3.85 |
+| Nov 25 | BMO | DE | Deere & Company | $4.09 |
 
