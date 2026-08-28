@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T11:45:53.327716Z",
+  "updated_at": "2026-08-28T12:10:19.760960Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 500,
   "earnings": [
@@ -40,24 +40,6 @@
       "revenue_estimate": 2553500220
     },
     {
-      "ticker": "ADSK",
-      "company": "Autodesk",
-      "sector": "Information Technology",
-      "date": "2026-08-27",
-      "time": "AMC",
-      "eps_estimate": 3.12,
-      "revenue_estimate": 2011958660
-    },
-    {
-      "ticker": "BBY",
-      "company": "Best Buy",
-      "sector": "Consumer Discretionary",
-      "date": "2026-08-27",
-      "time": "BMO",
-      "eps_estimate": 1.38,
-      "revenue_estimate": 9592805880
-    },
-    {
       "ticker": "DG",
       "company": "Dollar General",
       "sector": "Consumer Staples",
@@ -72,8 +54,8 @@
       "sector": "Consumer Staples",
       "date": "2026-08-27",
       "time": "BMO",
-      "eps_estimate": 1.14,
-      "revenue_estimate": 4860417910
+      "eps_estimate": 1.39,
+      "revenue_estimate": 5050182260
     },
     {
       "ticker": "HRL",
@@ -841,15 +823,6 @@
       "revenue_estimate": 6252020800
     },
     {
-      "ticker": "PHM",
-      "company": "PulteGroup",
-      "sector": "Consumer Discretionary",
-      "date": "2026-10-20",
-      "time": "BMO",
-      "eps_estimate": 2.67,
-      "revenue_estimate": 4181066650
-    },
-    {
       "ticker": "PNR",
       "company": "Pentair",
       "sector": "Industrials",
@@ -1315,6 +1288,15 @@
       "time": "BMO",
       "eps_estimate": 1.89,
       "revenue_estimate": 22749205480
+    },
+    {
+      "ticker": "PHM",
+      "company": "PulteGroup",
+      "sector": "Consumer Discretionary",
+      "date": "2026-10-22",
+      "time": "BMO",
+      "eps_estimate": 2.67,
+      "revenue_estimate": 4181066650
     },
     {
       "ticker": "POOL",
@@ -1860,7 +1842,7 @@
       "company": "American Water Works",
       "sector": "Utilities",
       "date": "2026-10-28",
-      "time": "AMC",
+      "time": "TBD",
       "eps_estimate": 2.08,
       "revenue_estimate": 1492501230
     },
@@ -2532,7 +2514,7 @@
       "company": "Fox Corporation(Class B)",
       "sector": "Communication Services",
       "date": "2026-10-29",
-      "time": "TBD"
+      "time": "BMO"
     },
     {
       "ticker": "FOXA",
@@ -4357,6 +4339,15 @@
       "revenue_estimate": 42758442840
     },
     {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "sector": "Information Technology",
+      "date": "2026-11-17",
+      "time": "AMC",
+      "eps_estimate": 2.34,
+      "revenue_estimate": 104434313520
+    },
+    {
       "ticker": "LOW",
       "company": "Lowe's",
       "sector": "Consumer Discretionary",
@@ -4364,15 +4355,6 @@
       "time": "BMO",
       "eps_estimate": 2.88,
       "revenue_estimate": 22395833240
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "sector": "Information Technology",
-      "date": "2026-11-18",
-      "time": "AMC",
-      "eps_estimate": 2.34,
-      "revenue_estimate": 104434313520
     },
     {
       "ticker": "TGT",
@@ -4447,6 +4429,15 @@
       "revenue_estimate": 4289638150
     },
     {
+      "ticker": "BBY",
+      "company": "Best Buy",
+      "sector": "Consumer Discretionary",
+      "date": "2026-11-24",
+      "time": "BMO",
+      "eps_estimate": 1.38,
+      "revenue_estimate": 9592805880
+    },
+    {
       "ticker": "HPQ",
       "company": "HP Inc.",
       "sector": "Information Technology",
@@ -4490,6 +4481,15 @@
       "time": "BMO",
       "eps_estimate": 4.09,
       "revenue_estimate": 10436523330
+    },
+    {
+      "ticker": "ADSK",
+      "company": "Autodesk",
+      "sector": "Information Technology",
+      "date": "2026-11-27",
+      "time": "AMC",
+      "eps_estimate": 3.12,
+      "revenue_estimate": 2011958660
     }
   ],
   "this_week": [
@@ -4521,24 +4521,6 @@
       "revenue_estimate": 2553500220
     },
     {
-      "ticker": "ADSK",
-      "company": "Autodesk",
-      "sector": "Information Technology",
-      "date": "2026-08-27",
-      "time": "AMC",
-      "eps_estimate": 3.12,
-      "revenue_estimate": 2011958660
-    },
-    {
-      "ticker": "BBY",
-      "company": "Best Buy",
-      "sector": "Consumer Discretionary",
-      "date": "2026-08-27",
-      "time": "BMO",
-      "eps_estimate": 1.38,
-      "revenue_estimate": 9592805880
-    },
-    {
       "ticker": "DG",
       "company": "Dollar General",
       "sector": "Consumer Staples",
@@ -4553,8 +4535,8 @@
       "sector": "Consumer Staples",
       "date": "2026-08-27",
       "time": "BMO",
-      "eps_estimate": 1.14,
-      "revenue_estimate": 4860417910
+      "eps_estimate": 1.39,
+      "revenue_estimate": 5050182260
     },
     {
       "ticker": "HRL",

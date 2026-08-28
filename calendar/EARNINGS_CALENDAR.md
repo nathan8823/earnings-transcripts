@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: Aug 27, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Aug 28, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Aug 24–Aug 30)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -7,10 +7,8 @@
 | Aug 26 | AMC | CRM | Salesforce | $3.39 |
 | Aug 26 | AMC | CRWD | CrowdStrike | $0.31 |
 | Aug 26 | AMC | SNPS | Synopsys | $4.04 |
-| Aug 27 | AMC | ADSK | Autodesk | $3.12 |
-| Aug 27 | BMO | BBY | Best Buy | $1.38 |
 | Aug 27 | BMO | DG | Dollar General | $2.01 |
-| Aug 27 | BMO | DLTR | Dollar Tree | $1.14 |
+| Aug 27 | BMO | DLTR | Dollar Tree | $1.39 |
 | Aug 27 | BMO | HRL | Hormel Foods | $0.35 |
 | Aug 27 | AMC | ULTA | Ulta Beauty | $6.19 |
 | Aug 27 | AMC | WDAY | Workday, Inc. | $2.61 |
@@ -104,7 +102,6 @@
 | Oct 20 | AMC | NFLX | Netflix | $0.82 |
 | Oct 20 | BMO | NOC | Northrop Grumman | $7.16 |
 | Oct 20 | AMC | OMC | Omnicom Group | $2.56 |
-| Oct 20 | BMO | PHM | PulteGroup | $2.67 |
 | Oct 20 | BMO | PNR | Pentair | $1.07 |
 | Oct 20 | BMO | RTX | RTX Corporation | $1.77 |
 | Oct 20 | BMO | VZ | Verizon | $1.28 |
@@ -157,6 +154,7 @@
 | Oct 22 | BMO | NSC | Norfolk Southern | $3.59 |
 | Oct 22 | BMO | PCG | PG&E Corporation | $0.42 |
 | Oct 22 | BMO | PG | Procter & Gamble | $1.89 |
+| Oct 22 | BMO | PHM | PulteGroup | $2.67 |
 | Oct 22 | BMO | POOL | Pool Corporation | $3.36 |
 | Oct 22 | BMO | ROP | Roper Technologies | $5.79 |
 | Oct 22 | BMO | TMUS | T-Mobile US | $3.00 |
@@ -217,7 +215,7 @@
 | Oct 28 | AMC | ALGN | Align Technology | $2.79 |
 | Oct 28 | BMO | APH | Amphenol | $1.44 |
 | Oct 28 | AMC | AVB | AvalonBay Communities | $1.18 |
-| Oct 28 | AMC | AWK | American Water Works | $2.08 |
+| Oct 28 | TBD | AWK | American Water Works | $2.08 |
 | Oct 28 | BMO | BA | Boeing | $-0.14 |
 | Oct 28 | BMO | BSX | Boston Scientific | $0.81 |
 | Oct 28 | AMC | CHRW | C.H. Robinson | $1.70 |
@@ -292,7 +290,7 @@
 | Oct 29 | AMC | ERIE | Erie Indemnity | $3.41 |
 | Oct 29 | BMO | ETR | Entergy | $1.62 |
 | Oct 29 | AMC | EW | Edwards Lifesciences | $0.74 |
-| Oct 29 | TBD | FOX | Fox Corporation(Class B) | — |
+| Oct 29 | BMO | FOX | Fox Corporation(Class B) | — |
 | Oct 29 | BMO | FOXA | Fox Corporation(Class A) | $2.03 |
 | Oct 29 | AMC | FSLR | First Solar | $4.71 |
 | Oct 29 | AMC | GDDY | GoDaddy | $2.47 |
@@ -496,8 +494,8 @@
 | Nov 12 | BMO | DIS | Walt Disney Company (The) | $1.68 |
 | Nov 16 | BMO | Q | Qnity Electronics | $1.20 |
 | Nov 17 | BMO | HD | Home Depot (The) | $3.84 |
+| Nov 17 | AMC | NVDA | Nvidia | $2.34 |
 | Nov 18 | BMO | LOW | Lowe's | $2.88 |
-| Nov 18 | AMC | NVDA | Nvidia | $2.34 |
 | Nov 18 | BMO | TGT | Target Corporation | $2.05 |
 | Nov 18 | BMO | TJX | TJX Companies | $1.34 |
 | Nov 18 | BMO | WSM | Williams-Sonoma, Inc. | $2.18 |
@@ -506,9 +504,11 @@
 | Nov 19 | AMC | ROST | Ross Stores | $1.83 |
 | Nov 19 | BMO | WMT | Walmart | $0.64 |
 | Nov 24 | BMO | ADI | Analog Devices | $3.85 |
+| Nov 24 | BMO | BBY | Best Buy | $1.38 |
 | Nov 24 | AMC | HPQ | HP Inc. | $0.67 |
 | Nov 24 | AMC | KEYS | Keysight Technologies | $3.38 |
 | Nov 24 | BMO | SJM | J.M. Smucker Company (The) | $2.55 |
 | Nov 25 | AMC | A | Agilent Technologies | $1.71 |
 | Nov 25 | BMO | DE | Deere & Company | $4.09 |
+| Nov 27 | AMC | ADSK | Autodesk | $3.12 |
 
