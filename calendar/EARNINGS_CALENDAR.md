@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: Aug 28, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Aug 29, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Aug 24–Aug 30)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -44,12 +44,12 @@
 | Sep 24 | BMO | DRI | Darden Restaurants | $2.05 |
 | Sep 24 | BMO | JBL | Jabil | $4.07 |
 | Sep 28 | BMO | CCL | Carnival | $1.35 |
-| Sep 29 | AMC | NKE | Nike, Inc. | $0.45 |
 | Sep 29 | BMO | PAYX | Paychex | $1.32 |
 | Sep 30 | BMO | CAG | Conagra Brands | $0.28 |
 | Sep 30 | BMO | LW | Lamb Weston | $0.59 |
 | Sep 30 | AMC | MU | Micron Technology | $31.28 |
 | Oct 01 | BMO | ACN | Accenture | $3.18 |
+| Oct 01 | AMC | NKE | Nike, Inc. | $0.45 |
 | Oct 05 | AMC | STZ | Constellation Brands | $3.61 |
 | Oct 06 | BMO | MKC | McCormick & Company | $0.76 |
 | Oct 08 | BMO | DAL | Delta Air Lines | $2.12 |
@@ -215,7 +215,7 @@
 | Oct 28 | AMC | ALGN | Align Technology | $2.79 |
 | Oct 28 | BMO | APH | Amphenol | $1.44 |
 | Oct 28 | AMC | AVB | AvalonBay Communities | $1.18 |
-| Oct 28 | TBD | AWK | American Water Works | $2.08 |
+| Oct 28 | AMC | AWK | American Water Works | $2.08 |
 | Oct 28 | BMO | BA | Boeing | $-0.14 |
 | Oct 28 | BMO | BSX | Boston Scientific | $0.81 |
 | Oct 28 | AMC | CHRW | C.H. Robinson | $1.70 |

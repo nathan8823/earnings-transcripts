@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T12:10:19.760960Z",
+  "updated_at": "2026-08-29T08:30:33.854318Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 500,
   "earnings": [
@@ -301,15 +301,6 @@
       "revenue_estimate": 8392232599
     },
     {
-      "ticker": "NKE",
-      "company": "Nike, Inc.",
-      "sector": "Consumer Discretionary",
-      "date": "2026-09-29",
-      "time": "AMC",
-      "eps_estimate": 0.45,
-      "revenue_estimate": 11381198080
-    },
-    {
       "ticker": "PAYX",
       "company": "Paychex",
       "sector": "Industrials",
@@ -353,6 +344,15 @@
       "time": "BMO",
       "eps_estimate": 3.18,
       "revenue_estimate": 18038995700
+    },
+    {
+      "ticker": "NKE",
+      "company": "Nike, Inc.",
+      "sector": "Consumer Discretionary",
+      "date": "2026-10-01",
+      "time": "AMC",
+      "eps_estimate": 0.45,
+      "revenue_estimate": 11381198080
     },
     {
       "ticker": "STZ",
@@ -1842,7 +1842,7 @@
       "company": "American Water Works",
       "sector": "Utilities",
       "date": "2026-10-28",
-      "time": "TBD",
+      "time": "AMC",
       "eps_estimate": 2.08,
       "revenue_estimate": 1492501230
     },
