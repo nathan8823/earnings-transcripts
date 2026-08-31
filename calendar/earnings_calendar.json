@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T08:29:42.788901Z",
+  "updated_at": "2026-08-31T08:35:51.146227Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 500,
   "earnings": [
@@ -352,7 +352,7 @@
       "date": "2026-10-01",
       "time": "AMC",
       "eps_estimate": 0.45,
-      "revenue_estimate": 11381198080
+      "revenue_estimate": 11368573080
     },
     {
       "ticker": "STZ",
@@ -1736,7 +1736,7 @@
       "date": "2026-10-27",
       "time": "BMO",
       "eps_estimate": 1.32,
-      "revenue_estimate": 8707495470
+      "revenue_estimate": 8710525780
     },
     {
       "ticker": "RCL",
@@ -2112,8 +2112,8 @@
       "sector": "Communication Services",
       "date": "2026-10-28",
       "time": "AMC",
-      "eps_estimate": 6.93,
-      "revenue_estimate": 63314915800
+      "eps_estimate": 6.97,
+      "revenue_estimate": 63315198780
     },
     {
       "ticker": "MGM",
@@ -2531,8 +2531,8 @@
       "sector": "Information Technology",
       "date": "2026-10-29",
       "time": "AMC",
-      "eps_estimate": 4.71,
-      "revenue_estimate": 1289156090
+      "eps_estimate": 4.67,
+      "revenue_estimate": 1286383360
     },
     {
       "ticker": "GDDY",
@@ -2730,7 +2730,7 @@
       "date": "2026-10-29",
       "time": "AMC",
       "eps_estimate": 3.59,
-      "revenue_estimate": 6686124230
+      "revenue_estimate": 6686105030
     },
     {
       "ticker": "TT",
@@ -3583,7 +3583,7 @@
       "date": "2026-11-04",
       "time": "AMC",
       "eps_estimate": 1.85,
-      "revenue_estimate": 5102784030
+      "revenue_estimate": 5102767370
     },
     {
       "ticker": "ES",
@@ -3968,7 +3968,7 @@
       "date": "2026-11-05",
       "time": "BMO",
       "eps_estimate": 3.4,
-      "revenue_estimate": 7324227230
+      "revenue_estimate": 7323872330
     },
     {
       "ticker": "MCHP",
@@ -3993,7 +3993,7 @@
       "company": "Moderna",
       "sector": "Health Care",
       "date": "2026-11-05",
-      "time": "TBD",
+      "time": "BMO",
       "eps_estimate": -1.18,
       "revenue_estimate": 876636420
     },
@@ -4417,7 +4417,7 @@
       "date": "2026-11-19",
       "time": "BMO",
       "eps_estimate": 0.64,
-      "revenue_estimate": 186976330970
+      "revenue_estimate": 187032849490
     },
     {
       "ticker": "ADI",
@@ -4434,8 +4434,8 @@
       "sector": "Consumer Discretionary",
       "date": "2026-11-24",
       "time": "BMO",
-      "eps_estimate": 1.38,
-      "revenue_estimate": 9592805880
+      "eps_estimate": 1.49,
+      "revenue_estimate": 9896707410
     },
     {
       "ticker": "HPQ",
@@ -4479,8 +4479,8 @@
       "sector": "Industrials",
       "date": "2026-11-25",
       "time": "BMO",
-      "eps_estimate": 4.09,
-      "revenue_estimate": 10436523330
+      "eps_estimate": 4.06,
+      "revenue_estimate": 10388106670
     },
     {
       "ticker": "ADSK",
@@ -4493,80 +4493,6 @@
     }
   ],
   "this_week": [
-    {
-      "ticker": "CRM",
-      "company": "Salesforce",
-      "sector": "Information Technology",
-      "date": "2026-08-26",
-      "time": "AMC",
-      "eps_estimate": 3.43,
-      "revenue_estimate": 11449053930
-    },
-    {
-      "ticker": "CRWD",
-      "company": "CrowdStrike",
-      "sector": "Information Technology",
-      "date": "2026-08-26",
-      "time": "AMC",
-      "eps_estimate": 0.31,
-      "revenue_estimate": 1527657830
-    },
-    {
-      "ticker": "SNPS",
-      "company": "Synopsys",
-      "sector": "Information Technology",
-      "date": "2026-08-26",
-      "time": "AMC",
-      "eps_estimate": 4.13,
-      "revenue_estimate": 2560590100
-    },
-    {
-      "ticker": "DG",
-      "company": "Dollar General",
-      "sector": "Consumer Staples",
-      "date": "2026-08-27",
-      "time": "BMO",
-      "eps_estimate": 1.4,
-      "revenue_estimate": 11131468220
-    },
-    {
-      "ticker": "DLTR",
-      "company": "Dollar Tree",
-      "sector": "Consumer Staples",
-      "date": "2026-08-27",
-      "time": "BMO",
-      "eps_estimate": 0.94,
-      "revenue_estimate": 5038560580
-    },
-    {
-      "ticker": "HRL",
-      "company": "Hormel Foods",
-      "sector": "Consumer Staples",
-      "date": "2026-08-27",
-      "time": "BMO",
-      "eps_estimate": 0.38,
-      "revenue_estimate": 3195078650
-    },
-    {
-      "ticker": "ULTA",
-      "company": "Ulta Beauty",
-      "sector": "Consumer Discretionary",
-      "date": "2026-08-27",
-      "time": "AMC",
-      "eps_estimate": 5.62,
-      "revenue_estimate": 2984672710
-    },
-    {
-      "ticker": "WDAY",
-      "company": "Workday, Inc.",
-      "sector": "Information Technology",
-      "date": "2026-08-27",
-      "time": "AMC",
-      "eps_estimate": 2.73,
-      "revenue_estimate": 2691976260
-    }
-  ],
-  "next_week": [
     {
       "ticker": "DELL",
       "company": "Dell Technologies",
@@ -4665,6 +4591,44 @@
       "time": "AMC",
       "eps_estimate": 1.8,
       "revenue_estimate": 2459623750
+    }
+  ],
+  "next_week": [
+    {
+      "ticker": "COO",
+      "company": "Cooper Companies (The)",
+      "sector": "Health Care",
+      "date": "2026-09-09",
+      "time": "AMC",
+      "eps_estimate": 1.12,
+      "revenue_estimate": 1098248680
+    },
+    {
+      "ticker": "ADBE",
+      "company": "Adobe Inc.",
+      "sector": "Information Technology",
+      "date": "2026-09-10",
+      "time": "AMC",
+      "eps_estimate": 6.08,
+      "revenue_estimate": 6695163470
+    },
+    {
+      "ticker": "ORCL",
+      "company": "Oracle Corporation",
+      "sector": "Information Technology",
+      "date": "2026-09-10",
+      "time": "AMC",
+      "eps_estimate": 1.74,
+      "revenue_estimate": 19129328840
+    },
+    {
+      "ticker": "KR",
+      "company": "Kroger",
+      "sector": "Consumer Staples",
+      "date": "2026-09-11",
+      "time": "BMO",
+      "eps_estimate": 1.06,
+      "revenue_estimate": 34561056000
     }
   ]
 }

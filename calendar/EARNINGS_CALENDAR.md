@@ -1,19 +1,7 @@
 # S&P 500 Earnings Calendar
-> Last updated: Aug 30, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Aug 31, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
-## This Week (Aug 24–Aug 30)
-| Date | Time | Ticker | Company | Est. EPS |
-|------|------|--------|---------|----------|
-| Aug 26 | AMC | CRM | Salesforce | $3.43 |
-| Aug 26 | AMC | CRWD | CrowdStrike | $0.31 |
-| Aug 26 | AMC | SNPS | Synopsys | $4.13 |
-| Aug 27 | BMO | DG | Dollar General | $1.40 |
-| Aug 27 | BMO | DLTR | Dollar Tree | $0.94 |
-| Aug 27 | BMO | HRL | Hormel Foods | $0.38 |
-| Aug 27 | AMC | ULTA | Ulta Beauty | $5.62 |
-| Aug 27 | AMC | WDAY | Workday, Inc. | $2.73 |
-
-## Next Week (Aug 31–Sep 06)
+## This Week (Aug 31–Sep 06)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Sep 01 | AMC | DELL | Dell Technologies | $4.92 |
@@ -28,13 +16,17 @@
 | Sep 03 | AMC | CPRT | Copart | $0.38 |
 | Sep 03 | AMC | LULU | Lululemon Athletica | $1.80 |
 
-## Later (Sep 07+)
+## Next Week (Sep 07–Sep 13)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Sep 09 | AMC | COO | Cooper Companies (The) | $1.12 |
 | Sep 10 | AMC | ADBE | Adobe Inc. | $6.08 |
 | Sep 10 | AMC | ORCL | Oracle Corporation | $1.74 |
 | Sep 11 | BMO | KR | Kroger | $1.06 |
+
+## Later (Sep 14+)
+| Date | Time | Ticker | Company | Est. EPS |
+|------|------|--------|---------|----------|
 | Sep 17 | BMO | FDS | FactSet | $4.34 |
 | Sep 17 | AMC | LEN | Lennar | $1.30 |
 | Sep 22 | BMO | AZO | AutoZone | $54.50 |
@@ -245,7 +237,7 @@
 | Oct 28 | AMC | KMI | Kinder Morgan | $0.32 |
 | Oct 28 | BMO | LII | Lennox International | $7.52 |
 | Oct 28 | AMC | MAA | Mid-America Apartment Communities | — |
-| Oct 28 | AMC | META | Meta Platforms | $6.93 |
+| Oct 28 | AMC | META | Meta Platforms | $6.97 |
 | Oct 28 | AMC | MGM | MGM Resorts | $0.23 |
 | Oct 28 | AMC | MSFT | Microsoft | $4.72 |
 | Oct 28 | BMO | NI | NiSource | $0.22 |
@@ -292,7 +284,7 @@
 | Oct 29 | AMC | EW | Edwards Lifesciences | $0.74 |
 | Oct 29 | BMO | FOX | Fox Corporation(Class B) | — |
 | Oct 29 | BMO | FOXA | Fox Corporation(Class A) | $2.03 |
-| Oct 29 | AMC | FSLR | First Solar | $4.71 |
+| Oct 29 | AMC | FSLR | First Solar | $4.67 |
 | Oct 29 | AMC | GDDY | GoDaddy | $2.47 |
 | Oct 29 | AMC | GILD | Gilead Sciences | $2.15 |
 | Oct 29 | AMC | HIG | Hartford (The) | $3.06 |
@@ -455,7 +447,7 @@
 | Nov 05 | BMO | MCD | McDonald's | $3.40 |
 | Nov 05 | AMC | MCHP | Microchip Technology | $0.93 |
 | Nov 05 | AMC | MNST | Monster Beverage | $0.30 |
-| Nov 05 | TBD | MRNA | Moderna | $-1.18 |
+| Nov 05 | BMO | MRNA | Moderna | $-1.18 |
 | Nov 05 | AMC | MSI | Motorola Solutions | $4.42 |
 | Nov 05 | AMC | MTD | Mettler Toledo | $12.11 |
 | Nov 05 | BMO | NRG | NRG Energy | $2.87 |
@@ -504,11 +496,11 @@
 | Nov 19 | AMC | ROST | Ross Stores | $1.83 |
 | Nov 19 | BMO | WMT | Walmart | $0.64 |
 | Nov 24 | BMO | ADI | Analog Devices | $3.85 |
-| Nov 24 | BMO | BBY | Best Buy | $1.38 |
+| Nov 24 | BMO | BBY | Best Buy | $1.49 |
 | Nov 24 | AMC | HPQ | HP Inc. | $0.75 |
 | Nov 24 | AMC | KEYS | Keysight Technologies | $3.38 |
 | Nov 24 | BMO | SJM | J.M. Smucker Company (The) | $2.55 |
 | Nov 25 | AMC | A | Agilent Technologies | $1.73 |
-| Nov 25 | BMO | DE | Deere & Company | $4.09 |
+| Nov 25 | BMO | DE | Deere & Company | $4.06 |
 | Nov 27 | AMC | ADSK | Autodesk | $3.07 |
 
