@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: Aug 31, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Sep 01, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Aug 31–Sep 06)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -41,9 +41,9 @@
 | Sep 30 | BMO | LW | Lamb Weston | $0.59 |
 | Sep 30 | AMC | MU | Micron Technology | $31.28 |
 | Oct 01 | BMO | ACN | Accenture | $3.18 |
+| Oct 01 | BMO | MKC | McCormick & Company | $0.76 |
 | Oct 01 | AMC | NKE | Nike, Inc. | $0.45 |
 | Oct 05 | AMC | STZ | Constellation Brands | $3.61 |
-| Oct 06 | BMO | MKC | McCormick & Company | $0.76 |
 | Oct 08 | BMO | DAL | Delta Air Lines | $2.11 |
 | Oct 08 | BMO | PEP | PepsiCo | $2.30 |
 | Oct 13 | BMO | C | Citigroup | $2.62 |
@@ -167,7 +167,7 @@
 | Oct 26 | AMC | CINF | Cincinnati Financial | $1.89 |
 | Oct 26 | AMC | FFIV | F5, Inc. | $4.26 |
 | Oct 26 | BMO | KDP | Keurig Dr Pepper | $0.62 |
-| Oct 26 | AMC | NUE | Nucor | $5.89 |
+| Oct 26 | TBD | NUE | Nucor | $5.89 |
 | Oct 26 | AMC | NXPI | NXP Semiconductors | $4.10 |
 | Oct 26 | AMC | PFG | Principal Financial Group | $2.49 |
 | Oct 26 | BMO | RVTY | Revvity | $1.29 |
@@ -273,7 +273,7 @@
 | Oct 29 | BMO | CAT | Caterpillar Inc. | $6.92 |
 | Oct 29 | BMO | CMCSA | Comcast | $1.00 |
 | Oct 29 | BMO | CMS | CMS Energy | $1.14 |
-| Oct 29 | AMC | COIN | Coinbase | $-0.15 |
+| Oct 29 | AMC | COIN | Coinbase | $-0.14 |
 | Oct 29 | BMO | CRH | CRH plc | $2.23 |
 | Oct 29 | BMO | DHI | D. R. Horton | $3.04 |
 | Oct 29 | BMO | DTE | DTE Energy | $2.40 |
