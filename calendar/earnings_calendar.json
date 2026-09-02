@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T08:35:49.490322Z",
+  "updated_at": "2026-09-02T08:33:56.516253Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 500,
   "earnings": [
@@ -20,15 +20,6 @@
       "time": "AMC",
       "eps_estimate": 3.43,
       "revenue_estimate": 11449053930
-    },
-    {
-      "ticker": "CRWD",
-      "company": "CrowdStrike",
-      "sector": "Information Technology",
-      "date": "2026-08-26",
-      "time": "AMC",
-      "eps_estimate": 0.31,
-      "revenue_estimate": 1527657830
     },
     {
       "ticker": "SNPS",
@@ -91,7 +82,7 @@
       "date": "2026-09-01",
       "time": "AMC",
       "eps_estimate": 4.92,
-      "revenue_estimate": 44508375110
+      "revenue_estimate": 44495521770
     },
     {
       "ticker": "MDT",
@@ -108,8 +99,8 @@
       "sector": "Information Technology",
       "date": "2026-09-01",
       "time": "AMC",
-      "eps_estimate": 0.98,
-      "revenue_estimate": 3351856080
+      "eps_estimate": 0.93,
+      "revenue_estimate": 3222734790
     },
     {
       "ticker": "AVGO",
@@ -166,15 +157,6 @@
       "revenue_estimate": 2144483000
     },
     {
-      "ticker": "CPRT",
-      "company": "Copart",
-      "sector": "Industrials",
-      "date": "2026-09-03",
-      "time": "AMC",
-      "eps_estimate": 0.38,
-      "revenue_estimate": 1141061000
-    },
-    {
       "ticker": "LULU",
       "company": "Lululemon Athletica",
       "sector": "Consumer Discretionary",
@@ -200,6 +182,15 @@
       "time": "AMC",
       "eps_estimate": 6.08,
       "revenue_estimate": 6695163470
+    },
+    {
+      "ticker": "CPRT",
+      "company": "Copart",
+      "sector": "Industrials",
+      "date": "2026-09-10",
+      "time": "AMC",
+      "eps_estimate": 0.38,
+      "revenue_estimate": 1141061000
     },
     {
       "ticker": "ORCL",
@@ -1482,7 +1473,7 @@
       "company": "Nucor",
       "sector": "Materials",
       "date": "2026-10-26",
-      "time": "TBD",
+      "time": "AMC",
       "eps_estimate": 5.89,
       "revenue_estimate": 10728331080
     },
@@ -1874,6 +1865,15 @@
       "revenue_estimate": 4852005450
     },
     {
+      "ticker": "CMG",
+      "company": "Chipotle Mexican Grill",
+      "sector": "Consumer Discretionary",
+      "date": "2026-10-28",
+      "time": "AMC",
+      "eps_estimate": 0.29,
+      "revenue_estimate": 3277601490
+    },
+    {
       "ticker": "CTSH",
       "company": "Cognizant",
       "sector": "Information Technology",
@@ -1896,7 +1896,7 @@
       "company": "CVS Health",
       "sector": "Health Care",
       "date": "2026-10-28",
-      "time": "BMO",
+      "time": "TBD",
       "eps_estimate": 1.63,
       "revenue_estimate": 104693395230
     },
@@ -1950,7 +1950,7 @@
       "company": "Fiserv",
       "sector": "Financials",
       "date": "2026-10-28",
-      "time": "BMO",
+      "time": "TBD",
       "eps_estimate": 1.72,
       "revenue_estimate": 4865639580
     },
@@ -3514,15 +3514,6 @@
       "revenue_estimate": 1751042250
     },
     {
-      "ticker": "CMG",
-      "company": "Chipotle Mexican Grill",
-      "sector": "Consumer Discretionary",
-      "date": "2026-11-04",
-      "time": "AMC",
-      "eps_estimate": 0.29,
-      "revenue_estimate": 3277601490
-    },
-    {
       "ticker": "COR",
       "company": "Cencora",
       "sector": "Health Care",
@@ -4119,7 +4110,7 @@
       "company": "Trade Desk (The)",
       "sector": "Communication Services",
       "date": "2026-11-05",
-      "time": "AMC",
+      "time": "TBD",
       "eps_estimate": 0.25,
       "revenue_estimate": 650589460
     },
@@ -4490,6 +4481,15 @@
       "time": "AMC",
       "eps_estimate": 3.07,
       "revenue_estimate": 2133416460
+    },
+    {
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "sector": "Information Technology",
+      "date": "2026-12-01",
+      "time": "AMC",
+      "eps_estimate": 0.31,
+      "revenue_estimate": 1527657830
     }
   ],
   "this_week": [
@@ -4500,7 +4500,7 @@
       "date": "2026-09-01",
       "time": "AMC",
       "eps_estimate": 4.92,
-      "revenue_estimate": 44508375110
+      "revenue_estimate": 44495521770
     },
     {
       "ticker": "MDT",
@@ -4517,8 +4517,8 @@
       "sector": "Information Technology",
       "date": "2026-09-01",
       "time": "AMC",
-      "eps_estimate": 0.98,
-      "revenue_estimate": 3351856080
+      "eps_estimate": 0.93,
+      "revenue_estimate": 3222734790
     },
     {
       "ticker": "AVGO",
@@ -4575,15 +4575,6 @@
       "revenue_estimate": 2144483000
     },
     {
-      "ticker": "CPRT",
-      "company": "Copart",
-      "sector": "Industrials",
-      "date": "2026-09-03",
-      "time": "AMC",
-      "eps_estimate": 0.38,
-      "revenue_estimate": 1141061000
-    },
-    {
       "ticker": "LULU",
       "company": "Lululemon Athletica",
       "sector": "Consumer Discretionary",
@@ -4611,6 +4602,15 @@
       "time": "AMC",
       "eps_estimate": 6.08,
       "revenue_estimate": 6695163470
+    },
+    {
+      "ticker": "CPRT",
+      "company": "Copart",
+      "sector": "Industrials",
+      "date": "2026-09-10",
+      "time": "AMC",
+      "eps_estimate": 0.38,
+      "revenue_estimate": 1141061000
     },
     {
       "ticker": "ORCL",

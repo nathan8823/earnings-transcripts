@@ -1,19 +1,18 @@
 # S&P 500 Earnings Calendar
-> Last updated: Sep 01, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Sep 02, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Aug 31–Sep 06)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Sep 01 | AMC | DELL | Dell Technologies | $4.92 |
 | Sep 01 | BMO | MDT | Medtronic | $1.39 |
-| Sep 01 | AMC | PANW | Palo Alto Networks | $0.98 |
+| Sep 01 | AMC | PANW | Palo Alto Networks | $0.93 |
 | Sep 02 | AMC | AVGO | Broadcom | $3.24 |
 | Sep 02 | BMO | BF-B | Brown–Forman | $0.37 |
 | Sep 02 | AMC | HPE | Hewlett Packard Enterprise | $0.93 |
 | Sep 02 | AMC | NTAP | NetApp | $2.12 |
 | Sep 03 | BMO | CIEN | Ciena | $1.73 |
 | Sep 03 | BMO | CPB | Campbell's Company (The) | $0.39 |
-| Sep 03 | AMC | CPRT | Copart | $0.38 |
 | Sep 03 | AMC | LULU | Lululemon Athletica | $1.80 |
 
 ## Next Week (Sep 07–Sep 13)
@@ -21,6 +20,7 @@
 |------|------|--------|---------|----------|
 | Sep 09 | AMC | COO | Cooper Companies (The) | $1.12 |
 | Sep 10 | AMC | ADBE | Adobe Inc. | $6.08 |
+| Sep 10 | AMC | CPRT | Copart | $0.38 |
 | Sep 10 | AMC | ORCL | Oracle Corporation | $1.74 |
 | Sep 11 | BMO | KR | Kroger | $1.06 |
 
@@ -167,7 +167,7 @@
 | Oct 26 | AMC | CINF | Cincinnati Financial | $1.89 |
 | Oct 26 | AMC | FFIV | F5, Inc. | $4.26 |
 | Oct 26 | BMO | KDP | Keurig Dr Pepper | $0.62 |
-| Oct 26 | TBD | NUE | Nucor | $5.89 |
+| Oct 26 | AMC | NUE | Nucor | $5.89 |
 | Oct 26 | AMC | NXPI | NXP Semiconductors | $4.10 |
 | Oct 26 | AMC | PFG | Principal Financial Group | $2.49 |
 | Oct 26 | BMO | RVTY | Revvity | $1.29 |
@@ -211,15 +211,16 @@
 | Oct 28 | BMO | BA | Boeing | $-0.14 |
 | Oct 28 | BMO | BSX | Boston Scientific | $0.81 |
 | Oct 28 | AMC | CHRW | C.H. Robinson | $1.70 |
+| Oct 28 | AMC | CMG | Chipotle Mexican Grill | $0.29 |
 | Oct 28 | BMO | CTSH | Cognizant | $1.46 |
 | Oct 28 | AMC | CVNA | Carvana | $0.46 |
-| Oct 28 | BMO | CVS | CVS Health | $1.63 |
+| Oct 28 | TBD | CVS | CVS Health | $1.63 |
 | Oct 28 | AMC | DVA | DaVita | $3.58 |
 | Oct 28 | AMC | EG | Everest Group | $8.20 |
 | Oct 28 | AMC | EQIX | Equinix | $4.04 |
 | Oct 28 | AMC | EXR | Extra Space Storage | $1.18 |
 | Oct 28 | TBD | FDX | FedEx | $4.38 |
-| Oct 28 | BMO | FISV | Fiserv | $1.72 |
+| Oct 28 | TBD | FISV | Fiserv | $1.72 |
 | Oct 28 | BMO | FTV | Fortive | $0.71 |
 | Oct 28 | BMO | GD | General Dynamics | $4.12 |
 | Oct 28 | BMO | GEHC | GE HealthCare | $1.20 |
@@ -394,7 +395,6 @@
 | Nov 04 | AMC | ATO | Atmos Energy | $1.17 |
 | Nov 04 | BMO | BG | Bunge Global | $2.47 |
 | Nov 04 | AMC | CF | CF Industries | $3.04 |
-| Nov 04 | AMC | CMG | Chipotle Mexican Grill | $0.29 |
 | Nov 04 | BMO | COR | Cencora | $4.54 |
 | Nov 04 | AMC | CPAY | Corpay | $7.17 |
 | Nov 04 | BMO | CRL | Charles River Laboratories | $2.95 |
@@ -461,7 +461,7 @@
 | Nov 05 | BMO | TDG | TransDigm Group | $12.15 |
 | Nov 05 | BMO | TPR | Tapestry, Inc. | $1.56 |
 | Nov 05 | BMO | TRGP | Targa Resources | $2.82 |
-| Nov 05 | AMC | TTD | Trade Desk (The) | $0.25 |
+| Nov 05 | TBD | TTD | Trade Desk (The) | $0.25 |
 | Nov 05 | BMO | VST | Vistra Corp. | $2.85 |
 | Nov 05 | BMO | VTRS | Viatris | $0.65 |
 | Nov 05 | BMO | WBD | Warner Bros. Discovery | $0.02 |
@@ -503,4 +503,5 @@
 | Nov 25 | AMC | A | Agilent Technologies | $1.73 |
 | Nov 25 | BMO | DE | Deere & Company | $4.06 |
 | Nov 27 | AMC | ADSK | Autodesk | $3.07 |
+| Dec 01 | AMC | CRWD | CrowdStrike | $0.31 |
 
