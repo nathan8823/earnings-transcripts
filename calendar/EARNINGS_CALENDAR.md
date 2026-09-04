@@ -1,13 +1,11 @@
 # S&P 500 Earnings Calendar
-> Last updated: Sep 03, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Sep 04, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Aug 31–Sep 06)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
-| Sep 02 | AMC | AVGO | Broadcom | $3.87 |
-| Sep 02 | BMO | BF-B | Brown–Forman | $0.46 |
+| Sep 02 | AMC | AVGO | Broadcom | $3.24 |
 | Sep 02 | AMC | HPE | Hewlett Packard Enterprise | $0.94 |
-| Sep 02 | AMC | NTAP | NetApp | $2.12 |
 | Sep 03 | BMO | CIEN | Ciena | $1.73 |
 | Sep 03 | BMO | CPB | Campbell's Company (The) | $0.39 |
 | Sep 03 | AMC | LULU | Lululemon Athletica | $1.80 |
@@ -24,7 +22,7 @@
 ## Later (Sep 14+)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
-| Sep 16 | AMC | LEN | Lennar | $1.31 |
+| Sep 16 | TBD | LEN | Lennar | $1.31 |
 | Sep 22 | BMO | AZO | AutoZone | $54.43 |
 | Sep 23 | BMO | CTAS | Cintas | $1.34 |
 | Sep 23 | BMO | GIS | General Mills | $0.71 |
@@ -34,7 +32,7 @@
 | Sep 28 | BMO | CCL | Carnival | $1.35 |
 | Sep 29 | BMO | PAYX | Paychex | $1.32 |
 | Sep 30 | BMO | CAG | Conagra Brands | $0.28 |
-| Sep 30 | BMO | FDS | FactSet | $4.34 |
+| Sep 30 | TBD | FDS | FactSet | $4.34 |
 | Sep 30 | BMO | LW | Lamb Weston | $0.59 |
 | Sep 30 | AMC | MU | Micron Technology | $31.28 |
 | Oct 01 | BMO | ACN | Accenture | $3.18 |
@@ -55,11 +53,11 @@
 | Oct 14 | BMO | FAST | Fastenal | $0.33 |
 | Oct 14 | BMO | MS | Morgan Stanley | $3.11 |
 | Oct 14 | BMO | PGR | Progressive Corporation | $4.01 |
-| Oct 14 | BMO | PLD | Prologis | $0.79 |
 | Oct 14 | BMO | STT | State Street Corporation | $3.64 |
 | Oct 14 | BMO | SYF | Synchrony Financial | $2.35 |
-| Oct 15 | AMC | JBHT | J.B. Hunt | $2.14 |
+| Oct 15 | TBD | JBHT | J.B. Hunt | $2.14 |
 | Oct 15 | BMO | MRSH | Marsh McLennan | $1.97 |
+| Oct 15 | BMO | PLD | Prologis | $0.79 |
 | Oct 15 | BMO | PNC | PNC Financial Services | $4.98 |
 | Oct 15 | BMO | SCHW | Charles Schwab Corporation | $1.67 |
 | Oct 15 | BMO | SNA | Snap-on | $4.96 |
@@ -201,7 +199,7 @@
 | Oct 27 | BMO | UPS | United Parcel Service | $1.63 |
 | Oct 27 | AMC | V | Visa Inc. | $3.43 |
 | Oct 28 | BMO | ADP | Automatic Data Processing | $2.77 |
-| Oct 28 | AMC | ALGN | Align Technology | $2.79 |
+| Oct 28 | TBD | ALGN | Align Technology | $2.79 |
 | Oct 28 | BMO | APH | Amphenol | $0.72 |
 | Oct 28 | AMC | AVB | AvalonBay Communities | $1.18 |
 | Oct 28 | AMC | AWK | American Water Works | $2.08 |
@@ -259,7 +257,7 @@
 | Oct 29 | AMC | AAPL | Apple Inc. | $1.98 |
 | Oct 29 | BMO | ABBV | AbbVie | $3.84 |
 | Oct 29 | BMO | AEP | American Electric Power | $1.91 |
-| Oct 29 | AMC | AJG | Arthur J. Gallagher & Co. | $3.06 |
+| Oct 29 | TBD | AJG | Arthur J. Gallagher & Co. | $3.06 |
 | Oct 29 | BMO | AME | Ametek | $2.10 |
 | Oct 29 | BMO | AMP | Ameriprise Financial | $11.79 |
 | Oct 29 | AMC | AMZN | Amazon | $1.95 |
@@ -483,7 +481,7 @@
 | Nov 12 | BMO | DIS | Walt Disney Company (The) | $1.68 |
 | Nov 16 | BMO | Q | Qnity Electronics | $1.20 |
 | Nov 17 | BMO | HD | Home Depot (The) | $3.84 |
-| Nov 17 | BMO | MDT | Medtronic | $1.33 |
+| Nov 17 | TBD | MDT | Medtronic | $1.33 |
 | Nov 17 | AMC | NVDA | Nvidia | $2.47 |
 | Nov 18 | BMO | LOW | Lowe's | $2.88 |
 | Nov 18 | BMO | TGT | Target Corporation | $2.05 |
@@ -491,7 +489,7 @@
 | Nov 18 | BMO | WSM | Williams-Sonoma, Inc. | $2.18 |
 | Nov 19 | AMC | INTU | Intuit | $2.72 |
 | Nov 19 | AMC | J | Jacobs Solutions | $2.13 |
-| Nov 19 | AMC | PANW | Palo Alto Networks | $0.97 |
+| Nov 19 | TBD | PANW | Palo Alto Networks | $0.97 |
 | Nov 19 | AMC | ROST | Ross Stores | $1.83 |
 | Nov 19 | BMO | WMT | Walmart | $0.64 |
 | Nov 24 | BMO | ADI | Analog Devices | $3.85 |
@@ -502,7 +500,9 @@
 | Nov 25 | AMC | A | Agilent Technologies | $1.73 |
 | Nov 25 | BMO | DE | Deere & Company | $4.04 |
 | Nov 27 | AMC | ADSK | Autodesk | $3.07 |
-| Nov 27 | AMC | DELL | Dell Technologies | $6.57 |
+| Nov 27 | TBD | DELL | Dell Technologies | $6.57 |
 | Dec 01 | AMC | CRWD | CrowdStrike | $0.31 |
+| Dec 01 | AMC | NTAP | NetApp | $2.12 |
 | Dec 02 | AMC | CRM | Salesforce | $3.43 |
+| Dec 03 | BMO | BF-B | Brown–Forman | $0.46 |
 
