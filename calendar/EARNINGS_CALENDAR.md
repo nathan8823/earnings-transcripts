@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: Sep 07, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Sep 08, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Sep 07–Sep 13)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -27,7 +27,7 @@
 | Sep 28 | BMO | CCL | Carnival | $1.35 |
 | Sep 29 | BMO | PAYX | Paychex | $1.32 |
 | Sep 30 | BMO | CAG | Conagra Brands | $0.28 |
-| Sep 30 | TBD | FDS | FactSet | $4.34 |
+| Sep 30 | BMO | FDS | FactSet | $4.34 |
 | Sep 30 | BMO | LW | Lamb Weston | $0.59 |
 | Sep 30 | AMC | MU | Micron Technology | $31.28 |
 | Oct 01 | BMO | ACN | Accenture | $3.18 |
@@ -50,7 +50,7 @@
 | Oct 14 | BMO | PGR | Progressive Corporation | $4.01 |
 | Oct 14 | BMO | STT | State Street Corporation | $3.64 |
 | Oct 14 | BMO | SYF | Synchrony Financial | $2.35 |
-| Oct 15 | TBD | JBHT | J.B. Hunt | $2.14 |
+| Oct 15 | AMC | JBHT | J.B. Hunt | $2.14 |
 | Oct 15 | BMO | MRSH | Marsh McLennan | $1.97 |
 | Oct 15 | BMO | PLD | Prologis | $0.79 |
 | Oct 15 | BMO | PNC | PNC Financial Services | $4.98 |
@@ -467,7 +467,7 @@
 | Nov 09 | AMC | OXY | Occidental Petroleum | $1.27 |
 | Nov 09 | AMC | PSKY | Paramount Skydance Corporation | $0.20 |
 | Nov 09 | BMO | TECH | Bio-Techne | $0.43 |
-| Nov 09 | BMO | TSN | Tyson Foods | $1.12 |
+| Nov 09 | BMO | TSN | Tyson Foods | $0.94 |
 | Nov 09 | BMO | TTWO | Take-Two Interactive | $0.95 |
 | Nov 09 | AMC | XYZ | Block, Inc. | $1.02 |
 | Nov 11 | AMC | PTC | PTC Inc. | $1.96 |

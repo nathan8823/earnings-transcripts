@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T08:33:34.858812Z",
+  "updated_at": "2026-09-08T08:31:20.904314Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 500,
   "earnings": [
@@ -251,7 +251,7 @@
       "company": "FactSet",
       "sector": "Financials",
       "date": "2026-09-30",
-      "time": "TBD",
+      "time": "BMO",
       "eps_estimate": 4.34,
       "revenue_estimate": 629781320
     },
@@ -458,7 +458,7 @@
       "company": "J.B. Hunt",
       "sector": "Industrials",
       "date": "2026-10-15",
-      "time": "TBD",
+      "time": "AMC",
       "eps_estimate": 2.14,
       "revenue_estimate": 3541932430
     },
@@ -4203,8 +4203,8 @@
       "sector": "Consumer Staples",
       "date": "2026-11-09",
       "time": "BMO",
-      "eps_estimate": 1.12,
-      "revenue_estimate": 14760667170
+      "eps_estimate": 0.94,
+      "revenue_estimate": 14443368760
     },
     {
       "ticker": "TTWO",
