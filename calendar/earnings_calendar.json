@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T08:30:20.578043Z",
+  "updated_at": "2026-09-10T08:31:59.424991Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 500,
   "earnings": [
@@ -56,15 +56,6 @@
       "time": "AMC",
       "eps_estimate": 2.73,
       "revenue_estimate": 2691682140
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "sector": "Information Technology",
-      "date": "2026-09-02",
-      "time": "AMC",
-      "eps_estimate": 3.83,
-      "revenue_estimate": 34881623400
     },
     {
       "ticker": "HPE",
@@ -184,6 +175,15 @@
       "revenue_estimate": 4330822030
     },
     {
+      "ticker": "PAYX",
+      "company": "Paychex",
+      "sector": "Industrials",
+      "date": "2026-09-23",
+      "time": "BMO",
+      "eps_estimate": 1.32,
+      "revenue_estimate": 1626634090
+    },
+    {
       "ticker": "COST",
       "company": "Costco",
       "sector": "Consumer Staples",
@@ -202,15 +202,6 @@
       "revenue_estimate": 3207175140
     },
     {
-      "ticker": "JBL",
-      "company": "Jabil",
-      "sector": "Information Technology",
-      "date": "2026-09-24",
-      "time": "BMO",
-      "eps_estimate": 4.07,
-      "revenue_estimate": 9696629980
-    },
-    {
       "ticker": "CCL",
       "company": "Carnival",
       "sector": "Consumer Discretionary",
@@ -218,15 +209,6 @@
       "time": "BMO",
       "eps_estimate": 1.35,
       "revenue_estimate": 8392232599
-    },
-    {
-      "ticker": "PAYX",
-      "company": "Paychex",
-      "sector": "Industrials",
-      "date": "2026-09-29",
-      "time": "BMO",
-      "eps_estimate": 1.32,
-      "revenue_estimate": 1626634090
     },
     {
       "ticker": "CAG",
@@ -245,6 +227,15 @@
       "time": "TBD",
       "eps_estimate": 4.34,
       "revenue_estimate": 629781320
+    },
+    {
+      "ticker": "JBL",
+      "company": "Jabil",
+      "sector": "Information Technology",
+      "date": "2026-09-30",
+      "time": "BMO",
+      "eps_estimate": 4.07,
+      "revenue_estimate": 9696629980
     },
     {
       "ticker": "MU",
@@ -4493,6 +4484,15 @@
       "time": "AMC",
       "eps_estimate": 5.61,
       "revenue_estimate": 2984918470
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "sector": "Information Technology",
+      "date": "2026-12-09",
+      "time": "AMC",
+      "eps_estimate": 3.83,
+      "revenue_estimate": 34881623400
     }
   ],
   "this_week": [

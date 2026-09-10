@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: Sep 09, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Sep 10, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Sep 07–Sep 13)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -21,13 +21,13 @@
 | Sep 22 | BMO | AZO | AutoZone | $54.37 |
 | Sep 23 | BMO | CTAS | Cintas | $1.34 |
 | Sep 23 | BMO | GIS | General Mills | $0.71 |
+| Sep 23 | BMO | PAYX | Paychex | $1.32 |
 | Sep 24 | AMC | COST | Costco | $6.54 |
 | Sep 24 | BMO | DRI | Darden Restaurants | $2.05 |
-| Sep 24 | BMO | JBL | Jabil | $4.07 |
 | Sep 28 | BMO | CCL | Carnival | $1.35 |
-| Sep 29 | BMO | PAYX | Paychex | $1.32 |
 | Sep 30 | BMO | CAG | Conagra Brands | $0.28 |
 | Sep 30 | TBD | FDS | FactSet | $4.34 |
+| Sep 30 | BMO | JBL | Jabil | $4.07 |
 | Sep 30 | AMC | MU | Micron Technology | $31.28 |
 | Oct 01 | BMO | ACN | Accenture | $3.18 |
 | Oct 01 | BMO | MKC | McCormick & Company | $0.76 |
@@ -501,4 +501,5 @@
 | Dec 02 | AMC | CRM | Salesforce | $3.44 |
 | Dec 03 | BMO | BF-B | Brown–Forman | $0.37 |
 | Dec 03 | AMC | ULTA | Ulta Beauty | $5.61 |
+| Dec 09 | AMC | AVGO | Broadcom | $3.83 |
 
