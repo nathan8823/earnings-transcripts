@@ -1,14 +1,11 @@
 # S&P 500 Earnings Calendar
-> Last updated: Sep 11, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Sep 12, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Sep 07–Sep 13)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Sep 09 | AMC | COO | Cooper Companies (The) | $1.07 |
-| Sep 10 | AMC | ADBE | Adobe Inc. | $6.32 |
-| Sep 10 | AMC | CPRT | Copart | $0.40 |
-| Sep 10 | AMC | ORCL | Oracle Corporation | $1.87 |
-| Sep 11 | BMO | KR | Kroger | $1.05 |
+| Sep 11 | BMO | KR | Kroger | $1.17 |
 
 ## Next Week (Sep 14–Sep 20)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -50,7 +47,7 @@
 | Oct 14 | BMO | PGR | Progressive Corporation | $4.03 |
 | Oct 14 | BMO | STT | State Street Corporation | $3.64 |
 | Oct 14 | BMO | SYF | Synchrony Financial | $2.35 |
-| Oct 15 | TBD | JBHT | J.B. Hunt | $2.14 |
+| Oct 15 | AMC | JBHT | J.B. Hunt | $2.14 |
 | Oct 15 | BMO | MRSH | Marsh McLennan | $1.97 |
 | Oct 15 | BMO | PLD | Prologis | $0.79 |
 | Oct 15 | BMO | PNC | PNC Financial Services | $4.98 |
@@ -293,7 +290,7 @@
 | Oct 29 | BMO | MRK | Merck & Co. | $2.21 |
 | Oct 29 | BMO | PSX | Phillips 66 | $9.90 |
 | Oct 29 | BMO | PWR | Quanta Services | $5.00 |
-| Oct 29 | AMC | QCOM | Qualcomm | $2.15 |
+| Oct 29 | AMC | QCOM | Qualcomm | $2.16 |
 | Oct 29 | AMC | RMD | ResMed | $2.68 |
 | Oct 29 | AMC | RSG | Republic Services | $1.93 |
 | Oct 29 | BMO | SO | Southern Company | $1.65 |
@@ -319,7 +316,7 @@
 | Oct 30 | BMO | TROW | T. Rowe Price | $2.67 |
 | Oct 30 | BMO | WAT | Waters Corporation | $4.00 |
 | Oct 30 | BMO | XOM | ExxonMobil | $3.66 |
-| Nov 02 | BMO | ARES | Ares Management | $1.31 |
+| Nov 02 | BMO | ARES | Ares Management | $1.30 |
 | Nov 02 | BMO | EL | Estée Lauder Companies (The) | $0.50 |
 | Nov 02 | AMC | FANG | Diamondback Energy | $4.90 |
 | Nov 02 | BMO | IDXX | Idexx Laboratories | $3.71 |
@@ -482,6 +479,7 @@
 | Nov 18 | BMO | TGT | Target Corporation | $2.05 |
 | Nov 18 | BMO | TJX | TJX Companies | $1.34 |
 | Nov 18 | BMO | WSM | Williams-Sonoma, Inc. | $2.18 |
+| Nov 19 | AMC | CPRT | Copart | $0.40 |
 | Nov 19 | AMC | INTU | Intuit | $2.72 |
 | Nov 19 | AMC | J | Jacobs Solutions | $2.13 |
 | Nov 19 | AMC | PANW | Palo Alto Networks | $0.98 |
@@ -501,5 +499,7 @@
 | Dec 02 | AMC | CRM | Salesforce | $3.44 |
 | Dec 03 | BMO | BF-B | Brown–Forman | $0.37 |
 | Dec 03 | AMC | ULTA | Ulta Beauty | $5.61 |
+| Dec 09 | AMC | ADBE | Adobe Inc. | $6.32 |
 | Dec 09 | AMC | AVGO | Broadcom | $3.83 |
+| Dec 10 | AMC | ORCL | Oracle Corporation | $1.87 |
 
