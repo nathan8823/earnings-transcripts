@@ -1,11 +1,10 @@
 # S&P 500 Earnings Calendar
-> Last updated: Sep 12, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Sep 13, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Sep 07–Sep 13)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Sep 09 | AMC | COO | Cooper Companies (The) | $1.07 |
-| Sep 11 | BMO | KR | Kroger | $1.17 |
 
 ## Next Week (Sep 14–Sep 20)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -25,7 +24,7 @@
 | Sep 30 | BMO | CAG | Conagra Brands | $0.28 |
 | Sep 30 | BMO | FDS | FactSet | $4.35 |
 | Sep 30 | BMO | JBL | Jabil | $4.07 |
-| Sep 30 | AMC | MU | Micron Technology | $31.28 |
+| Sep 30 | AMC | MU | Micron Technology | $31.33 |
 | Oct 01 | BMO | ACN | Accenture | $3.18 |
 | Oct 01 | BMO | MKC | McCormick & Company | $0.76 |
 | Oct 01 | AMC | NKE | Nike, Inc. | $0.45 |
@@ -257,7 +256,7 @@
 | Oct 29 | BMO | APTV | Aptiv | $1.33 |
 | Oct 29 | BMO | BAX | Baxter International | $0.52 |
 | Oct 29 | BMO | BIIB | Biogen | $2.03 |
-| Oct 29 | BMO | BLDR | Builders FirstSource | $1.07 |
+| Oct 29 | BMO | BLDR | Builders FirstSource | $1.09 |
 | Oct 29 | BMO | BMY | Bristol Myers Squibb | $1.73 |
 | Oct 29 | BMO | CAT | Caterpillar Inc. | $6.92 |
 | Oct 29 | BMO | CMCSA | Comcast | $1.00 |
@@ -417,7 +416,7 @@
 | Nov 05 | BMO | CMI | Cummins | $8.20 |
 | Nov 05 | BMO | COP | ConocoPhillips | $2.68 |
 | Nov 05 | AMC | CPT | Camden Property Trust | — |
-| Nov 05 | BMO | DD | DuPont | $1.91 |
+| Nov 05 | BMO | DD | DuPont | $1.90 |
 | Nov 05 | BMO | DDOG | Datadog | $0.64 |
 | Nov 05 | BMO | DUK | Duke Energy | $1.84 |
 | Nov 05 | AMC | ED | Consolidated Edison | $2.03 |
@@ -479,7 +478,7 @@
 | Nov 18 | BMO | TGT | Target Corporation | $2.05 |
 | Nov 18 | BMO | TJX | TJX Companies | $1.34 |
 | Nov 18 | BMO | WSM | Williams-Sonoma, Inc. | $2.18 |
-| Nov 19 | AMC | CPRT | Copart | $0.40 |
+| Nov 19 | AMC | CPRT | Copart | $0.39 |
 | Nov 19 | AMC | INTU | Intuit | $2.72 |
 | Nov 19 | AMC | J | Jacobs Solutions | $2.13 |
 | Nov 19 | AMC | PANW | Palo Alto Networks | $0.98 |
@@ -498,8 +497,9 @@
 | Dec 01 | AMC | NTAP | NetApp | $2.12 |
 | Dec 02 | AMC | CRM | Salesforce | $3.44 |
 | Dec 03 | BMO | BF-B | Brown–Forman | $0.37 |
+| Dec 03 | BMO | KR | Kroger | $1.17 |
 | Dec 03 | AMC | ULTA | Ulta Beauty | $5.61 |
 | Dec 09 | AMC | ADBE | Adobe Inc. | $6.32 |
 | Dec 09 | AMC | AVGO | Broadcom | $3.83 |
-| Dec 10 | AMC | ORCL | Oracle Corporation | $1.87 |
+| Dec 10 | AMC | ORCL | Oracle Corporation | $1.74 |
 
