@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T08:34:03.587032Z",
+  "updated_at": "2026-09-15T08:30:44.018076Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 500,
   "earnings": [
@@ -454,15 +454,6 @@
       "revenue_estimate": 1239995710
     },
     {
-      "ticker": "TRV",
-      "company": "Travelers Companies (The)",
-      "sector": "Financials",
-      "date": "2026-10-15",
-      "time": "BMO",
-      "eps_estimate": 6.83,
-      "revenue_estimate": 11017600000
-    },
-    {
       "ticker": "USB",
       "company": "U.S. Bancorp",
       "sector": "Financials",
@@ -506,6 +497,15 @@
       "time": "BMO",
       "eps_estimate": 1.11,
       "revenue_estimate": 5365954090
+    },
+    {
+      "ticker": "TRV",
+      "company": "Travelers Companies (The)",
+      "sector": "Financials",
+      "date": "2026-10-16",
+      "time": "BMO",
+      "eps_estimate": 6.83,
+      "revenue_estimate": 11017600000
     },
     {
       "ticker": "FITB",
@@ -1062,8 +1062,8 @@
       "sector": "Materials",
       "date": "2026-10-22",
       "time": "BMO",
-      "eps_estimate": 0.75,
-      "revenue_estimate": 11359207010
+      "eps_estimate": 0.74,
+      "revenue_estimate": 11366727520
     },
     {
       "ticker": "F",
@@ -1143,8 +1143,8 @@
       "sector": "Materials",
       "date": "2026-10-22",
       "time": "AMC",
-      "eps_estimate": 1.92,
-      "revenue_estimate": 6186160200
+      "eps_estimate": 1.94,
+      "revenue_estimate": 6224533580
     },
     {
       "ticker": "NSC",
@@ -1564,7 +1564,7 @@
       "company": "Invesco",
       "sector": "Financials",
       "date": "2026-10-27",
-      "time": "TBD",
+      "time": "BMO",
       "eps_estimate": 0.74,
       "revenue_estimate": 1385226120
     },
@@ -2033,7 +2033,7 @@
       "date": "2026-10-28",
       "time": "AMC",
       "eps_estimate": 4.72,
-      "revenue_estimate": 90670106720
+      "revenue_estimate": 90659206720
     },
     {
       "ticker": "NI",
@@ -2425,8 +2425,8 @@
       "sector": "Communication Services",
       "date": "2026-10-29",
       "time": "BMO",
-      "eps_estimate": 2.03,
-      "revenue_estimate": 4287101690
+      "eps_estimate": 2.02,
+      "revenue_estimate": 4284001570
     },
     {
       "ticker": "FSLR",
@@ -2452,8 +2452,8 @@
       "sector": "Health Care",
       "date": "2026-10-29",
       "time": "AMC",
-      "eps_estimate": 2.14,
-      "revenue_estimate": 7759907200
+      "eps_estimate": 2.15,
+      "revenue_estimate": 7765711840
     },
     {
       "ticker": "HIG",
@@ -2839,8 +2839,8 @@
       "sector": "Energy",
       "date": "2026-11-02",
       "time": "AMC",
-      "eps_estimate": 4.9,
-      "revenue_estimate": 4483092750
+      "eps_estimate": 4.94,
+      "revenue_estimate": 4539342750
     },
     {
       "ticker": "IDXX",
@@ -2955,7 +2955,7 @@
       "date": "2026-11-03",
       "time": "AMC",
       "eps_estimate": 1.93,
-      "revenue_estimate": 12992215760
+      "revenue_estimate": 12997554620
     },
     {
       "ticker": "AMGN",
@@ -3179,7 +3179,7 @@
       "sector": "Materials",
       "date": "2026-11-03",
       "time": "AMC",
-      "eps_estimate": 0.06,
+      "eps_estimate": 0.05,
       "revenue_estimate": 3106993480
     },
     {
@@ -3378,7 +3378,7 @@
       "date": "2026-11-04",
       "time": "AMC",
       "eps_estimate": 4.35,
-      "revenue_estimate": 2074356910
+      "revenue_estimate": 2070081240
     },
     {
       "ticker": "ATO",
@@ -3970,7 +3970,7 @@
       "date": "2026-11-05",
       "time": "AMC",
       "eps_estimate": 1.35,
-      "revenue_estimate": 1934225570
+      "revenue_estimate": 1936134660
     },
     {
       "ticker": "TDG",
@@ -4285,7 +4285,7 @@
       "date": "2026-11-19",
       "time": "AMC",
       "eps_estimate": 0.39,
-      "revenue_estimate": 1179201710
+      "revenue_estimate": 1177749880
     },
     {
       "ticker": "INTU",

@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: Sep 14, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Sep 15, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Sep 14–Sep 20)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -51,12 +51,12 @@
 | Oct 15 | BMO | PNC | PNC Financial Services | $4.98 |
 | Oct 15 | BMO | SCHW | Charles Schwab Corporation | $1.67 |
 | Oct 15 | BMO | SNA | Snap-on | $4.96 |
-| Oct 15 | BMO | TRV | Travelers Companies (The) | $6.83 |
 | Oct 15 | BMO | USB | U.S. Bancorp | $1.32 |
 | Oct 16 | BMO | CFG | Citizens Financial Group | $1.40 |
 | Oct 16 | BMO | MTB | M&T Bank | $4.94 |
 | Oct 16 | BMO | RF | Regions Financial Corporation | $0.66 |
 | Oct 16 | BMO | TFC | Truist Financial | $1.11 |
+| Oct 16 | BMO | TRV | Travelers Companies (The) | $6.83 |
 | Oct 19 | BMO | FITB | Fifth Third Bancorp | $1.07 |
 | Oct 19 | AMC | STLD | Steel Dynamics | $5.55 |
 | Oct 19 | AMC | WRB | W. R. Berkley Corporation | $1.12 |
@@ -118,7 +118,7 @@
 | Oct 22 | AMC | DLR | Digital Realty | $0.57 |
 | Oct 22 | AMC | DOC | Healthpeak Properties | $0.03 |
 | Oct 22 | BMO | DOV | Dover Corporation | $2.86 |
-| Oct 22 | BMO | DOW | Dow Inc. | $0.75 |
+| Oct 22 | BMO | DOW | Dow Inc. | $0.74 |
 | Oct 22 | AMC | F | Ford Motor Company | $0.41 |
 | Oct 22 | BMO | FCX | Freeport-McMoRan | $0.72 |
 | Oct 22 | AMC | FIX | Comfort Systems USA | $12.81 |
@@ -127,7 +127,7 @@
 | Oct 22 | BMO | HON | Honeywell | $2.17 |
 | Oct 22 | AMC | INTC | Intel | $0.39 |
 | Oct 22 | BMO | NDAQ | Nasdaq, Inc. | $1.03 |
-| Oct 22 | AMC | NEM | Newmont | $1.92 |
+| Oct 22 | AMC | NEM | Newmont | $1.94 |
 | Oct 22 | BMO | NSC | Norfolk Southern | $3.59 |
 | Oct 22 | BMO | PCG | PG&E Corporation | $0.42 |
 | Oct 22 | BMO | PG | Procter & Gamble | $1.89 |
@@ -174,7 +174,7 @@
 | Oct 27 | BMO | GLW | Corning Inc. | $0.87 |
 | Oct 27 | BMO | HUBB | Hubbell Incorporated | $5.75 |
 | Oct 27 | BMO | INCY | Incyte | $-3.47 |
-| Oct 27 | TBD | IVZ | Invesco | $0.74 |
+| Oct 27 | BMO | IVZ | Invesco | $0.74 |
 | Oct 27 | BMO | LH | Labcorp | $4.65 |
 | Oct 27 | AMC | MDLZ | Mondelez International | $0.72 |
 | Oct 27 | BMO | NEE | NextEra Energy | $1.18 |
@@ -270,10 +270,10 @@
 | Oct 29 | BMO | ETR | Entergy | $1.63 |
 | Oct 29 | AMC | EW | Edwards Lifesciences | $0.74 |
 | Oct 29 | BMO | FOX | Fox Corporation(Class B) | — |
-| Oct 29 | BMO | FOXA | Fox Corporation(Class A) | $2.03 |
+| Oct 29 | BMO | FOXA | Fox Corporation(Class A) | $2.02 |
 | Oct 29 | AMC | FSLR | First Solar | $4.68 |
 | Oct 29 | AMC | GDDY | GoDaddy | $2.47 |
-| Oct 29 | AMC | GILD | Gilead Sciences | $2.14 |
+| Oct 29 | AMC | GILD | Gilead Sciences | $2.15 |
 | Oct 29 | AMC | HIG | Hartford (The) | $3.06 |
 | Oct 29 | BMO | HII | Huntington Ingalls Industries | $4.50 |
 | Oct 29 | BMO | ICE | Intercontinental Exchange | $1.90 |
@@ -316,7 +316,7 @@
 | Oct 30 | BMO | XOM | ExxonMobil | $3.66 |
 | Nov 02 | BMO | ARES | Ares Management | $1.30 |
 | Nov 02 | BMO | EL | Estée Lauder Companies (The) | $0.51 |
-| Nov 02 | AMC | FANG | Diamondback Energy | $4.90 |
+| Nov 02 | AMC | FANG | Diamondback Energy | $4.94 |
 | Nov 02 | BMO | IDXX | Idexx Laboratories | $3.71 |
 | Nov 02 | BMO | L | Loews Corporation | — |
 | Nov 02 | AMC | O | Realty Income | $0.43 |
@@ -354,7 +354,7 @@
 | Nov 03 | AMC | LYV | Live Nation Entertainment | $1.55 |
 | Nov 03 | BMO | MAR | Marriott International | $2.83 |
 | Nov 03 | BMO | MLM | Martin Marietta Materials | $6.35 |
-| Nov 03 | AMC | MOS | Mosaic Company (The) | $0.06 |
+| Nov 03 | AMC | MOS | Mosaic Company (The) | $0.05 |
 | Nov 03 | BMO | MPC | Marathon Petroleum | $21.03 |
 | Nov 03 | AMC | MTCH | Match Group | $1.01 |
 | Nov 03 | BMO | PFE | Pfizer | $0.76 |
