@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: Sep 16, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Sep 17, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Sep 14–Sep 20)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -46,7 +46,7 @@
 | Oct 14 | BMO | PGR | Progressive Corporation | $4.03 |
 | Oct 14 | BMO | STT | State Street Corporation | $3.64 |
 | Oct 14 | BMO | SYF | Synchrony Financial | $2.35 |
-| Oct 15 | TBD | JBHT | J.B. Hunt | $2.14 |
+| Oct 15 | AMC | JBHT | J.B. Hunt | $2.14 |
 | Oct 15 | BMO | MRSH | Marsh McLennan | $1.97 |
 | Oct 15 | BMO | PLD | Prologis | $0.79 |
 | Oct 15 | BMO | PNC | PNC Financial Services | $4.98 |
@@ -235,6 +235,7 @@
 | Oct 28 | BMO | OTIS | Otis Worldwide | $1.01 |
 | Oct 28 | AMC | PRU | Prudential Financial | $3.46 |
 | Oct 28 | AMC | PSA | Public Storage | $2.46 |
+| Oct 28 | BMO | PSX | Phillips 66 | $10.61 |
 | Oct 28 | AMC | REG | Regency Centers | $0.60 |
 | Oct 28 | BMO | REGN | Regeneron Pharmaceuticals | $15.94 |
 | Oct 28 | AMC | RJF | Raymond James Financial | $3.35 |
@@ -286,7 +287,6 @@
 | Oct 29 | BMO | MO | Altria | $1.51 |
 | Oct 29 | AMC | MPWR | Monolithic Power Systems | $7.70 |
 | Oct 29 | BMO | MRK | Merck & Co. | $2.21 |
-| Oct 29 | BMO | PSX | Phillips 66 | $10.61 |
 | Oct 29 | BMO | PWR | Quanta Services | $5.00 |
 | Oct 29 | AMC | QCOM | Qualcomm | $2.16 |
 | Oct 29 | AMC | RMD | ResMed | $2.68 |

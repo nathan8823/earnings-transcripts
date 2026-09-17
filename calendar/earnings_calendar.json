@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T08:32:41.650233Z",
+  "updated_at": "2026-09-17T08:31:06.517428Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 500,
   "earnings": [
@@ -109,7 +109,7 @@
       "date": "2026-09-16",
       "time": "AMC",
       "eps_estimate": 1.29,
-      "revenue_estimate": 8370717760
+      "revenue_estimate": 8351165540
     },
     {
       "ticker": "AZO",
@@ -413,7 +413,7 @@
       "company": "J.B. Hunt",
       "sector": "Industrials",
       "date": "2026-10-15",
-      "time": "TBD",
+      "time": "AMC",
       "eps_estimate": 2.14,
       "revenue_estimate": 3541932430
     },
@@ -2108,6 +2108,15 @@
       "revenue_estimate": 1326870600
     },
     {
+      "ticker": "PSX",
+      "company": "Phillips 66",
+      "sector": "Energy",
+      "date": "2026-10-28",
+      "time": "BMO",
+      "eps_estimate": 10.61,
+      "revenue_estimate": 41276718430
+    },
+    {
       "ticker": "REG",
       "company": "Regency Centers",
       "sector": "Real Estate",
@@ -2562,15 +2571,6 @@
       "time": "BMO",
       "eps_estimate": 2.21,
       "revenue_estimate": 17354898980
-    },
-    {
-      "ticker": "PSX",
-      "company": "Phillips 66",
-      "sector": "Energy",
-      "date": "2026-10-29",
-      "time": "BMO",
-      "eps_estimate": 10.61,
-      "revenue_estimate": 41276718430
     },
     {
       "ticker": "PWR",
@@ -4503,7 +4503,7 @@
       "date": "2026-09-16",
       "time": "AMC",
       "eps_estimate": 1.29,
-      "revenue_estimate": 8370717760
+      "revenue_estimate": 8351165540
     }
   ],
   "next_week": [
