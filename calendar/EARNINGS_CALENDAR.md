@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: Sep 18, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Sep 19, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Sep 14–Sep 20)
 _No earnings scheduled._
@@ -27,8 +27,8 @@ _No earnings scheduled._
 | Oct 01 | AMC | NKE | Nike, Inc. | $0.45 |
 | Oct 06 | BMO | LW | Lamb Weston | $0.59 |
 | Oct 06 | AMC | STZ | Constellation Brands | $3.60 |
-| Oct 08 | BMO | DAL | Delta Air Lines | $2.02 |
 | Oct 08 | BMO | PEP | PepsiCo | $2.30 |
+| Oct 09 | BMO | DAL | Delta Air Lines | $2.02 |
 | Oct 13 | BMO | C | Citigroup | $2.62 |
 | Oct 13 | BMO | DPZ | Domino's | $4.40 |
 | Oct 13 | BMO | GS | Goldman Sachs | $16.41 |

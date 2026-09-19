@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T08:29:18.870777Z",
+  "updated_at": "2026-09-19T08:27:20.124956Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 500,
   "earnings": [
@@ -247,15 +247,6 @@
       "revenue_estimate": 2544988160
     },
     {
-      "ticker": "DAL",
-      "company": "Delta Air Lines",
-      "sector": "Industrials",
-      "date": "2026-10-08",
-      "time": "BMO",
-      "eps_estimate": 2.02,
-      "revenue_estimate": 19040208820
-    },
-    {
       "ticker": "PEP",
       "company": "PepsiCo",
       "sector": "Consumer Staples",
@@ -263,6 +254,15 @@
       "time": "BMO",
       "eps_estimate": 2.3,
       "revenue_estimate": 25008210030
+    },
+    {
+      "ticker": "DAL",
+      "company": "Delta Air Lines",
+      "sector": "Industrials",
+      "date": "2026-10-09",
+      "time": "BMO",
+      "eps_estimate": 2.02,
+      "revenue_estimate": 19040208820
     },
     {
       "ticker": "C",
