@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T08:28:31.559170Z",
+  "updated_at": "2026-09-21T08:34:04.392670Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 500,
   "earnings": [
@@ -4495,8 +4495,7 @@
       "revenue_estimate": 8817956210
     }
   ],
-  "this_week": [],
-  "next_week": [
+  "this_week": [
     {
       "ticker": "AZO",
       "company": "AutoZone",
@@ -4550,6 +4549,80 @@
       "time": "BMO",
       "eps_estimate": 2.05,
       "revenue_estimate": 3206875640
+    }
+  ],
+  "next_week": [
+    {
+      "ticker": "CCL",
+      "company": "Carnival",
+      "sector": "Consumer Discretionary",
+      "date": "2026-09-29",
+      "time": "BMO",
+      "eps_estimate": 1.35,
+      "revenue_estimate": 8401010310
+    },
+    {
+      "ticker": "CAG",
+      "company": "Conagra Brands",
+      "sector": "Consumer Staples",
+      "date": "2026-09-30",
+      "time": "BMO",
+      "eps_estimate": 0.28,
+      "revenue_estimate": 2588015680
+    },
+    {
+      "ticker": "FDS",
+      "company": "FactSet",
+      "sector": "Financials",
+      "date": "2026-09-30",
+      "time": "BMO",
+      "eps_estimate": 4.35,
+      "revenue_estimate": 629785470
+    },
+    {
+      "ticker": "JBL",
+      "company": "Jabil",
+      "sector": "Information Technology",
+      "date": "2026-09-30",
+      "time": "BMO",
+      "eps_estimate": 4.07,
+      "revenue_estimate": 9696629980
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "sector": "Information Technology",
+      "date": "2026-09-30",
+      "time": "AMC",
+      "eps_estimate": 31.35,
+      "revenue_estimate": 50972182430
+    },
+    {
+      "ticker": "ACN",
+      "company": "Accenture",
+      "sector": "Information Technology",
+      "date": "2026-10-01",
+      "time": "BMO",
+      "eps_estimate": 3.18,
+      "revenue_estimate": 18036948790
+    },
+    {
+      "ticker": "MKC",
+      "company": "McCormick & Company",
+      "sector": "Consumer Staples",
+      "date": "2026-10-01",
+      "time": "BMO",
+      "eps_estimate": 0.76,
+      "revenue_estimate": 1980262330
+    },
+    {
+      "ticker": "NKE",
+      "company": "Nike, Inc.",
+      "sector": "Consumer Discretionary",
+      "date": "2026-10-01",
+      "time": "AMC",
+      "eps_estimate": 0.45,
+      "revenue_estimate": 11340100780
     }
   ]
 }

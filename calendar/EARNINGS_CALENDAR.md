@@ -1,10 +1,7 @@
 # S&P 500 Earnings Calendar
-> Last updated: Sep 20, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Sep 21, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
-## This Week (Sep 14–Sep 20)
-_No earnings scheduled._
-
-## Next Week (Sep 21–Sep 27)
+## This Week (Sep 21–Sep 27)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Sep 22 | BMO | AZO | AutoZone | $53.84 |
@@ -14,7 +11,7 @@ _No earnings scheduled._
 | Sep 24 | AMC | COST | Costco | $6.52 |
 | Sep 24 | BMO | DRI | Darden Restaurants | $2.05 |
 
-## Later (Sep 28+)
+## Next Week (Sep 28–Oct 04)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Sep 29 | BMO | CCL | Carnival | $1.35 |
@@ -25,6 +22,10 @@ _No earnings scheduled._
 | Oct 01 | BMO | ACN | Accenture | $3.18 |
 | Oct 01 | BMO | MKC | McCormick & Company | $0.76 |
 | Oct 01 | AMC | NKE | Nike, Inc. | $0.45 |
+
+## Later (Oct 05+)
+| Date | Time | Ticker | Company | Est. EPS |
+|------|------|--------|---------|----------|
 | Oct 06 | BMO | LW | Lamb Weston | $0.59 |
 | Oct 06 | AMC | STZ | Constellation Brands | $3.60 |
 | Oct 08 | BMO | PEP | PepsiCo | $2.30 |
