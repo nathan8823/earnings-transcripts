@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: Sep 26, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Sep 27, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Sep 21–Sep 27)
 _No earnings scheduled._
@@ -39,7 +39,7 @@ _No earnings scheduled._
 | Oct 14 | BMO | STT | State Street Corporation | $3.64 |
 | Oct 15 | AMC | IBKR | Interactive Brokers | $0.69 |
 | Oct 15 | AMC | JBHT | J.B. Hunt | $1.97 |
-| Oct 15 | BMO | MRSH | Marsh McLennan | $1.98 |
+| Oct 15 | BMO | MRSH | Marsh McLennan | $1.97 |
 | Oct 15 | BMO | PLD | Prologis | $0.78 |
 | Oct 15 | BMO | PNC | PNC Financial Services | $4.97 |
 | Oct 15 | BMO | SCHW | Charles Schwab Corporation | $1.67 |
@@ -205,8 +205,8 @@ _No earnings scheduled._
 | Oct 28 | BMO | GEHC | GE HealthCare | $1.20 |
 | Oct 28 | BMO | GEV | GE Vernova | $3.96 |
 | Oct 28 | BMO | GNRC | Generac | $2.43 |
-| Oct 28 | AMC | GOOG | Alphabet Inc.(Class C) | $3.02 |
-| Oct 28 | AMC | GOOGL | Alphabet Inc.(Class A) | $3.02 |
+| Oct 28 | AMC | GOOG | Alphabet Inc.(Class C) | $3.03 |
+| Oct 28 | AMC | GOOGL | Alphabet Inc.(Class A) | $3.03 |
 | Oct 28 | BMO | GRMN | Garmin | $2.38 |
 | Oct 28 | BMO | HLT | Hilton Worldwide | $2.35 |
 | Oct 28 | BMO | IEX | IDEX Corporation | $2.24 |
@@ -244,7 +244,7 @@ _No earnings scheduled._
 | Oct 29 | AMC | AJG | Arthur J. Gallagher & Co. | $3.01 |
 | Oct 29 | BMO | AME | Ametek | $2.10 |
 | Oct 29 | BMO | AMP | Ameriprise Financial | $11.79 |
-| Oct 29 | AMC | AMZN | Amazon | $1.94 |
+| Oct 29 | AMC | AMZN | Amazon | $1.98 |
 | Oct 29 | BMO | APTV | Aptiv | $1.33 |
 | Oct 29 | BMO | BAX | Baxter International | $0.52 |
 | Oct 29 | BMO | BLDR | Builders FirstSource | $1.09 |

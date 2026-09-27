@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T08:29:22.390561Z",
+  "updated_at": "2026-09-27T08:28:52.821378Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 500,
   "earnings": [
@@ -360,7 +360,7 @@
       "sector": "Financials",
       "date": "2026-10-15",
       "time": "BMO",
-      "eps_estimate": 1.98,
+      "eps_estimate": 1.97,
       "revenue_estimate": 6652378920
     },
     {
@@ -1476,7 +1476,7 @@
       "date": "2026-10-27",
       "time": "BMO",
       "eps_estimate": 5.75,
-      "revenue_estimate": 1845837870
+      "revenue_estimate": 1847761700
     },
     {
       "ticker": "INCY",
@@ -1853,8 +1853,8 @@
       "sector": "Communication Services",
       "date": "2026-10-28",
       "time": "AMC",
-      "eps_estimate": 3.02,
-      "revenue_estimate": 127298017980
+      "eps_estimate": 3.03,
+      "revenue_estimate": 127319479060
     },
     {
       "ticker": "GOOGL",
@@ -1862,8 +1862,8 @@
       "sector": "Communication Services",
       "date": "2026-10-28",
       "time": "AMC",
-      "eps_estimate": 3.02,
-      "revenue_estimate": 127298017980
+      "eps_estimate": 3.03,
+      "revenue_estimate": 127319479060
     },
     {
       "ticker": "GRMN",
@@ -2202,7 +2202,7 @@
       "sector": "Consumer Discretionary",
       "date": "2026-10-29",
       "time": "AMC",
-      "eps_estimate": 1.94,
+      "eps_estimate": 1.98,
       "revenue_estimate": 202056188580
     },
     {
@@ -3655,7 +3655,7 @@
       "date": "2026-11-05",
       "time": "BMO",
       "eps_estimate": 0.64,
-      "revenue_estimate": 1145619380
+      "revenue_estimate": 1144378120
     },
     {
       "ticker": "DUK",
@@ -4492,7 +4492,7 @@
       "date": "2026-12-24",
       "time": "BMO",
       "eps_estimate": 2.26,
-      "revenue_estimate": 3271179840
+      "revenue_estimate": 3271413420
     }
   ],
   "this_week": [],
