@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T08:28:52.821378Z",
+  "updated_at": "2026-09-28T08:37:49.650744Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 500,
   "earnings": [
@@ -846,8 +846,8 @@
       "sector": "Information Technology",
       "date": "2026-10-21",
       "time": "BMO",
-      "eps_estimate": 6.15,
-      "revenue_estimate": 1649725880
+      "eps_estimate": 6.16,
+      "revenue_estimate": 1651907550
     },
     {
       "ticker": "TER",
@@ -873,8 +873,8 @@
       "sector": "Consumer Discretionary",
       "date": "2026-10-21",
       "time": "AMC",
-      "eps_estimate": 0.45,
-      "revenue_estimate": 27449536180
+      "eps_estimate": 0.44,
+      "revenue_estimate": 27474474570
     },
     {
       "ticker": "UAL",
@@ -3207,7 +3207,7 @@
       "date": "2026-11-03",
       "time": "BMO",
       "eps_estimate": 4.9,
-      "revenue_estimate": 1569128850
+      "revenue_estimate": 1569941920
     },
     {
       "ticker": "AEE",
@@ -4495,8 +4495,7 @@
       "revenue_estimate": 3271413420
     }
   ],
-  "this_week": [],
-  "next_week": [
+  "this_week": [
     {
       "ticker": "CCL",
       "company": "Carnival",
@@ -4568,6 +4567,44 @@
       "time": "AMC",
       "eps_estimate": 0.44,
       "revenue_estimate": 11324062470
+    }
+  ],
+  "next_week": [
+    {
+      "ticker": "LW",
+      "company": "Lamb Weston",
+      "sector": "Consumer Staples",
+      "date": "2026-10-06",
+      "time": "BMO",
+      "eps_estimate": 0.59,
+      "revenue_estimate": 1655206880
+    },
+    {
+      "ticker": "STZ",
+      "company": "Constellation Brands",
+      "sector": "Consumer Staples",
+      "date": "2026-10-06",
+      "time": "AMC",
+      "eps_estimate": 3.55,
+      "revenue_estimate": 2539838000
+    },
+    {
+      "ticker": "PEP",
+      "company": "PepsiCo",
+      "sector": "Consumer Staples",
+      "date": "2026-10-08",
+      "time": "BMO",
+      "eps_estimate": 2.3,
+      "revenue_estimate": 24999253170
+    },
+    {
+      "ticker": "DAL",
+      "company": "Delta Air Lines",
+      "sector": "Industrials",
+      "date": "2026-10-09",
+      "time": "BMO",
+      "eps_estimate": 1.99,
+      "revenue_estimate": 19040208820
     }
   ]
 }

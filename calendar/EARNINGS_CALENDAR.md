@@ -1,10 +1,7 @@
 # S&P 500 Earnings Calendar
-> Last updated: Sep 27, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Sep 28, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
-## This Week (Sep 21–Sep 27)
-_No earnings scheduled._
-
-## Next Week (Sep 28–Oct 04)
+## This Week (Sep 28–Oct 04)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Sep 29 | BMO | CCL | Carnival | $1.35 |
@@ -16,13 +13,17 @@ _No earnings scheduled._
 | Oct 01 | BMO | MKC | McCormick & Company | $0.76 |
 | Oct 01 | AMC | NKE | Nike, Inc. | $0.44 |
 
-## Later (Oct 05+)
+## Next Week (Oct 05–Oct 11)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Oct 06 | BMO | LW | Lamb Weston | $0.59 |
 | Oct 06 | AMC | STZ | Constellation Brands | $3.55 |
 | Oct 08 | BMO | PEP | PepsiCo | $2.30 |
 | Oct 09 | BMO | DAL | Delta Air Lines | $1.99 |
+
+## Later (Oct 12+)
+| Date | Time | Ticker | Company | Est. EPS |
+|------|------|--------|---------|----------|
 | Oct 13 | BMO | C | Citigroup | $2.64 |
 | Oct 13 | BMO | DPZ | Domino's | $4.40 |
 | Oct 13 | BMO | GS | Goldman Sachs | $16.03 |
@@ -93,10 +94,10 @@ _No earnings scheduled._
 | Oct 21 | AMC | PKG | Packaging Corporation of America | $2.91 |
 | Oct 21 | BMO | PM | Philip Morris International | $2.34 |
 | Oct 21 | BMO | T | AT&T | $0.60 |
-| Oct 21 | BMO | TDY | Teledyne Technologies | $6.15 |
+| Oct 21 | BMO | TDY | Teledyne Technologies | $6.16 |
 | Oct 21 | AMC | TER | Teradyne | $2.05 |
 | Oct 21 | BMO | TMO | Thermo Fisher Scientific | $6.41 |
-| Oct 21 | AMC | TSLA | Tesla, Inc. | $0.45 |
+| Oct 21 | AMC | TSLA | Tesla, Inc. | $0.44 |
 | Oct 21 | AMC | UAL | United Airlines Holdings | $2.89 |
 | Oct 21 | AMC | URI | United Rentals | $13.90 |
 | Oct 21 | AMC | VLTO | Veralto | $1.09 |
