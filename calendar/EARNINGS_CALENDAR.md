@@ -1,12 +1,7 @@
 # S&P 500 Earnings Calendar
-> Last updated: Oct 04, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Oct 05, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
-## This Week (Sep 28–Oct 04)
-| Date | Time | Ticker | Company | Est. EPS |
-|------|------|--------|---------|----------|
-| Oct 01 | BMO | MKC | McCormick & Company | $0.78 |
-
-## Next Week (Oct 05–Oct 11)
+## This Week (Oct 05–Oct 11)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Oct 06 | BMO | LW | Lamb Weston | $0.59 |
@@ -14,7 +9,7 @@
 | Oct 08 | BMO | PEP | PepsiCo | $2.30 |
 | Oct 09 | BMO | DAL | Delta Air Lines | $1.88 |
 
-## Later (Oct 12+)
+## Next Week (Oct 12–Oct 18)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Oct 13 | BMO | C | Citigroup | $2.62 |
@@ -43,6 +38,10 @@
 | Oct 16 | BMO | RF | Regions Financial Corporation | $0.66 |
 | Oct 16 | BMO | TFC | Truist Financial | $1.17 |
 | Oct 16 | BMO | TRV | Travelers Companies (The) | $6.97 |
+
+## Later (Oct 19+)
+| Date | Time | Ticker | Company | Est. EPS |
+|------|------|--------|---------|----------|
 | Oct 19 | BMO | FITB | Fifth Third Bancorp | $1.08 |
 | Oct 19 | AMC | STLD | Steel Dynamics | $5.41 |
 | Oct 19 | AMC | WRB | W. R. Berkley Corporation | $1.12 |
@@ -94,7 +93,7 @@
 | Oct 21 | AMC | VLTO | Veralto | $1.09 |
 | Oct 21 | BMO | WAB | Wabtec | $2.73 |
 | Oct 22 | BMO | ALLE | Allegion | $2.50 |
-| Oct 22 | BMO | BX | Blackstone Inc. | $1.35 |
+| Oct 22 | BMO | BX | Blackstone Inc. | $1.34 |
 | Oct 22 | BMO | CBRE | CBRE Group | $1.96 |
 | Oct 22 | BMO | CMCSA | Comcast | $0.99 |
 | Oct 22 | AMC | DECK | Deckers Brands | $1.79 |
@@ -119,7 +118,7 @@
 | Oct 22 | BMO | VLO | Valero Energy | $18.86 |
 | Oct 22 | AMC | VRSN | Verisign | $2.46 |
 | Oct 22 | BMO | WST | West Pharmaceutical Services | $2.19 |
-| Oct 23 | BMO | AXP | American Express | $4.54 |
+| Oct 23 | BMO | AXP | American Express | $4.53 |
 | Oct 23 | BMO | ITW | Illinois Tool Works | $2.97 |
 | Oct 23 | BMO | SLB | Schlumberger | $0.62 |
 | Oct 26 | AMC | ARE | Alexandria Real Estate Equities | — |
@@ -272,8 +271,8 @@
 | Oct 29 | BMO | LLY | Lilly (Eli) | $9.96 |
 | Oct 29 | BMO | MA | Mastercard | $5.15 |
 | Oct 29 | BMO | MO | Altria | $1.51 |
-| Oct 29 | AMC | MPWR | Monolithic Power Systems | $7.70 |
-| Oct 29 | BMO | MRK | Merck & Co. | $2.19 |
+| Oct 29 | AMC | MPWR | Monolithic Power Systems | $7.71 |
+| Oct 29 | BMO | MRK | Merck & Co. | $2.18 |
 | Oct 29 | BMO | PWR | Quanta Services | $4.99 |
 | Oct 29 | AMC | RMD | ResMed | $2.67 |
 | Oct 29 | AMC | RSG | Republic Services | $1.93 |
