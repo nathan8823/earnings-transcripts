@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: Oct 10, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Oct 11, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Oct 05–Oct 11)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -486,7 +486,7 @@
 | Dec 09 | AMC | ADBE | Adobe Inc. | $6.33 |
 | Dec 09 | AMC | AVGO | Broadcom | $3.83 |
 | Dec 10 | AMC | COST | Costco | $4.94 |
-| Dec 10 | AMC | ORCL | Oracle Corporation | $1.89 |
+| Dec 14 | AMC | ORCL | Oracle Corporation | $1.89 |
 | Dec 15 | AMC | LEN | Lennar | $1.44 |
 | Dec 16 | BMO | JBL | Jabil | $4.08 |
 | Dec 17 | BMO | ACN | Accenture | $3.95 |
