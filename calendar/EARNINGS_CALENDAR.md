@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: Oct 17, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Oct 18, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Oct 12–Oct 18)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -14,11 +14,10 @@
 | Oct 15 | BMO | PLD | Prologis | $0.77 |
 | Oct 15 | BMO | SCHW | Charles Schwab Corporation | $1.72 |
 | Oct 15 | BMO | USB | U.S. Bancorp | $1.41 |
-| Oct 16 | BMO | CFG | Citizens Financial Group | $1.47 |
 | Oct 16 | BMO | MTB | M&T Bank | $4.98 |
 | Oct 16 | BMO | RF | Regions Financial Corporation | $0.68 |
-| Oct 16 | BMO | TFC | Truist Financial | $1.22 |
-| Oct 16 | BMO | TRV | Travelers Companies (The) | $9.89 |
+| Oct 16 | BMO | TFC | Truist Financial | $1.23 |
+| Oct 16 | BMO | TRV | Travelers Companies (The) | $9.79 |
 
 ## Next Week (Oct 19–Oct 25)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -58,7 +57,7 @@
 | Oct 21 | BMO | MCO | Moody's Corporation | $4.25 |
 | Oct 21 | AMC | META | Meta Platforms | $6.76 |
 | Oct 21 | AMC | MOH | Molina Healthcare | $0.79 |
-| Oct 21 | BMO | NEE | NextEra Energy | $1.17 |
+| Oct 21 | BMO | NEE | NextEra Energy | $1.18 |
 | Oct 21 | BMO | NTRS | Northern Trust | $2.85 |
 | Oct 21 | AMC | PKG | Packaging Corporation of America | $2.92 |
 | Oct 21 | BMO | PM | Philip Morris International | $2.32 |
@@ -78,10 +77,10 @@
 | Oct 22 | BMO | DGX | Quest Diagnostics | $2.87 |
 | Oct 22 | BMO | DOV | Dover Corporation | $2.85 |
 | Oct 22 | BMO | DOW | Dow Inc. | $0.63 |
-| Oct 22 | AMC | FIX | Comfort Systems USA | $12.81 |
+| Oct 22 | AMC | FIX | Comfort Systems USA | $12.85 |
 | Oct 22 | BMO | HBAN | Huntington Bancshares | $0.38 |
 | Oct 22 | BMO | HON | Honeywell | $2.16 |
-| Oct 22 | BMO | LMT | Lockheed Martin | $7.54 |
+| Oct 22 | BMO | LMT | Lockheed Martin | $7.52 |
 | Oct 22 | BMO | NDAQ | Nasdaq, Inc. | $1.02 |
 | Oct 22 | AMC | NEM | Newmont | $1.94 |
 | Oct 22 | BMO | NSC | Norfolk Southern | $3.47 |
@@ -89,8 +88,8 @@
 | Oct 22 | AMC | OMC | Omnicom Group | $2.67 |
 | Oct 22 | BMO | PCG | PG&E Corporation | $0.42 |
 | Oct 22 | BMO | PG | Procter & Gamble | $1.89 |
-| Oct 22 | BMO | PHM | PulteGroup | $2.64 |
-| Oct 22 | BMO | POOL | Pool Corporation | $3.36 |
+| Oct 22 | BMO | PHM | PulteGroup | $2.63 |
+| Oct 22 | BMO | POOL | Pool Corporation | $3.35 |
 | Oct 22 | BMO | ROP | Roper Technologies | $5.79 |
 | Oct 22 | BMO | SNA | Snap-on | $4.94 |
 | Oct 22 | BMO | TSCO | Tractor Supply | $0.40 |
@@ -99,7 +98,7 @@
 | Oct 22 | AMC | VRSN | Verisign | $2.46 |
 | Oct 22 | AMC | WDC | Western Digital | $4.08 |
 | Oct 23 | BMO | AXP | American Express | $4.49 |
-| Oct 23 | BMO | SLB | Schlumberger | $0.62 |
+| Oct 23 | BMO | SLB | Schlumberger | $0.61 |
 
 ## Later (Oct 26+)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -249,7 +248,7 @@
 | Oct 29 | AMC | MPWR | Monolithic Power Systems | $7.74 |
 | Oct 29 | BMO | MRK | Merck & Co. | $2.09 |
 | Oct 29 | BMO | NCLH | Norwegian Cruise Line Holdings | $0.94 |
-| Oct 29 | BMO | PWR | Quanta Services | $5.00 |
+| Oct 29 | BMO | PWR | Quanta Services | $4.99 |
 | Oct 29 | AMC | RMD | ResMed | $2.67 |
 | Oct 29 | AMC | RSG | Republic Services | $1.93 |
 | Oct 29 | AMC | SBUX | Starbucks | $0.70 |
@@ -276,13 +275,13 @@
 | Oct 30 | BMO | GD | General Dynamics | $4.13 |
 | Oct 30 | BMO | LYB | LyondellBasell | $2.54 |
 | Oct 30 | BMO | REGN | Regeneron Pharmaceuticals | $16.06 |
-| Oct 30 | BMO | XOM | ExxonMobil | $3.93 |
+| Oct 30 | BMO | XOM | ExxonMobil | $3.98 |
 | Nov 02 | AMC | AAPL | Apple Inc. | $1.98 |
 | Nov 02 | AMC | CLX | Clorox | $1.08 |
 | Nov 02 | AMC | DOC | Healthpeak Properties | $0.03 |
 | Nov 02 | BMO | EL | Estée Lauder Companies (The) | $0.50 |
 | Nov 02 | BMO | ETR | Entergy | $1.66 |
-| Nov 02 | AMC | FANG | Diamondback Energy | $5.32 |
+| Nov 02 | AMC | FANG | Diamondback Energy | $5.31 |
 | Nov 02 | BMO | FOX | Fox Corporation(Class B) | — |
 | Nov 02 | BMO | FOXA | Fox Corporation(Class A) | $2.03 |
 | Nov 02 | BMO | IDXX | Idexx Laboratories | $3.72 |
@@ -330,7 +329,7 @@
 | Nov 03 | BMO | MPC | Marathon Petroleum | $25.35 |
 | Nov 03 | BMO | PFE | Pfizer | $0.73 |
 | Nov 03 | BMO | PNW | Pinnacle West Capital | $3.26 |
-| Nov 03 | AMC | PRU | Prudential Financial | $3.45 |
+| Nov 03 | AMC | PRU | Prudential Financial | $3.42 |
 | Nov 03 | BMO | RVTY | Revvity | $1.30 |
 | Nov 03 | AMC | SMCI | Supermicro | $1.04 |
 | Nov 03 | AMC | SWKS | Skyworks Solutions | $1.27 |
@@ -342,7 +341,7 @@
 | Nov 04 | AMC | AES | AES Corporation | $0.73 |
 | Nov 04 | AMC | AFL | Aflac | $1.80 |
 | Nov 04 | AMC | ALB | Albemarle Corporation | $2.58 |
-| Nov 04 | AMC | ALL | Allstate | $6.92 |
+| Nov 04 | AMC | ALL | Allstate | $6.93 |
 | Nov 04 | AMC | APA | APA Corporation | $1.53 |
 | Nov 04 | AMC | APP | AppLovin | $4.34 |
 | Nov 04 | AMC | ATO | Atmos Energy | $1.15 |
@@ -355,7 +354,7 @@
 | Nov 04 | BMO | DDOG | Datadog | $0.64 |
 | Nov 04 | BMO | EMR | Emerson Electric | $1.85 |
 | Nov 04 | AMC | EQR | Equity Residential | $0.37 |
-| Nov 04 | AMC | ES | Eversource Energy | $0.99 |
+| Nov 04 | AMC | ES | Eversource Energy | $0.98 |
 | Nov 04 | AMC | EW | Edwards Lifesciences | $0.74 |
 | Nov 04 | AMC | EXPE | Expedia Group | $8.87 |
 | Nov 04 | AMC | FICO | Fair Isaac | $10.90 |
@@ -431,7 +430,7 @@
 | Nov 07 | AMC | BRK-B | Berkshire Hathaway | $6.03 |
 | Nov 09 | BMO | CEG | Constellation Energy | $3.73 |
 | Nov 09 | BMO | KKR | KKR & Co. | $1.59 |
-| Nov 09 | AMC | OXY | Occidental Petroleum | $1.40 |
+| Nov 09 | AMC | OXY | Occidental Petroleum | $1.41 |
 | Nov 09 | AMC | PSKY | Paramount Skydance Corporation | $0.19 |
 | Nov 09 | BMO | TECH | Bio-Techne | $0.45 |
 | Nov 09 | AMC | TTWO | Take-Two Interactive | $0.94 |
@@ -494,7 +493,8 @@
 | Jan 14 | BMO | MS | Morgan Stanley | $2.98 |
 | Jan 14 | BMO | WFC | Wells Fargo | $1.84 |
 | Jan 15 | BMO | BAC | Bank of America | $1.13 |
+| Jan 15 | BMO | CFG | Citizens Financial Group | $1.47 |
 | Jan 15 | AMC | JBHT | J.B. Hunt | $2.04 |
-| Jan 15 | BMO | PNC | PNC Financial Services | $5.10 |
+| Jan 15 | BMO | PNC | PNC Financial Services | $5.11 |
 | Jan 15 | BMO | STT | State Street Corporation | $3.64 |
 
