@@ -1,25 +1,7 @@
 # S&P 500 Earnings Calendar
-> Last updated: Oct 18, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Oct 19, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
-## This Week (Oct 12–Oct 18)
-| Date | Time | Ticker | Company | Est. EPS |
-|------|------|--------|---------|----------|
-| Oct 13 | BMO | DPZ | Domino's | $6.38 |
-| Oct 13 | BMO | GS | Goldman Sachs | $16.00 |
-| Oct 13 | BMO | JNJ | Johnson & Johnson | $2.93 |
-| Oct 14 | TBD | FAST | Fastenal | $0.30 |
-| Oct 14 | TBD | PGR | Progressive Corporation | $4.10 |
-| Oct 15 | AMC | IBKR | Interactive Brokers | $0.74 |
-| Oct 15 | BMO | MRSH | Marsh McLennan | $2.22 |
-| Oct 15 | BMO | PLD | Prologis | $0.77 |
-| Oct 15 | BMO | SCHW | Charles Schwab Corporation | $1.72 |
-| Oct 15 | BMO | USB | U.S. Bancorp | $1.41 |
-| Oct 16 | BMO | MTB | M&T Bank | $4.98 |
-| Oct 16 | BMO | RF | Regions Financial Corporation | $0.68 |
-| Oct 16 | BMO | TFC | Truist Financial | $1.23 |
-| Oct 16 | BMO | TRV | Travelers Companies (The) | $9.79 |
-
-## Next Week (Oct 19–Oct 25)
+## This Week (Oct 19–Oct 25)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Oct 19 | BMO | FITB | Fifth Third Bancorp | $1.08 |
@@ -100,7 +82,7 @@
 | Oct 23 | BMO | AXP | American Express | $4.49 |
 | Oct 23 | BMO | SLB | Schlumberger | $0.61 |
 
-## Later (Oct 26+)
+## Next Week (Oct 26–Nov 01)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Oct 26 | AMC | ARE | Alexandria Real Estate Equities | — |
@@ -158,7 +140,7 @@
 | Oct 27 | AMC | WM | Waste Management | $2.18 |
 | Oct 27 | BMO | XYL | Xylem Inc. | $1.45 |
 | Oct 28 | BMO | ADP | Automatic Data Processing | $2.77 |
-| Oct 28 | BMO | AEP | American Electric Power | $2.01 |
+| Oct 28 | BMO | AEP | American Electric Power | $2.02 |
 | Oct 28 | AMC | ALGN | Align Technology | $2.78 |
 | Oct 28 | BMO | AON | Aon plc | $3.30 |
 | Oct 28 | BMO | APH | Amphenol | $0.73 |
@@ -276,6 +258,10 @@
 | Oct 30 | BMO | LYB | LyondellBasell | $2.54 |
 | Oct 30 | BMO | REGN | Regeneron Pharmaceuticals | $16.06 |
 | Oct 30 | BMO | XOM | ExxonMobil | $3.98 |
+
+## Later (Nov 02+)
+| Date | Time | Ticker | Company | Est. EPS |
+|------|------|--------|---------|----------|
 | Nov 02 | AMC | AAPL | Apple Inc. | $1.98 |
 | Nov 02 | AMC | CLX | Clorox | $1.08 |
 | Nov 02 | AMC | DOC | Healthpeak Properties | $0.03 |
@@ -357,7 +343,7 @@
 | Nov 04 | AMC | ES | Eversource Energy | $0.98 |
 | Nov 04 | AMC | EW | Edwards Lifesciences | $0.74 |
 | Nov 04 | AMC | EXPE | Expedia Group | $8.87 |
-| Nov 04 | AMC | FICO | Fair Isaac | $10.90 |
+| Nov 04 | AMC | FICO | Fair Isaac | $10.86 |
 | Nov 04 | BMO | GWW | W. W. Grainger | $11.66 |
 | Nov 04 | AMC | HST | Host Hotels & Resorts | $0.09 |
 | Nov 04 | BMO | KHC | Kraft Heinz | $0.42 |
@@ -453,7 +439,7 @@
 | Nov 19 | AMC | PANW | Palo Alto Networks | $0.97 |
 | Nov 19 | AMC | ROST | Ross Stores | $1.83 |
 | Nov 19 | BMO | WMT | Walmart | $0.64 |
-| Nov 24 | BMO | ADI | Analog Devices | $3.86 |
+| Nov 24 | BMO | ADI | Analog Devices | $3.89 |
 | Nov 24 | BMO | BBY | Best Buy | $1.49 |
 | Nov 24 | AMC | HPQ | HP Inc. | $0.75 |
 | Nov 24 | AMC | KEYS | Keysight Technologies | $3.38 |
@@ -493,7 +479,7 @@
 | Jan 14 | BMO | MS | Morgan Stanley | $2.98 |
 | Jan 14 | BMO | WFC | Wells Fargo | $1.84 |
 | Jan 15 | BMO | BAC | Bank of America | $1.13 |
-| Jan 15 | BMO | CFG | Citizens Financial Group | $1.47 |
+| Jan 15 | BMO | CFG | Citizens Financial Group | $1.48 |
 | Jan 15 | AMC | JBHT | J.B. Hunt | $2.04 |
 | Jan 15 | BMO | PNC | PNC Financial Services | $5.11 |
 | Jan 15 | BMO | STT | State Street Corporation | $3.64 |
