@@ -47,6 +47,14 @@ WORD_COUNT_FLOOR = int(os.environ.get("TRANSCRIPT_WORD_FLOOR", "800"))
 # Matches patterns like: company-TICKER-q1-2026 or company-TICKER-earnings
 SLUG_TICKER_RE = re.compile(r'-([a-z]{1,5})-(?:q\d|earnings)', re.IGNORECASE)
 
+# Some companies appear in Motley Fool transcript slugs under a different share
+# class than the one the allowlist / earnings-podcasts pipeline keys on. Without
+# normalization the transcript is dropped at the ticker-allowlist filter below.
+# e.g. Alphabet's slug is "alphabet-googl-q3-2026-..." (GOOGL) but the pipeline
+# keys Alphabet as GOOG, so GOOGL would be filtered out and no episode ever
+# generates. Mirrors REVERSE_ALIASES on the earnings-podcasts generation side.
+SLUG_TICKER_ALIASES = {"GOOGL": "GOOG"}
+
 
 class MotleyFoolScraper:
     """Scraper for earnings call transcripts from The Motley Fool."""
@@ -147,13 +155,15 @@ class MotleyFoolScraper:
             analog-devices-adi-q1-2026-earnings-transcript -> ADI
             booking-holdings-bkng-earnings-transcript -> BKNG
             berkshire-hathaway-brk-b-q4-2025-earnings -> BRK-B
+            alphabet-googl-q3-2026-earnings-call-transcript -> GOOG (alias)
         """
         # Special case: BRK-B has a hyphen in the ticker
         if 'brk-b-' in slug:
             return "BRK-B"
         match = SLUG_TICKER_RE.search(slug)
         if match:
-            return match.group(1).upper()
+            ticker = match.group(1).upper()
+            return SLUG_TICKER_ALIASES.get(ticker, ticker)
         return "UNKNOWN"
 
     @staticmethod
