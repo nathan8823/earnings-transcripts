@@ -47,6 +47,12 @@ WORD_COUNT_FLOOR = int(os.environ.get("TRANSCRIPT_WORD_FLOOR", "800"))
 # Matches patterns like: company-TICKER-q1-2026 or company-TICKER-earnings
 SLUG_TICKER_RE = re.compile(r'-([a-z]{1,5})-(?:q\d|earnings)', re.IGNORECASE)
 
+# Regex to pull the fiscal quarter+year straight from a Fool slug's "-qN-YYYY-"
+# marker, e.g. "...-intc-q3-2026-earnings-call-transcript" -> (2026, 3). Lets us
+# canonical-dedup BEFORE fetching, so already-captured quarters don't burn the
+# per-run fetch budget (board #288).
+SLUG_QUARTER_RE = re.compile(r'-q([1-4])-((?:19|20)\d{2})-', re.IGNORECASE)
+
 
 class MotleyFoolScraper:
     """Scraper for earnings call transcripts from The Motley Fool."""
@@ -155,6 +161,16 @@ class MotleyFoolScraper:
         if match:
             return match.group(1).upper()
         return "UNKNOWN"
+
+    @staticmethod
+    def _quarter_from_slug(slug: str) -> tuple:
+        """Best-effort (year, quarter) from a Fool slug's '-qN-YYYY-' marker,
+        WITHOUT fetching the page. Returns (None, None) when the slug carries no
+        explicit quarter (then the caller must fetch to resolve the label)."""
+        m = SLUG_QUARTER_RE.search(slug)
+        if m:
+            return int(m.group(2)), int(m.group(1))
+        return None, None
 
     @staticmethod
     def _extract_quarter_year(title: str, url: str, transcript_body: str = "") -> tuple:
@@ -501,9 +517,16 @@ class MotleyFoolScraper:
         if tickers:
             print(f"Found {len(transcript_list)} transcripts matching {len(tickers)} target tickers")
 
-        scraped = 0
+        # `limit` caps the number of transcripts SAVED per run. Fetches get a
+        # separate, larger budget so that a cluster of permanently-rejected URLs
+        # (truncated pages, unresolved labels) newer than an older still-missing
+        # covered quarter can't exhaust the budget and starve it on every run —
+        # which is exactly how INTC Q3 2026 went un-ingested for 2 weeks (#288).
+        max_fetches = max(limit * 5, 100)
+        saved_count = 0
+        fetches = 0
         for item in transcript_list:
-            if scraped >= limit:
+            if saved_count >= limit or fetches >= max_fetches:
                 break
             url = item.get("url")
             if not url:
@@ -511,12 +534,21 @@ class MotleyFoolScraper:
             # Intra-source skip: don't re-fetch a URL we already have.
             if self.transcript_exists(url):
                 continue
-            print(f"\n[{scraped+1}/{limit}] {item.get('ticker', '???')} - {item.get('date', '???')}")
+            # Pre-fetch canonical dedup: when the slug reveals the fiscal
+            # quarter and we already hold it, skip WITHOUT spending a fetch
+            # (mirrors the listing-driven pre-skip in fallback_for_gaps).
+            slug = url.rstrip("/").split("/")[-1]
+            sy, sq = self._quarter_from_slug(slug)
+            if sy and sq and self.quarter_exists(item.get("ticker", ""), sy, sq):
+                continue
+            print(f"\n[saved {saved_count}/{limit}, fetch {fetches+1}/{max_fetches}] "
+                  f"{item.get('ticker', '???')} - {item.get('date', '???')}")
             transcript = self.scrape_transcript(url)
+            fetches += 1
             path = self.accept_and_save(transcript, dry_run=dry_run)
             if path:
                 saved.append(path)
-            scraped += 1
+                saved_count += 1
         return saved
 
 
