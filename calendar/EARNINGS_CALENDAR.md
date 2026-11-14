@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: Nov 13, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Nov 14, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Nov 09–Nov 15)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -11,8 +11,6 @@
 | Nov 09 | TBD | PSKY | Paramount Skydance Corporation | $0.19 |
 | Nov 09 | TBD | TECH | Bio-Techne | $0.48 |
 | Nov 09 | AMC | TTD | Trade Desk (The) | $0.40 |
-| Nov 12 | AMC | AMAT | Applied Materials | $4.30 |
-| Nov 12 | AMC | CSCO | Cisco | $1.35 |
 
 ## Next Week (Nov 16–Nov 22)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -25,12 +23,12 @@
 | Nov 18 | AMC | PANW | Palo Alto Networks | $0.97 |
 | Nov 18 | BMO | TGT | Target Corporation | $2.06 |
 | Nov 18 | BMO | TJX | TJX Companies | $1.33 |
-| Nov 18 | BMO | WSM | Williams-Sonoma, Inc. | $2.18 |
 | Nov 19 | AMC | CPRT | Copart | $0.40 |
 | Nov 19 | AMC | INTU | Intuit | $2.64 |
 | Nov 19 | AMC | KEYS | Keysight Technologies | $3.38 |
 | Nov 19 | AMC | ROST | Ross Stores | $1.86 |
 | Nov 19 | BMO | WMT | Walmart | $0.63 |
+| Nov 19 | BMO | WSM | Williams-Sonoma, Inc. | $2.18 |
 
 ## Later (Nov 23+)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -280,4 +278,6 @@
 | Feb 04 | BMO | ROK | Rockwell Automation | $3.01 |
 | Feb 04 | BMO | TPR | Tapestry, Inc. | $3.07 |
 | Feb 09 | AMC | TTWO | Take-Two Interactive | $0.97 |
+| Feb 10 | AMC | CSCO | Cisco | $1.35 |
+| Feb 11 | AMC | AMAT | Applied Materials | $4.30 |
 

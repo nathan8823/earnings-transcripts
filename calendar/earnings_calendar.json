@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T08:21:47.950660Z",
+  "updated_at": "2026-11-14T08:18:57.597271Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 500,
   "earnings": [
@@ -2147,24 +2147,6 @@
       "revenue_estimate": 756450770
     },
     {
-      "ticker": "AMAT",
-      "company": "Applied Materials",
-      "sector": "Information Technology",
-      "date": "2026-11-12",
-      "time": "AMC",
-      "eps_estimate": 4.3,
-      "revenue_estimate": 10949257090
-    },
-    {
-      "ticker": "CSCO",
-      "company": "Cisco",
-      "sector": "Information Technology",
-      "date": "2026-11-12",
-      "time": "AMC",
-      "eps_estimate": 1.35,
-      "revenue_estimate": 18165918060
-    },
-    {
       "ticker": "TSN",
       "company": "Tyson Foods",
       "sector": "Consumer Staples",
@@ -2237,15 +2219,6 @@
       "revenue_estimate": 15855951380
     },
     {
-      "ticker": "WSM",
-      "company": "Williams-Sonoma, Inc.",
-      "sector": "Consumer Discretionary",
-      "date": "2026-11-18",
-      "time": "BMO",
-      "eps_estimate": 2.18,
-      "revenue_estimate": 1997705000
-    },
-    {
       "ticker": "CPRT",
       "company": "Copart",
       "sector": "Industrials",
@@ -2289,6 +2262,15 @@
       "time": "BMO",
       "eps_estimate": 0.63,
       "revenue_estimate": 187185091390
+    },
+    {
+      "ticker": "WSM",
+      "company": "Williams-Sonoma, Inc.",
+      "sector": "Consumer Discretionary",
+      "date": "2026-11-19",
+      "time": "BMO",
+      "eps_estimate": 2.18,
+      "revenue_estimate": 1997705000
     },
     {
       "ticker": "A",
@@ -4494,6 +4476,24 @@
       "time": "AMC",
       "eps_estimate": 0.97,
       "revenue_estimate": 1655304900
+    },
+    {
+      "ticker": "CSCO",
+      "company": "Cisco",
+      "sector": "Information Technology",
+      "date": "2027-02-10",
+      "time": "AMC",
+      "eps_estimate": 1.35,
+      "revenue_estimate": 18165918060
+    },
+    {
+      "ticker": "AMAT",
+      "company": "Applied Materials",
+      "sector": "Information Technology",
+      "date": "2027-02-11",
+      "time": "AMC",
+      "eps_estimate": 4.3,
+      "revenue_estimate": 10949257090
     }
   ],
   "this_week": [
@@ -4558,24 +4558,6 @@
       "time": "AMC",
       "eps_estimate": 0.4,
       "revenue_estimate": 756450770
-    },
-    {
-      "ticker": "AMAT",
-      "company": "Applied Materials",
-      "sector": "Information Technology",
-      "date": "2026-11-12",
-      "time": "AMC",
-      "eps_estimate": 4.3,
-      "revenue_estimate": 10949257090
-    },
-    {
-      "ticker": "CSCO",
-      "company": "Cisco",
-      "sector": "Information Technology",
-      "date": "2026-11-12",
-      "time": "AMC",
-      "eps_estimate": 1.35,
-      "revenue_estimate": 18165918060
     }
   ],
   "next_week": [
@@ -4652,15 +4634,6 @@
       "revenue_estimate": 15855951380
     },
     {
-      "ticker": "WSM",
-      "company": "Williams-Sonoma, Inc.",
-      "sector": "Consumer Discretionary",
-      "date": "2026-11-18",
-      "time": "BMO",
-      "eps_estimate": 2.18,
-      "revenue_estimate": 1997705000
-    },
-    {
       "ticker": "CPRT",
       "company": "Copart",
       "sector": "Industrials",
@@ -4704,6 +4677,15 @@
       "time": "BMO",
       "eps_estimate": 0.63,
       "revenue_estimate": 187185091390
+    },
+    {
+      "ticker": "WSM",
+      "company": "Williams-Sonoma, Inc.",
+      "sector": "Consumer Discretionary",
+      "date": "2026-11-19",
+      "time": "BMO",
+      "eps_estimate": 2.18,
+      "revenue_estimate": 1997705000
     }
   ]
 }
