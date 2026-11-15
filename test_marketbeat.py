@@ -181,6 +181,101 @@ class TestListingParse(unittest.TestCase):
         self.assertEqual({r["ticker"] for r in rows}, {"MU"})
 
 
+class TestSlugQuarter(unittest.TestCase):
+    def test_extracts_quarter_year(self):
+        self.assertEqual(
+            st.MotleyFoolScraper._quarter_from_slug(
+                "intel-intc-q3-2026-earnings-call-transcript"), (2026, 3))
+        self.assertEqual(
+            st.MotleyFoolScraper._quarter_from_slug(
+                "walmart-wmt-q4-2026-earnings-call-transcript"), (2026, 4))
+
+    def test_absent_quarter_returns_none(self):
+        self.assertEqual(
+            st.MotleyFoolScraper._quarter_from_slug(
+                "booking-holdings-bkng-earnings-transcript"), (None, None))
+
+
+class TestRunFoolNoStarvation(unittest.TestCase):
+    """A cluster of newer permanently-rejected URLs must not starve an older,
+    still-missing covered quarter sitting past `limit` in the newest-first list
+    (board #288 — the INTC Q3 2026 regression)."""
+
+    CLEAN = "word " * 1000 + "This concludes today's call. You may now disconnect."
+    TRUNC = "word " * 1000 + "but then it was abruptly cut off mid"
+
+    def _item(self, ticker, date, q, y):
+        slug = f"{ticker.lower()}-{ticker.lower()}-q{q}-{y}-earnings-call-transcript"
+        return {"url": f"https://www.fool.com/earnings/call-transcripts/"
+                       f"{y}/{date[5:7]}/{date[8:10]}/{slug}/",
+                "ticker": ticker, "date": date}
+
+    def _transcript(self, item, body):
+        y, q = st.MotleyFoolScraper._quarter_from_slug(item["url"])
+        return {"ticker": item["ticker"], "company": item["ticker"], "title": "t",
+                "year": y, "quarter": q, "url": item["url"], "transcript": body,
+                "prepared_remarks": "", "qa_section": "", "source": "motley-fool",
+                "word_count": len(body.split())}
+
+    def test_older_missing_quarter_saved_despite_newer_rejects(self):
+        with tempfile.TemporaryDirectory() as d:
+            orig = st.TRANSCRIPTS_DIR
+            st.TRANSCRIPTS_DIR = Path(d)
+            try:
+                s = st.MotleyFoolScraper()
+                # 8 newer URLs that always fail the quality gate (truncated),
+                # then the older target that scrapes clean.
+                rejects = [self._item("AAA", f"2026-11-{str(10-i).zfill(2)}", 3, 2026)
+                           for i in range(8)]
+                target = self._item("INTC", "2026-10-30", 3, 2026)
+                items = rejects + [target]
+
+                s.get_transcripts_from_sitemap = lambda tickers=None: list(items)
+                bodies = {it["url"]: self.TRUNC for it in rejects}
+                bodies[target["url"]] = self.CLEAN
+                s.scrape_transcript = lambda url: self._transcript(
+                    next(it for it in items if it["url"] == url), bodies[url])
+
+                # limit=2 (well below the 8 rejects). Old code would burn the
+                # budget on the first 2 rejects and never reach INTC.
+                saved = s._run_fool(limit=2, tickers=["INTC", "AAA"])
+
+                self.assertEqual(len(list(Path(d).glob("INTC_2026_Q3_*.json"))), 1,
+                                 "older missing INTC quarter must be saved")
+                self.assertEqual(saved, [str(p) for p in Path(d).glob("INTC_2026_Q3_*.json")])
+                self.assertEqual(list(Path(d).glob("AAA_*.json")), [],
+                                 "truncated rejects must not be saved")
+            finally:
+                st.TRANSCRIPTS_DIR = orig
+
+    def test_prefetch_skips_already_captured_quarter(self):
+        with tempfile.TemporaryDirectory() as d:
+            orig = st.TRANSCRIPTS_DIR
+            st.TRANSCRIPTS_DIR = Path(d)
+            try:
+                s = st.MotleyFoolScraper()
+                # Seed MSFT 2026 Q1 on disk under a DIFFERENT url, so the run
+                # item is a fresh url (transcript_exists=False) but the quarter
+                # is already captured -> must be skipped by the pre-fetch check,
+                # not by the url-hash skip.
+                seed = self._item("MSFT", "2026-10-29", 1, 2026)
+                seed_t = self._transcript(seed, self.CLEAN)
+                seed_t["url"] = "https://www.fool.com/other-source-msft-q1-2026/"
+                s.save_transcript(seed_t)
+                run_item = self._item("MSFT", "2026-10-30", 1, 2026)  # fresh url
+                fetched = []
+                s.get_transcripts_from_sitemap = lambda tickers=None: [run_item]
+                def _spy(url):
+                    fetched.append(url)
+                    return self._transcript(run_item, self.CLEAN)
+                s.scrape_transcript = _spy
+                s._run_fool(limit=5, tickers=["MSFT"])
+                self.assertEqual(fetched, [],
+                                 "already-captured quarter must be skipped pre-fetch")
+            finally:
+                st.TRANSCRIPTS_DIR = orig
+
+
 class _FakeResp:
     def __init__(self, text): self.text = text
     def raise_for_status(self): pass
