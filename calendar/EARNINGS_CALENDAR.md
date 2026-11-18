@@ -1,18 +1,16 @@
 # S&P 500 Earnings Calendar
-> Last updated: Nov 17, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Nov 18, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Nov 16–Nov 22)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
-| Nov 16 | BMO | TSN | Tyson Foods | $0.79 |
-| Nov 17 | BMO | DIS | Walt Disney Company (The) | $1.68 |
-| Nov 17 | BMO | HD | Home Depot (The) | $3.84 |
-| Nov 17 | AMC | NVDA | Nvidia | $2.47 |
+| Nov 17 | BMO | DIS | Walt Disney Company (The) | $1.92 |
+| Nov 17 | BMO | HD | Home Depot (The) | $2.83 |
+| Nov 17 | AMC | NVDA | Nvidia | $2.76 |
 | Nov 18 | BMO | LOW | Lowe's | $2.88 |
 | Nov 18 | AMC | PANW | Palo Alto Networks | $0.97 |
 | Nov 18 | BMO | TGT | Target Corporation | $2.08 |
 | Nov 18 | BMO | TJX | TJX Companies | $1.34 |
-| Nov 19 | AMC | CPRT | Copart | $0.40 |
 | Nov 19 | AMC | INTU | Intuit | $2.64 |
 | Nov 19 | AMC | KEYS | Keysight Technologies | $3.38 |
 | Nov 19 | AMC | ROST | Ross Stores | $1.87 |
@@ -39,6 +37,7 @@
 ## Later (Nov 30+)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
+| Dec 01 | BMO | CPRT | Copart | $0.40 |
 | Dec 01 | AMC | CRWD | CrowdStrike | $0.31 |
 | Dec 01 | AMC | NTAP | NetApp | $2.60 |
 | Dec 02 | AMC | CRM | Salesforce | $3.45 |
@@ -47,14 +46,14 @@
 | Dec 03 | BMO | DG | Dollar General | $1.41 |
 | Dec 03 | BMO | HRL | Hormel Foods | $0.37 |
 | Dec 03 | BMO | KR | Kroger | $1.16 |
-| Dec 03 | AMC | ULTA | Ulta Beauty | $5.63 |
-| Dec 08 | BMO | AZO | AutoZone | $35.45 |
+| Dec 03 | AMC | ULTA | Ulta Beauty | $5.64 |
+| Dec 08 | BMO | AZO | AutoZone | $35.43 |
 | Dec 08 | AMC | SNPS | Synopsys | $4.13 |
 | Dec 09 | AMC | ADBE | Adobe Inc. | $6.33 |
 | Dec 09 | AMC | AVGO | Broadcom | $3.84 |
 | Dec 09 | BMO | CPB | Campbell's Company (The) | $0.41 |
 | Dec 10 | BMO | CIEN | Ciena | $2.08 |
-| Dec 10 | AMC | COST | Costco | $4.90 |
+| Dec 10 | AMC | COST | Costco | $4.91 |
 | Dec 10 | AMC | LULU | Lululemon Athletica | $1.03 |
 | Dec 14 | AMC | ORCL | Oracle Corporation | $1.89 |
 | Dec 15 | AMC | LEN | Lennar | $1.44 |
@@ -73,7 +72,7 @@
 | Dec 23 | AMC | MU | Micron Technology | $38.29 |
 | Jan 07 | AMC | STZ | Constellation Brands | $2.73 |
 | Jan 12 | BMO | UNH | UnitedHealth Group | $2.27 |
-| Jan 13 | BMO | DAL | Delta Air Lines | $1.42 |
+| Jan 13 | BMO | DAL | Delta Air Lines | $1.43 |
 | Jan 14 | BMO | BLK | BlackRock | $15.52 |
 | Jan 14 | BMO | C | Citigroup | $2.30 |
 | Jan 14 | BMO | JPM | JPMorgan Chase | $5.86 |
@@ -84,7 +83,7 @@
 | Jan 15 | AMC | JBHT | J.B. Hunt | $2.03 |
 | Jan 15 | BMO | PNC | PNC Financial Services | $5.10 |
 | Jan 15 | BMO | STT | State Street Corporation | $3.64 |
-| Jan 19 | AMC | COF | Capital One | $4.86 |
+| Jan 19 | AMC | COF | Capital One | $4.87 |
 | Jan 19 | BMO | DHI | D. R. Horton | $1.30 |
 | Jan 19 | BMO | FAST | Fastenal | $0.31 |
 | Jan 19 | BMO | FITB | Fifth Third Bancorp | $1.22 |
@@ -113,8 +112,8 @@
 | Jan 25 | AMC | ARE | Alexandria Real Estate Equities | $-0.02 |
 | Jan 25 | AMC | BKR | Baker Hughes | $0.70 |
 | Jan 25 | AMC | BRO | Brown & Brown | $0.89 |
-| Jan 25 | AMC | NUE | Nucor | $6.29 |
-| Jan 25 | AMC | STLD | Steel Dynamics | $5.85 |
+| Jan 25 | AMC | NUE | Nucor | $6.30 |
+| Jan 25 | AMC | STLD | Steel Dynamics | $5.79 |
 | Jan 25 | AMC | WRB | W. R. Berkley Corporation | $1.21 |
 | Jan 26 | BMO | BA | Boeing | $-0.76 |
 | Jan 26 | AMC | BXP | BXP, Inc. | $0.58 |
@@ -136,7 +135,7 @@
 | Jan 26 | AMC | STX | Seagate Technology | $9.27 |
 | Jan 26 | BMO | SYF | Synchrony Financial | $1.98 |
 | Jan 26 | AMC | TXN | Texas Instruments | $2.66 |
-| Jan 26 | AMC | UAL | United Airlines Holdings | $1.30 |
+| Jan 26 | AMC | UAL | United Airlines Holdings | $1.34 |
 | Jan 26 | BMO | UNP | Union Pacific Corporation | $3.31 |
 | Jan 26 | BMO | UPS | United Parcel Service | $2.77 |
 | Jan 26 | AMC | V | Visa Inc. | $3.63 |
@@ -145,13 +144,13 @@
 | Jan 27 | BMO | CHRW | C.H. Robinson | $1.62 |
 | Jan 27 | BMO | DHR | Danaher Corporation | $2.48 |
 | Jan 27 | AMC | FICO | Fair Isaac | $9.58 |
-| Jan 27 | BMO | GD | General Dynamics | $4.58 |
+| Jan 27 | BMO | GD | General Dynamics | $4.57 |
 | Jan 27 | BMO | GEV | GE Vernova | $6.95 |
 | Jan 27 | BMO | GM | General Motors | $2.46 |
 | Jan 27 | AMC | IBM | IBM | $4.63 |
 | Jan 27 | AMC | KMI | Kinder Morgan | $0.38 |
 | Jan 27 | AMC | LRCX | Lam Research | $2.35 |
-| Jan 27 | AMC | LUV | Southwest Airlines | $0.71 |
+| Jan 27 | AMC | LUV | Southwest Airlines | $0.72 |
 | Jan 27 | AMC | LVS | Las Vegas Sands | $0.73 |
 | Jan 27 | AMC | META | Meta Platforms | $8.72 |
 | Jan 27 | AMC | MSFT | Microsoft | $4.86 |
@@ -194,7 +193,7 @@
 | Jan 28 | BMO | NSC | Norfolk Southern | $3.28 |
 | Jan 28 | BMO | PH | Parker Hannifin | $8.87 |
 | Jan 28 | BMO | PHM | PulteGroup | $2.51 |
-| Jan 28 | BMO | REGN | Regeneron Pharmaceuticals | $25.39 |
+| Jan 28 | BMO | REGN | Regeneron Pharmaceuticals | $25.80 |
 | Jan 28 | AMC | RMD | ResMed | $2.99 |
 | Jan 28 | AMC | SYK | Stryker Corporation | $5.02 |
 | Jan 28 | BMO | TMO | Thermo Fisher Scientific | $7.13 |
@@ -207,7 +206,7 @@
 | Jan 29 | BMO | AON | Aon plc | $4.78 |
 | Jan 29 | BMO | APD | Air Products | $3.43 |
 | Jan 29 | BMO | AXP | American Express | $4.28 |
-| Jan 29 | BMO | BEN | Franklin Resources | $0.76 |
+| Jan 29 | BMO | BEN | Franklin Resources | $0.75 |
 | Jan 29 | BMO | CHD | Church & Dwight | $1.02 |
 | Jan 29 | BMO | CHTR | Charter Communications | $8.71 |
 | Jan 29 | BMO | CL | Colgate-Palmolive | $0.98 |
@@ -234,7 +233,7 @@
 | Feb 02 | BMO | GWW | W. W. Grainger | $11.48 |
 | Feb 02 | BMO | IT | Gartner | $3.83 |
 | Feb 02 | AMC | JKHY | Jack Henry & Associates | $1.74 |
-| Feb 02 | BMO | KMB | Kimberly-Clark | $1.52 |
+| Feb 02 | BMO | KMB | Kimberly-Clark | $1.53 |
 | Feb 02 | BMO | MPC | Marathon Petroleum | $23.84 |
 | Feb 02 | AMC | MTCH | Match Group | $0.97 |
 | Feb 02 | BMO | PFE | Pfizer | $0.68 |
@@ -247,21 +246,21 @@
 | Feb 03 | AMC | ALL | Allstate | $9.66 |
 | Feb 03 | AMC | ATO | Atmos Energy | $2.59 |
 | Feb 03 | BMO | CDW | CDW Corporation | $2.86 |
-| Feb 03 | BMO | COR | Cencora | $4.62 |
+| Feb 03 | BMO | COR | Cencora | $4.60 |
 | Feb 03 | AMC | CPAY | Corpay | $7.68 |
 | Feb 03 | BMO | EL | Estée Lauder Companies (The) | $1.22 |
-| Feb 03 | AMC | MCK | McKesson Corporation | $10.95 |
+| Feb 03 | AMC | MCK | McKesson Corporation | $10.91 |
 | Feb 03 | AMC | QCOM | Qualcomm | $2.26 |
 | Feb 03 | AMC | STE | Steris | $2.79 |
 | Feb 03 | BMO | SWK | Stanley Black & Decker | $1.45 |
 | Feb 03 | BMO | UBER | Uber | $0.97 |
 | Feb 03 | BMO | YUM | Yum! Brands | $1.72 |
-| Feb 04 | BMO | CAH | Cardinal Health | $3.13 |
+| Feb 04 | BMO | CAH | Cardinal Health | $3.11 |
 | Feb 04 | BMO | CI | Cigna | $7.17 |
-| Feb 04 | BMO | CMI | Cummins | $7.79 |
+| Feb 04 | BMO | CMI | Cummins | $7.71 |
 | Feb 04 | BMO | COP | ConocoPhillips | $3.60 |
 | Feb 04 | AMC | CPT | Camden Property Trust | $0.07 |
-| Feb 04 | BMO | KKR | KKR & Co. | $3.61 |
+| Feb 04 | BMO | KKR | KKR & Co. | $3.62 |
 | Feb 04 | AMC | MCHP | Microchip Technology | $0.91 |
 | Feb 04 | AMC | MTD | Mettler Toledo | $14.90 |
 | Feb 04 | AMC | NWS | News Corp(Class B) | $0.46 |
@@ -270,6 +269,7 @@
 | Feb 04 | BMO | RL | Ralph Lauren Corporation | $6.88 |
 | Feb 04 | BMO | ROK | Rockwell Automation | $3.01 |
 | Feb 04 | BMO | TPR | Tapestry, Inc. | $3.07 |
+| Feb 08 | BMO | TSN | Tyson Foods | $0.84 |
 | Feb 09 | AMC | TTWO | Take-Two Interactive | $0.97 |
 | Feb 10 | AMC | CSCO | Cisco | $1.35 |
 | Feb 11 | AMC | AMAT | Applied Materials | $4.37 |
