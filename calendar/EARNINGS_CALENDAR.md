@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: Nov 21, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Nov 22, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Nov 16–Nov 22)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -9,7 +9,7 @@
 | Nov 18 | BMO | LOW | Lowe's | $1.77 |
 | Nov 18 | BMO | TGT | Target Corporation | $2.68 |
 | Nov 18 | BMO | TJX | TJX Companies | $1.48 |
-| Nov 19 | AMC | INTU | Intuit | $3.20 |
+| Nov 19 | AMC | INTU | Intuit | $3.33 |
 | Nov 19 | AMC | KEYS | Keysight Technologies | $3.66 |
 | Nov 19 | AMC | ROST | Ross Stores | $2.24 |
 | Nov 19 | BMO | WSM | Williams-Sonoma, Inc. | $3.26 |
@@ -97,7 +97,7 @@
 | Jan 20 | BMO | TFC | Truist Financial | $1.20 |
 | Jan 20 | BMO | TRV | Travelers Companies (The) | $9.92 |
 | Jan 21 | BMO | FCX | Freeport-McMoRan | $1.01 |
-| Jan 21 | BMO | GE | GE Aerospace | $2.04 |
+| Jan 21 | BMO | GE | GE Aerospace | $2.03 |
 | Jan 21 | BMO | HBAN | Huntington Bancshares | $0.40 |
 | Jan 21 | AMC | ISRG | Intuitive Surgical | $2.95 |
 | Jan 21 | BMO | MKC | McCormick & Company | $0.78 |
@@ -155,7 +155,7 @@
 | Jan 27 | AMC | NOW | ServiceNow | $1.07 |
 | Jan 27 | BMO | NVR | NVR, Inc. | $96.40 |
 | Jan 27 | BMO | OTIS | Otis Worldwide | $1.08 |
-| Jan 27 | BMO | PGR | Progressive Corporation | $4.03 |
+| Jan 27 | BMO | PGR | Progressive Corporation | $4.04 |
 | Jan 27 | AMC | RJF | Raymond James Financial | $3.30 |
 | Jan 27 | AMC | SBUX | Starbucks | $0.75 |
 | Jan 27 | BMO | T | AT&T | $0.54 |
@@ -228,11 +228,11 @@
 | Feb 02 | AMC | CTVA | Corteva | $0.10 |
 | Feb 02 | BMO | EMR | Emerson Electric | $1.62 |
 | Feb 02 | BMO | ETN | Eaton Corporation | $4.15 |
-| Feb 02 | BMO | GWW | W. W. Grainger | $11.50 |
+| Feb 02 | BMO | GWW | W. W. Grainger | $11.49 |
 | Feb 02 | BMO | IT | Gartner | $3.83 |
 | Feb 02 | AMC | JKHY | Jack Henry & Associates | $1.74 |
 | Feb 02 | BMO | KMB | Kimberly-Clark | $1.53 |
-| Feb 02 | BMO | MPC | Marathon Petroleum | $23.84 |
+| Feb 02 | BMO | MPC | Marathon Petroleum | $23.47 |
 | Feb 02 | AMC | MTCH | Match Group | $0.97 |
 | Feb 02 | BMO | PFE | Pfizer | $0.68 |
 | Feb 02 | AMC | PRU | Prudential Financial | $3.02 |
@@ -240,6 +240,7 @@
 | Feb 02 | AMC | SWKS | Skyworks Solutions | $1.25 |
 | Feb 02 | BMO | SYY | Sysco | $1.05 |
 | Feb 02 | BMO | TDG | TransDigm Group | $12.21 |
+| Feb 02 | BMO | WEC | WEC Energy Group | $1.17 |
 | Feb 03 | AMC | AFL | Aflac | $1.78 |
 | Feb 03 | AMC | ALL | Allstate | $9.73 |
 | Feb 03 | AMC | ATO | Atmos Energy | $2.58 |
