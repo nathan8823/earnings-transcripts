@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T08:20:14.786139Z",
+  "updated_at": "2026-11-23T08:23:13.812413Z",
   "source": "Yahoo Finance via yfinance",
   "total_companies": 500,
   "earnings": [
@@ -2241,8 +2241,8 @@
       "sector": "Information Technology",
       "date": "2026-11-24",
       "time": "BMO",
-      "eps_estimate": 3.88,
-      "revenue_estimate": 4319542480
+      "eps_estimate": 3.89,
+      "revenue_estimate": 4324542480
     },
     {
       "ticker": "ADSK",
@@ -2359,7 +2359,7 @@
       "date": "2026-12-02",
       "time": "AMC",
       "eps_estimate": 3.45,
-      "revenue_estimate": 11462305880
+      "revenue_estimate": 11461698340
     },
     {
       "ticker": "BF-B",
@@ -2610,8 +2610,8 @@
       "sector": "Consumer Discretionary",
       "date": "2026-12-18",
       "time": "BMO",
-      "eps_estimate": 2.25,
-      "revenue_estimate": 3272242020
+      "eps_estimate": 2.26,
+      "revenue_estimate": 3272521190
     },
     {
       "ticker": "PAYX",
@@ -3420,7 +3420,7 @@
       "sector": "Financials",
       "date": "2027-01-27",
       "time": "BMO",
-      "eps_estimate": 4.04,
+      "eps_estimate": 4.05,
       "revenue_estimate": 19990540000
     },
     {
@@ -4497,89 +4497,6 @@
   ],
   "this_week": [
     {
-      "ticker": "HD",
-      "company": "Home Depot (The)",
-      "sector": "Consumer Discretionary",
-      "date": "2026-11-17",
-      "time": "BMO",
-      "eps_estimate": 2.77,
-      "revenue_estimate": 39120229530
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "sector": "Information Technology",
-      "date": "2026-11-17",
-      "time": "AMC",
-      "eps_estimate": 2.88,
-      "revenue_estimate": 130813828370
-    },
-    {
-      "ticker": "LOW",
-      "company": "Lowe's",
-      "sector": "Consumer Discretionary",
-      "date": "2026-11-18",
-      "time": "BMO",
-      "eps_estimate": 1.77,
-      "revenue_estimate": 20756484600
-    },
-    {
-      "ticker": "TGT",
-      "company": "Target Corporation",
-      "sector": "Consumer Staples",
-      "date": "2026-11-18",
-      "time": "BMO",
-      "eps_estimate": 2.68,
-      "revenue_estimate": 32073340610
-    },
-    {
-      "ticker": "TJX",
-      "company": "TJX Companies",
-      "sector": "Consumer Discretionary",
-      "date": "2026-11-18",
-      "time": "BMO",
-      "eps_estimate": 1.48,
-      "revenue_estimate": 18600056590
-    },
-    {
-      "ticker": "INTU",
-      "company": "Intuit",
-      "sector": "Information Technology",
-      "date": "2026-11-19",
-      "time": "AMC",
-      "eps_estimate": 3.33,
-      "revenue_estimate": 4952619860
-    },
-    {
-      "ticker": "KEYS",
-      "company": "Keysight Technologies",
-      "sector": "Information Technology",
-      "date": "2026-11-19",
-      "time": "AMC",
-      "eps_estimate": 3.66,
-      "revenue_estimate": 1976808810
-    },
-    {
-      "ticker": "ROST",
-      "company": "Ross Stores",
-      "sector": "Consumer Discretionary",
-      "date": "2026-11-19",
-      "time": "AMC",
-      "eps_estimate": 2.24,
-      "revenue_estimate": 7226284110
-    },
-    {
-      "ticker": "WSM",
-      "company": "Williams-Sonoma, Inc.",
-      "sector": "Consumer Discretionary",
-      "date": "2026-11-19",
-      "time": "BMO",
-      "eps_estimate": 3.26,
-      "revenue_estimate": 2498301100
-    }
-  ],
-  "next_week": [
-    {
       "ticker": "A",
       "company": "Agilent Technologies",
       "sector": "Health Care",
@@ -4612,8 +4529,8 @@
       "sector": "Information Technology",
       "date": "2026-11-24",
       "time": "BMO",
-      "eps_estimate": 3.88,
-      "revenue_estimate": 4319542480
+      "eps_estimate": 3.89,
+      "revenue_estimate": 4324542480
     },
     {
       "ticker": "ADSK",
@@ -4695,6 +4612,98 @@
       "time": "BMO",
       "eps_estimate": 4.01,
       "revenue_estimate": 10344259380
+    }
+  ],
+  "next_week": [
+    {
+      "ticker": "CPRT",
+      "company": "Copart",
+      "sector": "Industrials",
+      "date": "2026-12-01",
+      "time": "BMO",
+      "eps_estimate": 0.4,
+      "revenue_estimate": 1190866710
+    },
+    {
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "sector": "Information Technology",
+      "date": "2026-12-01",
+      "time": "AMC",
+      "eps_estimate": 0.31,
+      "revenue_estimate": 1528559430
+    },
+    {
+      "ticker": "NTAP",
+      "company": "NetApp",
+      "sector": "Information Technology",
+      "date": "2026-12-01",
+      "time": "AMC",
+      "eps_estimate": 2.61,
+      "revenue_estimate": 2108285380
+    },
+    {
+      "ticker": "CRM",
+      "company": "Salesforce",
+      "sector": "Information Technology",
+      "date": "2026-12-02",
+      "time": "AMC",
+      "eps_estimate": 3.45,
+      "revenue_estimate": 11461698340
+    },
+    {
+      "ticker": "BF-B",
+      "company": "Brown–Forman",
+      "sector": "Consumer Staples",
+      "date": "2026-12-03",
+      "time": "BMO",
+      "eps_estimate": 0.46,
+      "revenue_estimate": 1042361150
+    },
+    {
+      "ticker": "COO",
+      "company": "Cooper Companies (The)",
+      "sector": "Health Care",
+      "date": "2026-12-03",
+      "time": "AMC",
+      "eps_estimate": 1.07,
+      "revenue_estimate": 1067935900
+    },
+    {
+      "ticker": "DG",
+      "company": "Dollar General",
+      "sector": "Consumer Staples",
+      "date": "2026-12-03",
+      "time": "BMO",
+      "eps_estimate": 1.41,
+      "revenue_estimate": 11138118020
+    },
+    {
+      "ticker": "HRL",
+      "company": "Hormel Foods",
+      "sector": "Consumer Staples",
+      "date": "2026-12-03",
+      "time": "BMO",
+      "eps_estimate": 0.37,
+      "revenue_estimate": 3141094950
+    },
+    {
+      "ticker": "KR",
+      "company": "Kroger",
+      "sector": "Consumer Staples",
+      "date": "2026-12-03",
+      "time": "BMO",
+      "eps_estimate": 1.16,
+      "revenue_estimate": 34580717230
+    },
+    {
+      "ticker": "ULTA",
+      "company": "Ulta Beauty",
+      "sector": "Consumer Discretionary",
+      "date": "2026-12-03",
+      "time": "AMC",
+      "eps_estimate": 5.64,
+      "revenue_estimate": 2992806680
     }
   ]
 }

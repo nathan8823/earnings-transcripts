@@ -1,26 +1,13 @@
 # S&P 500 Earnings Calendar
-> Last updated: Nov 22, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Nov 23, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
-## This Week (Nov 16–Nov 22)
-| Date | Time | Ticker | Company | Est. EPS |
-|------|------|--------|---------|----------|
-| Nov 17 | BMO | HD | Home Depot (The) | $2.77 |
-| Nov 17 | AMC | NVDA | Nvidia | $2.88 |
-| Nov 18 | BMO | LOW | Lowe's | $1.77 |
-| Nov 18 | BMO | TGT | Target Corporation | $2.68 |
-| Nov 18 | BMO | TJX | TJX Companies | $1.48 |
-| Nov 19 | AMC | INTU | Intuit | $3.33 |
-| Nov 19 | AMC | KEYS | Keysight Technologies | $3.66 |
-| Nov 19 | AMC | ROST | Ross Stores | $2.24 |
-| Nov 19 | BMO | WSM | Williams-Sonoma, Inc. | $3.26 |
-
-## Next Week (Nov 23–Nov 29)
+## This Week (Nov 23–Nov 29)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Nov 23 | AMC | A | Agilent Technologies | $1.73 |
 | Nov 23 | AMC | HPE | Hewlett Packard Enterprise | $1.29 |
 | Nov 23 | AMC | J | Jacobs Solutions | $2.12 |
-| Nov 24 | BMO | ADI | Analog Devices | $3.88 |
+| Nov 24 | BMO | ADI | Analog Devices | $3.89 |
 | Nov 24 | AMC | ADSK | Autodesk | $3.07 |
 | Nov 24 | BMO | BBY | Best Buy | $1.49 |
 | Nov 24 | AMC | DELL | Dell Technologies | $6.55 |
@@ -31,7 +18,7 @@
 | Nov 24 | AMC | WDAY | Workday, Inc. | $2.74 |
 | Nov 25 | BMO | DE | Deere & Company | $4.01 |
 
-## Later (Nov 30+)
+## Next Week (Nov 30–Dec 06)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Dec 01 | BMO | CPRT | Copart | $0.40 |
@@ -44,6 +31,10 @@
 | Dec 03 | BMO | HRL | Hormel Foods | $0.37 |
 | Dec 03 | BMO | KR | Kroger | $1.16 |
 | Dec 03 | AMC | ULTA | Ulta Beauty | $5.64 |
+
+## Later (Dec 07+)
+| Date | Time | Ticker | Company | Est. EPS |
+|------|------|--------|---------|----------|
 | Dec 08 | BMO | AZO | AutoZone | $35.43 |
 | Dec 08 | AMC | SNPS | Synopsys | $4.13 |
 | Dec 09 | AMC | ADBE | Adobe Inc. | $6.33 |
@@ -65,7 +56,7 @@
 | Dec 17 | AMC | NKE | Nike, Inc. | $0.38 |
 | Dec 18 | BMO | CAG | Conagra Brands | $0.34 |
 | Dec 18 | BMO | CCL | Carnival | $0.22 |
-| Dec 18 | BMO | DRI | Darden Restaurants | $2.25 |
+| Dec 18 | BMO | DRI | Darden Restaurants | $2.26 |
 | Dec 18 | BMO | PAYX | Paychex | $1.28 |
 | Jan 07 | AMC | STZ | Constellation Brands | $2.73 |
 | Jan 12 | BMO | UNH | UnitedHealth Group | $2.28 |
@@ -155,7 +146,7 @@
 | Jan 27 | AMC | NOW | ServiceNow | $1.07 |
 | Jan 27 | BMO | NVR | NVR, Inc. | $96.40 |
 | Jan 27 | BMO | OTIS | Otis Worldwide | $1.08 |
-| Jan 27 | BMO | PGR | Progressive Corporation | $4.04 |
+| Jan 27 | BMO | PGR | Progressive Corporation | $4.05 |
 | Jan 27 | AMC | RJF | Raymond James Financial | $3.30 |
 | Jan 27 | AMC | SBUX | Starbucks | $0.75 |
 | Jan 27 | BMO | T | AT&T | $0.54 |
