@@ -1,12 +1,11 @@
 # S&P 500 Earnings Calendar
-> Last updated: Nov 26, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Nov 27, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Nov 23–Nov 29)
 | Date | Time | Ticker | Company | Est. EPS |
 |------|------|--------|---------|----------|
 | Nov 23 | AMC | A | Agilent Technologies | $1.55 |
 | Nov 23 | BMO | CRWD | CrowdStrike | $0.36 |
-| Nov 25 | BMO | DE | Deere & Company | $3.18 |
 
 ## Next Week (Nov 30–Dec 06)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -90,8 +89,8 @@
 | Jan 25 | AMC | ARE | Alexandria Real Estate Equities | $-0.02 |
 | Jan 25 | AMC | BKR | Baker Hughes | $0.65 |
 | Jan 25 | AMC | BRO | Brown & Brown | $0.89 |
-| Jan 25 | AMC | NUE | Nucor | $6.07 |
-| Jan 25 | AMC | STLD | Steel Dynamics | $5.85 |
+| Jan 25 | AMC | NUE | Nucor | $6.06 |
+| Jan 25 | AMC | STLD | Steel Dynamics | $5.82 |
 | Jan 25 | AMC | WRB | W. R. Berkley Corporation | $1.21 |
 | Jan 26 | BMO | BA | Boeing | $-0.75 |
 | Jan 26 | AMC | BXP | BXP, Inc. | $0.58 |
@@ -124,7 +123,7 @@
 | Jan 27 | AMC | FICO | Fair Isaac | $9.59 |
 | Jan 27 | BMO | GD | General Dynamics | $4.57 |
 | Jan 27 | BMO | GEV | GE Vernova | $6.95 |
-| Jan 27 | BMO | GM | General Motors | $2.49 |
+| Jan 27 | BMO | GM | General Motors | $2.50 |
 | Jan 27 | AMC | IBM | IBM | $4.63 |
 | Jan 27 | AMC | KMI | Kinder Morgan | $0.38 |
 | Jan 27 | AMC | LRCX | Lam Research | $2.35 |
@@ -191,7 +190,7 @@
 | Jan 29 | BMO | LYB | LyondellBasell | $1.58 |
 | Jan 29 | BMO | XOM | ExxonMobil | $4.09 |
 | Feb 01 | BMO | APTV | Aptiv | $1.49 |
-| Feb 01 | BMO | DIS | Walt Disney Company (The) | $2.07 |
+| Feb 01 | BMO | DIS | Walt Disney Company (The) | $2.06 |
 | Feb 01 | AMC | DOC | Healthpeak Properties | $0.02 |
 | Feb 01 | AMC | DVA | DaVita | $4.13 |
 | Feb 01 | BMO | IDXX | Idexx Laboratories | $3.31 |
@@ -308,7 +307,7 @@
 | Feb 04 | BMO | TPR | Tapestry, Inc. | $3.07 |
 | Feb 04 | AMC | VRSN | Verisign | $2.43 |
 | Feb 04 | BMO | WTW | Willis Towers Watson | $9.17 |
-| Feb 04 | BMO | XEL | Xcel Energy | $0.83 |
+| Feb 04 | BMO | XEL | Xcel Energy | $0.82 |
 | Feb 05 | BMO | BIIB | Biogen | $2.76 |
 | Feb 05 | BMO | CBOE | Cboe Global Markets | $3.61 |
 | Feb 08 | AMC | ACGL | Arch Capital Group | $2.55 |
@@ -358,7 +357,7 @@
 | Feb 10 | BMO | GNRC | Generac | $2.63 |
 | Feb 10 | BMO | HLT | Hilton Worldwide | $2.39 |
 | Feb 10 | AMC | HOOD | Robinhood Markets | $0.65 |
-| Feb 10 | BMO | HUM | Humana | $-7.58 |
+| Feb 10 | BMO | HUM | Humana | $-7.59 |
 | Feb 10 | AMC | IFF | International Flavors & Fragrances | $0.64 |
 | Feb 10 | BMO | KHC | Kraft Heinz | $0.44 |
 | Feb 10 | AMC | MET | MetLife | $2.64 |
@@ -381,6 +380,7 @@
 | Feb 11 | BMO | CBRE | CBRE Group | $2.63 |
 | Feb 11 | AMC | COIN | Coinbase | $-0.09 |
 | Feb 11 | BMO | DDOG | Datadog | $0.69 |
+| Feb 11 | BMO | DE | Deere & Company | $2.92 |
 | Feb 11 | AMC | DLR | Digital Realty | $0.43 |
 | Feb 11 | AMC | DXCM | Dexcom | $0.72 |
 | Feb 11 | AMC | EQR | Equity Residential | $0.37 |
@@ -389,7 +389,7 @@
 | Feb 11 | BMO | EXC | Exelon | $0.71 |
 | Feb 11 | AMC | EXPE | Expedia Group | $4.30 |
 | Feb 11 | BMO | FRT | Federal Realty Investment Trust | $0.75 |
-| Feb 11 | BMO | IQV | IQVIA | $3.58 |
+| Feb 11 | BMO | IQV | IQVIA | $3.57 |
 | Feb 11 | AMC | IR | Ingersoll Rand | $1.01 |
 | Feb 11 | BMO | IRM | Iron Mountain | $0.69 |
 | Feb 11 | BMO | KIM | Kimco Realty | $0.21 |
@@ -470,8 +470,8 @@
 | Feb 23 | AMC | MOS | Mosaic Company (The) | $-0.18 |
 | Feb 23 | AMC | O | Realty Income | $0.43 |
 | Feb 23 | AMC | WDAY | Workday, Inc. | $2.94 |
-| Feb 25 | AMC | ADSK | Autodesk | $3.23 |
-| Feb 25 | AMC | DELL | Dell Technologies | $8.52 |
+| Feb 25 | AMC | ADSK | Autodesk | $3.24 |
+| Feb 25 | AMC | DELL | Dell Technologies | $8.58 |
 | Feb 25 | BMO | SJM | J.M. Smucker Company (The) | $2.31 |
 | Mar 02 | BMO | BBY | Best Buy | $2.64 |
 | Mar 02 | AMC | HPE | Hewlett Packard Enterprise | $1.36 |
