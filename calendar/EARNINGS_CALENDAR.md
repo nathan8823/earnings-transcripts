@@ -1,5 +1,5 @@
 # S&P 500 Earnings Calendar
-> Last updated: Nov 27, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
+> Last updated: Nov 28, 2026 &middot; Source: Yahoo Finance &middot; Auto-updated daily
 
 ## This Week (Nov 23–Nov 29)
 | Date | Time | Ticker | Company | Est. EPS |
@@ -87,7 +87,7 @@
 | Jan 22 | BMO | RF | Regions Financial Corporation | $0.69 |
 | Jan 22 | BMO | SLB | Schlumberger | $0.74 |
 | Jan 25 | AMC | ARE | Alexandria Real Estate Equities | $-0.02 |
-| Jan 25 | AMC | BKR | Baker Hughes | $0.65 |
+| Jan 25 | AMC | BKR | Baker Hughes | $0.66 |
 | Jan 25 | AMC | BRO | Brown & Brown | $0.89 |
 | Jan 25 | AMC | NUE | Nucor | $6.06 |
 | Jan 25 | AMC | STLD | Steel Dynamics | $5.82 |
@@ -163,13 +163,13 @@
 | Jan 28 | AMC | KLAC | KLA Corporation | $1.45 |
 | Jan 28 | BMO | LHX | L3Harris | $3.18 |
 | Jan 28 | BMO | MA | Mastercard | $5.12 |
-| Jan 28 | BMO | MO | Altria | $1.39 |
+| Jan 28 | BMO | MO | Altria | $1.38 |
 | Jan 28 | BMO | MRSH | Marsh McLennan | $2.22 |
 | Jan 28 | BMO | NDAQ | Nasdaq, Inc. | $1.07 |
 | Jan 28 | BMO | NSC | Norfolk Southern | $3.28 |
 | Jan 28 | BMO | PH | Parker Hannifin | $8.87 |
 | Jan 28 | BMO | PHM | PulteGroup | $2.51 |
-| Jan 28 | BMO | REGN | Regeneron Pharmaceuticals | $25.81 |
+| Jan 28 | BMO | REGN | Regeneron Pharmaceuticals | $25.82 |
 | Jan 28 | AMC | RMD | ResMed | $2.99 |
 | Jan 28 | AMC | SYK | Stryker Corporation | $5.02 |
 | Jan 28 | BMO | TMO | Thermo Fisher Scientific | $7.12 |
@@ -246,7 +246,7 @@
 | Feb 03 | AMC | CCI | Crown Castle | $0.70 |
 | Feb 03 | BMO | CDW | CDW Corporation | $2.86 |
 | Feb 03 | BMO | CME | CME Group | $3.03 |
-| Feb 03 | BMO | COR | Cencora | $4.55 |
+| Feb 03 | BMO | COR | Cencora | $4.60 |
 | Feb 03 | AMC | CPAY | Corpay | $7.68 |
 | Feb 03 | BMO | CTSH | Cognizant | $1.51 |
 | Feb 03 | BMO | EFX | Equifax | $2.12 |
@@ -380,7 +380,7 @@
 | Feb 11 | BMO | CBRE | CBRE Group | $2.63 |
 | Feb 11 | AMC | COIN | Coinbase | $-0.09 |
 | Feb 11 | BMO | DDOG | Datadog | $0.69 |
-| Feb 11 | BMO | DE | Deere & Company | $2.92 |
+| Feb 11 | BMO | DE | Deere & Company | $2.94 |
 | Feb 11 | AMC | DLR | Digital Realty | $0.43 |
 | Feb 11 | AMC | DXCM | Dexcom | $0.72 |
 | Feb 11 | AMC | EQR | Equity Residential | $0.37 |
@@ -472,7 +472,7 @@
 | Feb 23 | AMC | WDAY | Workday, Inc. | $2.94 |
 | Feb 25 | AMC | ADSK | Autodesk | $3.24 |
 | Feb 25 | AMC | DELL | Dell Technologies | $8.58 |
-| Feb 25 | BMO | SJM | J.M. Smucker Company (The) | $2.31 |
+| Feb 25 | BMO | SJM | J.M. Smucker Company (The) | $2.29 |
 | Mar 02 | BMO | BBY | Best Buy | $2.64 |
 | Mar 02 | AMC | HPE | Hewlett Packard Enterprise | $1.36 |
 | Mar 15 | BMO | DLTR | Dollar Tree | $2.59 |
